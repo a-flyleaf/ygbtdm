@@ -1,6 +1,24 @@
 ---
 layout: 1
 ---
-[Lorem ipsum](https://lipsum.com/) dolor sit amet, consectetur adipiscing elit. Aenean vel leo massa. In molestie augue vel felis varius cursus. Nullam aliquam erat ante, in vestibulum arcu congue at. Nam cursus turpis sit amet turpis porttitor, nec dapibus tortor dapibus. Ut enim metus, porttitor nec dignissim et, sodales sit amet justo. Vivamus in sollicitudin orci. Morbi vel dui porta, pulvinar lectus ut, pellentesque nulla. Duis finibus, justo non consequat luctus, neque ex maximus est, laoreet fringilla ante felis et mi. Integer dictum ut ligula vestibulum bibendum. Proin sodales libero ac lectus pulvinar, in tristique turpis porta. Cras lacinia, lacus a sollicitudin tempus, enim urna ultrices massa, in vehicula purus justo et orci.
+{%include img.html
+	pos="right"
+	url="test.png"
+%}
+
+[Lorem ipsum](https://lipsum.com/) dolor sit amet, consectetur adipiscing elit. Aenean vel leo massa. In molestie augue vel felis varius cursus. Nullam aliquam erat ante, in vestibulum arcu congue at. Nam cursus turpis sit amet turpis porttitor, nec dapibus tortor dapibus. Ut enim metus, porttitor nec dignissim et, sodales sit amet justo. Vivamus in sollicitudin orci.
+
+{%include img.html
+	pos="left"
+	url="test.png"
+%}
+
+Morbi vel dui porta, pulvinar lectus ut, pellentesque nulla. Duis finibus, justo non consequat luctus, neque ex maximus est, laoreet fringilla ante felis et mi. Integer dictum ut ligula vestibulum bibendum. Proin sodales libero ac lectus pulvinar, in tristique turpis porta. Cras lacinia, lacus a sollicitudin tempus, enim urna ultrices massa, in vehicula purus justo et orci.
+
+{%include img.html
+	pos="center"
+	url="test.png"
+	alt="test"
+%}
 
 Vestibulum accumsan sit amet leo a cursus. Donec ornare eget lectus euismod gravida. Nunc risus urna, sagittis et convallis in, ultrices sed ex. Sed lectus justo, convallis quis odio non, consectetur ullamcorper enim. Nulla eu metus at arcu scelerisque faucibus at vel massa. Vivamus varius semper urna. Pellentesque ornare viverra purus accumsan lobortis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.

@@ -1,0 +1,4 @@
+<figure{%if include.pos%} class="{{include.pos}}"{%endif%}>
+	<img src="{%include url.html%}/img/{{include.url}}" alt="{%if include.alt%}{{include.alt}}{%endif%}"/>{%if include.caption%}
+	<figcaption>{{include.caption}}</figcaption>{%endif%}
+</figure>
