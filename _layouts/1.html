@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>{{site.name}}{%if page.title%} - {{page.title}}{%endif%}</title>
+		<link rel="stylesheet" type="text/css" href="{{site.url}}/css.css"/>
+	</head>
+	
+	<body>
+		<header>
+			<a href="{{site.url}}/css.css"><h2>{{site.name}}</h2></a>
+			<nav><ul>
+				<a href="{{site.url}}/synopsis"><li>synopsis</li></a>
+				<a href="{{site.url}}/cast"><li>cast</li></a>
+				<a href="{{site.url}}/part"><li>by part</li></a>
+			</ul></nav>
+		</header>
+		
+		<main>
+			<h1>{{page.title}}</h1>
+			{{content}}
+		</main>
+		
+		<!--<footer></footer> not really necessary?-->
+	</body>
+</html>
