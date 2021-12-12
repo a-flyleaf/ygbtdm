@@ -111,8 +111,17 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 - Setting Angery but everyone lives, Joce lauded
 - celebratory campfire, WR leaves, Seq+WR friends
 - KL seems off, recalls walk left behind rabbit-story
-- 
+- Joce overhears KL approaching WR, "Emery?"
 
 ## 11
+- Kay Lin tries to get through to Em, Em's like "nah"
+- Joce gets Em's story: KL's idea, more later
+- Seq finds KL upset, KL invites them to "help"
+- Em@J: they do be gone tho
+- pursuit, Em and Joce work together better
+- KL asks Seq to kill her, they're like "nah"
+- Compromising Position, Em+Seq J+KL
+- rabbit attack, Joce stops, Em cues cave-in
 
 ## 12
+- 
