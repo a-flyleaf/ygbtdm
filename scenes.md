@@ -17,6 +17,7 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 	- brief linger: WR rises
 - there is no "we" but then rabbit
 - game over
+	- Joce now has w-necrosis "ring"
 - KL knows, Joce is stuck now
 - post-credits/bonus: WR joins the alliance
 	- Addison outfit change, maybe pendant?
@@ -59,8 +60,9 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 	- "someone's looking out for you ;)"
 - KL bruised, Joce tries to warn Gary
 - Joce confesess to G+D, instant regret
-- [ok this part's fuzzy but it's still the gist]
 - KL resists leaving, Gary sends them off
+
+\[ok this part's fuzzy but it's still the gist, conflict either needs to be toned down (is artificial) or amped up (make it important). too much Things Happening not enough *drive* or *consequence*]
 
 ## 6
 - J/KL condescending, savior complex, sus, why me
@@ -85,6 +87,7 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 - x3, accountant blackmails
 	- mostly threatens Joce but has pendant
 - zombie!Gary attacks, Joce OUT
+	- hint: being stuck here changes you
 
 ## 8
 - open: Kay Lin wakes up, bound by accountant
@@ -103,17 +106,14 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 - Kay Lin unsure, but thinks something's different
 - Joce promises to get her out, gives pendant
 - Joce reports back to WR
-- WR invites Joce out for rabbit-fighting
-- team feels good--but next challenge is tug-o-war
-
-## 10
-- Joce vs WR, Joce demands stop, WR finally drops
+- WR invites Joce out for rabbit-fighting, is fun
+- tug-o-war: JvsWR, Joce demands stop, WR drops
 - Setting Angery but everyone lives, Joce lauded
 - celebratory campfire, WR leaves, Seq+WR friends
 - KL seems off, recalls walk left behind rabbit-story
 - Joce overhears KL approaching WR, "Emery?"
 
-## 11
+## 10
 - Kay Lin tries to get through to Em, Em's like "nah"
 - Joce gets Em's story: KL's idea, more later
 - Seq finds KL upset, KL invites them to "help"
@@ -123,5 +123,28 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 - Compromising Position, Em+Seq J+KL
 - rabbit attack, Joce stops, Em cues cave-in
 
+## 11
+- Em targeting KL, says KL manipulated Joce
+- Joce stuck underground; help party, but no
+- accountant still down here, interrogation walk
+	- hint: winners see the same "game over"
+- Addison encounter, Joce accidentally turns her
+	- hint: if you stay after death you go feral
+- Em intervenes, "I'm here to save you"
+- Joce saves Em's life despite attack, escapes
+	- "Do you think you're a fucking hero?"
+- KL waiting, demands kill or she wrecks everything
+- Joce "hugs"/removes weapon, "I'm sorry," bye
+- game over again, Joce slams quit
+
 ## 12
-- 
+- Joce wakes up, could leave but doesn't
+- confirmation: not quitting = transformation
+- overhears KL's breakdown, something is wrong
+- un-fucks the ichor thing
+- KL wakes up alone, "Thank you" anyway
+- Joce leaves. Pause.
+- in-game, Seq+Em "You think I'll make it?"
+- Joce+neighbor letter talk
+- letter and montage, gettin better
+- letter dissolves at the end, *fin.*
