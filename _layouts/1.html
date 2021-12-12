@@ -6,16 +6,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<title>{{site.name}}{%if page.title%} - {{page.title}}{%endif%}</title>
-		<link rel="stylesheet" type="text/css" href="{{site.url}}/css.css"/>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/1.css"/>
 	</head>
 	
 	<body>
 		<header>
-			<a href="{{site.url}}/css.css"><h2>{{site.name}}</h2></a>
+			<a href="{%include url.html%}/css.css"><h2>{{site.name}}</h2></a>
 			<nav><ul>
-				<a href="{{site.url}}/synopsis"><li>synopsis</li></a>
-				<a href="{{site.url}}/cast"><li>cast</li></a>
-				<a href="{{site.url}}/part"><li>by part</li></a>
+				<a href="{%include url.html%}/synopsis"><li>synopsis</li></a>
+				<a href="{%include url.html%}/cast"><li>cast</li></a>
+				<a href="{%include url.html%}/part"><li>by part</li></a>
 			</ul></nav>
 		</header>
 		
