@@ -12,7 +12,7 @@ When twitchy survivalist-wannabe Joce wakes up in a competition where only the w
 
 ## by part
 tentatively titling the first part "relapse" and the last "you can't save her," no idea for the rest
-1. Players wake up in an underground tunnel system and are introduced to the game; many have entered, one will win, and the winner can go home. Meanwhile in the real world, Joce's life was rote and isolated. Here, though she ignores a player trying to rally the crowd, Joce takes pity on a small person who also gets targeted. The underground starts to flood, cueing the first challenge; the small person, Kay Lin, u-turns in the middle of the challenge to help Joce up
+1. /
 1. /
 1. /
 1. /

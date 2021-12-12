@@ -21,3 +21,4 @@ figure{display:inline-block; margin:.75em 0;}
 .right{float:right; padding-left:1em;}
 
 main ul,main ol{margin:.75em 0 0 1em;}
+li>ul{margin:0 0 0 1em;}
