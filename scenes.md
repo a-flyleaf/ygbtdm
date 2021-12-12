@@ -59,17 +59,59 @@ a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 	- "someone's looking out for you ;)"
 - KL bruised, Joce tries to warn Gary
 - Joce confesess to G+D, instant regret
-- KL resists but Gary sees them off
+- [ok this part's fuzzy but it's still the gist]
+- KL resists leaving, Gary sends them off
 
 ## 6
+- J/KL condescending, savior complex, sus, why me
+- rabbit fight, "here's to being fucked up," all is well
+- Joce sneaks out to toss letter, hesitates; hi Gary
+- letter is not what she thought it was
+- rabbit attack, Gary killed along with
+- KL silently holds Joce's hand
 
 ## 7
+- flashbacks between this and next ep:
+	- Joce met Sal young, both deeply cynical
+	- kept meeting through high school, moved in
+	- commiserated daily, surprise proposal
+	- life grew dull, Sal brought lovers home
+	- Joce doctor appointment = locked out
+	- nearly killed herself, stopped by new movie
+	- wanted to be a hero where no one was for her
+- meanwhile injury + BSOD = Joce unresponsive
+- Kay Lin meets Sequitur x2, gets high
+- interim framed in cheating parallel
+- x3, accountant blackmails
+	- mostly threatens Joce but has pendant
+- zombie!Gary attacks, Joce OUT
 
 ## 8
+- open: Kay Lin wakes up, bound by accountant
+- Joce finds Seq, apologizes; they don't care
+- KL won before, Joce overhears
+- Joce sets off trap, *then* KL talks
+- confession: first game with gf, pendant was hers
+- Joce reminds Kay Lin of gf, didn't want to be alone
+- accountant shanks KL, Joce breaks out
+- being a hero sucks actually
+- alliance run-in, hands KL over; Joce breaks down
 
 ## 9
+- open: Kay Lin wakes up, Joce is there
+- KL+Em were gonna stay, but Em killed herself
+- Kay Lin unsure, but thinks something's different
+- Joce promises to get her out, gives pendant
+- Joce reports back to WR
+- WR invites Joce out for rabbit-fighting
+- team feels good--but next challenge is tug-o-war
 
 ## 10
+- Joce vs WR, Joce demands stop, WR finally drops
+- Setting Angery but everyone lives, Joce lauded
+- celebratory campfire, WR leaves, Seq+WR friends
+- KL seems off, recalls walk left behind rabbit-story
+- 
 
 ## 11
 
