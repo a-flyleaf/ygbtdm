@@ -7,15 +7,17 @@ img{max-width:100%; height:auto;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
 header ul{margin-left:-.25rem;} header li{display:inline; font-size:.85em; text-transform:uppercase; margin:0 .25rem; letter-spacing:.05em;}
-#parts{display:block; font-size:.5em; letter-spacing:.1em;} #parts a{padding:0 .25em;} #parts a:hover,#parts a:active,#parts a:focus{font-weight:bold;}
+#parts{display:block; font-size:.5em; letter-spacing:.1em;} #parts a{padding:0 .25em;} #parts a:hover,#parts a:active,#parts a:focus{font-weight:bold;} #parts a:first-of-type{padding:0;}
 
 h1{font-size:2em; font-weight:normal; margin-top:1rem;}
 main h2{font-size:1.15em; margin-top:2rem;} h1+h2{margin-top:1rem;}
 h2~p,h3~p{margin-top:.25em;}
 h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 
-figure{display:inline-block;}
+figure{display:inline-block; margin:.75em 0;}
 .center{margin:0 auto;}
 .left,.right{margin:.5em 0 0;}
 .left{float:left; padding-right:1em;}
 .right{float:right; padding-left:1em;}
+
+main ul,main ol{margin:.75em 0 0 1em;}
