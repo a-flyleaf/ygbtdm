@@ -10,25 +10,32 @@ In order of introduction, more or less. Select to read <span class="spoiler">spo
 > 
 > <b>recurring</b>: ["the fallen"](#the-fallen) · [Joce's jousemates](#joces-housemates) · ["Wolf"](#wolf) · [Salvador Skoal Flores](#salvador-skoal-flores) · [[unnamed medic]](#unnamed-medic)
 
-## main eight
-
-### Joce
+## Joce
+6\'1\", 24 (nearly 25).
 - just wants to live/survive (in a world where she is implicitly not supposed to do that, on a semi-figurative level)
 - lonely as fuck
+- I don't actually know what else to write here, story should speak for itself :Vc main color? other Identifying Details, design changes, stuff that wouldn't make it to notes?? idk ART.
 
-### Kay Lin
+## Kay Lin
+4\'3\", early 20s (but looks much younger).
 
-### Addison
+## Addison
+5\'5\", 20-ish.
 
-### Caleb
+## Caleb
+4\'0\", apparently 18 or older.
 
-### Gary
+## Gary
+5\'7.5\", 19.
 
-### "The accountant"
+## "The accountant"
+\>6\'6\", 30s.
 
-### Sequitur
+## Sequitur
+6\'1\" (but often slouching), 20s.
 
-### "White Rabbit"
+## "White Rabbit"
+5\'11\", 20s.
 
 ## other recurring
 
