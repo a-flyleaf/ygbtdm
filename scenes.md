@@ -60,6 +60,8 @@ The Beacon summons players back with an ear-splitting alarm and a minor earthqua
 ### also of note
 - Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
 - Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be explicitly confirmed later (if it hasn't been already), but basically: the landscape loops, like a small warped globe.
+- Joce has thought Addison is full of shit from day one, but here she calls Addison on both talking as though Kay Lin isn't standing right there and, later, abandoning her crew to fight for themselves. This definitely gets under Addison's skin, though it remains unclear how much of her later upset is from Joce's words vs the reputational hit.
+- Kay Lin takes a background role in this installment, but is among the majority who finds Caleb's outburst at the end more annoying than sympatheitc.
 
 ## 3
 Thanks to Caleb it takes some fumbling for everyone to get the hang of what they're supposed to be doing, but for summary's sake: In the second challegne, players are divided into smaller groups of ~5, one of whom is a designated outlier. Going solely based on talk and one clue, non-outliers have to determine and vote out the oddity; the oddity simply has to be the last of two standing. The winner(s) advance to the next physical level for a prize at the peak; losers don't have to die this time.
@@ -78,20 +80,29 @@ Lingering at base, Caleb is still trying to convince people Joce is evil incarna
 At the house, Joce encourages Kay Lin to go socialize/see if anyone's on to them, while Joce investigates the place solo. Much of it is eerily empty, but at one point she gets overambitious, falls, and reaggravates the sprain. Kay Lin finds her, reports that no one cares, and tries to get close, spiking Joce's paranoia. The accountant interrupts to announce drinks are being served, with the unspoken implication attendance is mandatory.
 
 ### also of note
+- Caleb is wearing Addison's necklace now.
 - The fifth person in the first challenge-game, referred to in the cast as "[nameless]({%include url.html%}/cast#nameless)," looks vaguely similar to Kay Lin. Background people aren't generally visually defined, so the similarity could just come down to having long straight hair or something. They're not related. But it's intentional.
 - There's probably some kind of character dynamic echo in the others from the second game, too. Haven't defined that yet.
 - Yeah, I need to figure out the house layout and exactly what Joce gets tripped up by here.
 - Did I mention this part hasn't been super fleshed-out yet?
 
 ## 4
-- Caleb faux-pology, antagonizes KL until outburst
-	- Caleb now has pendant
-	- "She is NOT my--!"
-- Joce bad memory slurry
-- outside agitaiton, Joce snaps, Caleb sees
-- Joce tries to leave, Caleb pursues
-- Caleb demands apology, gets stabby; KL kills him
-- KL has no sense of personal space
+At a table in the corner, Joce and Kay Lin are joined by Caleb, who offers a self-pitying apology to Joce and claims he was kicked out (or walked out, it's unclear) of the alliance now that Wolf's in charge. Caleb then tries to make small talk, which increasingly irritates Kay Lin; when he teases her directly, she has an outburst and spills her drink on Joce. Joce gets up and leaves.
+
+The air reeks of other peoples' giddy stupors, and Joce starts drowning in a slurry of uncomfortable intimacy and overflowing bottles. Even outside is hazier than usual; Kay Lin finds Joce pacing, agitated. Joce tells Kay Lin to go away but Kay Lin keeps trying to reach out; when Kay Lin makes physical contact Joce jerks back on instinct, knocking her over. Joce notices Caleb watching from the window, panics, and flees the scene.
+
+Joce tries to tell herself separation was inevitable and she's cutting her losses; she gets lost in the smog fast. Someone sets off blasts nearby, chasing her down. Caleb corners Joce and demands an apology, not for Kay Lin but for Addison, and then *maybe* he'll defend her when everyone else finds out; Joce refuses.
+
+Caleb is about to stab her when *he* gets jabbed in the neck instead. Kay Lin stands behind him as his body falls, spasms, and melts through the cracks in the ground; she then gets uncomfortably close to Joce, gesturing to her own neck and saying how quickly a neck wound can kill. Joce can't move.
+
+### also of note
+- At the table as they sit down, Joce tells Kay Lin not to take a sip. Kay Lin agrees, as drinking "makes \[her] all red and fucked-up." It's implied she took a swig between getting shoved and when she appears again at the end of the installment.
+- The outburst bit is like: Kay Lin makes a snarky comment → Joce, who's 
+mostly trying to block Caleb out, tells her to lay off → Caleb: "Yeah, 
+why are you being so *mean* to me, Kayla? You should listen to your *girlfriend*~" KL: "She is NOT my—!"
+	- It's a stock gag, I know. The intention is that Kay Lin is more infuriated, like Caleb just killed her dog, than embarrassed—though the latter sets in when Joce gets up anyway.
+- When Caleb falls, his clothes dissolve with him. Minor detail: the pendant is not included, as Kay Lin breaks the necklace chain when she slices his neck. She glances down briefly before approaching Joce.
+- Kay Lin is usually fairly expressive. For that last part, she's blank.
 
 ## 5
 - fuzzy: Joce FPS, KL suspiciously normal
