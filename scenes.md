@@ -30,7 +30,7 @@ Joce wakes to find the rabbit has been dispatched and is half-melted through the
 As the sky darkens, Joce decides to keep Kay Lin around; that familiarity makes her simultaneously a valuable ally and a dangerous enemy. And on the basest level, Joce still feels the need to keep her safe—even though, if the game is whittling down the competition down to one, it can't last. Is she being played for a fool? If it means sticking to her guns, does she care?
 
 ### also of note
-- In the background of the challenge, the accountant calls refers to Gary as "Terry."
+- In the background of the challenge, there's an exchange like "Come on, Terry!" "Who?" "Gary!"
 - The first person to fall is distinguished by some kind of necklace. The same accessory is strangling the rabbit.
 - Minor detail: after Joce wakes up from the "game over," she has a small ring of white-rot around the base of one finger. But since she wears gloves (and has all sorts of miscellaneous hand scratches), it's barely noticeable.
 - Full disclaimer, I do not know how the little guys trigger the rock-blast-thing yet. But they do. They have their ways.
@@ -58,19 +58,30 @@ That night Addison ventures underground, seemingly in hopes of finding something
 The Beacon summons players back with an ear-splitting alarm and a minor earthquake. Joce notices Caleb is alone; when the instructions begin, he cries louder, announcing that Addison is dead.
 
 ### also of note
-- Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy.
+- Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
 - Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be explicitly confirmed later (if it hasn't been already), but basically: the landscape loops, like a small warped globe.
 
 ## 3
-- amogus1: J+KL+C+Wolf+nameless
-	- round1: Caleb targets Joce, KL turns on him; Caleb out, innocent
-	- round2: Wolf targets Joce, KL diverts; nameless out, sus
-- interim: Wolf intimidating, KL@J why no scapegoat
-- amogus2: J+D+???, inadvertent team-up, easy win
-- amogus3: Joce sus, folds
-- Caleb still accusing, Gary invitation
-- J @KL "go socialize," beach house not lived in
-- Joce falls, KL reports, D calls dinner; all very sus
+Thanks to Caleb it takes some fumbling for everyone to get the hang of what they're supposed to be doing, but for summary's sake: In the second challegne, players are divided into smaller groups of ~5, one of whom is a designated outlier. Going solely based on talk and one clue, non-outliers have to determine and vote out the oddity; the oddity simply has to be the last of two standing. The winner(s) advance to the next physical level for a prize at the peak; losers don't have to die this time.
+
+Game one, round one: Joce and Kay Lin are grouped with Caleb, Wolf, and a fifth. Caleb accuses Joce of basically-murder for throwing Addison off yesterday; Kay Lin points out that's irrelevant to the challenge, turns the ever-aggressive Wolf on him, and thus Caleb is unanimously voted out. (Not the outlier.)  
+Round two: Joce is called out for not saying much, tries to question Wolf, and regrets it immediately; Kay Lin interjects and swings the spotlight over to the fifth, who tries to defend but slips up. They're the outlier, game over.
+
+Between challenge-games, Kay Lin asks Joce why Joce didn't scapegoat her. Joce can't answer before the next round begins.
+
+Game two: Joce is grouped with the person who was teaming up with Gary during the challenge. (This person hasn't given a name yet, but for summary's sake I'll prematurely use what she *will* call herself: "the accountant.") They inadvertently team up, Joce following the accountant's lead, as they're both innocent and the accountant has a very sharp memory. Despite the easy victory, Joce is unsettled.
+
+Game three: Joce is the outlier. She quickly determines she cannot lie for shit and folds.
+
+Lingering at base, Caleb is still trying to convince people Joce is evil incarnate. Gary steps up to invite anyone who wants a break from the drama to join him at his place; only house rule is *no murder*. Unwilling to face the alliance's scrutiny, Joce joins them (and Kay Lin, as always, tags along).
+
+At the house, Joce encourages Kay Lin to go socialize/see if anyone's on to them, while Joce investigates the place solo. Much of it is eerily empty, but at one point she gets overambitious, falls, and reaggravates the sprain. Kay Lin finds her, reports that no one cares, and tries to get close, spiking Joce's paranoia. The accountant interrupts to announce drinks are being served, with the unspoken implication attendance is mandatory.
+
+### also of note
+- The fifth person in the first challenge-game, referred to in the cast as "[nameless]({%include url.html%}/cast#nameless)," looks vaguely similar to Kay Lin. Background people aren't generally visually defined, so the similarity could just come down to having long straight hair or something. They're not related. But it's intentional.
+- There's probably some kind of character dynamic echo in the others from the second game, too. Haven't defined that yet.
+- Yeah, I need to figure out the house layout and exactly what Joce gets tripped up by here.
+- Did I mention this part hasn't been super fleshed-out yet?
 
 ## 4
 - Caleb faux-pology, antagonizes KL until outburst
