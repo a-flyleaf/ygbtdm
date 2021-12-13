@@ -10,40 +10,66 @@ In order of introduction, more or less. Select to read <span class="spoiler">spo
 > 
 > <b>recurring</b>: ["the fallen"](#the-fallen) · [Joce's jousemates](#joces-housemates) · ["Wolf"](#wolf) · [Salvador Skoal Flores](#salvador-skoal-flores) · [[unnamed medic]](#unnamed-medic)
 
+I'm hoping the characterizations speak for themselves, so I'm noting things that wouldn't be noticeable from the synopses, core motivations, and where they end up.
+
 ## Joce
 6\'1\", 24 (nearly 25).
-- Twitchy. Idolizes the gritty action movie hero of a B-list franchise. Speaks quickly, often stutters.
+- Twitchy. Speaks quickly, often stutters. Mildly to severely disheveled.
 - Dull yellow (looks green), later warm brown.
 - Has constant background thoughts of impending disaster. Not as stoic as she tries to be.
 - Just wants to live. If she can be a decent person while she's at it, even better.
+- Endgame: <span class="spoiler">Commits metaphorical suicide to escape an otherwise-inescapable spiral. Stays true to her vow but avoids further personal entanglement.</span>
 
 ## Kay Lin
 4\'3\", early 20s (but looks much younger).
-- More lively than initial impressions suggest. A bit of a tease. Concerningly attached.
+- More lively than initial impressions suggest. A bit of a tease. Rarely far away.
 - Purple, saturation varies; occasionally shown with yellow/gold irises (debatably diegetic).
-- All too familiar with this place. <span class="spoiler">Just wants to get out, and has a new idea about how.</span>
+- All too familiar with this place. More obvious about some things than she wants to be.
+- <span class="spoiler">Wants to self-destruct, basically; barring that, craves purpose and/or company.</span>
+- Endgame: <span class="spoiler">Is denied all of the above, and left to move on without. Since this follows a harsh wake-up call, it's a welcome change.</span>
 
 ## Addison
 5\'5\", 20-ish.
 - Smiles through gritted teeth. Poise is performative. More expressive when agitated.
 - Orange, usually bright; yellow-green accents.
-- Wants to make a name for herself. For good reasons, obviously.
+- Wants to make a name for herself. For grandiose reasons, obviously.
+- Endgame: <span class="spoiler">"Killed" by her own foolhardiness and trapped rotting in indecision. Later provoked into staying; killed by the rabbit she promoted.</span>
 
 ## Caleb
 4\'0\", apparently 18 or older.
-- Timid, . Has many issues, let him show you them.
+- Constantly anxious. Often nervous, sometimes righteously furious. Concerningly attached.
+- Pink, the more pastel the better.
+- Wants to get stronger. <span class="spoiler">The real arrogance was inside him all along.</span>
+- Endgame: <span class="spoiler">Finally overpowers someone bigger and tougher than him; murdered by the second-most underestimated player. Accepts death and fades.</span>
 
 ## Gary
 5\'7.5\", 19.
+- Gregarious, loud, has some kinda American accent. Grand gestures, simple motives.
+- Deep reddish-brown. Complete heterochromia.
+- Wants to have a good time--and make sure his pals are having one, too.
+- Endgame: <span class="spoiler">Encourages the reading of a very bad letter; attacked by rabbits and "killed" by a cave-in. Left semi-lucid and pleads for release.</span>
+
 
 ## "The accountant"
 \>6\'6\", 30s.
+- Prominent accent. Speaks quickly but distinctly. Minimal non-hand gesturing.
+- Aqua, blue-green, whatever you call the midtone.
+- <span class="spoiler">Wants to discern why people destroy themselves. Why would anyone be so knowingly stupid?</span>
+- Endgame: <span class="spoiler">Mortally wounds Kay Lin after sentimental answers are deemed insufficient, then knocked out. Remains underground on purpose.</span>
 
 ## Sequitur
-6\'1\" (but often slouching), 20s.
+6\'1\" (but often severely slouching), 20s.
+- Suuuuuuuuper slow, tends to drag out sounds. Often sounds "stoned." Awkward motions.
+- Indigo, hypersaturated or near-gray. It's faded.
+- Doesn't really want much of anything. Isn't sure how they got here, but i's whatever, y'feel?
+- Endgame: <span class="spoiler">Passivity is nearly taken advantage of. Later declares intentions to leave, and last seen nonchalantly standing in a rabbit's maw.</span>
 
 ## "White Rabbit"
 5\'11\", 20s.
+- Silent. Often seen slinging a bat over one shoulder. Most expressive via charades.
+- Pale blue-gray-yellow.
+- <span class="spoiler">Wants to stay here forever. Dreads the consequences of leaving.</span>
+- Endgame: <span class="spoiler">Forced to admit she can't make anyone *else* stay without destroying them. Last seen threatening her last friend; <em style="text-transform:uppercase;font-style:normal;">"Don't go."</em></span>
 
 ## other recurring
 
