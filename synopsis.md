@@ -11,7 +11,7 @@ A twitchy survivalist-wannabe warily teams up with a suspiciously-carless girl i
 When twitchy survivalist-wannabe Joce wakes up in a competition where only the winner goes home, she takes pity on and hesitantly teams up with a dubiously-careless girl, Kay Lin, who seems to know too much. In the game's thrilling, destructive hellscape, the duo are forced to confront warped monsters from the shadows, the all-too-familiar frustrations of fellow players, and inevitably each other. Maybe the only way to win is not to play.
 
 ## general storyline
-In a barren, looping expanse punctuated by abstracted stone structures, streams of ambiguous liquid, and the wails of underground rabbit-monsters, Joce takes pity on fellow outcast Kay Lin. Thus begins a mutually-enabling teamup in which Joce is never quite sure if she's the protector or being strung along, as Kay Lin's own motives for staying close remain frustratingly ambiguous.
+In a barren, looping expanse punctuated by abstracted stone structures, streams of addictive liquid, and the wails of underground rabbit-monsters, Joce takes pity on fellow outcast Kay Lin. Thus begins a mutually-enabling teamup in which Joce is never quite sure if she's the protector or being strung along, as Kay Lin's own motives for staying close remain frustratingly ambiguous.
 
 **Spoilers for everything below.**
 
@@ -31,4 +31,4 @@ The narrative is bookended by letters from (at the beginning, alongside the game
 ## meta-rationale footnote
 The whole story is something of an extended character study. I care less about diegetic explanations and more about whether the events and mechanics make sense as reflections of character psyche.
 
-In-story, this means you won't have people explicitly wondering about, say, why there are hellrabbits or how anyone wound up here in the first place. That said, there's probably a few aspects that stick out unintentionally; for instance, I'm still trying to figure out how the game & challenge instruction-delivery actually works, and the exact *thing* that triggers diegetic setting-destruction.
+In-story, this means you won't have people explicitly wondering about, say, why there are hellrabbits or how anyone wound up here in the first place. That said, there's probably a few aspects that stick out unintentionally; for instance, I'm still trying to figure out how the game & challenge instructions are delivered, and I'm not 100% sure of the exact *thing* that makes the setting implode.
