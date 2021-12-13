@@ -5,7 +5,6 @@ title: scenes
 a sentence a scene keeps the text wall awayeah it really doesn't but I can try
 
 ## 1
-tentatively titled "relapse"
 - open: wake up, game intro
 - Joce flashback ft. neighbors and letters
 - Addison callout x2 combo
@@ -125,7 +124,6 @@ tentatively titled "relapse"
 - rabbit attack, Joce stops, Em cues cave-in
 
 ## 11
-tentatively titled "You can't save her"
 - Em targeting KL, says KL manipulated Joce
 - Joce stuck underground; help party, but no
 - accountant still down here, interrogation walk
@@ -140,7 +138,6 @@ tentatively titled "You can't save her"
 - game over again, Joce slams quit
 
 ## 12
-tentatively titled "I miss you"
 - Joce wakes up, could leave but doesn't
 - confirmation: not quitting = transformation
 - overhears KL's breakdown, something is wrong
