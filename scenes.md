@@ -98,16 +98,37 @@ Caleb is about to stab her when *he* gets jabbed in the neck instead. Kay Lin st
 ### also of note
 - At the table as they sit down, Joce tells Kay Lin not to take a sip. Kay Lin agrees, as drinking "makes \[her] all red and fucked-up." It's implied she took a swig between getting shoved and when she appears again at the end of the installment.
 - The outburst bit is like: Kay Lin makes a snarky comment → Joce, who's 
-mostly trying to block Caleb out, tells her to lay off → Caleb: "Yeah, 
+mostly trying to block Caleb out, tells KL to lay off → Caleb: "Yeah, 
 why are you being so *mean* to me, Kayla? You should listen to your *girlfriend*~" KL: "She is NOT my—!"
 	- It's a stock gag, I know. The intention is that Kay Lin is more infuriated, like Caleb just killed her dog, than embarrassed—though the latter sets in when Joce gets up anyway.
 - When Caleb falls, his clothes dissolve with him. Minor detail: the pendant is not included, as Kay Lin breaks the necklace chain when she slices his neck. She glances down briefly before approaching Joce.
 - Kay Lin is usually fairly expressive. For that last part, she's blank.
 
 ## 5
-- fuzzy: Joce FPS, KL suspiciously normal
-- Joce shoves past KL, claims victory
-- Joce ignores prize, Gary invites her back
+The first part of this installment flickers between the third challenge and brief snippets of the events between last installment and now. For ease of summarizing I'll just go chronologically:
+
+After being frozen in that position for what felt like forever, the Beacon summons went off, and Kay Lin stepped back as if nothing had ever happened. There was no trace of Caleb. Kay Lin tried to talk a bit but Joce barely responded. They split on the way to the Beacon, though Joce constantly felt like she was being watched (a sense echoed during the challenge, although there, it's true).
+
+The challenge splits players into two groups for a silent, uninterrupted capture-the-flag-type game—though instead of grabbing an item, the target is something to destroy. Players also tag each other via laser/jab to the neck.
+
+Joce perceives much of this like a first-person shooter, although it seems less like she's having *fun* and more like this is a much-needed outlet to lose herself in. At one point she thinks she sees Kay Lin blocking her and nearly freezes, but it's "nameless" (the lookalike) and she pushes through. Towards the end, the actual Kay Lin is threatened but victory is in Joce's reach; she chooses victory, and the challenge ends as Gary shoves Kay Lin over.
+
+The challenge prize is messages in bottles, letters from home; Joce neglects hers. As the adrenaline wears off, Gary congratulates her on a challenge well-won and invites her back to the house; despite suspicions, Joce is too tired to protest. She crashes on the first bed she can find.
+
+\[From here to the end of the installment, things are VERY subject to change; I noticed in the process of summarizing that it's kinda weak. Overarching mood: waiting for the other shoe to drop; when it won't, frustration to the point of clawing it down.]
+
+No sooner does Joce wake, the accountant is in her room. *Someone* dropped off Joce's prize. The accountant asks about last night and Joce nearly replies, but stops herself; the accountant offers to speak with her later if she changes her mind. \[also maybe there is a map talk??]
+
+Joce decides she needs to find better allies, but is haunted by the not-entirely-untrue sense that everyone is judging and/or suspicious of her; it's a self-feeding cycle, as the more tense she is, the more erratic her behavior. At some point she notices Kay Lin is still around, and bruised where she was hit last night at that, but she doesn't maintain eye contact (or vice versa).
+
+Dramatic crux: Joce sees Gary talking to Kay Lin and assumes the worst, especially when he looks concerned over the bruise. Joce tries to talk to Gary, maybe to warn him, but can't quite spit it out before she notices Kay Lin listening. Instead Joce returns to the accountant, knowing she's not trustworthy but at least it's *clarity* (whereas Joce can never tell with Kay Lin, never mind outside).
+
+### also of note
+- Gary and the accountant seemed to be meeting up at the Beacon, too. Gary asked where she was last night; she says she'll explain later.
+- The accountant's moniker is finally dropped here; Joce asks for a name, and gets "Call me the accountant."
+
+/
+
 - "accountant" greeting, Joce nearly spills
 	- "someone's looking out for you ;)"
 - KL bruised, Joce tries to warn Gary
