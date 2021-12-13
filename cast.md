@@ -12,18 +12,26 @@ In order of introduction, more or less. Select to read <span class="spoiler">spo
 
 ## Joce
 6\'1\", 24 (nearly 25).
-- just wants to live/survive (in a world where she is implicitly not supposed to do that, on a semi-figurative level)
-- lonely as fuck
-- I don't actually know what else to write here, story should speak for itself :Vc main color? other Identifying Details, design changes, stuff that wouldn't make it to notes?? idk ART.
+- Twitchy. Idolizes the gritty action movie hero of a B-list franchise. Speaks quickly, often stutters.
+- Dull yellow (looks green), later warm brown.
+- Has constant background thoughts of impending disaster. Not as stoic as she tries to be.
+- Just wants to live. If she can be a decent person while she's at it, even better.
 
 ## Kay Lin
 4\'3\", early 20s (but looks much younger).
+- More lively than initial impressions suggest. A bit of a tease. Concerningly attached.
+- Purple, saturation varies; occasionally shown with yellow/gold irises (debatably diegetic).
+- All too familiar with this place. <span class="spoiler">Just wants to get out, and has a new idea about how.</span>
 
 ## Addison
 5\'5\", 20-ish.
+- Smiles through gritted teeth. Poise is performative. More expressive when agitated.
+- Orange, usually bright; yellow-green accents.
+- Wants to make a name for herself. For good reasons, obviously.
 
 ## Caleb
 4\'0\", apparently 18 or older.
+- Timid, . Has many issues, let him show you them.
 
 ## Gary
 5\'7.5\", 19.
