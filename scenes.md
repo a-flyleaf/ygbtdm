@@ -157,15 +157,22 @@ Kay Lin finds Joce standing despondently in the wreckage. She wades through the 
 ## 7
 This episode and the next are interspersed with flashbacks, not necessarily in chronological order. I'm gonna skip that for now and [stick it between these sections](#78-flashbacks). TL;DR Sal was the ambigous clingy-rotty-melty person from Joce's alcoholic overwhelm, and their relationship was... A Lot.
 
+&nbsp;
 
+Between the re-exacerbated strain and general memory hell, Joce is stuck in a cycle of lethargy. Kay Lin is unable to get through to her, and eventually gets frustrated enough to leave for short periods. The interim periods, in which she returns mildly giddy and talking about someone she met, are framed in parallel to someone else coming home late.
 
-- meanwhile injury + BSOD = Joce unresponsive
-- Kay Lin meets Sequitur x2, gets high
-- interim framed in cheating parallel
-- x3, accountant blackmails
-	- mostly threatens Joce but has pendant
-- zombie!Gary attacks, Joce OUT
-	- hint: being stuck here changes you
+Kay Lin meets Sequitur, the scraggly-looking fellow Joce "intimidated" way back in part 1 (though they don't recognize each other from this). Sequitur, who's been on their own this whole time and is happy to have company, takes Kay Lin to a cozy little alcove where they essentially get high on haze-fume. Kay Lin envies their perpetual nonchalance.
+
+On the third visit, when Kay Lin is about midway down the claustrophobic route in, the path is blocked. The accountant is waiting for her on the other end, and blackmails her into following without protest: not only has the accountant produced the pendant, but the accountant threatens, essentially, to sic people on Joce.
+
+Meanwhile, Joce is noticing that Kay Lin's been out for much, much longer than before. When she gets up to investigate, she's attacked by a mutated, zombie-esque Gary. He sounds almost lucid, which Joce eventually hears as a plea to kill him; reluctantly, she does the job, collapsing that entire segment of the underground.
+
+### also of note
+- The accountant's threat isn't really exaggerating or falsifying anything, more a way of phrasing. From an outsider's perspective: Joce and Kay Lin (who have already been weirdly isolated this whole time) went out one night when many people were under the influence, Joce later admitted to physically hurting Kay Lin (*and* Caleb happened to disappear around the same time), and despite the two being somewhat distant the rest of the day, Joce later made a fuss over getting Kay Lin to leave with her. Since then neither has been heard from, but the accountant has caught word that Kay Lin feels stifled. It is what the kids call Not A Good Look.
+	- TL;DR it's not hard to frame Joce as a controlling asshole at *best*. Their appearances, and Joce's inabiliy to interact with others like a normal person, don't help.
+- To seal the deal, the accountant offers a hand. Kay Lin ignores it; the accountant grabs hers anyway on the way out, with a very brief vicegrip. Any sign of protest from then on *will* be noticed.
+- Gary's "zombie" design includes elongated limbs that bend where they shouldn't, greater overall size, and severe loss of fat & muscle. There are copious patches of white-rot and he probably no longer has eyes.
+- Being out here sure changes a person.
 
 ## 7--8 flashbacks
 (There's no reason for the tense switches here. They just Happened. That said, some of these bleed more into the present-day sequences than others.)
