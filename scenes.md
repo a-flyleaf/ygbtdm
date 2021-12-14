@@ -59,7 +59,7 @@ The Beacon summons players back with an ear-splitting alarm and a minor earthqua
 
 ### also of note
 - Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
-- Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be explicitly confirmed later (if it hasn't been already), but basically: the landscape loops, like a small warped globe.
+- Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be talked about explicitly later.
 - Joce has thought Addison is full of shit from day one, but here she calls Addison on both talking as though Kay Lin isn't standing right there and, later, abandoning her crew to fight for themselves. This definitely gets under Addison's skin, though it remains unclear how much of her later upset is from Joce's words vs the reputational hit.
 - Kay Lin takes a background role in this installment, but is among the majority who finds Caleb's outburst at the end more annoying than sympatheitc.
 
@@ -115,26 +115,21 @@ Joce perceives much of this like a first-person shooter, although it seems less 
 
 The challenge prize is messages in bottles, letters from home; Joce neglects hers. As the adrenaline wears off, Gary congratulates her on a challenge well-won and invites her back to the house; she thinks it's a trap and resists, but Gary points out her exhaustion, and Joce relents. She crashes on the first bed she can find.
 
-\[And from here to the end of the installment, things are VERY subject to change; I noticed in the process of summarizing that it could be tighter, have a snappier cause-and-effect. But here's a rundown:]
+When Joce wakes up, her prize bottle is on the nightstand, along with a note from the accountant. Elsewhere in the house, Kay Lin is conversing casually with others, and noticeably bruised where Joce hit her last night; she doesn't maintain eye contact with Joce or vice versa.
 
-- While Joce is asleep (and these happen 100% offscreen, but are established or hinted at later):
-	- Kay Lin is also invited back, and brings Joce's bottle with. She makes conversation with other guests but her heart's not really in it. When asked about the fresh bruise (from Joce last night), she waves it off.
-	- The accountant tells Gary about her suspicions, though he already got a clue about it from Joce; he wants to keep giving her and Kay Lin the benefit of a doubt, since no one can prove anything (yet). He tries to talk to Kay Lin at a few points, but she's either napping or talking to someone else.
-- Bottle dropoff: "*Someone's* looking out for you ;^)"
-- The accountant wants to talk to Joce. If it hasn't come up already (back in the second challenge?), Joce points out that the map loops, which the accountant praises her for so Joce feels smart about that.
-- Joce is quickly made aware that Kay Lin is around; neither approach the other, but Joce notices KL's bruise from last night.
-- Joce attempts to talk to people (get better alies? figure out where she stands?) but it's a self-fulfilling prophecy of tension.
-- Eventually Joce sees Gary talking to Kay Lin and feels obliged to warn him. This might falter, but then she ends up telling both him and the accountant simultaneously: she thinks Kay Lin can't be trusted.
-	- Or something to that effect. Whatever it is, it's enough for the accountant to take as confirmation Kay Lin killed Caleb.
-- Also, before that, Joce *is* drawn back to the accountant. Everything and everyone is confusing and uncertain; at least she *knows* for a fact she can't trust that woman. It's negative familiarity, but familiarity nonetheless.
-- After putting the accountant on Kay Lin's trail (intentionally or otherwise), Joce tries to get Kay Lin to leave the house before they figure out what to do with her, but Kay Lin resists.
-	- surface reason: feels betrayed by the recent challenge. Clearly just a front, though.
-- Gary quietly sends them out, having independently concluded Joce is alright. Kay Lin asks for Joce's bottle on the way out.
+Joce attempts to talk to people both to get a read on the situation and potentially make new allies, but it's a self-fulfilling spiral: she's not used to regular conversation, and the more tense she is the more erratic her behavior. Additionally, while Kay Lin hasn't accused her of anything, people have drawn their own conclusions.
+
+When Joce sees Gary talking to Kay Lin and looking sympathetic, Joce panics. She tells Gary that she *is* responsible for the bruise but (for unrelated reasons) there's more to Kay Lin than meets the eye; however, Joce is unable to elaborate Gary asks if he can tell the accountant (no) and Joce notices people listening (oh *fuck* no).
+
+Joce could use a drink, but goes to the next-best thing: the accountant's study. The accountant is puzzling over a map and is apparently impressed by Joce's input, which Joce appreciates. Gary steps in, apparently to ask the accountant about something; the accountant immediately recognizes this is about Kay Lin, which she takes as confirmation Kay Lin killed Caleb. The agreed punishment for breaking the house rule is simply getting kicked out, but the accountant excitedly thinks they need to revisit that; Gary apologizes for the trouble and asks Joce to wait outside.
+
+Kay Lin is still halfheartedly entertaining chatter when Joce interrupts: they need to leave, *now*. The people Joce tried talking to earlier are wary if not antagonistic, and Kay Lin doesn't defend her; however, Gary pulls the duo aside. He admits he doesn't care what they did, but the accountant does, so he's going to send them off before this blows up. Before they go, Kay Lin asks for Joce's bottle; Joce insists she doesn't want it, but the accountant (who of course followed) hands it over. With that, Joce and Kay Lin get the hell out of dodge—not particularly in sync.
 
 ### also of note
-- Gary and the accountant seemed to be meeting up at the Beacon, too. Gary asked where she was last night; she says she'll explain later.
 - Joce isn't a professional at the challenge or anything, but Gary's crew is mostly hungover.
-- The accountant's moniker is finally dropped around here. Gary calls her "Suits."
+- Three people left the house last night, two came back. Joce is first to bring this up when she rejects Gary's invitation, and there's no denial of the fact thereafter from anyone.
+- Note attached to Joce's prize-bottle: "Someone's looking out for you ;) (P.S. Meet me in my study. You know where it is. —the accountant)"
+- The accountant calls Joce a genius for recognizing that the world map is a loop; walking to one end just takes you back to the "opposite" side (hence Joce's confusion at the Beacon in part 2).
 
 ## 6
 - J/KL condescending, savior complex, sus, why me
