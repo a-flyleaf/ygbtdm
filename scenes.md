@@ -30,8 +30,11 @@ Joce wakes to find the rabbit has been dispatched and is half-melted through the
 As the sky darkens, Joce decides to keep Kay Lin around; that familiarity makes her simultaneously a valuable ally and a dangerous enemy. And on the basest level, Joce still feels the need to keep her safe—even though, if the game is whittling down the competition down to one, it can't last. Is she being played for a fool? If it means sticking to her guns, does she care?
 
 ### also of note
+- There's a poster above Joce's bed of a gritty action hero, which she looks up at before the flashback cuts back to present. It is the one (1) sign of personality in an otherwise utilitarian room.
+- Joce and Kay Lin's introduction is pronounced with a handshake. I basically have this whole conversation committed to memory—hence why, ironically, it's kinda skimmed over here.
 - In the background of the challenge, there's an exchange like "Come on, Terry!" "Who?" "Gary!"
 - The first person to fall is distinguished by some kind of necklace. The same accessory is strangling the rabbit.
+- At a later point, Joce asks what Kay Lin is doing here. Kay Lin returns the question. Joce says it's not important. Same answer from Kay Lin, then. Oh yeah, mutual progress.
 - Minor detail: after Joce wakes up from the "game over," she has a small ring of white-rot around the base of one finger. But since she wears gloves (and has all sorts of miscellaneous hand scratches), it's barely noticeable.
 - Full disclaimer, I do not know how the little guys trigger the rock-blast-thing yet. But they do. They have their ways.
 
@@ -58,9 +61,10 @@ That night Addison ventures underground, seemingly in hopes of finding something
 The Beacon summons players back with an ear-splitting alarm and a minor earthquake. Joce notices Caleb is alone; when the instructions begin, he cries louder, announcing that Addison is dead.
 
 ### also of note
-- Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
+- Addison concludes both her alliance offer to WR and her own reintroduction to Joce with a handshake; in the latter case, she prompts Joce's own name. The WR scene cuts after this, and Joce refuses the offer on both accounts.
 - Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be talked about explicitly later.
 - Joce has thought Addison is full of shit from day one, but here she calls Addison on both talking as though Kay Lin isn't standing right there and, later, abandoning her crew to fight for themselves. This definitely gets under Addison's skin, though it remains unclear how much of her later upset is from Joce's words vs the reputational hit.
+- Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
 - Kay Lin takes a background role in this installment, but is among the majority who finds Caleb's outburst at the end more annoying than sympatheitc.
 
 ## 3
@@ -123,31 +127,38 @@ When Joce sees Gary talking to Kay Lin and looking sympathetic, Joce panics. She
 
 Joce could use a drink, but goes to the next-best thing: the accountant's study. The accountant is puzzling over a map and is apparently impressed by Joce's input, which Joce appreciates. Gary steps in, apparently to ask the accountant about something; the accountant immediately recognizes this is about Kay Lin, which she takes as confirmation Kay Lin killed Caleb. The agreed punishment for breaking the house rule is simply getting kicked out, but the accountant excitedly thinks they need to revisit that; Gary apologizes for the trouble and asks Joce to wait outside.
 
-Kay Lin is still halfheartedly entertaining chatter when Joce interrupts: they need to leave, *now*. The people Joce tried talking to earlier are wary if not antagonistic, and Kay Lin doesn't defend her; however, Gary pulls the duo aside. He admits he doesn't care what they did, but the accountant does, so he's going to send them off before this blows up. Before they go, Kay Lin asks for Joce's bottle; Joce insists she doesn't want it, but the accountant (who of course followed) hands it over. With that, Joce and Kay Lin get the hell out of dodge—not particularly in sync.
+Kay Lin is still halfheartedly entertaining chatter when Joce interrupts: they need to leave, *now*. The people Joce tried talking to earlier are wary if not antagonistic, and Kay Lin doesn't defend her; however, Gary pulls the duo aside. He admits he doesn't care what they did, but the accountant does, so he's going to send them off before this blows up. Before they go, Kay Lin asks for Joce's bottle; Joce insists she doesn't want it, but the accountant (who of course followed) hands it over. With that, Joce and Kay Lin get the hell out of dodge—albeit not particularly in sync.
 
 ### also of note
 - Joce isn't a professional at the challenge or anything, but Gary's crew is mostly hungover.
 - Three people left the house last night, two came back. Joce is first to bring this up when she rejects Gary's invitation, and there's no denial of the fact thereafter from anyone.
 - Note attached to Joce's prize-bottle: "Someone's looking out for you ;) (P.S. Meet me in my study. You know where it is. —the accountant)"
 - The accountant calls Joce a genius for recognizing that the world map is a loop; walking to one end just takes you back to the "opposite" side (hence Joce's confusion at the Beacon in part 2).
+- Regarding murder-consequences, Joce says "Don't hurt her." The accountant makes no promises.
 
 ## 6
-- J/KL condescending, savior complex, sus, why me
-- rabbit fight, "here's to being fucked up," all is well
-- Joce sneaks out to toss letter, hesitates; hi Gary
-- letter is not what she thought it was
-- rabbit attack, Gary killed along with
-- KL silently holds Joce's hand
+The two are not happy. Joce admits she sold Kay Lin out, but she tried to leave *before* Gary and the accountant could catch up because she cares, and that's a confession. Kay Lin, however, accuses Joce of having a savior complex, only dragging her (KL) along to feel better about herself. Joce asks what the hell Kay Lin was doing last night; Kay Lin eventually admits she was trying to provoke Joce, because she doesn't understand why Joce never fights back—or why Joce has stuck with her in general. Joce can sympathize with the final sentiment.
+
+A rabbit or two interrupts the moment, but Joce and Kay Lin finally get to put their old technique into practice and it's awesome. They find shelter underground and all seems well, but Joce remains irked by the bottle and is reluctant to talk about it.
+
+Come nightfall, Joce sneaks out to toss the whole thing to oblivion, but hesitates. Gary shows up, having been concerned all day (and, implicitly, frustrated with the accountant). Joce admits the letter is from... someone she does not like, and she thinks she knows what it says but can't bring herself to toss it without reading. Gary suggests she just read it, get it confirmed and over with.
+
+Where Joce expects a sorry pity party begging for her back, she gets a scathing indictment from someone who feels abandoned, suicidal, and personally slighted. Sal blames her for their life having gotten worse since she left, declares intentions to die, thank you for nothing, go to hell.
+
+Joce is incensed. Rabbits have closed in on her and Gary, and despite a semi-coordinated effort, Joce triggers a cave-in to kill the last one—and Gary is taken down in the process.
+
+Kay Lin finds Joce standing despondently in the wreckage. She wades through the flood and wordlessly takes Joce's hand.
+
+### also of note
+- KL: "I don't understand why you never fight back. You could've, I dunno, shoved him back or thrown me off—" J: "Did you *want* to get stabbed?" KL: "Yes. *No!*"
+- Towards the end of the argument, after the mutual understanding that neither Joce nor Kay Lin get why the other hasn't left for good yet, Kay Lin offers a reconciliatory handshake: "Here's to being fucked up." Joce's reply is that she would prefer not to be, but she accepts the motion.
+- Standing over the melting rabbit(s), Joce wonders aloud if they're *all* people like the first to fall, or if the dead usually fade like Caleb. At the end, Gary is buried in a pool of rubble.
 
 ## 7
-- flashbacks between this and next ep:
-	- Joce met Sal young, both deeply cynical
-	- kept meeting through high school, moved in
-	- commiserated daily, surprise proposal
-	- life grew dull, Sal brought lovers home
-	- Joce doctor appointment = locked out
-	- nearly killed herself, stopped by new movie
-	- wanted to be a hero where no one was for her
+This episode and the next are interspersed with flashbacks, not necessarily in chronological order. I'm gonna skip that for now and [stick it between these sections](#78-flashbacks). TL;DR Sal was the ambigous clingy-rotty-melty person from Joce's alcoholic overwhelm, and their relationship was... A Lot.
+
+
+
 - meanwhile injury + BSOD = Joce unresponsive
 - Kay Lin meets Sequitur x2, gets high
 - interim framed in cheating parallel
@@ -155,6 +166,22 @@ Kay Lin is still halfheartedly entertaining chatter when Joce interrupts: they n
 	- mostly threatens Joce but has pendant
 - zombie!Gary attacks, Joce OUT
 	- hint: being stuck here changes you
+
+## 7--8 flashbacks
+(There's no reason for the tense switches here. They just Happened. That said, some of these bleed more into the present-day sequences than others.)
+
+1. When Joce was young and tried to tell a not-quite-friend about the impending end of the world, she got frustrated and chucked a ball over the fence—smashing glass, setting off someone's car alarm. Sal was on standby, smoking and apparently not bothered; they were more interested in Joce's stuttering, mumbled apology, and her subsequent frustrations with her peers not *getting* it. Sal had a nihilistic outlook, too; Joce was both repulsed and intrigued. As an authority dragged her off, the car's owner (apparently Sal's date) returned, infuriated with Sal.
+1. Through adolescence, Sal left Joce notes, and they met over private smoke breaks. She expressed ongoing frustration with authority, the system, the works; Sal commiserated, called her smart for seeing through it all, but encouraged her to finish high school. Then she'd look responsible, and when she turned 18 and the social workers were dying to offhand her, she could move in with Sal. Apparently their latest s/o had left them, just like they all did. Despite general abrasiveness and continuing to call them a weird-ass creep, Joce is sympathetic.
+1. Days in Sal's shitty little abode bled into each other. It was them against the world, and if that meant rotting together, so be it. Many a night was spent jeering at whatever was on TV, varying degrees of drunk. While watching a soap in which the hero physically backstabs his love interest (Sal saw it coming from a season away, *ugh*), Sal suggests on a whim: "Let's get married. For tax benefits." Joce, already more drunk than they were, throws up.
+	- It's unclear whether Sal ever went through with this. Joce is never seen with a ring, though in the next few segments she seems to have scratched that finger raw.
+1. It's late. ("Unholy hour of the morning, maybe almost sunrise" late.) Joce stares blankly at the game over screen of a first-person shooter. When the door opens she comes to life; hey, that group is back in town— There are poorly-muffled makeout noises. Sal has brought someone home, and Joce is left standing blankly in the doorway.
+	- "Don't mind her. She knows what she signed up for." "You *bastard~*"
+1. All the ravishment in the world (between more *incidents,* of course, to keep things interesting) cannot snap Joce out of a dissociative trance. Sal gets tired of trying. Really, what did she expect?
+1. One day Joce was actually leaving the house. Doctor's appointment. Sal almost speaks up, and Joce waits for anything. Instead they grumble about big pharma, and Joce slams the door behind her.  
+It's daytime. Then it's not. Joce returns to a locked door. Key's useless. She backs away, trips on the steps—
+1. —which parallel-cuts to her nearly slipping off the edge of a bridge. She catches herself; the rain is torrential. A flickering sign catches her attention: an advertisement for a movie in her favorite gritty action movie franchise. Now playing.
+
+Pieces of the franchise also feature in snippets 1 and 2 through Joce's outfits, and 4 through her game; it's also the source of the poster in her room. I don't know what the series is called and its story is barely shown, but as a bonus detail: it's cliché as fuck, about an anti-hero tough guy with washes-hands-too-often-itis (what Hollywood calls OCD). In the specific movie of interest, antihero toughguy faces down against his Evil™ Temptress™ ex-wife. It is a sexist dumpster fire and Joce adores it.
 
 ## 8
 - open: Kay Lin wakes up, bound by accountant
@@ -164,7 +191,7 @@ Kay Lin is still halfheartedly entertaining chatter when Joce interrupts: they n
 - confession: first game with gf, pendant was hers
 - Joce reminds Kay Lin of gf, didn't want to be alone
 - accountant shanks KL, Joce breaks out
-- being a hero sucks actually
+- - wanted to be a hero where no one was for her; being a hero sucks actually
 - alliance run-in, hands KL over; Joce breaks down
 
 ## 9

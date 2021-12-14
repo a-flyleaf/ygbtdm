@@ -22,7 +22,7 @@ figure{display:inline-block; margin:.75em 0;}
 
 main ul,main ol{margin:.75em 0 .75em 1em;}
 li>ul{margin:0 0 0 1em;}
-h2~ul,h3~ul{margin-top:.25em;}
+h2~ul,h3~ul,h2~ol,h3~ol{margin-top:.25em;}
 
 .spoiler{background:#808080; color:#808080;}
 
