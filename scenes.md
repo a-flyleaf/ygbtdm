@@ -174,6 +174,9 @@ Meanwhile, Joce is noticing that Kay Lin's been out for much, much longer than b
 - Gary's "zombie" design includes elongated limbs that bend where they shouldn't, greater overall size, and severe loss of fat & muscle. There are copious patches of white-rot and he probably no longer has eyes.
 - Being out here sure changes a person.
 
+### post-credits? somewhere around the end of 7, start of 8? not sure where this fits in or if it's onscreen at all
+The accountant takes Kay Lin back to the house, which is empty, and around to a back entry. At the first opportunity Kay Lin tries to run; the accountant OHKOs her with a bat. After checking for a pulse, the accountant is satisfied, drags her in, and locks the door.
+
 ## 7--8 flashbacks
 (There's no reason for the tense switches here. They just Happened. That said, some of these bleed more into the present-day sequences than others.)
 
@@ -191,41 +194,91 @@ It's daytime. Then it's not. Joce returns to a locked door. Key's useless. She b
 Pieces of the franchise also feature in snippets 1 and 2 through Joce's outfits, and 4 through her game; it's also the source of the poster in her room. I don't know what the series is called and its story is barely shown, but as a bonus detail: it's cliché as fuck, about an anti-hero tough guy with washes-hands-too-often-itis (what Hollywood calls OCD). In the specific movie of interest, antihero toughguy faces down against his Evil™ Temptress™ ex-wife. It is a sexist dumpster fire and Joce adores it.
 
 ## 8
-- open: Kay Lin wakes up, bound by accountant
-- Joce finds Seq, apologizes; they don't care
-- KL won before, Joce overhears
-- Joce sets off trap, *then* KL talks
-- confession: first game with gf, pendant was hers
-- Joce reminds Kay Lin of gf, didn't want to be alone
-- accountant shanks KL, Joce breaks out
-- - wanted to be a hero where no one was for her; being a hero sucks actually
-- alliance run-in, hands KL over; Joce breaks down
+- tentative title: "[Desperately safe](https://www.youtube.com/watch?v=rCywWxg5DoY)"
+
+When Kay Lin blearily comes to (with a splitting headache, and tied to a support beam or something), the accountant takes her consciousness as confirmation: the only real prize for winning is boosted physical endurance. That said, the accountant has some questions.
+
+Meanwhile, Joce finds Sequitur standing around the rubble of the alcove. Sequitur confirms having met Kay Lin here, and mentions that the accountant was asking about her and Joce. Before leaving, Joce apologizes for intimidating them earlier; Sequitur says they barely remember and do not care, which makes her feel weird.
+
+As Joce reaches the house, Kay Lin is stalling. She doesn't deny having won the game before but offers nothing else about herself, and seemss unphased by threats of physical harm. (Joce follows the sound, and notices the accountant has set a trap resembling the way Joce fell earlier.)
+
+The accountant, then, tries to demoralize Kay Lin by pointing out Joce hasn't showed up to help her; Kay Lin acts like this doesn't bother her. Perfect timing for the accountant to set off the trap, which was actually on the path Joce took to avoid the "obvious" (fake) one; Joce is incapacitated.
+
+Kay Lin panics. She confirms explicitly that she's been the last person standing before, once, and that first game was with her girlfriend; the pendant was hers. At Joce's prompting, Kay Lin also admits Joce reminds her of said girlfriend, but denies having killed said gf or planning the same for Joce.
+
+This is a letdown to the accountant, who was hoping there was a more  exciting reason someone like Kay Lin had made it so far. At this point  Kay Lin is crying; when the accountant leaves Joce to hear Kay Lin  better, Joce finally has a chance to escape, and seems to do so without  hesitation. The accountant concludes she's gotten everything out of Kay  Lin she can, takes the sharpened end of her bat, and impales her through  the torso. Then Joce thwacks the accountant over the head; apparently Joce had just gone off to get herself a blunt object, and came back a *bit* too late.
+
+Concluding the flashback-thoughts, Joce recalls that she grew up wanting to be there for someone because no one ever was for her. However, as she carries an unconscious and profusely-bleeding Kay Lin away, Joce concludes that being a hero is fucking terrifying and she never wants to do this again.
+
+A challenge-summons-earthquake accentuates the panic. Joce runs into the alliance, now headed by WR (and Sequitur tagging along); they try to take Kay Lin, and though Joce resists on instinct, she helplessly relents. Sequitur says something vaguely comforting as Joce, succumbing to exhaustion and overwhelm, loses her composure a bit.
+
+### also of note
+- As for how Kay Lin waking up proves anything: in reality, a blow to the head hard enough to leave someone unconscious for several minutes is enough to inflict severe brain trauma, if not [kill them outright](https://tvtropes.org/pmwiki/pmwiki.php/Main/TapOnTheHead). While this story doesn't adhere strictly to normal biological functions (it's noted early on that no one ever seems to feel hungry), the point is that That Should Have Killed Her but it didn't.
+- Kay Lin is bound at least in part by the loose linen-wraps she was already wearing. On the neck and arms, they were covering a few scars.
+- Regarding threats of physical harm: the accountant remarks that she'd like to test just how this ~physical endurance~ can go, but is no sadist, hates getting her hands dirty, and frankly doesn't see the point in leaving someone writhing in agony while she's trying to make them *talk*. She's rather casual about the whole affair, really.
+- If you've seen Disney cartoon *Amphibia*, (spoilers for the second season finale) <span class="spoiler">I do solemnly swear I had the "Kay Lin confesses to having lied the whole time (out of loneliness), then gets violently stabbed" plot point *before* watching "True Colors." Happy coincidence, though :D</span>
+- The alliance group doesn't exactly welcome Joce with open arms, but WR steps forward. It's a brief impression, all in all.
+- Joce ditches the military shirt outfit after this. It's bloodstained to hell anyway.
 
 ## 9
-- open: Kay Lin wakes up, Joce is there
-- KL+Em were gonna stay, but Em killed herself
-- Kay Lin unsure, but thinks something's different
-- Joce promises to get her out, gives pendant
-- Joce reports back to WR
-- WR invites Joce out for rabbit-fighting, is fun
-- tug-o-war: JvsWR, Joce demands stop, WR drops
-- Setting Angery but everyone lives, Joce lauded
-- celebratory campfire, WR leaves, Seq+WR friends
-- KL seems off, recalls walk left behind rabbit-story
-- Joce overhears KL approaching WR, "Emery?"
+An unspecified amount of time later (probably like a day or two?), Kay Lin blearily comes to; Joce is resting nearby, as she apparently does a lot. Kay Lin immediately gets worked up, though it physically hurts.
+
+The alliance, which at this point is smaller and constitutes a majority of remaining players (rabbits have picked off quite a few in the interim, especially loners), has offered the duo refuge. More specifically, current leader WR has; others' opinions vary (if they have any at all), though Joce has managed to make small talk with the local medic/s. (Her own sprain has also been bandaged up.)
+
+Joce asks Kay Lin for more details on previous games; Kay Lin complies. She and her girlfriend Em signed up together, made it to the end, and of course one wasn't going to leave without the other. Although they were going to try staying here indefinitely, one morning Kay Lin woke up to Em trying to kill herself; Em had been "infected" with white-rot, previously hidden to Kay Lin. When they scaled the entire Beacon and found nothing of use, they agreed to mutual suicide; however, when Kay Lin's eyes were closed, Em jumped.
+
+Kay Lin has never seen the "game over" options that Joce and others report when "killed;" instead, Kay Lin just wakes up time and time again in a new round, no matter how she died before. She thinks something might be different this round, just because no one's approached her like Joce has. Joce vows to get her out, though Kay Lin resists; Joce gives her the pendant (which the accountant dropped earlier), and Kay Lin tells Joce to leave before she breaks down again.
+
+Joce reports all this back to WR, which seems to be a regular thing. WR talks now (albeit still rarely), and invites Joce to join her and a small group out for rabbit-hunting. During the activity, WR teaches Joce an alternate technique, in which she essentially uses herself as "bait" while everyone else closes in; as one of the sturdier people here, she can hold the creatures back longer.
+
+Although that's a good time, the next challenge is a tug-o-war, which puts Joce and WR on opposite sides. Joce tries to argue for everyone dropping the rope, consequence be damned; at the last moment, WR complies, and enough others follow suit that anyone left trying is easily stopped. The setting bursts and crumbles as apparent punishment, but through a coordinated effort, everyone makes it out alive. (From this point on the earthquakes are far more frequent, making drastic changes to the landscape overnight.)
+
+Despite that, the players throw a celebratory campfire. Joce is invited to join WR and Sequitur, who seem to be close; Joce invites Kay Lin over, and (for seemingly unrelated reasons) WR gets up to go help someone shortly after. At Kay Lin's prompting, Sequitur confirms they and WR are childhood friends, but backtracks on revealing anything else; they've both changed a lot.
+
+Kay Lin excuses herself, seeming off; when Joce follows her, she recalls 
+a time she and Em were out for a walk, Em was way ahead, and when Kay Lin
+ caught up Em was trying to free a rabbit (a normal bunny) from a snare. 
+The image sticks out to Kay Lin of that disgusting, pathetic, dying 
+little creature and how gently Em was holding it. Anyway, random story; 
+she tells Joce to go rejoin the festives, and send Sequitur her way.
+
+Later that evening, Joce returns to find Kay Lin gone. Sequitur, clearly talking around something, directs her towards a ledge where WR likes to "stargaze" (not that this sky has anything but haze). Joce gets a bit lost on the way, but ends up seeing/hearing from a distance: WR is indeed alone, possibly unmasked (though without light and from a distance, Joce can't make out a face), and Kay Lin steps up from behind. She's holding the pendant close.
+
+"Emery?"
+
+### also of note
+- Kay Lin had shorter hair in flashbacks with Em. When she approaches WR at the end, it's around the same length (albeit messier) and she's changed her outfit.
+- When Joce swears she'll try to get Kay Lin out, Kay Lin's reply is something like "Don't make promises you can't keep."
+- During the campfire talk, there's also a little banter about what everyone was doing with their lives. Sequitur was a mall hairdresser but had recently been laid off; they'd found out about the game through niche corners of the internet, and didn't actually expect to get in. Kay Lin clarifies she was *aiming* for medical school (not too enthusiastically), but was on the verge of dropping out. (She also seems to have no idea quarantine is a thing that's been happening; her excuse is that she lives under a rock anyway.)
+- Joce questions Em leaving Kay Lin behind on the walk; Kay Lin quickly defends her, saying they normally stayed close but they'd just been having... *disagreements,* lately. It's skimmed over.
 
 ## 10
-- Kay Lin tries to get through to Em, Em's like "nah"
-- Joce gets Em's story: KL's idea, more later
-- Seq finds KL upset, KL invites them to "help"
-- Em@J: they do be gone tho
-- pursuit, Em and Joce work together better
-- KL asks Seq to kill her, they're like "nah"
+Kay Lin has concluded that WR = Em, which she's suspected from their first encounter (inadvertent, in the background of Addison's alliance proposal in part 2) but she hasn't gotten a better look until recent. She also thought Em might've forgotten her, but Em knowing Sequitur suggests otherwise.
+
+WR remains turned away, says nothing, and refuses to take the pendant back. Kay Lin starts out cautiously hopeful, then gets desperately frustrated and demand-begs for "Em" to acknowledge her in any way. WR finally shoves the pendant back, stands up, and leaves.
+
+Joce intercepts, and WR confirms in frustration that, yes, she is Em, and also there is more to her and Kay Lin's story than Joce has probably heard. Namely, coming here at all was Kay Lin's idea, as was the death pact. She tells Joce to get some rest, and swears to explain later; Joce, having been shoved back the last couple times she reached out to Kay Lin, reluctantly agrees.
+
+Instead Sequitur is the one who finds Kay Lin having a nervous breakdown. Though at first she's not sure how to respond to them, she then pulls them close and says she knows how they can make her feel better.
+
+Em, masked again, announces to Joce that Sequitur and Kay Lin are gone. She gives Joce a bat, tells someone to be on guard, and the two trek out. There's some kind of trail that's probably intentional.
+
+Kay Lin and Sequitur are in another secluded underground space, and apparently loopy as shit. As thanks for the good time, Kay Lin breaks her bottle and hands it over; she'd like them to put her out of her misery. When Sequitur resists, she uses the crumbling cavern to trap them, and repeats the demand. Randos and rabbits don't do it, and apparently she can't finish herself off either. She trusts Sequitur, though.
+
+There are rabbits aplenty on the trail, though Em and Joce work well together bruteforcing past. They're almost having fun. Meanwhile, Sequitur refuses Kay Lin repeatedly; when they won't even fake-agree, just to fake her out and run for help, she starts pressing the glass very, very close.
+
+### also of note
+- Em's "mask" is kinda like a voluntary growth. She typically wears a bandana to cover the lower half of her face; as Joce sees, Em's jaw got kinda fucked up at some point.
+- Em doesn't have to try hard to wake Joce, the latter of whom is only lightly sleeping. It's more like: Em passes by the room, says "They're gone," and that is *all* Joce needs to get up and join her.
+- You bet your fuckin ass that Kay Lin standing over Sequitur is a direct and obvious parallel to what she did with Joce after killing Caleb. She's just a liiiittle more frustrated this time.
+
+---
+
 - Compromising Position, Em+Seq J+KL
 - rabbit attack, Joce stops, Em cues cave-in
 
 ## 11
-- tentative title: "You can't save her"
+- tentative title: "[You can't save her](https://www.youtube.com/watch?v=z8XN7eoZr0Y)"
 
 ///
 
