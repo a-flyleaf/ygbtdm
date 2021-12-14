@@ -265,22 +265,19 @@ Em, masked again, announces to Joce that Sequitur and Kay Lin are gone. She give
 
 Kay Lin and Sequitur are in another secluded underground space, and apparently loopy as shit. As thanks for the good time, Kay Lin breaks her bottle and hands it over; she'd like them to put her out of her misery. When Sequitur resists, she uses the crumbling cavern to trap them, and repeats the demand. Randos and rabbits don't do it, and apparently she can't finish herself off either. She trusts Sequitur, though.
 
-There are rabbits aplenty on the trail, though Em and Joce work well together bruteforcing past. They're almost having fun. Meanwhile, Sequitur refuses Kay Lin repeatedly; when they won't even fake-agree, just to fake her out and run for help, she starts pressing the glass very, very close.
+There are rabbits aplenty on the trail, though Em and Joce work well together bruteforcing past. They're almost having fun. Meanwhile, Sequitur refuses Kay Lin repeatedly; when they won't even fake-agree, just to fake her out and run for help, she starts pressing the glass very, very close. They're in this compromising position when Em smashes through and goes straight to Sequitur; Joce holds Kay Lin back, though it's only dubiously necessary. Kay Lin says something about Joce never leaving her, which makes Joce drop her instantly.
+
+Em, supporting Sequitur, beckons for Joce to leave as more rabbits close in. Kay Lin doesn't follow, however; Joce turns at the last second, as Em triggers a cave-in that takes them and the rabbits straight down.
 
 ### also of note
 - Em's "mask" is kinda like a voluntary growth. She typically wears a bandana to cover the lower half of her face; as Joce sees, Em's jaw got kinda fucked up at some point.
 - Em doesn't have to try hard to wake Joce, the latter of whom is only lightly sleeping. It's more like: Em passes by the room, says "They're gone," and that is *all* Joce needs to get up and join her.
 - You bet your fuckin ass that Kay Lin standing over Sequitur is a direct and obvious parallel to what she did with Joce after killing Caleb. She's just a liiiittle more frustrated this time.
 
----
-
-- Compromising Position, Em+Seq J+KL
-- rabbit attack, Joce stops, Em cues cave-in
-
 ## 11
 - tentative title: "[You can't save her](https://www.youtube.com/watch?v=z8XN7eoZr0Y)"
 
-///
+To the alliance, Em reports that Kay Lin has basically gone batshit, is manipulating Joce into defending her, and 
 
 - Em targeting KL, says KL manipulated Joce
 - Joce stuck underground; help party, but no
