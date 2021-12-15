@@ -11,7 +11,7 @@ Part divisions are subject to change, especially around the middle, but for the 
 
 Players wake in a panopticon-esque underground, and are welcomed to the game: many have entered, one will win, and the winner can go home.
 
-Joce lives a mundane, predictable life in one room of a shared house, and has incessant intrusive thoughts of imminent disaster. (It's usually background noise.) But thanks to both a mild sprain that refuses to wear off and quarantine driving everyone battier than usual, the predictability feels stifling. In this context Joce receives two letters: one from "Salvador," which is shoved in a drawer full of unopened letters from the same sender, and an invitation to the thrill of a lifetime.
+Joce lives a mundane, predictable life in one room of a shared house, and has incessant intrusive thoughts of imminent disaster. (It's usually background noise.) But thanks to both a mild sprain that refuses to wear off and quarantine driving everyone battier than usual, especially Joce's housemates, the predictability feels stifling. In this context Joce receives two letters: one from "Salvador," which is shoved in a drawer full of unopened letters from the same sender, and an invitation to the thrill of a lifetime.
 
 Back in the underground, one player has taken it upon herself to rally the others; Joce isn't interested. When the grandstander picks out someone much smaller, however, Joce takes notice. She approaches the nearest person with food, intimidates them, and offers the morsel to the girl in the corner.
 
@@ -56,7 +56,7 @@ Back at the Beacon, Addison's party finds Joce and Kay Lin puzzling over a map. 
 
 Returning to the alliance, the non-WR surviving guard, "Wolf," churns a rumor mill around Addison's incompetence, while only Caleb tries defending her. Addison tries an explanation/apology talk of dubious genuity, which mostly makes things worse.
 
-That night Addison ventures underground, seemingly in hopes of finding something big or important that will make everyone love her again. (Probably following up on something she noticed back during the Beacon attack?) Caleb follows her down, and though they have a nice talk at first, Caleb insists on bringing her back. Frustrated, Addison sets something off (inadvertently? intentionally? intentionally, but worse than anticipated?), and the space collapses.
+That night Addison ventures underground, seemingly in hopes of finding something big or important that will make everyone love her again. (Probably following up on something she noticed back during the Beacon attack?) Caleb follows her down, and though they have a nice talk at first, Caleb insists on bringing her back. Frustrated, Addison sets something off (inadvertently? intentionally? intentionally, but worse than anticipated?); the space simultaneously floods and collapses. Caleb flees; Addison is left behind.
 
 The Beacon summons players back with an ear-splitting alarm and a minor earthquake. Joce notices Caleb is alone; when the instructions begin, he cries louder, announcing that Addison is dead.
 
@@ -64,6 +64,7 @@ The Beacon summons players back with an ear-splitting alarm and a minor earthqua
 - Addison concludes both her alliance offer to WR and her own reintroduction to Joce with a handshake; in the latter case, she prompts Joce's own name. The WR scene cuts after this, and Joce refuses the offer on both accounts.
 - Joce is confused by the map because she walked away in a straight line and found the Beacon right back in front of her. This will be talked about explicitly later.
 - Joce has thought Addison is full of shit from day one, but here she calls Addison on both talking as though Kay Lin isn't standing right there and, later, abandoning her crew to fight for themselves. This definitely gets under Addison's skin, though it remains unclear how much of her later upset is from Joce's words vs the reputational hit.
+- When Addison gets frustrated with Caleb, she says something to the effect of "I am *not* leaving until I have everything under control."
 - Maaaybe instead of randomly finding the pendant earlier, it's down here, and moving it is what sets things off? Idk. This part's still a lil fuzzy, but there *are* some kind of controls down here.
 - Kay Lin takes a background role in this installment, but is among the majority who finds Caleb's outburst at the end more annoying than sympatheitc.
 
@@ -172,7 +173,6 @@ Meanwhile, Joce is noticing that Kay Lin's been out for much, much longer than b
 	- TL;DR it's not hard to frame Joce as a controlling asshole at *best*. Their appearances, and Joce's inabiliy to interact with others like a normal person, don't help.
 - To seal the deal, the accountant offers a hand. Kay Lin ignores it; the accountant grabs hers anyway on the way out, with a very brief vicegrip. Any sign of protest from then on *will* be noticed.
 - Gary's "zombie" design includes elongated limbs that bend where they shouldn't, greater overall size, and severe loss of fat & muscle. There are copious patches of white-rot and he probably no longer has eyes.
-- Being out here sure changes a person.
 
 ### post-credits? somewhere around the end of 7, start of 8? not sure where this fits in or if it's onscreen at all
 The accountant takes Kay Lin back to the house, which is empty, and around to a back entry. At the first opportunity Kay Lin tries to run; the accountant OHKOs her with a bat. After checking for a pulse, the accountant is satisfied, drags her in, and locks the door.
@@ -206,7 +206,7 @@ The accountant, then, tries to demoralize Kay Lin by pointing out Joce hasn't sh
 
 Kay Lin panics. She confirms explicitly that she's been the last person standing before, once, and that first game was with her girlfriend; the pendant was hers. At Joce's prompting, Kay Lin also admits Joce reminds her of said girlfriend, but denies having killed said gf or planning the same for Joce.
 
-This is a letdown to the accountant, who was hoping there was a more  exciting reason someone like Kay Lin had made it so far. At this point  Kay Lin is crying; when the accountant leaves Joce to hear Kay Lin  better, Joce finally has a chance to escape, and seems to do so without  hesitation. The accountant concludes she's gotten everything out of Kay  Lin she can, takes the sharpened end of her bat, and impales her through  the torso. Then Joce thwacks the accountant over the head; apparently Joce had just gone off to get herself a blunt object, and came back a *bit* too late.
+This is a letdown to the accountant, who was hoping there was a more  exciting reason someone like Kay Lin had made it so far. At this point  Kay Lin is choked up; when the accountant leaves Joce to hear Kay Lin  better, Joce finally has a chance to escape, and seems to do so without  hesitation. The accountant concludes she's gotten everything out of Kay  Lin she can, takes the sharpened end of her bat, and impales her through  the torso. Then Joce thwacks the accountant over the head; apparently Joce had just gone off to get herself a blunt object, and came back a *bit* too late.
 
 Concluding the flashback-thoughts, Joce recalls that she grew up wanting to be there for someone because no one ever was for her. However, as she carries an unconscious and profusely-bleeding Kay Lin away, Joce concludes that being a hero is fucking terrifying and she never wants to do this again.
 
@@ -221,7 +221,7 @@ A challenge-summons-earthquake accentuates the panic. Joce runs into the allianc
 - Joce ditches the military shirt outfit after this. It's bloodstained to hell anyway.
 
 ## 9
-An unspecified amount of time later (probably like a day or two?), Kay Lin blearily comes to; Joce is resting nearby, as she apparently does a lot. Kay Lin immediately gets worked up, though it physically hurts.
+An unspecified amount of time later (probably like a day or two?), Kay Lin wakes up; Joce is resting nearby, as she apparently does a lot. Kay Lin immediately gets worked up, though it physically hurts.
 
 The alliance, which at this point is smaller and constitutes a majority of remaining players (rabbits have picked off quite a few in the interim, especially loners), has offered the duo refuge. More specifically, current leader WR has; others' opinions vary (if they have any at all), though Joce has managed to make small talk with the local medic/s. (Her own sprain has also been bandaged up.)
 
@@ -272,38 +272,113 @@ Em, supporting Sequitur, beckons for Joce to leave as more rabbits close in. Kay
 ### also of note
 - Em's "mask" is kinda like a voluntary growth. She typically wears a bandana to cover the lower half of her face; as Joce sees, Em's jaw got kinda fucked up at some point.
 - Em doesn't have to try hard to wake Joce, the latter of whom is only lightly sleeping. It's more like: Em passes by the room, says "They're gone," and that is *all* Joce needs to get up and join her.
+- I'm not sure if this needs to be onscreen (and if so, around where to fit it in), but for what it's worth, the scene where Kay Lin shows Em the flyer advertising the game is *loaded* with subtext. The gist of it is that Kay Lin, failing academically and aimless in life in general, has latched on *hard* to Em as a source of comfort and purpose. Em is not super comfortable with this, but seems resigned to it; when she's hesitant to sign up, Kay Lin's mood crashes, and Em's quick to reassure her. Kay Lin isn't *un*aware that this is an uneasy dynamic, but she's not letting go first either.
 - You bet your fuckin ass that Kay Lin standing over Sequitur is a direct and obvious parallel to what she did with Joce after killing Caleb. She's just a liiiittle more frustrated this time.
 
 ## 11
 - tentative title: "[You can't save her](https://www.youtube.com/watch?v=z8XN7eoZr0Y)"
 
-To the alliance, Em reports that Kay Lin has basically gone batshit, is manipulating Joce into defending her, and 
+To the alliance, Em reports that Kay Lin has basically gone batshit, is manipulating Joce into defending her, and may cause greater destruction if not controlled. After dispatching search parties, Em leaves in a different direction—to fix the problem at its source.
 
-- Em targeting KL, says KL manipulated Joce
-- Joce stuck underground; help party, but no
-- accountant still down here, interrogation walk
-	- hint: winners see the same "game over"
-- Addison encounter, Joce accidentally turns her
-	- hint: if you stay after death you go feral
-- Em intervenes, "I'm here to save you"
-- Joce saves Em's life despite attack, escapes
-	- "Do you think you're a fucking hero?"
-- KL waiting, demands kill or she wrecks everything
-- Joce "hugs"/removes weapon, "I'm sorry," bye
-- game over again, Joce slams quit
+Underground, after blearily taking a small drink (implicitly from another "game over," though it's unclear), Joce finds the rabbits obliterated and Kay Lin gone. There's another trail of some sort, and as Joce follows it she can't shake the feeling she's being watched. (Which is omnipresent, always, but especially bad now.)
+
+The trail abruptly ends, though there's an exit nearby. Around here Joce runs into one of the search parties, her medic-acquaintance included; Joce is happy to go back with them until they talk about Kay Lin. Naturally they don't believe Joce's defense, and more rabbits attack. (They really don't like all these earthquakes and cave-ins.) Though Joce fights with the group, she refuses to leave with them, and they're left with no choice but die together or run; they leave. Someone drags Joce back underground just as a final rabbit lunges, and the exit caves in.
+
+The culprit is the accountant, who just wants to talk. Joce disregards her until she reveals she's been physically picking up the trail. The accountant "thanks" Joce for the opportunity to stay down here and investigate deeper forever. Her motive has always been to determine what draws people to this place, why they linger. On occasion Joce engages the accountant's rambling; namely, Joce admits to feeling like she *has* to save Kay Lin. It's also mentioned, in passing, that winners typically (or at least the accountant can personally attest) get no grand prize; they just see the same "game over" prompt as anyone else who "dies."
+
+Eventually they reach an area by the base of the Beacon; paths aboveground have collapsed, though there's a way through and up the center. The accountant helps Joce clear the path and bids her farewell.
+
+No sooner is Joce inside is she joined by another not-zombie, this time Addison—or at least, the semi-demented shell of a person who presumably is supposed to be Addison. She repeatedly mistakes Joce for WR and babbles about being stuck in limbo; if she leaves she'll have accomplished nothing, but is staying worthwhile? Joce berates her for being passive, self-pitying, and lost, which convinces Addison to try again. And again. And again.
+
+And again. (Joce doesn't recognize it, but she's essentially dry-drowning.) Although Joce tries to apologize, it's useless. People who refuse to go are turned into unrecognizable hellrabbits.
+
+Just as "Addison"/the rabbit backs Joce into a corner, Em intervenes with a bat to the rabbit-skull. (It's not lethal.) She offers to save Joce, but Joce refuses; Em wants to bring her back, but Joce wants to scale the Beacon to get to Kay Lin. Then the rabbit rises again.
+
+Thus begins a hellish waltz of Joce just trying to get by, Em trying to stop her *and* lure the rabbit around like a bullfighter to block Joce's way. At one point the rabbit turns on Em; Joce grabs Em and pulls her aside at the last moment, which puts Joce in a vulnerable position. Em looks almost ready to kill her but freezes. Joce escapes, and Em bashes the rabbit's head in with prejudice.
+
+At the peak, Kay Lin has been waiting. She reiterates her offer/demand; she thinks that, if Joce finishes what Em started, she'll finally be allowed to die. (Even if it's not permanent, it'd be cathartic.) The alternative: Kay Lin uses some type of control (a mirror of what's at the bottom) and destroys this whole place. As extra incentive, the Beacon itself is falling apart. Better hurry up, or Joce won't save *anyone*.
+
+Joce has another idea. She first "hugs" Kay Lin, throwing away the weapon/pendant in the process—then steps back, apologizes, and falls backward off the Beacon. Her last thought, going down, is that if she's wrong, this is gonna suck.
+
+### also of note
+- Between Em's talk to the alliance and her own leave, Sequitur points out that it sounds like she's trying to get Kay Lin killed. Em doesn't respond to that, or even suggests it'd be doing KL a favor.
+- Fun thing the accountant says to Joce: "You know, I've always wanted to know what it's like for a piece of my skull to be half out of my head and half lodged into my brain! Thank you so much!"
+- On Joce needing to save Kay Lin, the accountant's reply: "What, from herself?" Joce doesn't answer.
+- Before parting, the accountant provides her actual name (*Diana*, though she thinks it's old-fashioned and never uses it), and allows Joce a final question. Joce asks "Who's Terry?" and Diana is *delighted* Joce remembered; "Terrance is my deadbeat brother." She never did understand that guy. Threw his whole life away, and for what!
+- The accountant, as a side note, intends to stay down here for the foreseeable future. She's barely scratched the surface.
+- It's possible Addison's word salad has something to do with betrayal. Depends on how much her earlier demise is shown? Regardless, she clearly did not die the hero's death Caleb claimed.
+- The transformation confirms that "zombie" Gary was in a state between human and rabbit.
+- When Em intervenes, she offers Joce a hand. The spotlight from above makes her look all grandiose. "I'm here to save you."
+- Later, when she catches herself about to kill Joce: "This place—these *people*—infect you. Do you think you're a fucking hero?"
+- For extra hell there can be a *split* second of Em facing down the rabbit one last time, where the rabbit hesitates. But Em bats it without mercy.
+- At the end, Kay Lin is wearing the pendant; not sure if she puts it on before this. She's got that eerily blank attitude for most of her talk, though it falters as Joce hesitates—and breaks entirely at the end.
+- Joce's last words to Kay Lin: "I'm sorry you have to see this again."
+
+### author's note/a hopefully-unnecessary clarification
+I am HOPING it is clear that Joce didn't take a backwards stroll to "kill herself," in the same sense as Kay Lin wants to die. I want to make a distinction between "death" in the context of this abstracted game, and "actual" death as self-obliteration. The latter is psychologically lethal; the former, debatable.
+
+Less abstractly, here's a table:
+
+&nbsp; | you win | you haven't won
+continue | new game | white-rot sets in; the more you do this, the worse it gets, culminating in rabbit
+quit | \[unclear; go home?] | \[unclear; presumably, you just fade/melt]
+
+(Not that things have to be *that* clear. Just, y'know, if it looks like the narrative is ~condoning suicide~ or whatever then That Was Not Intended.)
+
+Of course, at this point in the story, there's no proof that quitting =/= Existn't. That said, there are still giant question marks around Em and Kay Lin's situations. That's what next installment is for.
+
+(Also, I... have not figured out the *specific* little things responsible for said situations. It's probably connected to the "control" machinations, at the apex of the Beacon and its inverse. Some kind of lock? And obviously this would've been foreshadowed at the *very* beginning too, except it isn't since, again, still figuring it out. Bear with me.)
 
 ## 12
-- tentative title: "I miss you" ("I missed you"?)
+- tentative title: "I miss you"
+	- or past tense, "I missed you"? I like the ongoing-ness of the present more, though
 
-////
+Again: game over. Splitting pain makes continuation, just for a drop, mighty tempting. But Joce slams to "quit," and her hand bursts from real glass.
 
-- Joce wakes up, could leave but doesn't
-- confirmation: not quitting = transformation
-- overhears KL's breakdown, something is wrong
-- un-fucks the ichor thing
-- KL wakes up alone, "Thank you" anyway
-- Joce leaves. Pause.
-- in-game, Seq+Em "You think I'll make it?"
+She sits up from a chamber, which quickly drains, in the center of a sterile room; the wall-screen behind her buzzes to static, then fades to blank. Joce is very much alive.
+
+There are two doors; one's to an exit, and it's open and blindingly bright. The other, open a crack, leads further into... wherever this is.
+
+Dozens of identical doors and rooms line an artificial hall. Some are empty as the one Joce left, lights off and exit doors closed; in others, light shines upon figures curled in full chambers, the walls behind them offering a glimpse into how they see the world.
+
+The eerie silence is interrupted by a cry, not unlike those goddamn rabbits but distinctly more human. Joce follows it to a room flashing radioactive, door mangled and ajar. A sickly yellow substance clouds the central chamber, spilling out from cracked seams. <!--lmao this reaaaaally stopped being a sentence a scene but it's the end, couldn't help it. I'll duplicate this page for revisions probably--> Looks like someone's tried breaking it but had second thoughts.
+
+The screen only offers static, but between the white noise there's no mistaking the voice. Kay Lin is bereaved. (This is around where Joce starts doing the mechanism-modification thing. Something's been messed with.) Essentially, she apologizes profusely (hell knows to who), and is sickened with herself for driving not one but *two* people off the edge with her refusal to let go. She's gotten so much worse here and has gotten a harsh lesson in what indulging that means. Mostly, even though she doesn't think she deserves it, she wants to move on.
+
+*Click.* Something flickers into view. Something warm, a delirious haze of comforting ecstasy, maybe a hug that she always runs into without second thought—and the bleak, aching hollow of leaving it all behind. But the embrace is an illusion, and Kay Lin falls back into oblivion.
+
+She wakes up gasping. As she gets her bearings, she notices the door further in is ajar; pulled closed, but not all the way. Without thinking she scrambles for it, grabs the handle—but stops herself.
+
+"Thank you! And... goodbye."
+
+It's left ambiguous whether Joce hears this. Her own exit has closed.
+
+&nbsp;
+
+The in-game setting is in shambles. The Beacon has split and fallen to pieces. Sequitur wanders towards a dark crevice, where one of the starting burrows must have been. They found something of Em's—her bat, maybe the pendant (or at least a piece of it; the northward tip, at least, is gone). They ask if this was worth it. From within, the reply: "I did the right thing. Didn't I?"
+
+Largely without prompting, Em continues to talk more than she ever has. "She had no one else but me. What was I supposed to do, let her die?" Em couldn't bring herself to go back, but "If I hadn't intervened, she wouldn't have made it." Sequitur only has one reply: "I dunno, Em. You think *I'll* make it?"
+
+They turn to leave; suddenly there's a rabbit over them, maw encasing them but not quite clamping down. Its crooked teeth spell out, if you squint, "DON'T GO."
+
+&nbsp;
+
+Same old house, same old city. Joce, whose room is now accented by the ephemera of new hobbies, is gardening when her housemate delivers some mail. She takes it, skims, hands one back. "*Them* again?" "Shred it." The sound is music to her ears.
+
+The housemate returns this time though, and warily suggests she write back—not for actual sending, just as something that might help. (It's implied if not outright stated they had a falling out with the second housemate they were seen with in the intro.) Though Joce is wary, the contents of the letter form a voiceover narrative (and have for the entire story, sporadically) that frames the entire ending montage, which spans months. She's talking to people, getting out, trying things. Bonding with this one housemate for sure, but also other complete strangers. (Taking meds, as a background detail.) It ain't all sunshine and roses, but it's progress.
+
+In a final note, she admits she still thinks about Sal a lot. But lately, it's hasn't been this big terrifying thing that leaves her on edge for days, it's just something that happened.
+
+### also of note
+- The "chambers" are glass, cylindrical—might even look like bottles because of course they would.
+- During Em's rant/monologue, she mentions out of left field that Kay Lin wanted Em to meet KL's parents. Em is still incredulous about this. Evidently they were not on the same wavelength about a few things. (Implicitly, this is what they were having (wholly-unspoken-)conflict over when the rabbit-snare scene took place.)
+- Joce is wearing a foot brace at the end. Sometimes re-exacerbating a strain, repeatedly and with little rest, has consequences. But it's healing.
+- The poster in Joce's room is still there, but gradually joined by notes, photographs, other nice little things. Eventually it gets taken down altogether, although there's still *some* piece of the series she keeps around.
+- Why gardening? Besides the ~growth~ imagery, scrap paper makes excellent compost.
+- It could be implied Joce meets up with one or two people from the game again? It'd be that medic-acquaintance and other background randos though, definitely no one major.
+
+/
+
 - Joce+neighbor letter talk
 - letter and montage, gettin better
 - letter dissolves at the end, *fin.*
