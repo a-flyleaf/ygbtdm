@@ -2,7 +2,8 @@
 layout: 1
 title: scenes
 ---
-a sentence a scene keeps the text wall awayeah it really doesn't but I can try
+a sentence a scene keeps the text wall awayeah it really doesn't but I can try  
+update: it got longer as it went on
 
 Part divisions are subject to change, especially around the middle, but for the sake of scope I would really like to not break 12. That said, lengths vary.
 
@@ -363,22 +364,17 @@ They turn to leave; suddenly there's a rabbit over them, maw encasing them but n
 
 &nbsp;
 
-Same old house, same old city. Joce, whose room is now accented by the ephemera of new hobbies, is gardening when her housemate delivers some mail. She takes it, skims, hands one back. "*Them* again?" "Shred it." The sound is music to her ears.
+Same old house, same old city. Joce, whose room is now accented by the ephemera of new hobbies (some of which are not solo activities), is gardening when her housemate delivers some mail. She takes it, skims, hands one back. "*Them* again?" "Shred it." The sound is music to her ears.
 
-The housemate returns this time though, and warily suggests she write back—not for actual sending, just as something that might help. (It's implied if not outright stated they had a falling out with the second housemate they were seen with in the intro.) Though Joce is wary, the contents of the letter form a voiceover narrative (and have for the entire story, sporadically) that frames the entire ending montage, which spans months. She's talking to people, getting out, trying things. Bonding with this one housemate for sure, but also other complete strangers. (Taking meds, as a background detail.) It ain't all sunshine and roses, but it's progress.
+The housemate returns this time though, and warily suggests she write back—not for actual sending, just as something that might help. (It's implied if not outright stated they had a falling out with the second housemate they were seen with in the intro.) Though Joce is hesitant, the voiceover from this point on is part of it. Implicitly it's not the only one, and is also the source of any narrative voiceover from previous points in the story.
 
-In a final note, she admits she still thinks about Sal a lot. But lately, it's hasn't been this big terrifying thing that leaves her on edge for days, it's just something that happened.
+Joce admits she still thinks about Sal a lot, but it's starting to become a background annoyance instead of this big omnipresent threat that keeps her on edge for days. (Most of the time, anyway.) In any case, they finally stopped writing recently; she hasn't read a thing in ages so she doesn't know why. She hopes they figured some stuff out. But if they haven't, well, none of her business anymore.
+
+The last note is left out to dissolve in the rain, words washed away into nothing.
 
 ### also of note
 - The "chambers" are glass, cylindrical—might even look like bottles because of course they would.
 - During Em's rant/monologue, she mentions out of left field that Kay Lin wanted Em to meet KL's parents. Em is still incredulous about this. Evidently they were not on the same wavelength about a few things. (Implicitly, this is what they were having (wholly-unspoken-)conflict over when the rabbit-snare scene took place.)
-- Joce is wearing a foot brace at the end. Sometimes re-exacerbating a strain, repeatedly and with little rest, has consequences. But it's healing.
-- The poster in Joce's room is still there, but gradually joined by notes, photographs, other nice little things. Eventually it gets taken down altogether, although there's still *some* piece of the series she keeps around.
 - Why gardening? Besides the ~growth~ imagery, scrap paper makes excellent compost.
-- It could be implied Joce meets up with one or two people from the game again? It'd be that medic-acquaintance and other background randos though, definitely no one major.
-
-/
-
-- Joce+neighbor letter talk
-- letter and montage, gettin better
-- letter dissolves at the end, *fin.*
+- Joce is wearing a foot brace. Sometimes, re-exacerbating a strain, repeatedly and with little rest, has consequences. But it's healing.
+- My initial thought was that the end letter covered a big montage, but it seemed a little too pat. Maybe the "camera" just lingers on the section of her wall where the giant poster is. It's gradually joined by notes, reminders, photographs. Eventually it gets taken down altogether, although there's still *some* piece of the series she keeps around. A mini version of the same, maybe.
