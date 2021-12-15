@@ -1,32 +1,25 @@
 ---
 layout: 1
-title: styleguide
 ---
-## h2
-{%include img.html
-	pos="right"
-	url="test.png"
-%}
+## siteguide
+**[synopsis]({%include url.html%}/synopsis)**: Three versions of a story summary: a sentence, a paragraph, and a general storyline. Includes a footnote about my goals with the story.
 
-[Lorem ipsum](https://lipsum.com/) dolor sit amet, consectetur adipiscing elit. Aenean vel leo massa. In molestie augue vel felis varius cursus. Nullam aliquam erat ante, in vestibulum arcu congue at. Nam cursus turpis sit amet turpis porttitor, nec dapibus tortor dapibus. Ut enim metus, porttitor nec dignissim et, sodales sit amet justo. Vivamus in sollicitudin orci.
+**[cast]({%include url.html%}/cast)**: Short character descriptions; details that wouldn't necessarily be discernible otherwise.
 
-{%include img.html
-	pos="left"
-	url="test.png"
-%}
+**[scenes]({%include url.html%}/scenes)**: A much longer version of the story, laying out each scene and additional notes of relevance.
 
-Morbi vel dui porta, pulvinar lectus ut, pellentesque nulla. Duis finibus, justo non consequat luctus, neque ex maximus est, laoreet fringilla ante felis et mi. Integer dictum ut ligula vestibulum bibendum. Proin sodales libero ac lectus pulvinar, in tristique turpis porta. Cras lacinia, lacus a sollicitudin tempus, enim urna ultrices massa, in vehicula purus justo et orci.
+## content note
+The story has been built around the allure of a mutually-destructive relationship, so jot that down,,
 
-{%include img.html
-	pos="center"
-	url="test.png"
-	alt="test"
-%}
+> If you don't need content warnings I **strongly** suggest skipping the specifics, since just saying something is present will spoil it.
+>
+> Otherwise, [the full page is here]({%include url.html%}/cw).
 
-Vestibulum accumsan sit amet leo a cursus. Donec ornare eget lectus euismod gravida. Nunc risus urna, sagittis et convallis in, ultrices sed ex. Sed lectus justo, convallis quis odio non, consectetur ullamcorper enim. Nulla eu metus at arcu scelerisque faucibus at vel massa. Vivamus varius semper urna. Pellentesque ornare viverra purus accumsan lobortis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+It's not for kids. It is also not as Dark™ and Edgie™©® as this might make it sound (I don't think??), but, well, Shit Comes Up.
 
-## heading tww heading 2 heading II heading two heading heading sdkghsdkdhgskj
-Duis vehicula mi eu libero iaculis scelerisque. Nam imperdiet mauris a velit ultrices, sit amet cursus velit vestibulum. Aliquam tristique sem elit, sit amet lacinia dolor placerat sed. Cras eget nibh a arcu mollis tincidunt congue eget mi. Cras ut lacus faucibus, rhoncus quam ac, aliquam augue. Praesent suscipit nulla vitae risus varius fermentum. Ut sit amet purus euismod, accumsan odio nec, facilisis diam. Integer pretium dolor id auctor pretium. Nunc vitae augue est. Quisque sed faucibus quam.
+&nbsp;
 
-### heading three heading 3 heading III heading three heading heading sdkghsdkdhgskj
-Nullam elit lacus, accumsan sed mattis eu, lacinia vel turpis. Cras non dolor vel velit faucibus ullamcorper sit amet non diam. Praesent quis diam nec lectus vestibulum imperdiet. Morbi vel tellus sit amet ex maximus malesuada id quis nibh. Curabitur dapibus lectus ac dolor condimentum, id malesuada ex volutpat. 
+## miscellaneous meta-musings
+- the big title thought as of Dec.14 is *You're gonna be the death of me*. also considering *No one else but you*, but that sounds too much like something that'd be in all-caps bold italic arial on an aesthetic post when the tone I'm thinking of is more "serious storyline, but Has Humor"
+- first got the idea in late November 2020, developed for 2--3 months around January--March 2021, dropped it for a while, and then it came back with a fucking *vengeance* when I thought of a major twist in mid-May (I think?) and now we are in it *deep* my dudes
+- but seriously titles are my burden send help
