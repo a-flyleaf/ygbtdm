@@ -4,7 +4,7 @@ title: scenes
 ---
 Part divisions are subject to change, especially around the middle, but for the sake of scope I would really like to not break 12. That said, lengths vary.
 
-I rewrote this like three times at varying lengths and amounts of expressiveness. (You can read them [here]({%include url.html%}/oldversions) if you want.) What I've settled on is **about a sentence a scene**. Since this inevitably leaves details out, there's also an "additional notes" section below each part, for recurring themes and other Things That Will Be Relevant Later.
+After a couple rewrites of varying lengths and amounts of expressiveness, I've settled on what I hope is a happy medium: about a sentence a scene, with additional notes at the end of each part for visually- and/or thematically-significant details.
 
 ## 1
 possible title: "Relapse"
@@ -237,6 +237,7 @@ possible title: "[You can't save her](https://www.youtube.com/watch?v=z8XN7eoZr0
 
 - KL waiting, demands kill or she wrecks everything
 	- wearing pendant now, it's the mirrored control
+	- references being like a rabbit
 - Joce "hugs"/removes weapon, "I'm sorry," bye
 - game over again, Joce slams quit
 
