@@ -93,27 +93,27 @@ Between the blasts, echoing cry-wailing, haze, and her own sprain acting up, Joc
 As he starts melting away (clothes and blood and all), Kay Lin (who seems rather red, or is it the lighting?) leans in close, blank-faced. She turns the glass towards her own neck, saying exactly how long it takes for someone to asphyxiate and bleed out. Joce can't move.
 
 ## 5
-/
+The first part is shown through the framing device of what seems to be a first-person video game. This is how Joce approaches the third challenge, a silent capture-the-flag in which opposing players are eliminated/"tagged" via jab to the neck. (It doesn't kill; they're all wearing something that both detects the hit and indicates team.) Joce is laser-focused—except when that damn sprain makes itself known again.
 
+Interspersing the silent montage are (achronological?) snippets of what happened between last part and now: the challenge summons went off, and only then did Kay Lin back up. She acted vaguely normal, complaining of a headache, but Joce walked past her in a trance. Rabbits loom but don't attack; this mirrors people lurking in the challenge just out of sight. Joce couldn't shake the feeling of being watched. At the Beacon, Joce overheard an exchange between Gary and the accountant suggesting the accountant had been out the previous night. (The entire house segment took all night.) Despite serious hangovers, no one seems to have been poisoned.
 
-- fuzzy: Joce FPS, KL suspiciously normal
-- Joce shoves past KL, claims victory
-- Joce ignores prize, Gary invites her back
-	- Joce brings up suspicion (three people out, two came back); Gary's assuming the best
+Partway through the challenge, Kay Lin seems to tower over Joce again—Joce shoves past, and it's the lookalike. As Joce nears the goal, she recognizes Gary about to ambush the *actual* Kay Lin; despite instinct, Joce ignores this and smashes the target, claiming victory.
 
-&nbsp;
+The winning team's prizes: messages in bottles, letters from home. Joce pointedly ignores hers and starts to leave solo, adrenaline (and energy) fading fast. Gary approaches with congratulations and invites her to return to the house; Joce, drained, accuses him of setting a trap, since three people left last night and only two came back; Gary is confused, apparently unaware, but says he's offering on good faith anyway. Long as she follows the house rule (no drama, no murder, all that), it's fine with him. Lurking rabbits, the ongoing feeling of being watched, and incoming exhaustion convince Joce to concede. The second she reaches the house, she finds the nearest bed and crashes.
 
-- accountant note+bottle
-	- "someone's looking out for you ;)"
-- attempt to make allies, flails; KL bruised
-- Gary talking to KL, Joce tries to warn
-	- confesses to causing bruise
-- no drinks only accountant now; map loop
-- Gary steps in, immediate confirmation
-	- "Don't hurt her"
-- J@KL gotta go, people+KL resist
-	- KL's talking but heart's not in it
-- Gary sends 'em out; KL asks for bottle
+When Joce wakes up, her prize bottle's nearby, along with a note from the accountant; "Someone's looking out for you ;)," plus a request to meet her in her study. Joce leaves the bottle and decides to actually talk to people,both to get a sense of what happened and maybe make new allies.
+
+Two things quickly become apparent: first, Kay Lin is here (though she doesn't keep eye contact with Joce or vice versa; she talks halfheartedly to others, head down), and second, Joce's attempts at outreach are a self-fulfilling prophecy. While there are a few raised eyebrows (why *was* Kay Lin asking about her last night? Why's she acting funny now?), Joce mostly digs her own grave by not knowing how to approach people → noticing people are giving her weird looks → getting frustrated and agitated, which makes her act more obviously erratic and *definitely* puts people off.
+
+After a couple rounds of this, Joce returns to the common area and sees Gary talking to Kay Lin. The latter is bruised where Joce hit her last night, and Gary looks sympathetic. Joce internally flips. At the first opportunity she tries to pull Gary aside; she confesses without prompting that she lashed out last night, but for wholly unrelated reasons, she thinks something's up with Kay Lin. She doesn't get further when she notices people eavesdropping, and walks off on the spot.
+
+At this point Joce needs a fuckin' drink; she picks the next best thing and finds the accountant in the now-unlocked study. The accountant has recreated a map of the place, with new paths and chasms marked and several details shifted. She'd like Joce's input. Joce explains her own theory about the map looping, as if the entire game takes place on some warped sphere; this delights the accountant, who calls Joce a genius. Despite everything, Joce feels kinda good about that.
+
+Gary steps in, apparently about to ask to talk about something, but freezes when he sees Joce. The accountant looks between them and (still delighted) connects the dots quickly: this is about that girl, isn't it? Of *course* she noticed both last night's outing and Caleb's subsequent absence, not to mention Joce and Kay Lin being noticeably separate. The accountant has also determined that Joce wouldn't intentionally kill a flea. Joce tries to interject ("Don't hurt her"); Gary attempts to assure her this only means Kay Lin would get kicked out, though the accountant thinks they ought to revisit that idea. Apologetic, Gary tells Joce to wait outside; she doesn't need to be asked twice.
+
+People are interrogating Kay Lin as if she's been abused; she denies it, but is mostly talked over. Joce, ignoring everyone else, tries to grab her and leave, asap; Kay Lin is baffled, and it exacerbates people's bad impressions. Gary interrupts, calling both Joce and Kay Lin aside.
+
+He takes them out the back, admitting he personally doesn't care *what* they do as long as they don't threaten each other or anyone here, but the accountant thinks otherwise. Between that and the other guests' suspicion, he tries to usher them out quietly. (Joce's unprompted confession has convinced him she's one of the "good guys," and he finds it hard to believe Kay Lin is dangerous.) On the way out, Kay Lin asks for Joce's bottle-prize; the accountant, having watched this whole scene, hands it over with a grin. Safe travels, you two~!
 
 ## 6
 - J/KL condescending, savior complex, sus, why me
