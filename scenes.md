@@ -11,7 +11,7 @@ tentative title: "Relapse"
 
 Players wake up in a panopticon-esque underground and are introduced to the game: many have entered, one will win, and the winner can go home. Have fun!
 
-Protagonist Joce lives a predictable, bare-minimum lifestyle, which quickly becomes stifling when quarantine hits. She's also sustained a minor ankle sprain; inspired by videos of parkour, she took a route she shouldn't have. When she returns to her room, two housemates (apparently a couple, one more thoughtful than the other) are in her room. They give her a couple letters: a letter from "Skoal," which is quickly shoved in a drawer full of unopened letters from the same sender, and a flyer inviting her to the thrill of her dreams. Joce thinks it's a scam, but can't stand the monotony. She glances up at the one sign of personality in her room: above her bed, a worn poster of a gritty action hero.
+Protagonist Joce lives a predictable, bare-minimum lifestyle, which quickly becomes stifling when quarantine hits. She's also sustained a minor ankle sprain; inspired by videos of parkour, she took a route she shouldn't have. When she returns to her room, two housemates (apparently a couple, one more thoughtful than the other) are in her room. They give her a couple letters: a letter from "Salvador," which is quickly shoved in a drawer full of unopened letters from the same sender, and a flyer inviting her to the thrill of her dreams. Joce thinks it's a scam, but can't stand the monotony. She glances up at the one sign of personality in her room: above her bed, a worn poster of a gritty action hero.
 
 Back in-game, one player has started rallying the others; when she calls on Joce, Joce ignores it. However, when the grandstander picks on a small girl curled up in a corner (who also doesn't respond, to the speaker's frustration), Joce takes notice.
 
@@ -48,7 +48,7 @@ While they're talking at each other, rabbits enter the scene. Caleb and Kay Lin 
 
 Joce has started trying to escape; Addison stopped following after the insults, but in the wake of the third's demise (their body goes still, decapitated standing, then drops), a rabbit gets close to Addison. Joce dispatches it/pulls her away, then gets down for good; she grabs Kay Lin (offers Caleb an opening too, which he doesn't take) and makes a run for it.
 
-As Joce and Kay Lin leave, Joce asks why Kay Lin didn't tell her about the landscape looping. Kay Lin asks why Joce gave Addison a fake name; Joce's response amounts to "was she listening?"; Kay Lin knows the real one anyway. Back to Joce's question, Kay Lin points out that Joce wasn't listening to *her* much earlier anyway; after some protest, Joce dryly apologizes, with something to the effect of "I'll heed your every word from now on, my liege." Finally answering, Kay Lin shrugs; she claims she just never noticed.
+As Joce and Kay Lin leave, Joce asks why Kay Lin didn't tell her about the landscape looping. Kay Lin asks why Joce gave Addison a fake name; Joce's response amounts to "was she listening?"; she doesn't like people knowing things about her, period. That said, Kay Lin knows the real name, and now Joce wants an answer. However, Kay Lin points out that Joce wasn't listening to *her* much earlier anyway; after some protest, Joce dryly apologizes, with something to the effect of "I'll heed your every word from now on, my liege." Then musters something more genuine. Finally answering, Kay Lin shrugs; she claims she just never noticed.
 
 Back at the alliance, Addison is still agitated. Wolf has nothing kind to say about her; Caleb's the only one claiming defense, and he's annoying everyone about it including Addison. She tries making a speech clarifying and apologizing for the situation, but it sounds phony and makes matters worse.
 
@@ -116,21 +116,28 @@ People are interrogating Kay Lin as if she's been abused; she denies it, but is 
 He takes them out the back, admitting he personally doesn't care *what* they do as long as they don't threaten each other or anyone here, but the accountant thinks otherwise. Between that and the other guests' suspicion, he tries to usher them out quietly. (Joce's unprompted confession has convinced him she's one of the "good guys," and he finds it hard to believe Kay Lin is dangerous.) On the way out, Kay Lin asks for Joce's bottle-prize; the accountant, having watched this whole scene, hands it over with a grin. Safe travels, you two~!
 
 ## 6
-- J/KL condescending, savior complex, sus, why me
-	- "why didn't you fight back" "Did you *want* to get stabbed?" "Yes. *No!*"
-- rabbit fight, "here's to being fucked up," all is well
-	- handshake of reconciliation
-- (offscreen/later implicit: Gary felt bad about J+KL, sneaks out without accountant's knowing)
+Tensions have not abated. The landscape's more perilous now than it was at the start, with new chasms tearing through the surface and the remnants of broken structures sharp and abundant.
 
-&nbsp;
+Joce has confessed to selling Kay Lin out. She insists, however, that she dragged Kay Lin out to save her, because she cares, and that's a confession. Kay Lin, however, accuses her of having a savior complex, dragging Kay Lin along without Kay Lin's input to make herself feel better; Joce asks what the hell last night (the Caleb kill) was about. Kay Lin hesitates; Joce presses, and eventually Kay Lin says she was trying to see if Joce would fight back. It would've been so *easy* for her to throw either of them off. (J: "Did you *want* to get stabbed?" KL: "Yes. *No!*")
 
-- Joce sneaks out to toss letter, hesitates; hi Gary
-- letter is not what she thought it was
-- rabbit attack, Gary killed along with
-- KL silently holds Joce's hand
+Less argue-y: Kay Lin doesn't understand why Joce has continued looking out for her—a sentiment Joce can relate to, for better *and* for worse. Their talking has attracted a couple of rabbits; building on old plans (while being chased), Joce and Kay Lin lure the creatures to a vulnerable spot, then pull the figurative trigger just in time. Concluding both that and the "why do you care about me so much" conversation (which is not quite answered on either end, but there's weird comfort in knowing it's mutual) Kay Lin offers a reconciliatory handshake: "Here's to being fucked up." Joce would prefer not to be, but takes it anyway.
+
+She takes pity on the people who become rabbits. Kay Lin doesn't have much to say about it.
+
+As darkness falls again (Joce woke up around midday; the day went by fast, yes), they find a small area of the underground that's rabbit-free (implicitly, the rabbits they just killed used to dwell here), and take shelter. Joce is still carrying the bottle, and when Kay Lin falls asleep, she decides to get rid of it. She treks deeper to an underground pool, where she deliberates how to destroy it forever—or if she even wants to.
+
+Gary approaches. Implicitly he's been frustrated with the accountant all day and found her underground route; he also wants to check in with Joce and Kay Lin. Joce warily lets him approach, and inevitably he asks about the letter; she says it's from someone she doesn't care for, but she can't bring herself to get rid of it. She's certain it'll be a bunch of whining, anyway. Gary suggests she read it just for peace of mind, and since he doesn't pry further, Joce decides to give it a go.
+
+She expects a sob story from Sal, some pathetic begging for her to take them back. Instead she gets a righteous declaration of eternally-soured intent, in which Sal blames her for abandoning them more callously than anyone ever has, not ever truly caring about them, and in sum this is a suicide note and they want to die knowing she's well aware of just how much she's ruined them.
+
+Joce is *incensed*. While she was focused on reading, more rabbits were closing in; Gary snaps her out of it and they try to fight back together, Gary with his bat and Joce with the bottle. Although this almost works, with Gary bashing one right into the pool (where it seems to start melting alive), it threatens to drag him down with. At Gary's frantic suggestion, Joce triggers a small collapse to hit it in time, but the concentrated cave-in buries him with.
+
+Kay Lin, woken by the ruckus, finds Joce standing knee-deep among the wreckage. After making sure the coast is clear, she wades in; Joce doesn't respond. Wordlessly she takes Joce's hand. There's blood in the water.
 
 ## 7
-possible title: "[Desperately safe](https://www.youtube.com/watch?v=rCywWxg5DoY)"
+tentative title: "[Desperately safe](https://www.youtube.com/watch?v=rCywWxg5DoY)"
+
+Between this part and next, 
 
 - flashbacks between this and next ep
 - meanwhile injury + BSOD = Joce unresponsive
