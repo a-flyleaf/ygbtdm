@@ -50,7 +50,7 @@ Joce has started trying to escape; Addison stopped following after the insults, 
 
 As Joce and Kay Lin leave, Joce asks why Kay Lin didn't tell her about the landscape looping. Kay Lin asks why Joce gave Addison a fake name; Joce's response amounts to "was she listening?"; she doesn't like people knowing things about her, period. That said, Kay Lin knows the real name, and now Joce wants an answer. However, Kay Lin points out that Joce wasn't listening to *her* much earlier anyway; after some protest, Joce dryly apologizes, with something to the effect of "I'll heed your every word from now on, my liege." Then musters something more genuine. Finally answering, Kay Lin shrugs; she claims she just never noticed.
 
-Back at the alliance, Addison is still agitated. Wolf has nothing kind to say about her; Caleb's the only one claiming defense, and he's annoying everyone about it including Addison. She tries making a speech clarifying and apologizing for the situation, but it sounds phony and makes matters worse.
+Back at the alliance, Addison is still perturbed. Wolf has nothing kind to say about her; Caleb's the only one claiming defense, and he's annoying everyone about it including Addison. She tries making a speech clarifying and apologizing for the situation, but it sounds phony and makes matters worse.
 
 That night, Addison returns to the Beacon solo, and finds that the underground is no longer flooded. She hears someone following, assumes it's WR, and rant-monologues; it's unclear whether she's more upset about the death, her own incompetence, or Joce pointing it out. In conclusion, she's down here because she's hoping to find something that can control this place so everyone will love her again—and, more genuinely, so she can be someone worth saving.
 
@@ -103,7 +103,7 @@ The winning team's prizes: messages in bottles, letters from home. Joce pointedl
 
 When Joce wakes up, her prize bottle's nearby, along with a note from the accountant; "Someone's looking out for you ;)," plus a request to meet her in her study. Joce leaves the bottle and decides to actually talk to people,both to get a sense of what happened and maybe make new allies.
 
-Two things quickly become apparent: first, Kay Lin is here (though she doesn't keep eye contact with Joce or vice versa; she talks halfheartedly to others, head down), and second, Joce's attempts at outreach are a self-fulfilling prophecy. While there are a few raised eyebrows (why *was* Kay Lin asking about her last night? Why's she acting funny now?), Joce mostly digs her own grave by not knowing how to approach people → noticing people are giving her weird looks → getting frustrated and agitated, which makes her act more obviously erratic and *definitely* puts people off.
+Two things quickly become apparent: first, Kay Lin is here (though she doesn't keep eye contact with Joce or vice versa; she talks halfheartedly to others, head down), and second, Joce's attempts at outreach are a self-fulfilling prophecy. While there are a few raised eyebrows (why *was* Kay Lin asking about her last night? Why's she acting funny now?), Joce mostly digs her own grave by not knowing how to approach people → noticing people are giving her weird looks → getting frustrated, which makes her act more obviously erratic and *definitely* puts people off.
 
 After a couple rounds of this, Joce returns to the common area and sees Gary talking to Kay Lin. The latter is bruised where Joce hit her last night, and Gary looks sympathetic. Joce internally flips. At the first opportunity she tries to pull Gary aside; she confesses without prompting that she lashed out last night, but for wholly unrelated reasons, she thinks something's up with Kay Lin. She doesn't get further when she notices people eavesdropping, and walks off on the spot.
 
@@ -141,19 +141,29 @@ On the way back, Kay Lin caught Joce walking with a limp. She demands Joce let h
 
 There are (probably achronological) flashbacks interspersed throughout this part and the next, in segments from Joce's point of view; since I'm not quiiiite sure how they fit in yet, they're in [a separate section on this page](#flashbacks-78).
 
-Between this part and next, 
+Joce's injury keeps her "bedbound;" she's barely acknowledging Kay Lin anyway, not even to complain about exercises. It's like she's a zombie, and Kay Lin barely breaks through the slurry. What just happened is impossible to touch; old traumas are fair game.
 
-- flashbacks between this and next ep
-- meanwhile injury + BSOD = Joce unresponsive
-- Kay Lin meets Sequitur x2, gets high
-	- haze = liquid = high, they have crack theories
-- interim framed in cheating parallel
-- x3, accountant blackmails
-	- mostly threatens Joce by stating the truth; also has pendant
-	- offers handshake, KL ignores, hand *grab* instead
-	- culminates in KL K-O; possible back-and-forth cliffhangers with Gary (like: blackmail works/handgrab, then Gary appears, then back to this/KO, then back to attack)
-- zombie!Gary attacks, Joce OUT
-	- hint: being stuck here changes you
+Kay Lin, going a bit stir-crazy, mentions heading out at one point, just to scope about the aboveground. Joce doesn't answer, even when she semi-jokingly threatens to leave forever, which spikes Kay Lin's frustration. She yells at Joce for being unresponsive, hastily (genuinely) apologizes, and sees herself right out. Joce was paying attention for that.
+
+She returns much later, a bit giddy, but is quickly drained by the stagnation down here. It happens again the next day, and this time Kay Lin talks (which also shows the encounter): she met someone named Sequitur (the odd fellow who Joce intimidated back in part 1, though Kay Lin doesn't recognize them from anything), and they convinced her to check out this underground "oasis" not far away. Sequitur thinks the haze is the liquid is the haze, and in small doses it's *pretty fuckin sweet*.
+
+The first round, Kay Lin stayed back. But as Sequitur promised they were there again the next day, and what she doesn't quite tell Joce is that she had a *great* time. Sequitur even commented on how high-strung she'd been earlier; ain't it swell to just let go?
+
+There are two ways in, past some sort of wall: over it, which Sequitur scales with relative ease (they're very lanky), and a crevice through it. On the third day Kay Lin swings by, she's partway through when she realizes the path is blocked off. She immediately knows she's fucked. Back at the opening, the pendant swings from above. The accountant says hello.
+
+(Possible cliffhanger; insert flashback iii? But moving along.)
+
+The accountant simply wants to talk; not out here, though, obviously. She "requests" Kay Lin join her, promptly, and if Kay Lin resists then the accountant will simply *have* to tell everyone how Joce dragged her away, mention that she's been hiding out in the middle of nowhere and feeling trapped. Not to mention the people who've disappeared (Gary and Caleb). It's blackmail by truth, essentially, and she offers a handshake to seal the deal. Kay Lin tries to ignore it, but when she steps out the accountant grabs her hand in a vicegrip. There will be no complaints. Or would she like the accountant to add that she's been stockholmed?
+
+Kay Lin bites her lip. The accountant smiles. "Smart girl."
+
+Joce is starting to notice that Kay Lin's been out longer than usual. She finally tries to clear her head and get up. Aboveground seems too risky, but since Kay Lin mentioned the place was underground, Joce returns to the scene of the cave-in. The rubble has moved. Something's groaning. Gary...?
+
+The accountant takes Kay Lin back to the house, which is empty. At the first opportunity, Kay Lin tries to run; the accountant is faster and OHKOs her with a bat. After checking for a pulse, the accountant takes her in.
+
+Joce has found "Gary," or at least a hollow shell that looks and sounds like Gary, but with hollow sockets for eyes, sloughing skin, joints in the wrong places. He's grown considerably but much, much scrawnier, and barely (but all too) intelligible; why'd he get left behind? It almost sounds like he's crying.
+
+Joce tries to talk to him, but he keeps reaching out and every time she dodges he gets more agitated—and more active. (She's also grabbed his bat, though she only uses it to try holding him back; this also makes him worse.) Before long she's trying to half-run backwards up to the surface, but Gary keeps banging around as if he's trying to trap them both. (He hits himself more than he's attacking her.) As he closes in, Joce finally tries to hit back. The wound rots white immediately; for a moment Gary seems lucid, says "Run," then goes on full offense. Joce bats down a support, says she's sorry she couldn't save him, and escapes, leaving the entire cavern to close in behind her.
 
 ## flashbacks 7--8
 Visual note: in the first and second flashbacks, Joce is wearing some kind of clothing or accessory related to the action franchise. The logo also appears in the game in the fifth flashback.
@@ -239,6 +249,7 @@ It's day. Then night. Joce returns to the door locked. Key doesn't work. She tak
 ## 10
 - Kay Lin tries to get through to Em, Em's like "nah"
 - Joce gets Em's story: KL's idea, more later
+	- Em thinks Joce is completely enamored by KL/thinks KL is totally innocent or whatever; Joce however remembers being snapped at during the BSOD phase (among Everything Else) and is... less of a stan. Em's like "!!" about it. (if it doesn't come up Right Here And Now, then later when they're pursuing.)
 - Seq finds KL upset, KL invites them to "help"
 - Em@J: they do be gone tho
 - pursuit, Em and Joce work together better
