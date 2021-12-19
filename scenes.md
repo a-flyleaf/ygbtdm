@@ -46,9 +46,9 @@ Addison offers a reintroduction and offers a handshake; Joce ignores it and give
 
 While they're talking at each other, rabbits enter the scene. Caleb and Kay Lin are shoved in a semi-underground space for safety, while the guard trio try to fight back. Despite each person being individually strong, they're barely coordinated; WR on defense, Wolf on offense, and third trying to help whoever's closest. At one point they rely on Wolf as backup; Wolf fails to provide, and the third is chomped by a rabbit.
 
-Joce has started trying to escape; Addison stopped following after the insults, but in the wake of the third's demise (their body goes still, then starts melting into the ground), a rabbit gets close to Addison. Joce dispatches it/pulls her away, then gets down for good; she grabs Kay Lin (offers Caleb an opening too, which he doesn't take) and makes a run for it.
+Joce has started trying to escape; Addison stopped following after the insults, but in the wake of the third's demise (their body goes still, decapitated standing, then drops), a rabbit gets close to Addison. Joce dispatches it/pulls her away, then gets down for good; she grabs Kay Lin (offers Caleb an opening too, which he doesn't take) and makes a run for it.
 
-As Joce and Kay Lin leave, Joce asks why Kay Lin didn't tell her about the landscape looping. Kay Lin points out that Joce wasn't listening much earlier anyway; after some protest, Joce dryly apologizes, with something to the effect of "I'll heed your every word from now on, my liege." Finally answering, Kay Lin shrugs; she claims she just never noticed.
+As Joce and Kay Lin leave, Joce asks why Kay Lin didn't tell her about the landscape looping. Kay Lin asks why Joce gave Addison a fake name; Joce's response amounts to "was she listening?"; Kay Lin knows the real one anyway. Back to Joce's question, Kay Lin points out that Joce wasn't listening to *her* much earlier anyway; after some protest, Joce dryly apologizes, with something to the effect of "I'll heed your every word from now on, my liege." Finally answering, Kay Lin shrugs; she claims she just never noticed.
 
 Back at the alliance, Addison is still agitated. Wolf has nothing kind to say about her; Caleb's the only one claiming defense, and he's annoying everyone about it including Addison. She tries making a speech clarifying and apologizing for the situation, but it sounds phony and makes matters worse.
 
@@ -76,24 +76,26 @@ Gary and the accountant are still together, and once at the house, Joce decides 
 The accountant, alerted by the ruckus, interrupts them both to announce drinks are being served. Implication: attendance is mandatory. And someone wants to talk to them.
 
 ## 4
-Caleb is at the table; apparently he showed up while Joce was busy, having been kicked out of the alliance. He
+Joce tells Kay Lin not to take a sip. She waves it off; it makes her "all red and fucked up."
 
-- Caleb faux-pology, antagonizes KL until outburst
-	- before this: "all red and fucked up"
-	- Caleb now has pendant, noticeable
-	- "She is NOT my—!"
-- Joce bad memory slurry
-	- asking KL to ask around = people are Taking Notice when they wouldn't have otherwise
-- outside agitaiton, Joce snaps, Caleb sees
+Caleb is at the table; apparently he showed up while Joce was busy, having been kicked out of the alliance (or walked out; his story contradicts itself in favor of self-pity). He "apologizes" to Joce for getting overwhelmed and accusing her baselessly or at least kind of baseless because she *was* pretty rude and well really who can blame him he's had a long day and—Joce waves it off.
 
-&nbsp;
+Caleb doesn't hesitate to take a few swigs, and though it doesn't make him or anyone else drop dead, the drink seems to take people's inhibitions down a notch. He tries to make small talk, which Joce mostly disregards but increasingly irritates Kay Lin; when she mutters something insulting, Joce gives her a nudge, and Caleb pipes in like "Yeah, *Kayla,* why are you so meaaaaan to me? You should listen to your girlfriend :(" Kay Lin is fucking *infuriated* (playing to the "She is NOT my—!" trope, albeit less embarrassed and more as if Caleb just killed her dog), but sits down when she notices she spilled her drink on Joce. Joce gets up and leaves the table.
 
-- Joce tries to leave, Caleb pursues
-- Caleb demands apology, gets stabby; KL kills him
-	- clothes dissolve with; pendant snaps
-- KL has no sense of personal space
+For such a big dining hall it's stupid hard to find the exit, especially with people getting louder and closer all around. The scenery slips away, ceding to spilled drinks, shattered glass, uncomfortable intimacy; taller figures draw near, and flashbacks and present melt into one. People are taking notice; in a slurry of abstraction, it's unclear how much of this is imagined. Joce can't get away fast enough.
+
+Kay Lin finds her pacing outside, more agitated than ever. Joce tells her in no uncertain terms to go away, quit stalking her, etc.; Kay Lin reaches out, and when she makes contact Joce jabs back, knocking her over. Joce freezes; Caleb's watching in the window. Panicked, she runs.
+
+As Joce tries in vain to convince herself this was inevitable, even that this was right and necessary, the haze is thicker than ever. She thinks she's being followed. Caleb sets off blasts on the trail behind them, and threatens to sic people and/or rabbits on her unless Joce apologizes—not even for Kay Lin, but for Addison. Joce refuses; at Caleb's prompting (he's noticed the rabbits don't seem to care for him; he muses they like *tougher* prey), rabbits close in.
+
+Between the blasts, echoing cry-wailing, haze, and her own sprain acting up, Joce is cornered. Caleb offers her one last chance to defend herself, then says he wouldn't buy it anyway. As he's about to stab her with a broken bottle, he gets thwacked and grabbed from behind; Kay Lin stabs and slices his throat. (This breaks the pendant chain; pieces scatter and fall to the ground.) Caleb drops, chokes, and lies still.
+
+As he starts melting away (clothes and blood and all), Kay Lin (who seems rather red, or is it the lighting?) leans in close, blank-faced. She turns the glass towards her own neck, saying exactly how long it takes for someone to asphyxiate and bleed out. Joce can't move.
 
 ## 5
+/
+
+
 - fuzzy: Joce FPS, KL suspiciously normal
 - Joce shoves past KL, claims victory
 - Joce ignores prize, Gary invites her back
