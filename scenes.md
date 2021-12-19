@@ -23,11 +23,11 @@ Meanwhile, someone in the crowd suggests that no one has to die. The underground
 
 When players reach the surface, they're rewarded by supplies and weapons (a baseball bat)—except for Joce and Kay Lin, who as per penalty get jack shit. Joce leaves, Kay Lin follows; the camera lingers on a white-rotted hand rising from below.
 
-Trekking through the hazy, barren landscape, Joce insists there is no "we," and since she doesn't answer Kay Lin's questions about her own motives, Kay Lin won't answer hers. She also insists she doesn't need shelter. Their banter is interrupted by what sounds like someone crying, a strangled wail; Joce approaches despite Kay Lin's hesitation. The noise comes from a crevice underground; when Joce speaks, a humanoid rabbit-monster bursts out and lunges at her. Joce is absolutely no match and is quickly chased down. For a split second, she thinks she sees a human face in its mouth; the rabbit clamps down, and she blacks out.
+Trekking through the hazy, barren landscape, Joce insists there is no "we," and since she doesn't answer Kay Lin's questions about her own motives (the letter was inviting her to a "VR" test/experience, but she won't answer anything personal), Kay Lin won't answer hers. She also insists she doesn't need shelter. Their banter is interrupted by what sounds like someone crying, a strangled wail; Joce approaches despite Kay Lin's hesitation. The noise comes from a crevice underground; when Joce speaks, a humanoid rabbit-monster bursts out and lunges at her. Joce is absolutely no match and is quickly chased down. For a split second, she thinks she sees a human face in its mouth; the rabbit clamps down, and she blacks out.
 
 A "game over" screen flashes, along with two options: continue, quit. Though frazzled, Joce refuses to entertain the idea of leaving when Kay Lin is still in there, and slams continue; it produces a small drink.
 
-Joce finds the rabbit dead, semi-melted into the ground. It was being choked by the same necklace as the first to fall, and has been blasted by some ambiguous warm liquid. Kay Lin's on standby, apparently having triggered the blast by using rubble to smash a nearby rock formation. Joce demands to know how she knew; Kay Lin admits she's familiar with this place, but doesn't know why she's here. (J: "Like an NPC." KL: "What? No—" J: "I'm joking. Partially.") Joce relents, and they leave to find shelter.
+Joce wakes to the rabbit dead, semi-melted into the ground. It was being choked by the same necklace as the first to fall, and has been blasted by some ambiguous warm liquid. Kay Lin's on standby, apparently having triggered the blast by using rubble to smash a nearby rock formation. Joce demands to know how she knew; Kay Lin admits she's familiar with this place, but doesn't know why she's here. (J: "Like an NPC." KL: "What? No—" J: "I'm joking. Partially.") Joce relents, and they leave to find shelter.
 
 Meanwhile, the grandstander, Addison, has kept a small group around, including a small boy Caleb who she lent a hand and now refuses to leave her side. (Minor detail: Addison's outfit has changed, and now includes an eight-pointed star pendant.) The group is approached by a rabbit-figure, apparently the owner of the white-rotted hand; mostly human, sans skull-mask. "White Rabbit" (WR) doesn't talk, but indicates they want to join the group; when Addison hesitates, WR takes her bat and smashes a nearby structure, blasting a hellrabbit no one noticed was there. Addison relents. ("...Sold. Welcome aboard.")
 
@@ -61,26 +61,29 @@ Even deeper down, they find some kind of intricate mechanism, which Caleb notice
 Cut to the ground shaking above; another siren-summons beckons players to the Beacon for the second challenge. Joce notices Caleb alone and more distraught than usual. (Minor detail, won't be noticeable until next part: Caleb's wearing the pendant now.) As the instructions begin, Caleb has an outburst: Addison is dead. Joce takes pity on him; Kay Lin, among a majority of players, find this annoying as hell. Let the games begin!
 
 ## 3
+With some fumbling, players figure the game out: in groups of about 5, one person is designated outlier, and one clue indicates who it is. After a timed deilberation, players vote on who they think is the odd one out; if the outlier is among the last two standing, the outlier wins, but if the outlier is voted, remaining players win. Winners from each round move up to the next level, and those who reach the top are promised grand rewards. (Elimination isn't fatal.)
 
-- amogus1: J+KL+C+Wolf+nameless
-- round1: Caleb targets Joce, KL turns on him; Caleb out, innocent
-- round2: Wolf targets Joce, KL diverts; nameless out, sus
-- interim: Wolf intimidating, KL@J why no scapegoat
-- amogus2: J+D+???, inadvertent team-up, easy win
-- amogus3: Joce sus, folds
+Joce and Kay Lin are grouped with Caleb, Wolf, and a fifth (dubbed "lookalike" as their only discernible detail has some passing resemblance to Kay Lin; it's vague and they are not related). From the getgo, Caleb accuses Joce of essentially getting Addison killed from throwing her off all day; Wolf is hyperaggressive, but Kay Lin points out this has nothing to do with the challenge and shifts focus to Caleb. He's voted out unanimously, but not the outlier. In the second round, Wolf turns on Joce, whose attempt at self-defense is shaky; Kay Lin points out that the lookalike hasn't said anything either, and though the lookalike is calm at first, they accidentally give themselves away and cave. Game done.
 
-&nbsp;
+In the interim, Wolf seems to have claimed control of the alliance; Joce decides not to go anywhere near them. Kay Lin asks why Joce didn't use her as a scapegoat, which would've been easy; Joce didn't doesn't reply, and the next game begins.
 
-- Caleb still accusing, Gary invitation
-- J @KL "go socialize," beach house not lived in
-- Joce falls, KL reports, D calls dinner; all very sus
+Game two: Joce is grouped with the suited person who, in the background of the first challenge, was working with Gary. Suit person (aka "the accountant") reads the room with ease, and Joce inadvertently teams up with her as they both seem to be innocent. However, they're the last two standing, and the accountant claims victory as the outlier. It's a quick game. Joce is eliminated.
+
+Among the eliminated stragglers, Kay Lin is already out, and Caleb is trying to convince everyone Joce is a threat. It's unclear how much headway he's making; Joce's paranoia suggests it's nearly everyone. Gary steps in, sick of the drama, and invites her and anyone else who wants no part in it to join him at his place. Joce is wary, but rabbits outside convince her otherwise.
+
+Gary and the accountant are still together, and once at the house, Joce decides to investigate. She sends Kay Lin off to get a read on whether people are actually suspicious, which is mostly an excuse to make Kay Lin stop shadowing her. While exploring, Joce determines that the house hasn't been lived in (there are no electrical outlets, no ephemera, barren rooms). There's a locked study, and though she finds an odd path underground, she trips on uneven flooring and reaggravates the sprain. Kay Lin catches up and claims no one seems to care; Joce doesn't buy it, and refuses to let her look at the injury. It's confirmation this isn't as removed from the "real world" as Joce thought it was.
+
+The accountant, alerted by the ruckus, interrupts them both to announce drinks are being served. Implication: attendance is mandatory. And someone wants to talk to them.
 
 ## 4
+Caleb is at the table; apparently he showed up while Joce was busy, having been kicked out of the alliance. He
+
 - Caleb faux-pology, antagonizes KL until outburst
 	- before this: "all red and fucked up"
 	- Caleb now has pendant, noticeable
 	- "She is NOT my—!"
 - Joce bad memory slurry
+	- asking KL to ask around = people are Taking Notice when they wouldn't have otherwise
 - outside agitaiton, Joce snaps, Caleb sees
 
 &nbsp;
