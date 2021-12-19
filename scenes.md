@@ -132,10 +132,14 @@ She expects a sob story from Sal, some pathetic begging for her to take them bac
 
 Joce is *incensed*. While she was focused on reading, more rabbits were closing in; Gary snaps her out of it and they try to fight back together, Gary with his bat and Joce with the bottle. Although this almost works, with Gary bashing one right into the pool (where it seems to start melting alive), it threatens to drag him down with. At Gary's frantic suggestion, Joce triggers a small collapse to hit it in time, but the concentrated cave-in buries him with.
 
-Kay Lin, woken by the ruckus, finds Joce standing knee-deep among the wreckage. After making sure the coast is clear, she wades in; Joce doesn't respond. Wordlessly she takes Joce's hand. There's blood in the water.
+Kay Lin, woken by the ruckus, finds Joce standing knee-deep among the wreckage. After making sure the coast is clear, she wades in; Joce doesn't respond. Wordlessly she takes Joce's hand. Joce notices but doesn't move. It's so, so murky.
 
 ## 7
 tentative title: "[Desperately safe](https://www.youtube.com/watch?v=rCywWxg5DoY)"
+
+On the way back, Kay Lin caught Joce walking with a limp. She demands Joce let her take a look, and isn't sure what's worse: that the sprain is swollen, clearly overexerted and blistered, or that Joce just *allows this* without a single protest.
+
+There are (probably achronological) flashbacks interspersed throughout this part and the next, in segments from Joce's point of view; since I'm not quiiiite sure how they fit in yet, they're in [a separate section on this page](#flashbacks-78).
 
 Between this part and next, 
 
@@ -152,16 +156,41 @@ Between this part and next,
 	- hint: being stuck here changes you
 
 ## flashbacks 7--8
-probably achronological
+Visual note: in the first and second flashbacks, Joce is wearing some kind of clothing or accessory related to the action franchise. The logo also appears in the game in the fifth flashback.
 
-1. Joce met Sal young, defended them from angry partner
-1. private smoke break, Sal offered move-in after highschool
-1. life growing rote, both drunk at TV, Sal proposes
-	- unclear whether this ever happened
-1. right in front of her ~~salad~~ video games
-1. general fake-nice, patterns repeating
-1. doctor's appointment, Joce locked out
-1. cut to bridge, inspiration via movie
+### i.
+Joce is young, middle school/young teen. She's trying to tell a new "friend" about the end of the world, which she's convinced could implode any day now. They're playing tetherball or baseball or the like, and when "friend" doesn't buy it, Joce gets frustrated enough to bash the thing over the fence. Smashing glass, car alarm. *Hoo boy.*
+
+At the crime scene, a languid person is being yelled at by their partner for negligence. (Evidently they were both away from the car when that happened.) Joce steps up and takes the blame, like she's standing up to a bully. A school authority steps in before the situation escalates; as they talk with the driver, Sal offers their name and asks Joce hers. She calls them a creep for hanging out near a school, but they praise her for stepping up and don't seem to be joking. They say they'll see her around. Gross. (She kinda hopes they will.)
+
+### ii.
+Joce, now well into her teens, receives a little note. She follows it to a private smoke break with Sal, apparently a common occurrence. (She has a noticeable bruise. S: "Mother?" J: "Social worker.") After another commiseration of many about how much society sucks ass, Sal surprises her by suggesting she finish high school—convince people she's responsible, and when she's old enough they can legally get rid of her, she can move in with them. Joce, stunned, brushes it off with a comment about joining their parade of boytoys; however, their latest lover apparently didn't work out, and when she hears this she's sympathetic.
+
+### iii.
+She moved. She tries to keep their ratty little space clean, but some nights she gives up and they get drunk and rant about horrible television. Tonight's offering: strongman hero tries to leave his swooning lover, but when she clings to him, she leaves him no choice but to literally backstab her. Despite his agony, the next episode preview shows she's already back, which Sal predicted several seasons ago.
+
+Joce is slightly more genuinely into it than Sal is (and definitely more drunk than they are), but joins the mockery train anyway. She tops off her exaggerated disgust by declaring she's gonna throw up. Abruptly Sal says, "Let's get married." You know. for tax benefits. ...Oh, Joce meant that literally. Well. Could have just *said* so...
+
+### iv.
+First-person shooter; sniped by surprise, game over. Joce stares blankly at the screen. (She is not, mind, wearing a ring.) It's so late the sun's rising.
+
+The door opens, and she comes alive; hey, if they're not too drunk later, wanna go see—there are muffled makeout noises. Sal's new lover asks who that person is; "Oh, don't mind her. She knows what she signed up for." "You *bastard*~"
+
+All Joce can do is stare.
+
+### v.
+Less a concrete scene, more a vague series of occurrences. Sometimes Sal worships her and begs for forgiveness, tries to give her the world. Sometimes she's left cleaning up the messes of their latest escapade; she's learned not to be in the room.
+
+They were right about everything, of course. What did she expect?
+
+### vi & vii.
+First part: Joce is leaving the house for the first time in days. Doctor's appointment. Sal sits listlessly at the television, defeated. As she starts to go, they start to speak; she waits. Watches. Wills them to say *anything*.
+
+They grumble about big pharma, and Joce slams the door.
+
+It's day. Then night. Joce returns to the door locked. Key doesn't work. She takes a step back, then another—
+
+—nearly slips off the edge of a bridge. (Parallel cut to the second part.) She grabs on for dear life. Something caught her eye: there's a new movie in that one franchise. Now playing.
 
 ## 8
 - open: Kay Lin wakes up, bound by accountant
