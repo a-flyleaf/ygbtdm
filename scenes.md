@@ -71,7 +71,7 @@ Game two: Joce is grouped with the suited person who, in the background of the f
 
 Among the eliminated stragglers, Kay Lin is already out, and Caleb is trying to convince everyone Joce is a threat. It's unclear how much headway he's making; Joce's paranoia suggests it's nearly everyone. Gary steps in, sick of the drama, and invites her and anyone else who wants no part in it to join him at his place. Joce is wary, but rabbits outside convince her otherwise.
 
-Gary and the accountant are still together, and once at the house, Joce decides to investigate. She sends Kay Lin off to get a read on whether people are actually suspicious, which is mostly an excuse to make Kay Lin stop shadowing her. While exploring, Joce determines that the house hasn't been lived in (there are no electrical outlets, no ephemera, barren rooms). There's a locked study, and though she finds an odd path underground, she trips on uneven flooring and reaggravates the sprain. Kay Lin catches up and claims no one seems to care; Joce doesn't buy it, and refuses to let her look at the injury. It's confirmation this isn't as removed from the "real world" as Joce thought it was.
+Gary and the accountant are still together, and once at the house, Joce decides to investigate. She sends Kay Lin off to get a read on whether people are actually suspicious, which is mostly an excuse to make Kay Lin stop shadowing her. While exploring, Joce determines that the house hasn't been lived in (there are no electrical outlets, no ephemera, barren rooms; not even a lock on the restroom). There's a study, though furniture blocks it from the inside and can't be moved without being obvious; a door around back, which also seems closed; and though she finds an odd path underground, she trips on uneven flooring and reaggravates the sprain. Kay Lin catches up and claims no one seems to care; Joce doesn't buy it, and refuses to let her look at the injury. It's confirmation this isn't as removed from the "real world" as Joce thought it was.
 
 The accountant, alerted by the ruckus, interrupts them both to announce drinks are being served. Implication: attendance is mandatory. And someone wants to talk to them.
 
@@ -107,7 +107,7 @@ Two things quickly become apparent: first, Kay Lin is here (though she doesn't k
 
 After a couple rounds of this, Joce returns to the common area and sees Gary talking to Kay Lin. The latter is bruised where Joce hit her last night, and Gary looks sympathetic. Joce internally flips. At the first opportunity she tries to pull Gary aside; she confesses without prompting that she lashed out last night, but for wholly unrelated reasons, she thinks something's up with Kay Lin. She doesn't get further when she notices people eavesdropping, and walks off on the spot.
 
-At this point Joce needs a fuckin' drink; she picks the next best thing and finds the accountant in the now-unlocked study. The accountant has recreated a map of the place, with new paths and chasms marked and several details shifted. She'd like Joce's input. Joce explains her own theory about the map looping, as if the entire game takes place on some warped sphere; this delights the accountant, who calls Joce a genius. Despite everything, Joce feels kinda good about that.
+At this point Joce needs a fuckin' drink; she picks the next best thing and finds the accountant in the study, which apparently never had a lock. The accountant has recreated a map of the place, with new paths and chasms marked and several details shifted. She'd like Joce's input. Joce explains her own theory about the map looping, as if the entire game takes place on some warped sphere; this delights the accountant, who calls Joce a genius. Despite everything, Joce feels kinda good about that.
 
 Gary steps in, apparently about to ask to talk about something, but freezes when he sees Joce. The accountant looks between them and (still delighted) connects the dots quickly: this is about that girl, isn't it? Of *course* she noticed both last night's outing and Caleb's subsequent absence, not to mention Joce and Kay Lin being noticeably separate. The accountant has also determined that Joce wouldn't intentionally kill a flea. Joce tries to interject ("Don't hurt her"); Gary attempts to assure her this only means Kay Lin would get kicked out, though the accountant thinks they ought to revisit that idea. Apologetic, Gary tells Joce to wait outside; she doesn't need to be asked twice.
 
@@ -163,7 +163,9 @@ The accountant takes Kay Lin back to the house, which is empty. At the first opp
 
 Joce has found "Gary," or at least a hollow shell that looks and sounds like Gary, but with hollow sockets for eyes, sloughing skin, joints in the wrong places. He's grown considerably but much, much scrawnier, and barely (but all too) intelligible; why'd he get left behind? It almost sounds like he's crying.
 
-Joce tries to talk to him, but he keeps reaching out and every time she dodges he gets more agitated—and more active. (She's also grabbed his bat, though she only uses it to try holding him back; this also makes him worse.) Before long she's trying to half-run backwards up to the surface, but Gary keeps banging around as if he's trying to trap them both. (He hits himself more than he's attacking her.) As he closes in, Joce finally tries to hit back. The wound rots white immediately; for a moment Gary seems lucid, says "Run," then goes on full offense. Joce bats down a support, says she's sorry she couldn't save him, and escapes, leaving the entire cavern to close in behind her.
+Joce tries to talk to him, but he keeps reaching out and every time she dodges he gets more agitated—and more active. (She's also grabbed his bat, though she only uses it to try holding him back; this also makes him worse.) Before long she's trying to half-run backwards up to the surface, but Gary keeps banging around as if he's trying to trap them both. (He hits himself more than he's attacking her.) As he closes in, Joce finally tries to hit back. The wound rots white immediately; for a moment Gary seems lucid, says "Run," then goes on full offense. Joce bats down a support, says goodbye, and escapes, leaving the entire cavern to close in behind her.
+
+She's sorry she couldn't save him.
 
 ## flashbacks 7--8
 Visual note: in the first and second flashbacks, Joce is wearing some kind of clothing or accessory related to the action franchise. The logo also appears in the game in the fifth flashback.
@@ -203,20 +205,33 @@ It's day. Then night. Joce returns to the door locked. Key doesn't work. She tak
 —nearly slips off the edge of a bridge. (Parallel cut to the second part.) She grabs on for dear life. Something caught her eye: there's a new movie in that one franchise. Now playing.
 
 ## 8
-- open: Kay Lin wakes up, bound by accountant
-	- no brain trauma = Proof
-	- bound by own wraps
-- Joce finds Seq, apologizes; they don't care
-- KL won before, Joce overhears
-- Joce sets off trap, *then* KL talks
-- confession: first game with gf, pendant was hers
-- Joce reminds Kay Lin of gf, didn't want to be alone
-- accountant shanks KL, Joce breaks out
+Kay Lin wakes up in the dark, bound by her own bandage-wraps to a support beam. (It's a basement, only exits being a back door in darkness and creaky steps on the opposite side. Also, it's difficult to see in the dark, but those bandages sure were hiding scars, especially on the neck.) The accountant speaks; Kay Lin's awareness is proof that she hasn't sustained major brain trauma, which as they both know would be expected of a blow that knocked her out for so long. Kay Lin, the accountant declares, has won before, too. 
 
-&nbsp;
+Joce finds Sequitur standing outside what used to be the oasis wall; it's collapsed entirely, bummer. They confirm having met Kay Lin here, and that the accountant was asking about them both. It's so easy Joce almost doubts them, but they strike her as less suspicious and more stupid. On the way out she apologizes for intimidating them; they're not bothered at all, claiming they barely even remember, which for some reason threatens to get to her. Joce leaves hastily.
 
-- being a hero sucks actually
-- alliance run-in, hands KL over; Joce breaks down
+Meanwhile, Kay Lin is stalling. The accountant has hypothesized that the game's winners are granted increased physical endurance, if not some form of immortality; she asked Kay Lin to say everything she knew, so Kay Lin started talking about various ways to die—bleeding out, untreated necrosis, blunt head trauma, dry drowning, fun stuff. They both know she's bluffing but the accountant is rather fascinated, and only occasionally interjects. (She swings the pendant around occasionally, too. Considering the setup, it's disarmingly casual.)
+
+Joce also finds the house empty and searches it for weapons (she dropped Gary's bat during the cave-in), traps, anything. Mostly furniture, really; a challenge.\* When she returns to the area she fell, she's careful to go around the offending floor. Despite or maybe because of trepidation, she almost feels alive—and then she hears voices.
+
+Kay Lin is running out of steam; the accountant thanks her for the input, then asks what she knows about *the game*. Kay Lin is silent, but has already given away (throughout the talk, just by watching it) that she recognizes the pendant. Threats of physical harm don't sway her, and she tries to act unbothered by the accountant claiming Joce won't be coming to save her. Except, well, Joce has; the accountant sets off the *real* trap, which was the section of floor just *next to* the part that tripped Joce up before. (It could have not worked, really; that would've been embarrassing. What, was the accountant supposed to rig the whole place in two, three days? How fortunate Joce remembered!)
+
+*Now* Kay Lin panics; Joce is winded, and the accountant keeps her cornered. With her close, Joce can't try escaping without being obvious. Before the accountant can even threaten her, Kay Lin talks. She confirms having won the game before, and that the first time was with her girlfriend; the pendant was hers. That's all she knows.
+
+The accountant is unimpressed. She asks if Kay Lin at least *killed* the girlfriend; Kay Lin, getting choked up despite herself, denies it. Joce, feeling vindicated in the worst way, asks if she reminds Kay Lin of this girlfriend. After a pause, Kay Lin tries to claim she never cared for Joce, but the accountant interrupts; if Joce is going to leave without her, it will be on the *accountant's* terms, thank you. That said, she *is* considering letting Joce go, provided Joce actually leaves without a fight. After all, Joce is but a proxy, a means to someone else; her job here is done.
+
+Joce, still stung, agrees. Once she's been escorted out, the accountant returns to Kay Lin, who hasn't looked up. Shame she's such a mess now, really. The accountant was thinking there was some big shocking secret that got her through, but no, she's this pathetic little thing that only made it thanks to someone else. (The door upstairs is not quite secure.\*) Also, the accountant *could* point out that this has done nothing for Joce in the long term, but... ah, whatever. She's not getting anything new out of Kay Lin. Thanks for all the ideas, by the by; any last words before the hypothesis-testing? No?
+
+> \*This is supposed to be a bit of a red herring. <span class="spoiler">You *think* you're searching for weapons or focusing on the door; both are somewhat true, but these are near-identical shots. First time around, there's a houselamp in the foreground. In the second, it's gone.</span> I can't foreshadow this in summary format without being obvious, alas.
+
+The accountant has sharpened one end of her bat; as a favor to them both, she'll make this quick. She proceeds to shank Kay Lin through the gut with it.
+
+A siren wails. Joce breaks down the back door (which never had a lock anyway), bashes the accountant over the head with a houselamp, grabs Kay Lin, and gets the hell out of dodge as the summons-earthquake escalates and brings down the house behind her.
+
+Concluding the flashbacks: Joce always dreamed of being a hero, sticking up for people because no one ever did for her. She thought it was glorious. She's realizing now that it is *fucking terrifying* and never wants to be in this position again.
+
+There aren't too many players left; Sequitur has joined the alliance group (now headed by White Rabbit/WR) when Joce crosses paths. WR reaches out to take Kay Lin immediately; Joce resists on instinct, but reluctantly caves. There's still a pulse. In a moment of vulnerability (leg giving out? overwhelm? it's ambiguous, but safe to assume both) Joce kneels down, and Sequitur awkwardly offers shoulder pats.
+
+Forget the challenge. This is going to be a long night.
 
 ## 9
 - open: KL/Em Beacon flashback, pendant handover; KL wakes up, Joce is there
