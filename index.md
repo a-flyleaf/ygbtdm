@@ -1,6 +1,13 @@
 ---
 layout: 1
 ---
+# Hello, beta readers!
+So this is a thing I've been working on for about a year now, and no it still does not have a name :D Unlike my previous stories, I actually know how it goes from start to finish (more or less), and I wanted to get some second opinions and other eyes on it.
+
+I've decided to present this as a little website for a couple reasons. First and foremost, formatting
+
+\[and then, irony of ironies, I had a minor creative crisis writing this and realized I don't actually know *what* I want this whole "beta-reading" affair to accomplish ¯\\\_(ツ)_/¯ A good and necessary realization, at any rate....]
+
 ## siteguide
 **[synopsis]({%include url.html%}/synopsis)**: Three versions of a story summary: a sentence, a paragraph, and a general storyline. Includes a footnote about my goals with the story.
 
