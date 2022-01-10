@@ -27,6 +27,3 @@ For the most part, there is no indication of "spoilers"; browse artdumps at your
 <figure><div class="spoilerbox"><img src="{%include url.html%}/assets/about-temp.png" alt="" class="spoiler"></div><figcaption>If the image appears normal to you by default, your browser doesn’t support <a href='https://caniuse.com/css-filters' target='_blank'>CSS filters</a>.</figcaption></figure>
 
 (With code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" target="_blank">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" target="_blank">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" target="_blank">Borislav Hadzhiev</a>.)
-
-## who are you, anyway?
-Hi, I'm <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a>, hobbyist art-maker, story-wrangler, and code-finangler. I sound very serious on this page but that's usually a misnomer. Talk visual storytelling and thematic development to me.
