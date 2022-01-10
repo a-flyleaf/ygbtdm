@@ -18,10 +18,10 @@ Following a provocative "dinner," Joce is forced to confront her own failings, w
 Joce tries to stake out on her own, but bails when she inadvertently sics dubious actors on Kay Lin.
 
 6. ??  
-Though Joce and Kay Lin find mutual understanding, Joce's lingering secret nearly gets her and another killed.
+Though Joce and Kay Lin find mutual understanding, Joce's lingering secret nearly gets her and an almost-friend killed.
 
 7. ??  
-While Joce is lost in a dissociative haze, Kay Lin's search for release walk her right into a trap.
+While Joce is lost in a dissociative haze, Kay Lin's search for release lures her right into a trap.
 
 8. ??  
 Haunted by her failings, Joce sets out to do the right thing; despite learning she's been lied to, she saves Kay Lin (and simultaneously decides being a hero is terrifying).
