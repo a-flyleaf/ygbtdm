@@ -7,7 +7,9 @@ title: about
 ## the story
 > A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl in a thrilling, destructive hellscape.
 
-<figure><img src="{%include url.html%}/assets/about-temp.png" alt=""></figure>
+{%include figure.html
+	img="about-temp"
+%}
 
 Envisioned as a 12-part series. Theoretically it would be a full comic start to finish; in practice, I'm messing with it and seeing where it goes. (<a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" target="_blank">More rambling on that here</a>). Stuff you can expect:
 
@@ -24,6 +26,10 @@ Because a majority of art has been posted <a href="https://www.deviantart.com/a-
 
 For the most part, there is no indication of "spoilers"; browse artdumps at your own risk. But if I think something warrants hiding, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. Images may also be "hidden," like so:
 
-<figure><div class="spoilerbox"><img src="{%include url.html%}/assets/about-temp.png" alt="" class="spoiler"></div><figcaption>If the image appears normal to you by default, your browser doesn’t support <a href='https://caniuse.com/css-filters' target='_blank'>CSS filters</a>.</figcaption></figure>
+{%include figure.html
+	img="about-temp"
+	caption="If the image appears normal to you by default, your browser doesn’t support <a href='https://caniuse.com/css-filters' target='_blank'>CSS filters</a>."
+	spoiler=""
+%}
 
 (With code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" target="_blank">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" target="_blank">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" target="_blank">Borislav Hadzhiev</a>.)
