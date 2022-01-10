@@ -1,4 +1,4 @@
 <figure>
-	{%if include.spoiler%}<div class="spoilerbox">{%endif%}<img src="{%include url.html%}/assets/img/{{include.img}}.png" alt="{{include.alt}}"{%if include.spoiler%} class="spoiler"{%endif%}/>{%if include.spoiler%}</div>{%endif%}{%if include.caption%}
+	{%if include.spoiler%}<div class="spoilerbox">{%endif%}<img src="{%include url.html%}/assets/img/{%if include.artdump%}artdump/{%endif%}{{include.img}}.png" alt="{{include.alt}}"{%if include.spoiler%} class="spoiler"{%endif%}/>{%if include.spoiler%}</div>{%endif%}{%if include.caption%}
 	<figcaption{%if include.border%} class="border"{%endif%}>{{include.caption}}</figcaption>{%endif%}
 </figure>

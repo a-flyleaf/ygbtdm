@@ -5,7 +5,7 @@ a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-d
 img{max-width:100%; height:auto;}
 
 header,p,h1,h2,h3,figcaption,main ul,main ol,footer{max-width:35rem; margin:0 auto;}
-p,figure,table{margin:.75em auto;}
+p,table{margin:.75em auto;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
 header ul{margin-left:-.25rem;} header li{display:inline; font-size:.85em; text-transform:uppercase; margin:0 .25rem; letter-spacing:.05em;}
@@ -16,7 +16,7 @@ main h2{font-size:1.15em; margin-top:2rem;} h1+h2{margin-top:1rem;}
 h2+p,h3+p{margin-top:.25em;}
 h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 
-figure{text-align:center;}
+figure{text-align:center; margin:1.5rem auto;}
 figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
 
 main ul,main ol{padding-left:1em;}
