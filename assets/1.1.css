@@ -1,11 +1,11 @@
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
 body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman old style','itc bookman',times,serif; font-size:1.25em; line-height:145%; padding:1em; margin-bottom:2em;}
 a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;}
-p,figure,table{margin:.75em 0;}
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
 
 header,p,h1,h2,h3{max-width:35rem; margin:0 auto;}
+p,figure,table{margin:.75em auto;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
 header ul{margin-left:-.25rem;} header li{display:inline; font-size:.85em; text-transform:uppercase; margin:0 .25rem; letter-spacing:.05em;}
@@ -16,17 +16,14 @@ main h2{font-size:1.15em; margin-top:2rem;} h1+h2{margin-top:1rem;}
 h2~p,h3~p{margin-top:.25em;}
 h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 
-figure{display:inline-block;}
-.center{margin:0 auto;}
-.left,.right{margin:.5em 0 0;}
-.left{float:left; padding-right:1em;}
-.right{float:right; padding-left:1em;}
+figure{text-align:center;}
 
 main ul,main ol{margin:.75em 0 .75em 1em;}
 li>ul{margin:0 0 0 1em;}
 h2~ul,h3~ul,h2~ol,h3~ol{margin-top:.25em;}
 
-.spoiler{background:#808080; color:#808080;}
+.spoiler{background:#808080; color:#808080; cursor:pointer;}
+.spoiler:active,.spoiler:focus{background:0;}
 
 blockquote{margin-left:1em;}
 

@@ -4,8 +4,6 @@ title: owo whats this
 ---
 Website/art archive for <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">the untitled project-thing I've been working on for over a year now</a>. Expect links to break as I figure out what the heck to do with it.
 
-<img src="img/test2.png">
-
 ## Who're you?
 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a>, hobby artist and story-wrangler.
 
