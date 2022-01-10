@@ -1,0 +1,4 @@
+<figure>
+	{%if include.spoiler%}<div class="spoilerbox">{%endif%}<img src="{%include url.html%}/img/{{include.img}}.png" alt="{{include.alt}}"{%if include.spoiler%} class="spoiler"{%endif%}/>{%if include.spoiler%}</div>{%endif%}{%if include.caption%}
+	<figcaption{%if include.border%} class="border"{%endif%}>{{include.caption}}</figcaption>{%endif%}
+</figure>

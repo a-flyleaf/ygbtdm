@@ -2,7 +2,7 @@
 layout: 1.1
 title: owo whats this
 ---
-Website/art archive for <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">the untitled project-thing I've been working on for over a year now</a>. Expect links to break as I figure out what the heck to do with it.
+Website & art archive for <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">the untitled project-thing I've been working on for over a year now</a>. Expect links to break as I figure out what the heck to do with it.
 
 ## Who're you?
 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a>, hobby artist and story-wrangler.
@@ -19,11 +19,13 @@ In the meta-storytelling sense: *I don't know I'm making it up as I go.* Copious
 
 For the actual story: **it's not for kids**. No explicit gore or nudity, but contains mature themes. Author has chosen not to use more specific warnings.
 
-Spoilers abound. When I think something warrants spoiler coverage, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. The effect also applies to images, like so:
+**Spoilers abound**, mostly without warning. If for whatever reason I think something actually warrants spoiler coverage, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. The effect also applies to images, like so:
 
-<figure>
-	<div class="spoilerbox"><img src="{%include url.html%}/img/test2.png" alt="" class="spoiler"/></div>
-	<figcaption class="border">Lorem ipsum dolor sit amet. Hey, if there were two people on a Beacon and one killed the other with a rock, would that be fucked up or what?</figcaption>
-</figure>
+{%include figure.html
+	img="test2"
+	alt="old thign"
+	caption="<p>Lorem ipsum dolor sit amet. Captions might note exactly why the image is being spoiled, or maybe it’ll be a surprise.</p><p><span class='spoiler'>Hey, if there were two people on a Beacon and one killed the other with a rock, would that be fucked up or what?</span></p>"
+	spoiler=""
+%}
 
-(This relies on CSS filter-blurring, which <a href="https://caniuse.com/css-filters" target="_blank">may not be available in older browsers</a>.) <span class="spoiler">uhhh</span>
+(This relies on CSS filter-blurring, which <a href="https://caniuse.com/css-filters" target="_blank">may not be available in older browsers</a>.)
