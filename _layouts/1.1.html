@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>{{site.name}}{%if page.title%} - {{page.title}}{%endif%}</title>
+		<title>{%if page.title%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/1.1.css"/>
 		<style>{{page.css}}</style>
 	</head>
@@ -14,9 +14,10 @@
 		<header>
 			<h2><a href="{%include url.html%}">{{site.name}}</a></h2>
 			<nav><ul>
-				<a href="{%include url.html%}/synopsis"><li>synopsis</li></a>
+				<a href="{%include url.html%}/about"><li>about</li></a>
 				<a href="{%include url.html%}/cast"><li>cast</li></a>
-				<li id="parts"><a href="{%include url.html%}/scenes">scenes</a> by part:
+				<li>chronology (TBA)</li>
+				<!--<li id="parts"><a href="{%include url.html%}">snippets</a> by part:
 					<a href="{%include url.html%}/scenes#1">1</a>
 					<a href="{%include url.html%}/scenes#2">2</a>
 					<a href="{%include url.html%}/scenes#3">3</a>
@@ -29,7 +30,7 @@
 					<a href="{%include url.html%}/scenes#10">10</a>
 					<a href="{%include url.html%}/scenes#11">11</a>
 					<a href="{%include url.html%}/scenes#12">12</a>
-				</li>
+				</li>-->
 			</ul></nav>
 		</header>
 		
@@ -41,7 +42,7 @@
 		<!--<footer></footer> not really necessary?-->
 		
 		<script>
-			<!--https://stackoverflow.com/a/19075983 + https://www.w3schools.com/jsref/met_document_queryselector.asp + https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall-->
+			<!-- + https://www.w3schools.com/jsref/met_document_queryselector.asp + https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall-->
 			
 			//function classToggle() {
 			//	this.classList.toggle('showhide');

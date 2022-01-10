@@ -4,7 +4,7 @@ a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-d
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
 
-header,p,h1,h2,h3,figcaption{max-width:35rem; margin:0 auto;}
+header,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,figure,table{margin:.75em auto;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
@@ -19,16 +19,16 @@ h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 figure{text-align:center;}
 figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
 
-main ul,main ol{margin:.75em 0 .75em 1em;}
+main ul,main ol{padding-left:1em;}
 li>ul{margin:0 0 0 1em;}
-h2~ul,h3~ul,h2~ol,h3~ol{margin-top:.25em;}
+h2+ul,h3+ul,h2+ol,h3+ol{margin-top:.25em;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
 img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none;}
 /*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
 
-blockquote{margin-left:1em;}
+blockquote{margin-left:2em;}
 
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
