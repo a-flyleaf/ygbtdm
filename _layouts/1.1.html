@@ -40,10 +40,24 @@
 		
 		<!--<footer></footer> not really necessary?-->
 		
-		<script> <!--https://stackoverflow.com/a/19075983 + https://www.w3schools.com/jsref/met_document_queryselector.asp-->
-		function classToggle() {
-			this.classList.toggle('showhide');
-		}
-		document.querySelector('.spoiler').addEventListener('click', classToggle);</script>
+		<script>
+			<!--https://stackoverflow.com/a/19075983 + https://www.w3schools.com/jsref/met_document_queryselector.asp + https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall-->
+			
+			//function classToggle() {
+			//	this.classList.toggle('showhide');
+			//	console.log("thing clicked");
+			//}
+			//document.querySelector('.spoiler').addEventListener('click', classToggle);
+			
+			<!--https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall-->
+			const spoilers = document.querySelectorAll('.spoiler');
+			
+			spoilers.forEach(spoiler => {
+				spoiler.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('showhide');
+				});
+			});
+		</script>
 	</body>
 </html>
