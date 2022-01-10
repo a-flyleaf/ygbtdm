@@ -39,5 +39,11 @@
 		</main>
 		
 		<!--<footer></footer> not really necessary?-->
+		
+		<script> <!--https://stackoverflow.com/a/19075983 + https://www.w3schools.com/jsref/met_document_queryselector.asp-->
+		function classToggle() {
+			this.classList.toggle('showhide');
+		}
+		document.querySelector('.spoiler').addEventListener('click', classToggle);</script>
 	</body>
 </html>

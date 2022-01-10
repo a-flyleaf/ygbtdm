@@ -17,6 +17,10 @@ Also, deviantArt's layout sucks, so I wanted to compile things on my own gosh da
 ## What can I expect from this?
 In the meta-storytelling sense: *I don't know I'm making it up as I go.* Copious "concept art" and other doodles for sure. Little comics for actual scenes. Written description to an extent, maybe.
 
-For the actual story: **it's not for kids**. No explicit gore or nudity, but contains adult themes. Author has chosen not to use more specific warnings.
+For the actual story: **it's not for kids**. No explicit gore or nudity, but contains mature themes. Author has chosen not to use more specific warnings.
 
-Spoilers abound, but because of the winged and possibly-achronological nature of the storytelling, this is rarely noted. When I think something warrants spoiler coverage, it'll be grayed out <span class="spoiler">like this</span>. On a computer you can click and drag to read it. On a touchscreen or other device... uh, not sure, I'll figure something out.
+Spoilers abound. When I think something warrants spoiler coverage, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. The effect also applies to images, like so:
+
+<figure class="spoiler"><img src="{%include url.html%}/img/test2.png" alt=""/></figure>
+
+(This relies on CSS filter-blurring, which <a href="https://caniuse.com/css-filters" target="_blank">may not be available in older browsers</a>.) <span class="spoiler">uhhh</span>

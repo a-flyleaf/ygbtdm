@@ -23,7 +23,8 @@ li>ul{margin:0 0 0 1em;}
 h2~ul,h3~ul,h2~ol,h3~ol{margin-top:.25em;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;}
-.spoiler:active,.spoiler:focus{background:0;}
+.showhide{background:0; color:#adadad;}
+figure.spoiler{background:0;} .spoiler img{filter:blur(1rem) grayscale(75%);} .showhide img{filter:none;}
 
 blockquote{margin-left:1em;}
 
