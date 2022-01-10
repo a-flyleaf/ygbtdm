@@ -21,6 +21,6 @@ For the actual story: **it's not for kids**. No explicit gore or nudity, but con
 
 Spoilers abound. When I think something warrants spoiler coverage, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. The effect also applies to images, like so:
 
-<figure class="spoiler"><img src="{%include url.html%}/img/test2.png" alt=""/></figure>
+<figure><div class="spoilerbox"><img src="{%include url.html%}/img/test2.png" alt="" class="spoiler"/></div></figure>
 
 (This relies on CSS filter-blurring, which <a href="https://caniuse.com/css-filters" target="_blank">may not be available in older browsers</a>.) <span class="spoiler">uhhh</span>
