@@ -1,3 +1,4 @@
+/*general & typography*/
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
 body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman old style','itc bookman',times,serif; font-size:1.25em; line-height:145%; padding:1em;}
 a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;}
@@ -23,14 +24,21 @@ main ul,main ol{padding-left:1em;}
 li>ul{margin:0 0 0 1em;}
 h2+ul,h3+ul,h2+ol,h3+ol{margin-top:.25em;}
 
-.spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
-.showhide{background:0; color:#adadad;}
-img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none;}
-/*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
-
 blockquote{margin-left:2em;}
 
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
 
+.spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
+.showhide{background:0; color:#adadad;}
+img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none;}
+/*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
+
 footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} footer a{text-decoration-color:inherit;}
+
+
+/*specific sections*/
+#cast{max-width:500px; margin:1rem auto; line-height:0; font-size:0; text-align:center;} #cast a{display:inline-block; margin:5px; filter:grayscale(100%); transition:.5s} #cast a:hover,#cast a:active,#cast a:focus{filter:none;}
+@media only screen and (min-width:700px){
+	#cast{max-width:700px;}
+}
