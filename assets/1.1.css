@@ -18,7 +18,7 @@ h2+p,h3+p{margin-top:.25em;}
 h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 
 figure{text-align:center; margin:1.5rem auto;}
-figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
+figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border,details{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
 
 main ul,main ol{padding-left:1em;}
 li>ul{margin:0 0 0 1em;}
@@ -28,6 +28,8 @@ blockquote{margin-left:2em;}
 
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
+
+summary{cursor:pointer;} summary:hover,summary:active{color:#fff;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
