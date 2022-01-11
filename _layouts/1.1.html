@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>{%if page.title%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
+		<title>{%if page.title%}{%if page.subpage%}{{page.subpage}}: {%endif%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/1.1.css"/>{%if page.css%}
 		<style>{{page.css}}</style>{%endif%}
 	</head>
@@ -16,7 +16,7 @@
 			<nav><ul>
 				<a href="{%include url.html%}/about"><li>about</li></a>
 				<a href="{%include url.html%}/cast"><li>cast</li></a>
-				<li>chronology (TBA)</li>
+				<a href="{%include url.html%}/gallery"><li>gallery</li></a>
 				<!--<li id="parts"><a href="{%include url.html%}">snippets</a> by part:
 					<a href="{%include url.html%}/scenes#1">1</a>
 					<a href="{%include url.html%}/scenes#2">2</a>
@@ -36,7 +36,8 @@
 		
 		<main>
 			<h1>{{page.title}}</h1>
-			{{content}}
+			{{content}}{%if page.subpage%}
+			<div id="back"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}
 		</main>
 		
 		<footer>art, writing, and site by <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a></footer>
