@@ -1,2 +1,5 @@
 name: [that one untitled story]
 permalink: /blog/:slug
+collections:
+    gallery:
+        output: true
