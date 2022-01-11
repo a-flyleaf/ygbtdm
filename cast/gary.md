@@ -14,13 +14,13 @@ css: section a:nth-of-type(5){filter:none !important;}#cast{margin-top:5rem;}
 - Squarish with the corners rounded off
 
 ## general demeanor
-- Tries not to look imposing, but can't help but accentuate speech with big gregarious gestures anyway; often uses both hands
+- Tries not to look imposing, but can't help but accentuate speech with big gregarious gestures
 - Defaults to being touchy-feely but takes note when this is unwelcome
 - Just here for to have a good time and get along; not a fan of "drama"
 
 ## other visual characteristics
 - Stylized without sclera, which makes freckles look weird, but he *would* have light face freckles
-- Casual, comfortable clothes; already stands out a bit from heterochromia, doesn't accentuate it
+- Casual, comfortable clothes; already stands out a bit from heterochromia, doesn't emphasize it
 
 Associated with <b>deep red</b>, more mahogany than brown.
 

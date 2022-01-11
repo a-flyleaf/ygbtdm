@@ -15,12 +15,12 @@ AKA "Suits," and various other (sometimes less-flattering) nicknames from variou
 - Sharp angles; naturally-arched brow doesn't lend itself to soft expressions
 
 ## general demeanor
-- Stands out by appearance alone, but is perfectly content standing tall in the background observing the populace
+- Commands attention by appearance alone, but is perfectly content standing tall in the background observing the populace
 - Cultivates an air of over-the-top scheming distance; excited genuity, however, is not difficult to discern
 - Usually keeps hands crossed behind back, but can occasionally be caught making odd hand gestures with no discernible meaning
 
 ## other visual characteristics
-- Dyed white hair is actually diegetic; eyes are debatable
+- Looks down on most people, in more ways than one
 
 Associated with <b>bright blue-green</b>. Aquamarine? Turquoise? Yes.
 

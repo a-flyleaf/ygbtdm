@@ -18,7 +18,7 @@ css: section a:nth-of-type(3){filter:none !important;}#cast{margin-top:5rem;}
 - Minimal filter; very, very bad at faking otherwise
 
 ## other visual characteristics
-- No scars, like (in her opinion) a normal person
+- Really, there's nothing; certainly doesn't mind standing out a *little,* but doesn't want to be the most glaring person in the room either
 
 Associated with <b>orange</b>, usually bright.
 

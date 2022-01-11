@@ -21,6 +21,7 @@ css: section a:nth-of-type(4){filter:none !important;}#cast{margin-top:5rem;}
 ## other visual characteristics
 - Dresses like he's not sure if he wants to draw attention to himself or sink into his sweaters
 	- \[Used to have stars on the leggings but I can't be bothered to draw that consistently]
+- Light, soft pastels for days
 
 Associated with <b>pink</b>, skews more pastel than saturated.
 

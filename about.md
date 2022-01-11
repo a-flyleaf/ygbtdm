@@ -2,7 +2,7 @@
 layout: 1.1
 title: about
 ---
-> skipto: [about story](#the-story) ▪ [about site](#the-site)
+> [the story](#the-story) ▪ [the site](#the-site)
 
 ## the story
 > A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl in a thrilling, destructive hellscape.
@@ -22,9 +22,9 @@ Envisioned as a 12-part series. Theoretically it would be a full comic start to 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
 ## the site
-Because a majority of art has been posted <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">offsite</a> with little regard for context, I decided to make a few pages to compile everything for a smoother browsing experience.
+Because a majority of art has been posted <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">offsite</a> with little regard for context, I decided to make a few pages to make things nicer to look at (and, eventually, provide some additional crumbs of context).
 
-For the most part, there is no indication of "spoilers"; browse artdumps at your own risk. But if I think something warrants hiding, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. Images may also be "hidden," like so:
+For the most part, there is no indication of "spoilers"; browse at your own risk. But if I think something warrants hiding, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. Images may also be "hidden," like so:
 
 {%include figure.html
 	img="carless"

@@ -16,12 +16,13 @@ No, that's not a nickname.
 
 ## general demeanor
 - Floats through the days without a care in the world; slow: physically, verbally, and arguably mentally
-- Hard-pressed to show any extreme emotion; ambiguous whether for lack of need or willingness
-- If not standing blankly staring into space, absently picks teeth and/or fingernails
+- Hard-pressed to show any extreme emotion; unclear whether for lack of need or willingness
+- If not standing blankly staring into space, absently picks teeth and/or chews fingers
 
 ## other visual characteristics
 - Not at all clean-shaven, but keeps facial hair stubbly
+- Sometimes actually bothers to get dressed all the way, but not today
 
-Associated with <b>indigo</b>, saturation varies from bright to cool gray.
+Associated with <b>indigo</b>; saturation varies from technicolor to cool gray.
 
 {%include cast.html%}
