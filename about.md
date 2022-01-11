@@ -19,7 +19,7 @@ Envisioned as a 12-part series. Theoretically it would be a full comic start to 
 
 ~We'll see~
 
-> Content note: Story **contains mature themes**. There is no explicit gore or nudity. Art may feature body horror. Author has chosen not to use more specific warnings.
+> Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
 ## the site
 Because a majority of art has been posted <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">offsite</a> with little regard for context, I decided to make a few pages to compile everything for a smoother browsing experience.
