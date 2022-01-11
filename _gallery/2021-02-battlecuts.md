@@ -1,7 +1,7 @@
 ---
 layout: 1.1
-title: testin
-desc: yes
+title: battlecuts
+img: 2021-02
 permalink: /gallery/battlecuts
 ---
 ## description

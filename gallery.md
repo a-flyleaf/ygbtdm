@@ -4,6 +4,4 @@ title: gallery
 ---
 Currently in the process of copying over smaller scribbles, many of which are scattered throughout monthly roundups. For now, here's the big/standalone stuff.
 
-<section id="gallery"><ul>{%for paeg in site.gallery%}
-	<li><a href="{{paeg.url}}">{{paeg.title}} - {{paeg.desc}}</a></li>
-{%endfor%}</ul></section>
+<section id="gallery">{%for tn in site.gallery%}<a href="{{tn.url}}"><img src="{%include url.html%}/assets/img/gallery/{{tn.img}}-tn.png" alt="title"/></a>{%endfor%}</section>
