@@ -11,4 +11,4 @@ da: whatcha-waaaatchin-885080555
 
 There are two versions of this because the original coloring was too muted for my tastes.
 
-{%include figure.html subcat="gallery" picture="" img="2021-07-08-alt"%}
+{%include figure.html subcat="gallery" picture="" img="2021-07-08-alt" class="pic"%}

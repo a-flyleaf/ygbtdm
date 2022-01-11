@@ -11,4 +11,4 @@ MSpaint scribble, with slight edits. Eye-moon-thing was almost definitely insire
 
 Horrible, horrible process:
 
-{%include figure.html picture="" subcat="gallery" img="2021-10-17-process"%}
+{%include figure.html picture="" subcat="gallery" img="2021-10-17-process" class="pic"%}
