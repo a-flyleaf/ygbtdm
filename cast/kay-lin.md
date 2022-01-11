@@ -8,6 +8,19 @@ css: section a:nth-of-type(2){filter:none !important;}#cast{margin-top:5rem;}
 	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>young(-looking), thin, small</li><li>would not dress like this voluntarily</li></ul>&nbsp;<ul><li>[hair in front is] weirdly consistent</li><li>nose is stylized as a line—mostly flat</li><li>brow optional if covered/unneeded for expression</li><li>[eye stylization] may feature iris</li><li>shirt is like twice her size</li><li>hair around mid-back, shorter in front</li><li>[bandage-]wraps are not consistent, but one goes up the neck<ul><li>[wraps] on hand trail off by elbow</li><li>[wraps on foot are] similar, stops by knee</li></ul></li><li>exact [ragged fabric] edge doesn't matter; neck tends to dip on one side</li></ul></details>"
 %}
 
-\[More info here eventually maybe; written physical description, actual story events the character appears in, miscellaneous trivia?]
+## height/build
+- Second-shortest of the main 8
+- Thin, lightweight; often mistaken for a child or young teen
+- Basically no sharp angles anywhere
+
+## general demeanor
+- Depends heavily on mood; not generally hard to read, but can change drastically with little warning
+- In conversation, typically upbeat; can be touchy (playful jabs and similar)
+- Tends to cover mouth when laughing, or entire face when distraught
+
+## other visual characteristics
+- <span class="spoiler">Wears those bandage-wraps for a reason.</span> <span class="spoiler">They'd be worse if her pain tolerance wasn't hot garbage.</span>
+
+Associated with <b>purple</b>, usually dull.
 
 {%include cast.html%}
