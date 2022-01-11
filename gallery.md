@@ -6,4 +6,4 @@ Some big stuff that, for the most part, isn't buried in monthly roundups. (Small
 
 Fair warning: fullsize files are huge. In wide browser windows, images automatically resize to fit onscreen; click to view at higher resolution. (May not appear to do anything on horizontal images.)
 
-<section id="gallery" class="artwall">{%for tn in site.gallery%}<a href="{{tn.url}}"><img src="{%include url.html%}/assets/img/gallery/{{tn.img}}-tn.png" alt="title"/></a>{%endfor%}</section>
+<section id="gallery" class="artwall">{%for tn in site.gallery%}<a href="{%include url.html%}{{tn.url}}"><img src="{%include url.html%}/assets/img/gallery/{{tn.img}}-tn.png" alt="title"/></a>{%endfor%}</section>
