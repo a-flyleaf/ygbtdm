@@ -27,7 +27,7 @@ Because a majority of art has been posted <a href="https://www.deviantart.com/a-
 For the most part, there is no indication of "spoilers"; browse artdumps at your own risk. But if I think something warrants hiding, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. Images may also be "hidden," like so:
 
 {%include figure.html
-	img="about-temp"
+	img="carless"
 	caption="If the image appears normal to you by default, your browser doesn’t support <a href='https://caniuse.com/css-filters' target='_blank'>CSS filters</a>."
 	spoiler=""
 %}
