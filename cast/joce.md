@@ -11,7 +11,7 @@ css: section a:first-of-type{filter:none !important;}#cast{margin-top:5rem;}
 ## height/build
 - Third-tallest of the main 8
 - Bulky; fairly strong, but more fat than muscle
-- Angular face, deep-set eyes
+- Wide, angular face, deep-set eyes
 
 ## general demeanor
 - Attempts to carry herself with an air of quiet, confident stoicism, but can falter easily

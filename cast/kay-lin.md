@@ -10,7 +10,7 @@ css: section a:nth-of-type(2){filter:none !important;}#cast{margin-top:5rem;}
 
 ## height/build
 - Second-shortest of the main 8
-- Thin, lightweight; often mistaken for a child or young teen
+- Thin, lightweight; often mistaken for a child or adolescent
 - Basically no sharp angles anywhere
 
 ## general demeanor
