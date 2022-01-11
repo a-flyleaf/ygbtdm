@@ -31,6 +31,8 @@ tr:first-child,td:first-child{font-weight:bold;}
 
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff;}
 
+iframe{border:0;}
+
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
 img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none;}
@@ -40,10 +42,11 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 
 
 /*specific sections*/
-#back{font-size:.85em; font-style:italic; color:#adadad; margin-top:3rem;}
+#info,#back{font-size:.85em; color:#adadad;}
+#back{font-style:italic; margin-top:3rem;}
 
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
 
 #cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
 @media only screen and (min-width:700px){#cast{max-width:700px;}}
-#gallery{max-width:850px;}
+#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);}
