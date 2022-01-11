@@ -44,11 +44,18 @@
 		
 		<script>
 			const spoilers = document.querySelectorAll('.spoiler');
-			
 			spoilers.forEach(spoiler => {
 				spoiler.addEventListener('click', function classToggle(event) {
 					console.log("thing clicked",event);
 					this.classList.toggle('showhide');
+				});
+			});
+			
+			const fullpic = document.querySelectorAll('.pic');
+			fullpic.forEach(pic => {
+				pic.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('fullsize');
 				});
 			});
 		</script>

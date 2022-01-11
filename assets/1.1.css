@@ -50,3 +50,7 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 #cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
 @media only screen and (min-width:700px){#cast{max-width:700px;}}
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);}
+
+@media only screen and (min-width:600px){
+	.pic img{max-height:100vh; cursor:pointer;} .fullsize img{max-height:100%;}
+}
