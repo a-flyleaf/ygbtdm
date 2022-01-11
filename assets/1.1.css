@@ -5,7 +5,7 @@ a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-d
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
 
-header,p,h1,h2,h3,figcaption,main ul,main ol,#back,footer{max-width:35rem; margin:0 auto;}
+.wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,table{margin:.75em auto;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}

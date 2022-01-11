@@ -11,7 +11,7 @@
 	</head>
 	
 	<body>
-		<header>
+		<header class="wrap">
 			<h2><a href="{%include url.html%}">{{site.name}}</a></h2>
 			<nav><ul>
 				<a href="{%include url.html%}/about"><li>about</li></a>
@@ -37,10 +37,10 @@
 		<main>
 			<h1>{{page.title}}</h1>
 			{{content}}{%if page.subpage%}
-			<div id="back"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}
+			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}
 		</main>
 		
-		<footer>art, writing, and site by <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a></footer>
+		<footer class="wrap">art, writing, and site by <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a></footer>
 		
 		<script>
 			const spoilers = document.querySelectorAll('.spoiler');
