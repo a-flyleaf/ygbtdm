@@ -2,7 +2,7 @@
 layout: 1.1
 title: gallery
 ---
-Currently copying over smaller scribbles, many of which are scattered throughout monthly roundups. For now, here's some art that got uploaded separately.
+Some big stuff that, for the most part, isn't buried in monthly roundups. (Smaller scribbles forthcoming, and will be on other pages.)
 
 Fair warning: files may be huge.
 
