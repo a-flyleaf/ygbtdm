@@ -21,7 +21,6 @@ figure{text-align:center; margin:1.5rem auto;}
 figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border,details{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
 
 main ul,main ol{padding-left:1em;}
-li>ul{margin:0 0 0 1em;}
 h2+ul,h3+ul,h2+ol,h3+ol{margin-top:.25em;}
 
 blockquote{margin-left:2em;}
