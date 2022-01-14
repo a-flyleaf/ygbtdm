@@ -3,6 +3,7 @@ layout: 1.1-gallery
 subpage: gallery
 title: your one and only spoiler warning
 img: 2021-08
+smolfile: jpg
 permalink: /gallery/colorscript
 drawnon: August 18–27, 2021
 ---

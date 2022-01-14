@@ -3,6 +3,7 @@ layout: 1.1-gallery
 subpage: gallery
 title: design notes
 img: 2021-12-16
+smolfile: png
 permalink: /gallery/designnotes
 drawnon: December 16–17, 2021
 da: long-ass-wall-of-design-notes-901062994

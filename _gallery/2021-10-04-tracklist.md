@@ -3,6 +3,7 @@ layout: 1.1-gallery
 subpage: gallery
 title: tracklist
 img: 2021-10-04
+smolfile: jpg
 permalink: /gallery/tracklist
 drawnon: October 3–4, 2021
 da: aw-shit-here-we-go-again-893859218

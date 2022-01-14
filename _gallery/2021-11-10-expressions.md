@@ -3,6 +3,7 @@ layout: 1.1-gallery
 subpage: gallery
 title: expressions
 img: 2021-11-09
+smolfile: jpg
 permalink: /gallery/expressions
 drawnon: November 9–10, 2021
 da: three-fourths-view-facing-mostly-leffffffft-897531837

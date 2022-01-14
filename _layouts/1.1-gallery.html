@@ -1,6 +1,6 @@
 ---
 layout: "1.1"
 ---
-<figure class="pic"><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{{page.img}}-full.png"><img src="{%include url.html%}/assets/img/gallery/{{page.img}}-600.png" alt=""/></picture></figure>
+<figure class="pic"><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{{page.img}}-full.png"><img src="{%include url.html%}/assets/img/gallery/{{page.img}}-600.{{page.smolfile}}" alt=""/></picture></figure>
 <div id="info" class="wrap">{{page.drawnon}}{%if page.da%} ▪ <a href="https://www.deviantart.com/a-flyleaf/art/{{page.da}}" target="_blank">on dA</a>{%endif%}</div>
 {{page.content}}

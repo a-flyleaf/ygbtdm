@@ -2,6 +2,7 @@
 layout: 1.1-gallery
 title: "choose your fighter or w/e"
 img: 2021-02
+smolfile: png
 permalink: /gallery/battlecuts
 subpage: gallery
 drawnon: February 21–2, 2021
