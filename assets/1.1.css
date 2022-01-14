@@ -28,7 +28,7 @@ blockquote{margin-left:2em;}
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
 
-summary{cursor:pointer;} summary:hover,summary:active{color:#fff;}
+summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
 
 iframe{border:0;}
 
