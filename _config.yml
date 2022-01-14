@@ -3,3 +3,5 @@ permalink: /blog/:slug
 collections:
     gallery:
         output: true
+    roundups:
+        output: true
