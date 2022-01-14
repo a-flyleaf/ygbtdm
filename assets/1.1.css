@@ -1,6 +1,6 @@
 /*general & typography*/
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
-body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman old style','itc bookman',times,serif; font-size:1.25em; line-height:145%; padding:1em;}
+body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:1.25em; line-height:145%; padding:1em;}
 a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;}
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
