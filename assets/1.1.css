@@ -47,8 +47,8 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
 
 #cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
-@media only screen and (min-width:700px){#cast{max-width:700px;}}
-#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);}
+@media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
+#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
