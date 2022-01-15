@@ -2,7 +2,7 @@
 layout: 1.1
 title: gallery
 ---
-Some big stuff that, for the most part, isn't buried in monthly roundups. (Smaller scribbles will be added on other pages.)
+Some big stuff that, for the most part, isn't buried in [monthly roundups]({%include url.html%}/gallery/roundups).
 
 Fair warning: fullsize files are huge. In wide browser windows, images automatically resize to fit onscreen; click to view at higher resolution. (May not appear to do anything on horizontal images.)
 
