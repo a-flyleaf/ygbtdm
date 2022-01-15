@@ -53,3 +53,5 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
 }
+
+#gallery.roundup{max-width:500px;} @media only screen and (min-width:500px){#gallery.roundup{max-width:700px;}} @media only screen and (min-width:700px){#gallery.roundup{max-width:900px;}} @media only screen and (min-width:1400px){#gallery.roundup{max-width:1400px;}}
