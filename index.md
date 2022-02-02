@@ -21,4 +21,5 @@ Big things; single/sporadic art additions not included.
 - 2022/01/11: finished adding art; <b>published site</b>
 - 2022/01/14: CSS housekeeping; added roundups
 - 2022/01/30: added 404 page bonus & this changelog
-- 2022/02/02: tentative title update ("that one untitled story" → "You're gonna be the death of me")
+- 2022/02/02: tentative title update ("that one untitled story" → "You're gonna be the death of me"); also added story page
+	- patch note: story is now 11 parts (formerly 12)

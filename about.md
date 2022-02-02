@@ -11,7 +11,7 @@ title: about
 	img="about-temp"
 %}
 
-Envisioned as a 12-part series. Theoretically it would be a full comic start to finish; in practice, I'm messing with it and seeing where it goes. (<a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" target="_blank">More rambling on that here</a>). Stuff you can expect:
+Envisioned as a ~~12~~ 11-part series. Theoretically it would be a full comic start to finish; in practice, I'm messing with it and seeing where it goes. (<a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" target="_blank">More rambling on that here</a>). Stuff you can expect:
 
 - copious amounts of "concept art" and other scribbles
 - comics for actual scenes
