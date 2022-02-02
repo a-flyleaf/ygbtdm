@@ -2,7 +2,7 @@
 layout: 1.1
 title: story, kinda
 ---
-Details and scenes and such forthcoming, or something of the sort. For now, have synopsis-teaser-things.
+Details and scenes and such, or something of the sort, forthcoming. For now, have synopsis-teaser-things.
 
 ## 1: Relapse
 Old temptations die hard. Venturing into an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she's letting on.
@@ -14,10 +14,10 @@ While Joce tries to interrogate the world's limits, an alliance leader struggles
 Joce's attempts to avoid suspicion have the opposite effect. <span class="spoiler">When she tries to leave, Kay Lin forces the issue.</span>
 
 ## 4: Lie in it
-Fallout can't be avoided forever. On the brink of establishing new camraderie, Joce incurs new disaster.
+Fallout can't be avoided forever. On the brink of establishing new camaraderie, Joce incurs a new crisis.
 
 ## 5: Desperately safe
-Joce and Kay Lin's frustrations come to a head. <span class="spoiler">Their reconciliation is short-lived when the past catches up.</span>
+Joce and Kay Lin's grievances come to a head. <span class="spoiler">Their reconciliation is short-lived when the past catches up.</span>
 
 ## 6: [TBA] <!--tentative: So it goes-->
 Frustration spurs unfortunate indulgence, with nigh-fatal consequences. <span class="spoiler">As Joce is drowned by memory, an impatient Kay Lin finds her own discretion wanting.</span>
