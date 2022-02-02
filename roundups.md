@@ -5,12 +5,38 @@ subpage: gallery
 permalink: /gallery/roundups
 css: main h2{font-size:3em; text-align:center; margin:1em auto .5em;}
 ---
-Because posting everything individually was devouring my storage alive, whoops. Each of these pages has multiple drawings; thumbnail is just limited to one to keep me sane.
-
-As with the [gallery]({%include url.html%}/gallery), fullsize files are huge, and (in wide browser windows) can be clicked to view at full resolution. Besides cropping and/or fading non-story-related content, these are unedited from the versions posted <a href="https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff" target="_blank">on deviantArt</a>.
+Starting in 2021, I've been ending each month with a giant wall of art that wouldn't otherwise have been posted. Originals are <a href="https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff" target="_blank">on deviantArt</a>; these versions have non-story-related content cropped and/or faded out.
 
 ## 2021
-<!--hmm, see if I can separate this in the for/if without having to recategorize everything; I like having year headers-->
-<section id="gallery" class="artwall roundup">{%for rd in site.roundups%}<a href="{%include url.html%}{{rd.permalink}}"><img src="{%include url.html%}/assets/img/gallery/{{rd.img}}-tn.png" alt="{{rd.title}}"/></a>{%endfor%}</section>
+<section id="gallery" class="artwall roundup">
+	{%include roundup.html year="2021" mo="01" month="January"%}
+	{%include roundup.html year="2021" mo="02" month="February"%}
+	{%include roundup.html year="2021" mo="03" month="March"%}
+	{%include roundup.html year="2021" mo="04" month="April"%}
+	{%include roundup.html year="2021" mo="05" month="May"%}
+	{%include roundup.html year="2021" mo="06" month="June"%}
+	{%include roundup.html year="2021" mo="07" month="July"%}
+	{%include roundup.html year="2021" mo="08" month="August"%}
+	{%include roundup.html year="2021" mo="09" month="September"%}
+	{%include roundup.html year="2021" mo="10" month="October"%}
+	{%include roundup.html year="2021" mo="11" month="November"%}
+	{%include roundup.html year="2021" mo="12" month="December"%}
+</section>
+
+## 2022
+<section id="gallery" class="artwall roundup">
+	{%include roundup.html year="2022" mo="01" month="January"%}<!--
+	{%include roundup.html year="2022" mo="02" month="February"%}
+	{%include roundup.html year="2022" mo="03" month="March"%}
+	{%include roundup.html year="2022" mo="04" month="April"%}
+	{%include roundup.html year="2022" mo="05" month="May"%}
+	{%include roundup.html year="2022" mo="06" month="June"%}
+	{%include roundup.html year="2022" mo="07" month="July"%}
+	{%include roundup.html year="2022" mo="08" month="August"%}
+	{%include roundup.html year="2022" mo="09" month="September"%}
+	{%include roundup.html year="2022" mo="10" month="October"%}
+	{%include roundup.html year="2022" mo="11" month="November"%}
+	{%include roundup.html year="2022" mo="12" month="December"%}-->
+</section>
 
 <!--note to self: anything with J+KL takes thumbnail priority, but something finished/in full color would be nice. barring that, a somehow-representative sketch that DOESN'T include J/KL. no text ideal-->
