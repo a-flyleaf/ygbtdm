@@ -9,7 +9,7 @@ Details and scenes and such, or something of the sort, forthcoming. For now, hav
 	title="Relapse"
 	desc="Old temptations die hard. Upon waking up in an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she’s letting on."
 %}{%include ep.html num="02"
-	title="[TBA]"
+	title="Follow me"
 	desc="While Joce tries to interrogate the world’s limits, an alliance leader struggles with self-imposed significance."
 %}{%include ep.html num="03"
 	title="Not her"
