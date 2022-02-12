@@ -4,6 +4,7 @@ body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman ol
 a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;}
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
+header,main,footer,section,figure,figcaption,article{display:block;}
 
 .wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,table{margin:.75em auto;}
@@ -34,7 +35,7 @@ iframe{border:0;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
-img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none;}
+img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none !important;}
 /*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
 
 footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} footer a{text-decoration-color:inherit;}
@@ -49,6 +50,11 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 #cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
 @media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
+
+/*hmmm
+#ep article{max-width:20em; margin:0 auto 5rem;} #ep h2{margin-top:0; text-align:center;}
+#ep img.spoiler{filter:blur(15px) grayscale(75%);}
+*/
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}

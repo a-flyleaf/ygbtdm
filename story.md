@@ -2,11 +2,12 @@
 layout: 1.1
 title: story, kinda
 ---
-Details and scenes and such, or something of the sort, forthcoming. For now, have synopsis-teaser-things and cover thumbnails.
+Details and scenes and such, or something of the sort, forthcoming. For now, have synopsis-teaser-things.
 
+<section id="ep">
 {%include ep.html num="01"
 	title="Relapse"
-	desc="Old temptations die hard. Venturing into an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she’s letting on."
+	desc="Old temptations die hard. Upon waking up in an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she’s letting on."
 %}{%include ep.html num="02"
 	title="[TBA]"
 	desc="While Joce tries to interrogate the world’s limits, an alliance leader struggles with self-imposed significance."
@@ -31,11 +32,11 @@ Details and scenes and such, or something of the sort, forthcoming. For now, hav
 %}{%include ep.html num="09" spoiler=""
 	title="But you"
 	desc="<span class='spoiler'>Kay Lin spirals. Despite all warning, Joce can’t let her go down alone.</span>"
-%}{%include ep.html num="09" spoiler=""
+%}{%include ep.html num="10" spoiler=""
 	title="<span class='spoiler'>You can’t save her</span>"
 	desc="<span class='spoiler'>For whose good?</span> or: <span class='spoiler'>Joce stakes her last chance at stability for the chance to drag Kay Lin down from the brink, even if it kills her.</span>"
-%}{%include ep.html num="09" spoiler=""
+%}{%include ep.html num="11" spoiler=""
 	title="<span class='spoiler'>I miss you</span>"
 	desc="A reckoning; a goodbye."
-%}
+%}</section>
 <!--maaaaybe use data?-->
