@@ -85,6 +85,6 @@ arrows indicate a new webpage-->
 - awake: J rises, observes room → down the hall → door ajar
 	- "rises, observes room" is such dry-ass phrasing but I know what I'm referring to and That's What Matters(TM)
 - release: there she is → as J works, KL wants out → bright, wake up → alone; "Thank you...! And... good bye."
-- choice: Sq+WR, "Was this worth it?", "You think I'll make it?" → "DO'T GO"
+- choice: Sq+WR, "Was this worth it?", "You think I'll make it?" → "DON'T GO"
 - neighbor: <-- that scene
 - anew: sendoff montage/letter, fade to black

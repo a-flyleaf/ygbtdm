@@ -51,7 +51,9 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 @media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
 
-#story .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;}
+/*this entire thing needs better styling but this works for now*/
+#story p .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;} #story blockquote em{text-transform:uppercase;}
+.next{text-align:right; margin-top:3rem; font-size:.85em;}
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
