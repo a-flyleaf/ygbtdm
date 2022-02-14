@@ -1,7 +1,6 @@
 ---
 layout: 1.1
 title: changelog
-subpage: about
 ---
 Big things; single/sporadic art additions not included.
 
@@ -15,4 +14,4 @@ Big things; single/sporadic art additions not included.
 - 2022/01/30: added 404 page bonus & this changelog
 - 2022/02/02: tentative title update ("that one untitled story" → "You're gonna be the death of me"); also added story page
 	- patch note: story is now 11 parts (formerly 12)
-- 2022/02/13: revamped index, moved changelog, rewrote about
+- 2022/02/13: revamped index, moved changelog, rewrote about, added sitemap
