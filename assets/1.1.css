@@ -51,10 +51,7 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 @media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
 
-/*hmmm
-#ep article{max-width:20em; margin:0 auto 5rem;} #ep h2{margin-top:0; text-align:center;}
-#ep img.spoiler{filter:blur(15px) grayscale(75%);}
-*/
+#story .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;}
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
