@@ -5,3 +5,5 @@ collections:
         output: true
     roundups:
         output: true
+    story:
+        output: true
