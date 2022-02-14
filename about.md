@@ -2,29 +2,22 @@
 layout: 1.1
 title: about
 ---
-> [the story](#the-story) ▪ [the site](#the-site)
-
-## the story
-> A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl in a thrilling, destructive hellscape.
+A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl in a thrilling, destructive hellscape.
 
 {%include figure.html
 	img="about-temp"
 %}
 
-Envisioned as a ~~12~~ 11-part series. Theoretically it would be a full comic start to finish; in practice, I'm messing with it and seeing where it goes. (<a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" target="_blank">More rambling on that here</a>). Stuff you can expect:
-
-- copious amounts of "concept art" and other scribbles
-- comics for actual scenes
-- written description to some extent, maybe?
-
-~We'll see~
+Website for a story-project-thing that spawned around early 2021. Envisioned as a ~~12~~ 11-part comic series; for <a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" target="_blank">various reasons</a> I won't be executing it so conventionally. Whatever comes of it, it'll be on this site.
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
-## the site
-Because a majority of art has been posted <a href="https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos" target="_blank">offsite</a> with little regard for context, I decided to make a few pages to make things nicer to look at (and, eventually, provide some additional crumbs of context).
+In the mean time, this site houses [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
-For the most part, there is no indication of "spoilers"; browse at your own risk. But if I think something warrants hiding, it'll be grayed out <span class="spoiler">like this</span>; click to show/hide. Images may also be "hidden," like so:
+## on spoilers
+Because of the haphazard way I've been making stuff for this thing, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
+
+That said, if I think something is especially significant, it'll be hidden; text is grayed out <span class="spoiler">like this</span>, and images are obscured like this:
 
 {%include figure.html
 	img="carless"
