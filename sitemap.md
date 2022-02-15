@@ -1,7 +1,7 @@
 ---
 layout: 1.1
 title: sitemap
-css: main a{text-decoration-color:#5e5e5e;}
+css: main a{text-decoration-color:#5e5e5e;} li>ul,li>ul>li{display:inline; opacity:.85;} li>ul{padding:0; font-size:.85em; text-transform:uppercase; letter-spacing:.05em;} li>ul>li:before{content:"▪"; padding-right:.25em;}
 ---
 ## [main]({%include url.html%})
 - [Index]({%include url.html%})
@@ -31,6 +31,5 @@ css: main a{text-decoration-color:#5e5e5e;}
 	- [roundups]({%include url.html%}/gallery/roundups)
 
 ## misc
-- [error]({%include url.html%}/insert-broken-link-here)
 - [changelog]({%include url.html%}/changelog)
 - sitemap (you are here)
