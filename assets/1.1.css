@@ -8,6 +8,7 @@ header,main,footer,section,figure,figcaption,article{display:block;}
 
 .wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,table{margin:.75em auto;}
+.small{font-size:.85em;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
 header ul{margin-left:-.25rem;} header li{display:inline; font-size:.85em; text-transform:uppercase; margin:0 .25rem; letter-spacing:.05em;}
