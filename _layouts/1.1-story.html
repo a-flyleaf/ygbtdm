@@ -5,5 +5,6 @@ layout: "1.1"
 <div id="story" class="wrap">
 	{%if page.quote%}<blockquote>“{{page.quote}}”</blockquote>{%endif%}
 	<p>{{page.summary}}</p>
-	{{page.content}}
-</div>
+	{{page.content}}{%if page.next%}
+	<div id="next">next: <a href="{%include url.html%}/story/{{page.next.num}}"><b>{{page.next.title}}</b> →</a></div>
+{%endif%}</div>
