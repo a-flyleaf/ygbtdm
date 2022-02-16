@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>{%if page.title%}{%if page.subpage%}{{page.subpage}}: {%endif%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
+		<title>{%if page.title%}{%if layout.title%}{{layout.title}}: {%endif%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/1.1.css"/>{%if page.css%}
 		<style>{{page.css}}</style>{%endif%}
 	</head>
@@ -18,20 +18,6 @@
 				<a href="{%include url.html%}/story"><li>story</li></a>
 				<a href="{%include url.html%}/cast"><li>cast</li></a>
 				<a href="{%include url.html%}/gallery"><li>gallery</li></a>
-				<!--<li id="parts"><a href="{%include url.html%}">snippets</a> by part:
-					<a href="{%include url.html%}/scenes#1">1</a>
-					<a href="{%include url.html%}/scenes#2">2</a>
-					<a href="{%include url.html%}/scenes#3">3</a>
-					<a href="{%include url.html%}/scenes#4">4</a>
-					<a href="{%include url.html%}/scenes#5">5</a>
-					<a href="{%include url.html%}/scenes#6">6</a>
-					<a href="{%include url.html%}/scenes#7">7</a>
-					<a href="{%include url.html%}/scenes#8">8</a>
-					<a href="{%include url.html%}/scenes#9">9</a>
-					<a href="{%include url.html%}/scenes#10">10</a>
-					<a href="{%include url.html%}/scenes#11">11</a>
-					<a href="{%include url.html%}/scenes#12">12</a>
-				</li>-->
 			</ul></nav>
 		</header>
 		
