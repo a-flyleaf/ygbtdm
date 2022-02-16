@@ -4,7 +4,7 @@ body{overflow-x:hidden; background:#151515; color:#fff; font-family: 'bookman ol
 a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;}
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
-header,main,footer,section,figure,figcaption,article{display:block;}
+header,nav,main,footer,section,figure,figcaption,article{display:block;}
 
 .wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,table{margin:.75em auto;}
@@ -48,13 +48,16 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
 
-#cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
-@media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
-#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
+#covers{max-width:35rem;} #covers a{width:50%; margin:0; transition:.5s;} #covers figure{margin:5px;} #covers .big{width:100%;} #covers a:active,#covers a:focus,#covers a:hover{opacity:.5 !important;}
 
 /*this entire thing needs better styling but this works for now*/
 #story p .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;} #story blockquote em{text-transform:uppercase;}
 #next{text-align:right; margin-top:3rem; font-size:.85em;}
+
+#cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
+@media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
+
+#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
