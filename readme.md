@@ -1,1 +1,1 @@
-Website for [an untitled project-thing I've been working on for over a year now](https://www.deviantart.com/a-flyleaf/gallery?q=%23unmooredrandos). Currently a glorified artchive (art archive). Expect a repository rename and other link breakage as I figure out what the heck to do with this.
+Website for *You're gonna be the death of me*, a story-project-thing I've been working on since early 2021. More details on [the About page](https://a-flyleaf.github.io/ygbtdm/about).
