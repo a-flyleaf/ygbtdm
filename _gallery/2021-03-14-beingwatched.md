@@ -8,4 +8,4 @@ permalink: /gallery/beingwatched
 drawnon: March 14, 2021
 da: feeling-of-being-watched-873253634
 ---
-Inspired vaguely by the work of <a href="https://www.vladimirzimakov.com/" target="_blank">Vladmir Zimakov</a>.
+Inspired vaguely by the work of <a href="https://www.vladimirzimakov.com/" class="ext">Vladmir Zimakov</a>.

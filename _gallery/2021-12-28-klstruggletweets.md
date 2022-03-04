@@ -10,4 +10,4 @@ da: none-of-these-are-canon-902145790
 ---
 Side note: eye color is not a thing that is commented on canonically, but it would be funny if it was.
 
-Vaguely-relatedly, a comment thread spawned <a href="https://sta.sh/0269qvjw1xe5" target="_blank">this</a>.
+Vaguely-relatedly, a comment thread spawned <a href="https://sta.sh/0269qvjw1xe5" class="ext">a bonus</a>.

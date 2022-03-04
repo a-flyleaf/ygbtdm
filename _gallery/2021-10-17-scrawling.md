@@ -8,7 +8,7 @@ permalink: /gallery/scrawling
 drawnon: October 17, 2021
 da: roundup-10-2021-Not-As-Long-As-It-Could-Have-Been-896694290
 ---
-MSpaint scribble, with slight edits. Eye-moon-thing was almost definitely insired by <a href="https://ranfren.neocities.org/lucid/lucid22/lucid22thattimei.html" target="_blank"><i>Ranfren</i></a>.
+MSpaint scribble, with slight edits. Eye-moon-thing was almost definitely insired by <a href="https://ranfren.neocities.org/lucid/lucid22/lucid22thattimei.html" class="ext"><i>Ranfren</i></a>.
 
 Horrible, horrible process:
 

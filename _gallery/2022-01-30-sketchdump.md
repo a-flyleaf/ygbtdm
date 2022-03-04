@@ -8,4 +8,4 @@ permalink: /gallery/sketchdump2
 drawnon: January 30, 2022
 da: scribbl-905457851
 ---
-<a href="{%include url.html%}/gallery/sketchdump">Another</a> one.
+[Another]({%include url.html%}/gallery/sketchdump) one.
