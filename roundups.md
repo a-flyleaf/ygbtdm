@@ -5,7 +5,7 @@ subpage: gallery
 permalink: /gallery/roundups
 css: main h2{font-size:3em; text-align:center; margin:1em auto .5em;}
 ---
-Starting in 2021, I've been ending each month with a giant wall of art that wouldn't otherwise have been posted. Originals are <a href="https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff" target="_blank">on deviantArt</a>; these versions have non-story-related content cropped and/or faded out.
+Starting in 2021, I've been ending each month with a giant wall of art that wouldn't otherwise have been posted. Originals are [on deviantArt](https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff); these versions have non-story-related content cropped and/or faded out.
 
 ## 2021
 <section id="gallery" class="artwall roundup">
@@ -25,8 +25,8 @@ Starting in 2021, I've been ending each month with a giant wall of art that woul
 
 ## 2022
 <section id="gallery" class="artwall roundup">
-	{%include roundup.html year="2022" mo="01" month="January"%}<!--
-	{%include roundup.html year="2022" mo="02" month="February"%}
+	{%include roundup.html year="2022" mo="01" month="January"%}
+	{%include roundup.html year="2022" mo="02" month="February"%}<!--
 	{%include roundup.html year="2022" mo="03" month="March"%}
 	{%include roundup.html year="2022" mo="04" month="April"%}
 	{%include roundup.html year="2022" mo="05" month="May"%}
