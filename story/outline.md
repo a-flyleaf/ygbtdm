@@ -1,3 +1,6 @@
+---
+layout: none
+---
 <!--for my own reference; not supposed to be publically-accessible, but then again neither was the "beta" stuff. so uh, have at it if you want?
 
 "intro/" = "cold open", title sequence after; else, assume title is at the very start (unless otherwise noted)
