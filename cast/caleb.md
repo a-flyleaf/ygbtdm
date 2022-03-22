@@ -5,7 +5,9 @@ css: section a:nth-of-type(4){filter:none !important;}#cast{margin-top:5rem;}
 ---
 {%include figure.html
 	img="cast/c-designnotes"
-	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>round, soft</li><li>kinda hidden, kinda showy</li></ul>&nbsp;<ul><li>idk what this hair is tbh<ul><li>[features a] central “nub” [in the back]</li><li>covers ears</li><li>may stick out at the middle</li></ul></li><li>constant [expression of] worry—mouth is often squiggly</li><li>[sweater is] off shoulder on purpose</li><li>almost always hides hands; oversize sleeves</li><li>pudgy</li><li>loose shorts</li><li>tights/leggings</li><li>loose socks (On Purpose™)</li></ul></details>"
+	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>round, soft</li><li>kinda hidden, kinda showy</li></ul>
+		<details class='imgdesc wrap castdesc'><summary>written description</summary>Short, pale-skinned, short & fluffy dirty blonde hair, light blue-gray eyes, pudgy build. By default, wears an oversize off-shoulder sweater over a white t-shirt, yellow shorts, white leggings, and fuzzy yellow-and-pink boots.</details>
+		<ul><li>idk what this hair is tbh<ul><li>[features a] central “nub” [in the back]</li><li>covers ears</li><li>may stick out at the middle</li></ul></li><li>constant [expression of] worry—mouth is often squiggly</li><li>[sweater is] off shoulder on purpose</li><li>almost always hides hands; oversize sleeves</li><li>pudgy</li><li>loose shorts</li><li>tights/leggings</li><li>loose socks (On Purpose™)</li></ul></details>"
 %}
 
 ## height/build

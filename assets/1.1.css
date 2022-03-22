@@ -5,10 +5,14 @@ a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-d
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
 header,nav,main,footer,section,figure,figcaption,article{display:block;}
+.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 
 .wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
 p,table{margin:.75em auto;}
 .small{font-size:.85em;}
+.caps{text-transform:uppercase;}
+
+.skipto{padding:.5em .75em;} .skipto:focus,.skipto:active{width:auto; height:auto; overflow:visible; left:auto; background:#404040; border:2px solid #000;} .skipto:hover{background:#000; border-color:#808080;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
 header ul{margin-left:-.25rem;} header li{display:inline; font-size:.85em; text-transform:uppercase; margin:0 .25rem; letter-spacing:.05em;}
@@ -31,6 +35,7 @@ td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
 
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
+.imgdesc p{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
 
 iframe{border:0;}
 

@@ -11,7 +11,8 @@
 	</head>
 	
 	<body>
-		<header class="wrap">
+		<a href="#content" class="skipto x">skip to content</a>
+		<header class="wrap" id="header">
 			<h2><a href="{%include url.html%}">{{site.name}}</a></h2>
 			<nav><ul>
 				<a href="{%include url.html%}/about"><li>about</li></a>
@@ -21,7 +22,7 @@
 			</ul></nav>
 		</header>
 		
-		<main>
+		<main id="content">
 			<h1>{{page.title}}</h1>
 			{{content}}{%if page.subpage%}
 			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}
