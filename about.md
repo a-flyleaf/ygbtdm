@@ -13,10 +13,10 @@ Website for a story-project-thing that spawned around early 2021. Envisioned as 
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
-In the mean time, this site houses [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
+For now, a majority of the site is [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
 ## on spoilers
-Because of the haphazard way I've been making stuff for this thing, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
+Because of the haphazard way I've been publicizing stuff for this story, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
 
 That said, if I think something is especially significant, it'll be hidden; text is grayed out <span class="spoiler">like this</span>, and images are obscured like this:
 
@@ -31,8 +31,8 @@ That said, if I think something is especially significant, it'll be hidden; text
 %}
 
 ## misc. notes
-With code nerd thanks to the following resources, for the spoiler JavaScript: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>.
+The spoiler JavaScript owes code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>.
 
-Images here and on [the cast pages]({%include url.html%}/cast) should have captions or descriptions; working on the rest.
+Images here and on [the cast pages]({%include url.html%}/cast) should have captions via [alt text](https://www.a11yproject.com/posts/alt-text/) or (as used) visible descriptions. Story and gallery image descriptions are being worked on as of late March 2022, and will ideally be finished within a month or two.
 
 <a href="#header" class="skipto x">back to header</a>
