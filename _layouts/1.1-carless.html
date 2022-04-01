@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>carless whispers</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/1.1.css"/>
+		<style>
+			*{font-family:calibri,sans-serif;}
+			footer{font-size:.75em;}
+			body{line-height:150%;}
+			#back{font-size:1.5em; font-weight:bold;} #back a{text-decoration:none;} #back a:hover,#back a:active,#back a:focus{color:#fff;}
+			main nav{font-size:.75em; color:#808080;} main nav a{text-decoration-color:#5e5e5e;} main nav a:hover,main nav a:active,main nav a:focus{color:#fff;} main nav a:first-child{text-transform:uppercase; letter-spacing:.05em;} #end{padding-top:2em;}
+			ul{list-style-type:none; padding-left:1.4em !important; padding-top:1em;} ul li{padding-left:0; margin:.75em 0; text-indent:-1.4em;} ul li:before{content:"→"; padding-right:.5em;} li a{text-decoration:none; color:inherit;} li a:hover,li a:active,li a:focus{color:#adadad;}
+			#achievement{border:1px dashed; padding:.5em 1em;} #achievement p{margin:.25em 0;}
+			{%if page.css%}{{page.css}}{%endif%}
+		</style>
+	</head>
+	
+	<body>
+		<header class="wrap" id="header">
+			<h2 class="x"><a href="{%include url.html%}/carless">carless whispers</a></h2>
+		</header>
+		
+		<main id="content">
+			<h1>{{page.title}}</h1>
+			{{content}}{%if page.next%}
+			<div id="back" class="wrap"><a href="{%include url.html%}/carless/{{page.next}}">→</a></div>{%endif%}
+		</main>
+		
+		<footer class="wrap">what in god’s name is this, <a href="{%include url.html%}">take me back</a>!</footer>
+		
+		<script>
+			const spoilers = document.querySelectorAll('.spoiler');
+			spoilers.forEach(spoiler => {
+				spoiler.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('showhide');
+				});
+			});
+			
+			const fullpic = document.querySelectorAll('.pic');
+			fullpic.forEach(pic => {
+				pic.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('fullsize');
+				});
+			});
+		</script>
+	</body>
+</html>
