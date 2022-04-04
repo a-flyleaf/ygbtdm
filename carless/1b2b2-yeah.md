@@ -7,7 +7,7 @@ No aux cord for you, apparently. But when you're surrounded by post-ironic techn
 
 {%include carless.html
 	title="Speedruncore"
-	desc="A few hours’ of empty road got nothing on this trance—even if, once you’re off, you’ll need a few hours to get used to the real world again."
+	desc="A few hours’ of empty road got nothing on this trance—even <u>i</u>f, once you’re off, you’ll need a few hours to get used to the real world again.<span class='x'> (The letter <i>I</i> is underlined.)</span>"
 %}
 
 <nav class="wrap" id="end">

@@ -5,7 +5,7 @@ You're pretty sure the driver watches you as you make your glorious, limping esc
 
 {%include carless.html
 	title="Break a Leg"
-	desc="Your gambit didn't <u>p</u>ay off, and you bailed before seeing the consequences through. Congratulations...?"
+	desc="Your gambit didn't <u>p</u>ay off, and you bailed before seeing the consequences through. Congratulations...?<span class='x'> (The letter <i>P</i> is underlined.)</span>"
 %}
 
 <nav class="wrap" id="end">
