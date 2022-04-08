@@ -5,8 +5,6 @@ css: section a:nth-of-type(2){filter:none !important;}#cast{margin-top:5rem;}
 ---
 Two-word first name.
 
-<details class="imgdesc wrap castdesc small"><summary>written description</summary>COPYPASTE HERE</details>
-
 {%include figure.html
 	img="cast/kl-designnotes"
 	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>young(-looking), thin, small</li><li>would not dress like this voluntarily</li></ul>
