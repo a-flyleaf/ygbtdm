@@ -22,7 +22,7 @@ css: section a:last-of-type{filter:none !important;}#cast{margin-top:5rem;}
 - Difficult to read; apparently mute, rarely gestures, and “skull” does not emote, but “ears” can betray reactions
 
 ## other visual characteristics
-- Limbs are being gnawed at (covered?) by... something
+- Limbs are being gnawed at (engulfed?) by... something
 - Never seen without bandana
 - Eyes are not quite in the right place for a human; cause debatable
 

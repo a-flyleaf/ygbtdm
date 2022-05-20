@@ -33,6 +33,6 @@ That said, if I think something is especially significant, it'll be hidden; text
 ## misc. notes
 The spoiler JavaScript owes code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>.
 
-Images here and on [the cast pages]({%include url.html%}/cast) should have captions via [alt text](https://www.a11yproject.com/posts/alt-text/) or (as used) visible descriptions. Story and gallery image descriptions are being worked on as of late March 2022, and will ideally be finished within a month or two.
+Images here and on [the cast pages]({%include url.html%}/cast) should have captions via [alt text](https://www.a11yproject.com/posts/alt-text/) or (as used) visible descriptions. Story and gallery image descriptions forthcoming.
 
 <a href="#header" class="skipto x">back to header</a>

@@ -29,3 +29,4 @@ Not incluing tiny fixes or single art additions.
 ## \[idk what to call this section]
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
+- 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)

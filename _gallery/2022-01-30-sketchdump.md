@@ -1,7 +1,7 @@
 ---
 layout: 1.1-gallery
 subpage: gallery
-title: Jauary sketchdump
+title: January sketchdump
 img: 2022-01-30
 smolfile: jpg
 permalink: /gallery/sketchdump2

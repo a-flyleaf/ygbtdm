@@ -25,6 +25,6 @@ css: section a:nth-of-type(4){filter:none !important;}#cast{margin-top:5rem;}
 	- \[Used to have stars on the leggings but I can't be bothered to draw that consistently]
 - Light, soft pastels for days
 
-Associated with <b>pink</b>, skews more pastel than saturated.
+Associated with <b>pink</b>, skews more pale than saturated.
 
 {%include cast.html%}
