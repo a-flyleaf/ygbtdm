@@ -4,9 +4,9 @@ title: gallery test
 ---
 ## specific tag
 {%for art in site.gallery%}
-	{%if art.tags contains "one"%}
-	- {{art.title}}
-	{%endif%}
+{%if art.tags contains "j"%}
+- {{art.title}}
+{%endif%}
 {%endfor%}
 
 ## all
