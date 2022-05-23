@@ -7,5 +7,7 @@ smolfile: jpg
 permalink: /gallery/beingwatched
 drawnon: March 14, 2021
 da: feeling-of-being-watched-873253634
+tags: j
+caption: <p>Bust of the first character glancing back over the shoulder, framed in dark, linear static.</p>
 ---
 Inspired vaguely by the work of <a href="https://www.vladimirzimakov.com/" class="ext">Vladmir Zimakov</a>.

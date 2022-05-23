@@ -1,5 +1,5 @@
-<figure{%if include.class%} class="{{include.class}}"{%endif%}>
-	{%if include.spoiler%}<div class="spoilerbox">{%endif%}{%if include.picture%}<picture>
+<figure>
+	{%if include.spoiler%}<div class="spoilerbox">{%endif%}{%if include.picture%}<picture{%if include.class%} class="{{include.class}}"{%endif%}>
 		<source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/{%if include.subcat%}{{include.subcat}}/{%endif%}{{include.img}}-full.png"/>{%endif%}<img src="{%include url.html%}/assets/img/{%if include.subcat%}{{include.subcat}}/{%endif%}{{include.img}}{%if include.picture%}-600{%endif%}.png" alt="{{include.alt}}"{%if include.spoiler%} class="spoiler"{%endif%}/>{%if include.picture%}</picture>{%endif%}{%if include.spoiler%}</div>{%endif%}{%if include.caption%}
 	<figcaption{%if include.border%} class="border"{%endif%}>{{include.caption}}</figcaption>{%endif%}
 </figure>

@@ -24,12 +24,13 @@ h2+p,h3+p{margin-top:.25em;}
 h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
 
 figure{text-align:center; margin:1.5rem auto;}
-figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border,details{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
+figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border,details{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p,figcaption ul{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
 
 main ul,main ol{padding-left:1em;}
 h2+ul,h3+ul,h2+ol,h3+ol{margin-top:.25em;}
 
 blockquote{margin-left:2em;}
+li>ul{margin-top:0;}
 
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold;}
@@ -37,7 +38,7 @@ tr:first-child,td:first-child{font-weight:bold;}
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
 .imgdesc p{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
 
-iframe{border:0;}
+iframe{border:0; display:block; margin:1em auto;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
@@ -63,6 +64,7 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 @media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
 
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
+#caption{margin:.25em 0 0 .85em;}
 
 @media only screen and (min-width:600px){
 	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}

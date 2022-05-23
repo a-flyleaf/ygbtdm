@@ -7,7 +7,8 @@ smolfile: jpg
 permalink: /gallery/walkin
 drawnon: April 7–8, 2022
 da: makin-their-way-downtown-912465429
+tags: j kl
 ---
 Above: Frames of a looping walk cycle animation; see dA upload for GIF version.
 
-<p><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/bpPoHv-KJmk?modestbranding=1&rel=0"></iframe></p>
+{%include youtube.html url="bpPoHv-KJmk"%}

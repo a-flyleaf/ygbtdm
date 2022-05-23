@@ -7,6 +7,8 @@ smolfile: png
 permalink: /gallery/designnotes
 drawnon: December 16–17, 2021
 da: long-ass-wall-of-design-notes-901062994
+tags: j kl a c g d sq wr
+caption: "<p>A long horizontal image featuring two lineups (one in grayscale, the other focused on relative heights) followed by closeups of each character. Full captions on each individual character page; see below.</p>"
 ---
 Self-explanatory. Fullsize has been upscaled x2 to allow for easier reading. Individual segments + transcripts are on [the cast pages]({%include url.html%}/cast).
 

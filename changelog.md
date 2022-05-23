@@ -2,7 +2,7 @@
 layout: 1.1
 title: changelog
 ---
-Not incluing tiny fixes or single art additions.
+Not incluing tiny fixes or most art additions.
 
 ## "beta" site
 - 2021/12/12: created site; initial scene+cast notes
@@ -30,3 +30,4 @@ Not incluing tiny fixes or single art additions.
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
 - 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
+- 2022/05/23: main gallery tag functionality & captions
