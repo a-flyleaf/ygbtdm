@@ -31,3 +31,4 @@ Not incluing tiny fixes or most art additions.
 - 2022/03/22: started adding image captions (about & cast)
 - 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
 - 2022/05/23: main gallery tag functionality & captions
+	- cast-specific galleries exist but aren't linked
