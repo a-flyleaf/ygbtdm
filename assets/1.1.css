@@ -38,7 +38,7 @@ tr:first-child,td:first-child{font-weight:bold;}
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
 .imgdesc p{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
 
-iframe{border:0; display:block; margin:1em auto;}
+iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 
 .spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
 .showhide{background:0; color:#adadad;}
