@@ -2,7 +2,6 @@
 layout: 1.1-gallery
 title: "quote-unquote experiments"
 img: 2021-03-07
-smolfile: jpg
 permalink: /gallery/paneltests
 subpage: gallery
 drawnon: March 7, 2021

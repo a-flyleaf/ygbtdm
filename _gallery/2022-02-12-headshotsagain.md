@@ -8,7 +8,7 @@ permalink: /gallery/headshots2
 drawnon: February 12, 2022
 da: insert-time-here-since-last-headshots-906838221
 tags: j kl a c g d sq wr
-caption: "<p>Headshots of the cast, three-fourths-view facing left, in their token colors on simple backgrounds.</p>"
+caption: Headshots of the cast, three-fourths-view facing left, in their token colors on simple backgrounds.
 ---
 Something of a style test, just for the heck of it.
 
