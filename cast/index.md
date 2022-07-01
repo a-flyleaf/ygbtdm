@@ -15,9 +15,9 @@ title: cast
 	<li>Joce’s is from <a href="{%include url.html%}/gallery/firstimpressions">the “first impressions” comic</a>, in a panel of her dramatically leaning against a wall and zoning out.</li>
 	<li>Kay Lin’s is from “<a href="{%include url.html%}/gallery/clueless">clueless</a>,” in which she grins blankly at nothing in particular.</li>
 	<li>Addison’s is from <a href="{%include url.html%}/gallery/batta">a lineup featuring baseball bats</a>, though her bat is cropped out; nothing left but a smug lean.</li>
-	<li>Caleb’s is an untitled doodle in <a href="{%include url.html%}/gallery/roundups/2021-09">a roundup</a>; mostly a cutesy pastel drawing except for over-rendered eyes.</li>
+	<li>Caleb’s is an untitled doodle in <a href="{%include url.html%}/gallery/roundups/2022-06">a roundup</a>; he offers a nervous but smug grin to the viewer.</li>
 	<li>Gary’s is from <a href="{%include url.html%}/gallery/bruh">a scene test comic</a>, in a panel of him reaching out with a wide open-mouthed smile and outstretched arms.</li>
 	<li>The accountant’s is from <a href="{%include url.html%}/gallery/badguys">a doodle dump featuring her and Gary</a>, in which she looks down at him with an enthusiastic grin.</li>
-	<li>Sequitur’s is one of several <a href="{%include url.html%}/gallery/doom">random scribbles, just standing there</a>. Mildly pensive.</li>
-	<li>White Rabbit’s is another untitled <a href="{%include url.html%}/gallery/roundups/2021-11">roundup</a> doodle, in which WR wields an over-the-shoulder bat.</li>
+	<li>Sequitur’s is from an unfinished drawing (also in <a href="{%include url.html%}/roundups/2022-06">a roundup</a>) in which they offer a drink, grinning deliriously.</li>
+	<li>White Rabbit’s is another untitled <a href="{%include url.html%}/gallery/roundups/2022-04">roundup</a> doodle, a front view headshot rendered half-void in the dark.</li>
 </ul></details></figcaption>
