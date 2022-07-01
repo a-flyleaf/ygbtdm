@@ -9,14 +9,14 @@ A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl 
 	alt="Comic panel featuring the two main characters. The smaller one, smiling, offers a handshake; the other is surprised."
 %}
 
-Website for a story-project-thing that spawned around early 2021. Envisioned as a ~~12~~ 11-part comic series; for <a href="https://a-flyleaf.github.io/blog/project-rambling#now-what" class="ext">various reasons</a> I won't be executing it so conventionally. Whatever comes of it, it'll be on this site.
+Website for a story-project-thing that spawned around early 2021. As of June 2022 a >300-image [colorscript](https://www.slashfilm.com/533711/pixar-color-supercut/) has been completed; these will likely be published all in one go, and then we'll see what else happens with the story from there. (See [this blog post from late 2021](https://a-flyleaf.github.io/blog/project-rambling#now-what) for why it's not being made as a traditional webcomic.)
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
-For now, a majority of the site is [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
+For now, a majority of this site houses [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
 ## on spoilers
-Because of the haphazard way I've been publicizing stuff for this story, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
+Because there's been little public filtering from the getgo, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
 
 That said, if I think something is especially significant, it'll be hidden; text is grayed out <span class="spoiler">like this</span>, and images are obscured like this:
 
@@ -30,9 +30,11 @@ That said, if I think something is especially significant, it'll be hidden; text
 	spoiler=""
 %}
 
-## misc. notes
-The spoiler JavaScript owes code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>.
+### technical notes
+The spoiler functionality owes code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>. Some caveats:
 
-Images here, on [the cast pages]({%include url.html%}/cast), and in [the main gallery]({%include url.html%}/gallery) should have captions via [alt text](https://www.a11yproject.com/posts/alt-text/) or (as used above) toggled visible descriptions.
+- Unfortunately this is **not keyboard-accessible**. I'm not familiar enough with JavaScript to fix it yet; apologies for the inconvenience!
+	- (P.S. You are welcome (and invited!) to lend a hand, if you'd like; <a href="https://github.com/a-flyleaf/ygbtdm" class="ext">the GitHub repository</a> is public, and/or you can <a href="https://a-flyleaf.github.io/about#contact" target="ext">contact me directly</a>. That said, I *should* be able to figure it out on my own eventually.)
+- Toggling won't work at all if you're not using JavaScript. You can still read spoiler text by selecting or copy-pasting it, and images are perfectly viewable in new tabs.
 
 <a href="#header" class="skipto x">back to header</a>

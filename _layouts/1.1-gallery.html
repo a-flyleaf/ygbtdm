@@ -3,7 +3,7 @@ layout: "1.1"
 title: gallery
 ---
 <figure>
-	<picture class="pic"><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{{page.img}}-full.png"><img src="{%include url.html%}/assets/img/gallery/{{page.img}}-600.{%if page.smolfile%}{{page.smolfile}}{%else%}jpg{%endif%}" alt=""/></picture>{%if page.caption%}
+	<picture class="pic"><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{{page.img}}-full.png"><img src="{%include url.html%}/assets/img/gallery/{{page.img}}-600.{%if page.smolfile%}{{page.smolfile}}{%else%}jpg{%endif%}" alt="{{page.title}}"/></picture>{%if page.caption%}
 	<figcaption><details><summary id="desc">image description</summary><div id="caption">{{page.caption|markdownify}}</div></details></figcaption>
 {%endif%}</figure>
 <div id="info" class="wrap">{%if page.drawnon%}{{page.drawnon}}{%endif%}{%if page.da%}{%if page.drawnon%} ▪ {%endif%}<a href="https://www.deviantart.com/a-flyleaf/art/{{page.da}}" class="ext">on dA</a>{%endif%}</div>
