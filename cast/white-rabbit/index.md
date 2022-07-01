@@ -24,7 +24,7 @@ css: section a:last-of-type{filter:none !important;}#cast{margin-top:5rem;}
 ## other visual characteristics
 - Limbs are being gnawed at (engulfed?) by... something
 - Never seen without bandana
-- Eyes are not quite in the right place for a human; cause debatable
+- Eyes are not quite in the right place for a human; cause is debatable
 
 Associated with <b>pale yellow and/or blue</b>; always more off-white than saturated.
 

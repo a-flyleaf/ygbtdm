@@ -2,7 +2,7 @@
 layout: 1.1
 title: changelog
 ---
-Not incluing tiny fixes or most art additions.
+Not incluing tiny fixes or one-off art additions.
 
 ## "beta" site
 - 2021/12/12: created site; initial scene+cast notes

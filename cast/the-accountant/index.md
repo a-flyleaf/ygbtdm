@@ -13,7 +13,7 @@ AKA "Suits," and various other (sometimes less-flattering) nicknames from variou
 
 ## height/build
 - Tallest of the main 8
-- Apparently fairly thin, somewhat bony hands; uniform hides the rest
+- Apparently fairly thin, somewhat bony hands; covered almost entirely by uniform
 - Sharp angles; naturally-arched brow doesn't lend itself to soft expressions
 
 ## general demeanor

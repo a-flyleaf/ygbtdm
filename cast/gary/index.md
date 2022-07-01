@@ -11,7 +11,7 @@ css: section a:nth-of-type(5){filter:none !important;}#cast{margin-top:5rem;}
 %}
 
 ## height/build
-- About mid-height among the main 8, top of the lower half
+- About mid-height among the main 8, skewing ever so slightly into the shorter half
 - More visible fat than muscle, but not afraid to throw his weight around
 - Squarish with the corners rounded off
 
