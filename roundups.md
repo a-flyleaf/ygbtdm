@@ -31,8 +31,8 @@ None of these are captioned; apologies for the inconvenience.
 	{%include roundup.html year="2022" mo="02" month="February"%}
 	{%include roundup.html year="2022" mo="03" month="March"%}
 	{%include roundup.html year="2022" mo="04" month="April"%}
-	{%include roundup.html year="2022" mo="05" month="May"%}<!--
-	{%include roundup.html year="2022" mo="06" month="June"%}
+	{%include roundup.html year="2022" mo="05" month="May"%}
+	{%include roundup.html year="2022" mo="06" month="June"%}<!--
 	{%include roundup.html year="2022" mo="07" month="July"%}
 	{%include roundup.html year="2022" mo="08" month="August"%}
 	{%include roundup.html year="2022" mo="09" month="September"%}
