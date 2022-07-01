@@ -8,7 +8,7 @@
 		<title>colorscript code test</title>
 		<style>
 			*{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
-			body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px;}
+			body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px; width:7000px; /*can fit about 10*/}
 			header,main,footer{display:block;}
 			::selection{background:#606060;}
 			.wrap{max-width:400px; margin-left:62.5px;}
@@ -24,7 +24,7 @@
 			main{overflow:auto;}
 			h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; color:#c0c0c0; margin-top:24px;}
 			.desc{position:absolute; margin-top:410px;}
-			figure{width:650px; height:500px; float:left; line-height:0;}
+			figure{width:650px; height:500px; float:left; line-height:0; margin-left:-125px;} .full,.full+figure,figure:first-of-type{margin:0;}
 			img{margin:100px 0 0 125px;} .full img{margin:0;}
 			
 			footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
@@ -45,7 +45,7 @@
 			<section>
 				<h2 class="wrap">intro</h2>
 				<div class="desc"><p class="wrap">In which things happen, and they are cool.</p></div>
-				<figure><img src="test1.png" alt=""/></figure><figure class="full"><img src="test2.png" alt=""/></figure>
+				<section><figure><img src="test1.png" alt=""/></figure><figure class="full"><img src="test2.png" alt=""/></figure><!--2--><figure><img src="test1.png" alt=""/></figure><figure><img src="test1.png" alt=""/></figure><!--4--><figure><img src="test1.png" alt=""/></figure><figure><img src="test1.png" alt=""/></figure><!--6--><figure><img src="test1.png" alt=""/></figure><figure><img src="test1.png" alt=""/></figure><!--4--><figure><img src="test1.png" alt=""/></figure><figure><img src="test1.png" alt=""/></figure><!--8--><figure><img src="test1.png" alt=""/></figure><figure><img src="test1.png" alt=""/></figure><!--10--></section>
 			</section>
 		</main>
 		
