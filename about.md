@@ -13,7 +13,7 @@ Website for a story-project-thing that spawned around early 2021. As of June 202
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
-For now, a majority of this site houses [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
+For now, a majority of the site is composed of [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
 ## on spoilers
 Because there's been little public filtering from the getgo, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
