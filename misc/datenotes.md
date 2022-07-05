@@ -5,6 +5,7 @@ because GitHub does weird things with moved files sometimes
 - 2022/03/03 | story/outline
 - 2022/04/01 | carless/testdrive
 - 2022/06/03 | cast/gallerytest
+						 [everything above this point is date of last editing, not necessarily creation]
 - 2022/07/01 | story/colorscript-test
 - 2022/07/05 | cast/spoilernotes
 							 README.md, datenotes.md (you are here)
