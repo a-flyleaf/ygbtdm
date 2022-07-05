@@ -44,6 +44,7 @@ iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 .showhide{background:0; color:#adadad;}
 img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none !important;}
 /*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
+.spoiler a{pointer-events:none;} .showhide a{pointer-events:auto;}
 
 footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} footer a{text-decoration-color:inherit;}
 
