@@ -1,0 +1,4 @@
+# owo whats this
+None of this stuff is supposed to be publicly-viewable, either because it's "early bird" spoilers (exciting!) or it was testing code (mundane!). That said, it's easier for me to just shove it in the same folder as everything else, and I'm always a sucker for hidden bonus content---so, here is your Hidden Bonus Content™, <i>You're gonna be the death of me</i> edition!
+
+Maybe I will make an index for this so it can be navigated to onsite too, but for now have this. If you're reading this, I assume you *might* know how to get to the page directly---and if not, well, figure it out ;V
