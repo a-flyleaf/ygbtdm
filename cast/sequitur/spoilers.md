@@ -3,6 +3,12 @@ layout: 1.1
 subpage: cast/sequitur
 title: "Sequitur: spoiler notes"
 ---
+{%include figure.html
+	img="cast/sq-spoilers"
+	alt="Sequitur and Kay Lin chilling, deliriously giddy. Captioned: “We May Be Stupid”"
+	caption="<p>from <a href='/ygbtdm/gallery/roundups/2022-06'>June 2022</a></p>"
+%}
+
 Doesn't have any alternate designs.
 
 ## episode appearances

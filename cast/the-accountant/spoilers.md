@@ -3,6 +3,16 @@ layout: 1.1
 subpage: cast/the-accountant
 title: "“The accountant”: spoiler notes"
 ---
+{%include figure.html
+	img="cast/d-spoilers"
+	alt="alternate design, cropped sketches, and a larger scene scrib; description below"
+	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>, <a href='/ygbtdm/gallery/roundups/2021-06'>June</a> & <a href='/ygbtdm/gallery/sketchdump'>July</a> 2021, and <a href='/ygbtdm/gallery/roundups/2022-06'>July 2022</a></p>
+		<details class='imgdesc'><summary>image description</summary>
+		<p>Left, a simpler outfit from the <strong>design notes</strong>; described below. Hair wave is “less exaggerated”; also noted, “very complex palette lol”</p>
+		<p>Middle: two <strong>sketches</strong>, one of Joce raising a houselamp threateningly, about to knock out the accountant (who’s got Kay Lin incapacitated); and the other of the accountant framed by a window, holding something. No text. (Neither of these use the endgame design but I don’t draw that one much, whoops.)</p>
+		<p>Right: <strong>scene scribble</strong> of the accountant talking with Joce in ep<span class='spoiler'>10</span>.</p></details>"
+%}
+
 Real name is <span class="spoiler"><i>Diana</i></span>. Has one alternate design, seen in <span class="spoiler">ep10</span>: <span class="spoiler">the suit, tie, and gloves are gone; now wearing an entirely black uniform, and hair is its natural black.</span>
 
 ## episode appearances

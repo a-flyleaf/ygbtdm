@@ -3,6 +3,14 @@ layout: 1.1
 subpage: cast/caleb
 title: "Caleb: spoiler notes"
 ---
+{%include figure.html
+	img="cast/c-spoilers"
+	alt="proto-colorscript scribbles; description below"
+	caption="<p>from <a href='/ygbtdm/gallery/roundups/2022-02'>February 2022</a></p>
+		<details><summary>image description</summary>
+		<p>Assorted hasty sketches (with colorscript blocking) of a scene from ep03, in which Caleb talks to Joce and Kay Lin over dinner. He’s very smug. Kay Lin gets pissed, stands, and yells; then dead silence. It’s awkward. Joce just up and leaves.</p></details>"
+%}
+
 Doesn't have any alternate designs, unless <span class="spoiler">wearing a pendant-necklace</span> counts.
 
 ## episode appearances

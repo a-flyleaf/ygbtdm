@@ -3,6 +3,17 @@ layout: 1.1
 subpage: cast/white-rabbit
 title: "“White Rabbit”: spoiler notes"
 ---
+{%include figure.html
+	img="cast/wr-spoilers"
+	alt="alternate design and choice sketches; description below"
+	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>, <a href='/ygbtdm/gallery/roundups/2021-06'>June 2021</a>, <a href='/ygbtdm/gallery/roundups/2022-01'>January ’22</a>, and <a href='/ygbtdm/gallery/roundups/2021-11'>November ’21</a></p>
+		<details class='imgdesc'><summary>image description</summary>
+		<ol><li>A fully-human design from the <strong>design notes</strong>; described below.</li>
+		<li>Snippet from a sketch in which “WR” is turned away from Kay Lin (cropped out here).</li>
+		<li>Snippet from a sketch-sequence. “WR” looks unsettled; in a “panel” below, Kay Lin (shown with no face) pushes her hands in, saying “I mean, I know we didn’t <em>officially</em>—”<br/>“You hear that?” interrupts human!WR, turning back. “Sorry, just—” There is definitely a noise.</li>
+		<li>Side view headshots of a sad-lookin rabbit. In a colored sketch it clamps its jaws around a human figure; scrawled scribbles read “<strong style='text-transform:uppercase;font-weight:normal;'>Don’t go</strong>”</li></ol></details>"
+%}
+
 Real name is <span class="spoiler"><i>Emery</i> ("Em")</span>. Has one alternate design, seen in <span class="spoiler">flashbacks only</span>: <span class="spoiler">basically the same, but with a vest and fully human (not a trace of rabbit or white-rot</span>.
 
 ## episode appearances

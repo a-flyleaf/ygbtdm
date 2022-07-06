@@ -3,6 +3,16 @@ layout: 1.1
 subpage: cast/gary
 title: "Gary: spoiler notes"
 ---
+{%include figure.html
+	img="cast/g-spoilers"
+	alt="alternate design & zombie scribbles; description below"
+	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a> & <a href='/ygbtdm/gallery/roundups/2021-11'>November 2021</a></p>
+		<details class='imgdesc'><summary>image description</summary>
+		<p>Left, Gary’s alternate design from the <strong>design notes</strong>. It’s basically the same as his default, but the varsity jacket’s open; wearing an off-white sweater underneath.</p>
+		<p>Right, scribbles of some <strong>zombies</strong>, one of which is Gary.</p>
+		<p>No text on either.</p></details>"
+%}
+
 Has two-ish alternate designs: one with his jacket open (seen occasionally), and the other, being <span class="spoiler">a "zombie" transformation</span>, seen in <span class="spoiler">ep04</span>.
 
 ## episode appearances

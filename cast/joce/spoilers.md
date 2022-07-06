@@ -3,7 +3,26 @@ layout: 1.1
 subpage: cast/joce
 title: "Joce: spoiler notes"
 ---
-Has four alternate designs. <span class="spoiler">All but the last are seen in flashbacks only.</span> The first two may have visible scratches on the face and arms, and/or other temporary injuries (black eye, nose bandaid).
+{%include figure.html
+	img="cast/j-spoilers"
+	alt="concepts and notes for the fourth design; description below"
+	caption="<p>brainstorming from <a href='/ygbtdm/gallery/roundups/2021-12'>December 2021</a> (photo reference snipped from <a href='https://www.pinterest.com/pin/573646071269350023/' class='ext'>Pinterest</a> via <a href='https://hiconsumption.com/best-vintage-camping-gear/' class='ext'>HiConsumption</a>), fullbody from <a href='/ygbtdm/gallery/designnotes'>the design notes</a></p>
+		<details class='imgdesc'><summary>image description</summary>
+			<p>Left, <strong>brainstorming</strong>: blocky colors of potential outfit changes.</p>
+		<ol><li>Joce's default</li>
+		<li>Potential scene snippet: Joce in a doorway; white shirt</li>
+		<li>Shirt changed to ochre, dark pants, shoes recolored to match. side note: “good color but needs More?”</li>
+		<li>More color explorations; tried a jacket but “Eh,” comparing with White Rabbit), and a third variation was “not bad but kinda young[-looking]? adolescent-y”</li>
+		<li>Tried a grayer version but “eh, too Seq[uitur]-y?”</li>
+		<li>Finally, just opened the shirt-jacket more on the original concept (over a black undershirt). “<strong style='text-transform:uppercase;font-weight:normal;'>Hm.</strong>”</li></ol>
+			<p>Right, outfit details from the <strong>design notes</strong>:</p>
+		<ul><li>[hair bun] stays down by default</li>
+		<li>[clothes are] rounder, looser</li>
+		<li>undershirt around collarbone</li>
+		<li>same gloves [as default]</li></ul></details>"
+%}
+
+Has [four alternate designs]({%include url.html%}/gallery/changes). <span class="spoiler">All but the last are seen in flashbacks only.</span> The first two typically have visible scratches on the face and arms, and optionally other temporary injuries (black eye, nose bandaid).
 
 - Youngest version has short hair, a sweater, and often wields a baseball bat. Associated with warm hues, primarily **dull reds and browns**.
 - Second version has longer hair (worn down) and a cool monochrome outfit including a beanie, vest, and armbands. Associated with **desaturated blue**.
