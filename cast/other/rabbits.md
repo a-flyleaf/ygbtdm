@@ -3,7 +3,7 @@ layout: 1.1
 subpage: cast/other
 title: "“hellrabbits”"
 ---
-The horrid humanoid monsters lurking throughout the setting. Like "[White Rabbit]({%include url.html%}/cast/white-rabbit)," characters may refer to them differently; the page title ≠ an official, universally-used moniker.
+The horrid humanoid monsters lurking throughout the setting. Like "[White Rabbit]({%include url.html%}/cast/white-rabbit)," characters may refer to them differently; this page title ≠ an official, universally-used moniker.
 
 ## characteristics
 - Fully bony, humanoid from the neck down
@@ -12,7 +12,7 @@ The horrid humanoid monsters lurking throughout the setting. Like "[White Rabbit
 - Vocalizations resemble a throaty, screaming sob
 - Much, *much* larger than any human; can decapitate a person with a single bite
 - Transformations vary, but full-rabbit individuals are indistinguishable
-- Speculatively drawn to noise, but cause of attacks unclear; some lunge on sight
+- Speculatively drawn to noise, but cause of attacks is unclear; some lunge on sight
 - Seemingly vulnerable to the warm liquid substance throughout the setting, which can "melt" them like acid on contact
 	- inspired by <a href="https://www.youtube.com/watch?v=GP0YTZmnhns" class="ext">the face-melting scene in <i>Raiders of the Lost Ark</i></a>
 - Can also be killed by blunt force trauma

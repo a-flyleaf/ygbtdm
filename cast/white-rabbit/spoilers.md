@@ -14,7 +14,7 @@ title: "“White Rabbit”: spoiler notes"
 		<li>Side view headshots of a sad-lookin rabbit. In a colored sketch it clamps its jaws around a human figure; scrawled scribbles read “<strong style='text-transform:uppercase;font-weight:normal;'>Don’t go</strong>”</li></ol></details>"
 %}
 
-Real name is <span class="spoiler"><i>Emery</i> ("Em")</span>. Has one alternate design, seen in <span class="spoiler">flashbacks only</span>: <span class="spoiler">basically the same, but with a vest and fully human (not a trace of rabbit or white-rot</span>.
+Real name is <span class="spoiler"><i>Emery</i> ("Em")</span>. Has one alternate design, seen in <span class="spoiler">flashbacks only</span>: <span class="spoiler">basically the same, but with a vest and fully human (not a trace of rabbit or white-rot)</span>.
 
 ## episode appearances
 - **[01]({%include url.html%}/story/01)**: After the challenge, <span class="spoiler">rises from below</span>. Later, introduces self to the alliance, and is allowed to join courtesy Addison.

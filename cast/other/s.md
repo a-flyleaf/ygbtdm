@@ -15,10 +15,10 @@ The writer of a letter Joce receives in ep01. Associated with **white** and **mu
 - Often seen smoking, indoors and out
 
 ## episode appearances
-- **[01]({%include url.html%}/story/01)**: Not clearly seen. As a youth, Joce saves a pale figure who calls her a "hero," draws her in, but ultimately leaves. In the present, Joce receives a letter from "S." It is immediately shoved in a drawer full of letters from the same sender.
+- **[01]({%include url.html%}/story/01)**: Not clearly seen. As a youth, Joce saves a pale figure who calls her a "hero" and draws her in, but who ultimately leaves. In the present, Joce receives a letter from "S." It's immediately shoved in a drawer full of letters from the same sender.
 - **[03]({%include url.html%}/story/03)**+**[05]({%include url.html%}/story/05)**: Not quite seen; Joce is haunted by a pale figure in abstracted, hazy sequences. The letter is read in ep05, revealing a furious tirade that nonetheless demands the recipient's favor.
 - **[06]({%include url.html%}/story/06)**--**[07]({%include url.html%}/story/07)**: Spurred by the letter's reading, flashback sequences show the circumstances of Joce and "S"' meeting, relationship, and eventual leave.
-- **[10]({%include url.html%}/story/10)**: Not seen; in a closing sequence, Joce writes back, then lets the letter go, dissolving into nothing.
+- **[10]({%include url.html%}/story/10)**: Not seen; in a closing sequence, Joce writes back, then lets the letter go. It dissolves into nothing.
 
 ## author notes
 - This person's name in my notes is <i>Salvador "Skoal" Flores</i>. I don't think there's a canonical instance where the name actually gets *used*, though.
@@ -27,6 +27,7 @@ The writer of a letter Joce receives in ep01. Associated with **white** and **mu
 	- "Flores": from the song "<a href="https://www.youtube.com/watch?v=FAucVNRx_mU" class="ext">Jocelyn Flores</a>"
 - Design takes cues from <a href="https://bulbapedia.bulbagarden.net/wiki/Piers" class="ext">Piers from <i>Pokémon</i></a> and <a href="https://looneytunes.fandom.com/wiki/Pep%C3%A9_Le_Pew" class="ext">Pepé Le Pew</a>, and probably other black-and-white characters I'm forgetting about.
 - Song association: "<a href="https://www.youtube.com/watch?v=Z8zyJFHMdDg" class="ext">I'm an independent man</a>"
+- Didn't exist in the very earliest versions of the story. I forgot where the idea came from but it immediately became central.
 
 <h2>gallery</h2><!--has to be manual; #gallery negates the wrap-->
 

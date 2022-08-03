@@ -13,7 +13,7 @@ title: "Gary: spoiler notes"
 		<p>No text on either.</p></details>"
 %}
 
-Has two-ish alternate designs: one with his jacket open (seen occasionally), and the other, being <span class="spoiler">a "zombie" transformation</span>, seen in <span class="spoiler">ep04</span>.
+Has two-ish alternate designs: one with his jacket open (seen occasionally), and the other, <span class="spoiler">a "zombie" transformation</span>, seen in <span class="spoiler">ep04</span>.
 
 ## episode appearances
 - **[01]({%include url.html%}/story/01)**: Minor offscreen dialogue cameo, <span class="spoiler">asking who the hell "Terry" is</span>.
