@@ -14,7 +14,7 @@ scene:
       desc: lorem ipsumm dolor sit amet
     - id: "001"
       class: full
-    - id: "003"
+    - id: "002"
     nxt: 2
   - num: 2
     title: skdfjds
@@ -39,3 +39,4 @@ scene:
     - id: "003"
     end: y
 ---
+this is probably going to break if/as I edit the base layout, so it's been copied to a html file For Archival™

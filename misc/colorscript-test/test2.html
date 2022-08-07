@@ -1,0 +1,64 @@
+---
+layout: none
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>You’re gonna be the death of me: “episode title” colorscript</title>
+		<style>
+			*{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
+			body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px; width:7000px; /*can fit about 12*/}
+			header,main,footer{display:block;}
+			header,main,section{overflow:auto;}
+			::selection{background:#606060;}
+			.wrap{max-width:400px; margin-left:62.5px;}
+			a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-decoration:none;}
+			h1,b,strong{color:#c0c0c0;}
+
+			header{background:#333; padding-bottom:24px;}
+			header a{text-decoration:none;} header a:hover{color:#fff;}
+			.col{float:left;}
+			h1{font-size:20px; margin-top:24px;}
+			p{margin:8px 0;}
+
+			main{padding:50px 0;}
+			h2{position:absolute; font-size:40px; font-weight:normal; letter-spacing:.5px; color:#a0a0a0; margin-top:50px;} h2.wrap{margin-left:125px;}
+			.desc{position:absolute; margin-top:410px;} .desc:first-of-type{margin-left:62.5px;}
+			figure{width:650px; height:500px; float:left; line-height:0; margin-left:-125px;} .full,.full+figure,figure:first-of-type{margin:0;} .full figcaption.wrap{margin-top:-82px;}
+			img{margin:100px 0 0 125px;} .full img{margin:0;}
+			.next{display:inline-block; color:#606060; font-size:80px; padding:50px 40px; border:1px solid #404040; margin-top:172px;} .next a{text-decoration:none;} .next:focus,.next:active,.next:hover{color:#808080; background:#202020;} .full+.arw{margin-left:62.5px;}
+			.scene{padding:50px 0;}
+
+			figcaption.wrap{position:absolute; margin-left:125px; margin-top:18px; line-height:24px; width:350px;}
+
+			footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
+			#ep{text-transform:uppercase; font-size:.75em;}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1 class="wrap"><a href="{%include url.html%}/story/01">01: episode title</a></h1>
+			<div class="wrap col"><p>general description of some sort</p>
+</div>
+		</header>
+		
+		<main><section class="scene"><a id="scene1"></a>
+			<h2 class="wrap">skdfjds</h2>
+			<div class="desc"><p class="wrap">lorem ipsum dolor sit amet</p></div>
+				<section><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/000.png" alt=""/><figcaption class="wrap">lorem ipsumm dolor sit amet</figcaption></figure><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/001.png" alt=""/></figure><figure><img src="{%include url.html%}/assets/img/colorscript/01/002.png" alt=""/></figure><a href="#scene2" class="arw"><div class="next">&#8626;</div></a></section>
+		</section><section class="scene"><a id="scene2"></a>
+			<h2 class="wrap">skdfjds</h2>
+			<div class="desc"><p class="wrap">lorem ipsum dolor sit amet</p></div>
+				<section><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/000.png" alt=""/><figcaption class="wrap">lorem ipsumm dolor sit amet</figcaption></figure><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/001.png" alt=""/></figure><figure><img src="{%include url.html%}/assets/img/colorscript/01/002.png" alt=""/></figure><a href="{%include url.html%}/story/02" class="arw"><div class="next">→</div></a></section>
+		</section><section class="scene"><a id="scene3"></a>
+			<h2 class="wrap">skdfjds</h2>
+			<div class="desc"><p class="wrap">lorem ipsum dolor sit amet</p></div>
+				<section><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/000.png" alt=""/><figcaption class="wrap">lorem ipsumm dolor sit amet</figcaption></figure><figure class="full"><img src="{%include url.html%}/assets/img/colorscript/01/001.png" alt=""/></figure><figure><img src="{%include url.html%}/assets/img/colorscript/01/002.png" alt=""/></figure></section>
+		</section></main>
+		
+		<footer><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a> | <a href="{%include url.html%}/story/01"><span id="ep">ep01</span> episode title</a></footer>
+	</body>
+</html>
