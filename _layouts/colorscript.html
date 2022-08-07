@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>{{site.name}}{%if page.ep-title%}: “{{page.ep-title}}” colorscript{%endif%}</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colorscript.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
+	</head>
+	<body>
+		<header>
+			<h1 class="wrap"><a href="{%include url.html%}/story/{{page.ep-num}}">{{page.ep-num}}: {{page.ep-title}}</a></h1>{%if page.desc%}
+			<div class="wrap col">{{page.desc|markdownify}}</div>{%endif%}
+		</header>
+		
+		<main>{%for scn in page.scene%}<section class="scene"><a id="scene{{scn.num}}"></a>{%if scn.title%}
+			<h2 class="wrap">{{scn.title}}</h2>{%endif%}{%if scn.desc%}
+			<div class="desc"><p class="wrap">{{scn.desc}}</p></div>{%endif%}
+				<section>{%for img in scn.img%}<figure{%if img.class%} class="{{img.class}}"{%endif%}><img src="{%include url.html%}/assets/img/colorscript/{{page.ep-num}}/{{img.id}}.png" alt=""/>{%if img.desc%}<figcaption class="wrap">{{img.desc}}</figcaption>{%endif%}</figure>{%endfor%}{%if scn.end%}{%else%}<a href="{%if scn.nxt%}#scene{{scn.nxt}}{%endif%}{%if scn.ep%}{%include url.html%}/story/{{scn.ep}}{%endif%}" class="arw"><div class="next">{%if scn.nxt%}&#8626;{%endif%}{%if scn.ep%}→{%endif%}</div></a>{%endif%}</section>
+		</section>{%endfor%}</main>
+		
+		<footer><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a>{%if page.ep-num%} | <a href="{%include url.html%}/story/{{page.ep-num}}"><span id="ep">ep{{page.ep-num}}</span> {{page.ep-title}}</a>{%endif%}</footer>
+	</body>
+</html>
