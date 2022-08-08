@@ -12,10 +12,14 @@ eps:
     - prt: "static: backstory montage (“My hero~”)"
       done: y
     - prt: "hollow: irl, fade to underground → callout x2 combo → apple"
+      done: y
     - prt: "yours: J+Kl first impressions"
-    - prt: "challenge1: “No one has to die, right?” → up, panic (“Terry”) → u-turn → escape"
+      done: y
+    - prt: "challenge1: “No one has to die, right?” → up, panic (“Terry”) → u-turn → penalty but escape"
+      done: y
     - prt: "out: J+KL leave, WR rises"
-    - prt: "wrong-choice: J+KL talk → rabbit, gameover → null → J confronts KL"
+      done: y
+    - prt: "wrong-choice: J+KL talk (motives, neither gives the other much) → rabbit, gameover → null → J confronts KL"
     - prt: "deal1: WR joins the alliance"
     - prt: "together: J+KL evening"
   - title: "02: Follow me"
