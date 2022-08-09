@@ -20,6 +20,7 @@ eps:
     - prt: "out: J+KL leave, WR rises"
       done: y
     - prt: "wrong-choice: J+KL talk (motives, neither gives the other much) → rabbit, gameover → null → J confronts KL"
+      done: y
     - prt: "deal1: WR joins the alliance"
     - prt: "together: J+KL evening"
   - title: "02: Follow me"
