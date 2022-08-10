@@ -22,6 +22,7 @@ eps:
     - prt: "wrong-choice: J+KL talk (motives, neither gives the other much) → rabbit, gameover → null → J confronts KL"
       done: y
     - prt: "deal1: WR joins the alliance"
+      done: y
     - prt: "together: J+KL evening"
   - title: "02: Follow me"
     scn:

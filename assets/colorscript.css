@@ -2,7 +2,7 @@
 body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px; width:7000px; /*can fit about 12*/}
 header,main,footer{display:block;}
 header,main,section{overflow:auto;}
-::selection{background:#606060;}
+::selection{background:rgba(128,128,128,.5);}
 .wrap{max-width:400px; margin-left:62.5px;}
 a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-decoration:none;}
 h1,b,strong{color:#c0c0c0;}

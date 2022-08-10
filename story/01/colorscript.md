@@ -3,7 +3,7 @@ layout: colorscript
 ep-title: Relapse
 ep-num: "01"
 desc: Old temptations die hard. Upon waking up in an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she’s letting on.
-css: "body{width:7715px;} header div{display:none;} h2{opacity:0;} .s2 #i7{margin-left:-125px !important;} .s2 #i9{margin-left:32.5px;} .s4 #ix figcaption.wrap{margin-top:-180px;} .s5 #i07{margin-right:62.5px;} .s5 .kl{background:#1d1818; width:462.5px;} .s5 .kl img{margin-left:62.5px;} .s5 #i09{margin-right:-125px;} .s5 #i11{margin:0 -150px 0 0;} .s6{margin-bottom:100px;} .s7 #i09 a{text-transform:uppercase; font-family:tahoma,calibri,sans-serif; font-weight:bold; display:inline-block; margin:0 10px; text-decoration:none;} .no:hover,.no:active,.no:focus{opacity:0;} .yes:hover,.yes:active,.yes:focus{color:#ffd600;} .s7 #i09+.arw{display:none;}"
+css: "body{width:7715px;} header div{display:none;} h2{opacity:0;} .s2 #i7,.s8 #i13,.s8 #i15{margin-left:-125px !important;} .s2 #i9{margin-left:32.5px;} .s4 #ix figcaption.wrap{margin-top:-180px;} .s5 #i07{margin-right:62.5px;} .s5 .kl{background:#1d1818; width:462.5px;} .s5 .kl img{margin-left:62.5px;} .s5 #i09{margin-right:-125px;} .s5 #i11{margin:0 -150px 0 0;} .s6{margin-bottom:100px;} .s7 #i09 a{text-transform:uppercase; font-family:tahoma,calibri,sans-serif; font-weight:bold; display:inline-block; margin:0 10px; text-decoration:none;} .no:hover,.no:active,.no:focus{opacity:0;} .yes:hover,.yes:active,.yes:focus{color:#ffd600;} .s7 #i09+.arw{display:none;} .s8{background:#272121;}"
 
 scene:
   - num: 1
@@ -70,12 +70,12 @@ scene:
     - id: 14
       desc: "Lots of people signed up for this. Says the welcome: Last one standing gets to go home."
     - id: 15
-      desc: One person is asking others to share anything they know---about this place, how they got here, talk about yourself in front of a mass of strangers.
+      desc: "One person is asking others to share anything they know---about this place, how they got here. Introduce yourself to the masses, don't be a stranger!"
     - id: 16
       desc: |-
         She says they should all work together---then calls out people who aren't listening.
         
-        The first target doesn't care to engage.
+        The first loner doesn't care to engage.
     - id: 17
       desc: |-
         The grandstander's next target: a small girl, curled in the corner.
@@ -103,7 +103,7 @@ scene:
       desc: Says someone in the crowd,<br/>“No one has to die, right?”
     nxt: 5
   - num: 5
-    title: challenge
+    title: challenge1
     img:
     - id: "01"
       desc: With an earthquake and an ear-splitting noise, the underground begins to flood.
@@ -146,18 +146,19 @@ scene:
         . . . Kay Li---?
     - id: "03"
     - id: "04"
-      desc: Joce insists they stay together.
+      desc: Kay Lin is thankful and all, but doesn't plan on sticking around. Joce is incredulous.
     - id: "05"
       desc: “You'll never make it out there alone.”
     - id: "06"
     - id: "07"
+    - id: "08"
       desc: |-
         Other people were gathering supplies; Joce and Kay Lin have none.
         
         Whatever. Far as Joce cares, they don't need anything anyway....
-    - id: "08"
     - id: "09"
     - id: 10
+    - id: 11
     nxt: 7a
   - num: 7
     title: wrong choice
@@ -187,12 +188,12 @@ scene:
     - id: 10
     - id: 11
     - id: 12
-      desc: It... melted.
+      desc: It's... melting.
     - id: 13
     - id: 14
-      desc: Kay Lin is surprised to see Joce, but not too stunned. Joce isn't having it; Kay Lin *knew* about that---that--- whatever the hell that thing was, didn't she? Not to mention---!
+      desc: Kay Lin is mildly surprised to see Joce, who isn't having it. How did Kay Lin--- What did--- How is she even still *alive*?
     - id: 15
-      desc: "But Joce still hasn't told *Kay Lin* anything. Finally Joce relents: she didn't have anything better to do. End turn."
+      desc: "But Joce still hasn't told *Kay Lin* anything. Joce relents: she's here because she didn't have anything better to do. End turn."
     - id: 16
       desc: ...Fine. Kay Lin admits she's "familiar" with this place. She's been here... long enough to lose track. And isn't sure why.
     - id: 17
@@ -206,10 +207,59 @@ scene:
         
         Joce: "I'm kidding."
     - id: 19
-      desc: “Let's go find shelter.”
-    nxt: 8
+      desc: “<small>M-mostly.</small> Let's go find shelter.”
+    nxt: 8a
   - num: 8
-    title: deal
+    prt: a
+    title: deal1
+    desc: <i>Meanwhile, back at the Beacon...</i>
+    img:
+    - id: "01"
+    - id: "02"
+      desc: A majority of survivors have stayed with the speaker from the underground, Addison. Apparently this makes her the alliance leader. She can work with that.
+    - id: "03"
+      desc: A small guy, Caleb, claims Addison saved his life by reaching out; he stays very, very close. Addison kinda just goes with it.
+    - id: "04"
+      desc: Someone asks where the group's headed next. Addison hesitates just a second---
+    - id: "05"
+      desc: A shriek from the crowd.
+    - id: "06"
+    - id: "07"
+    nxt: 8b
+  - num: 8
+    prt: b
+    img:
+    - id: "08"
+      desc: |-
+        Charades ensue.\* The rabbit-person, who doesn't talk, wants to join the group.
+        
+        <small>\*Has been thumbnailed, seen in <a href='/ygbtdm/gallery/roundups/2022-01'>this roundup</a>.</small>
+    - id: "09"
+      desc: “Err...” Addison hesitates. “I dunno...”
+    - id: 10
+      desc: “You... kinda just came out of nowhere...?”
+    - id: 11
+      desc: Abruptly the rabbit-person grabs her bat. Caleb yells; rabbit-person swings back---
+    - id: 12
+      desc: ---gestures to duck, then smashes into the nearest rock.
+    - id: 13
+      class: full
+      desc: From the point of impact the stone cracks like glass---
+    - id: 14
+      class: full
+    - id: 15
+      desc: ---and blasts straight out the other end.
+    nxt: 8c
+  - num: 8
+    prt: c
+    img:
+    - id: 16
+    - id: 17
+    - id: 18
+    - id: 19
+    - id: 20
+    - id: 21
+      desc: “Sold. Welcome aboard.”
     nxt: 9
   - num: 9
     title: together
