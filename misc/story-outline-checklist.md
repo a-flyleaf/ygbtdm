@@ -1,32 +1,25 @@
 ---
 layout: 1.1
 title: story outline colorscript-checklist
-css: main{font-size:.85em; line-height:1.35;} h1{line-height:1.25;} main h2{margin-top:1em;} main li{margin:.25em 0;} section h2{font-weight:normal; font-size:1.25em;} section ul{list-style-type:none; padding-left:2.4em;} section ul>li{text-indent:-1.5rem;} input{display:inline-block; margin-right:.75rem;} li p{display:inline;} input:checked + p{text-decoration:line-through; opacity:.5;} li>ul{list-style-type:circle; padding-left:1em;} li>ul>li{text-indent:0;}
+css: main{font-size:.85em; line-height:1.35;} h1{line-height:1.25;} main h2{margin-top:1em;} main li{margin:.25em 0;} section h2{font-weight:normal; font-size:1.25em;} li p{display:inline;} .done,input:checked+p{color:#808080;} .done{font-size:.85em;} .done ul{padding-left:1rem;} .wip{list-style-type:none; text-indent:-1.15em;} .wip input{margin-right:.35em;} input:checked+p{text-decoration:line-through;} .wip ul>li{text-indent:0; margin-top:0;}
 
 eps:
   - title: "01: Relapse"
+    done: y
     scn:
     - prt: "intro/wakeup: ← wordless?"
-      done: y
-    - prt: "**title sequence?**"
     - prt: "static: backstory montage (“My hero~”)"
-      done: y
     - prt: "hollow: irl, fade to underground → callout x2 combo → apple"
-      done: y
     - prt: "yours: J+Kl first impressions"
-      done: y
     - prt: "challenge1: “No one has to die, right?” → up, panic (“Terry”) → u-turn → penalty but escape"
-      done: y
     - prt: "out: J+KL leave, WR rises"
-      done: y
     - prt: "wrong-choice: J+KL talk (motives, neither gives the other much) → rabbit, gameover → null → J confronts KL"
-      done: y
     - prt: "deal1: WR joins the alliance"
-      done: y
     - prt: "together: J+KL evening"
   - title: "02: Follow me"
     scn:
     - prt: "intro/deal2: camp → A>WR proposal"
+      done: y
     - prt: "start-over: J+KR trek, A+alliance? → Beacon meetup → rabbits interrupt → outta there"
     - prt: "listen: J+KL followup → alliance mockery, speech failure → A underground → monologue, “someone worth saving;” C"
     - prt: "left-behind: A+C talk → pendant → cave-in"
@@ -111,4 +104,5 @@ I mean, if I *gotta* get fancy with the front matter to make checkboxes look nic
 - scene titles are mainly for URL purposes, may or may not have "chapter" titles. ~~not using numbers in case scenes get shuffled; much easier to relink folders/indexes~~ *nah* just gonna suffer, names are more trouble to change
 - arrows (→) indicate a new webpage (of the hypothetical full thing, not necessarily the colorscript)
 
-{%for ep in page.eps%}<section><h2>{{ep.title}}</h2><ul>{%for scn in ep.scn%}<li><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"{%if scn.done%} checked="checked"{%endif%}>{{scn.prt|markdownify}}</li>{%endfor%}</ul></section>{%endfor%}
+{%for ep in page.eps%}<section{%if ep.done%} class="done"{%endif%}><h2>{{ep.title}}</h2><ul{%if ep.done%}{%else%} class="wip"{%endif%}>{%for scn in ep.scn%}<li>{%if ep.done%}{{scn.prt|markdownify}}
+{%else%}<input type="checkbox" class="task-list-item-checkbox" disabled="disabled"{%if scn.done%} checked="checked"{%endif%}>{{scn.prt|markdownify}}{%endif%}</li>{%endfor%}</ul></section>{%endfor%}
