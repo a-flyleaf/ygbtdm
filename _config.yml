@@ -5,7 +5,7 @@ collections:
         output: true
     roundups:
         output: true
-    story:
+    story-v1:
         output: true
 defaults:
   - scope:
@@ -14,3 +14,9 @@ defaults:
       layout: 1.1-gallery
       permalink: /gallery/roundups/:path
       subpage: gallery/roundups
+  - scope:
+      path: "_story-v1"
+    values:
+      layout: 1.1-story-v1
+      permalink: /story/v1/:path
+      subpage: story/v1

@@ -1,0 +1,10 @@
+---
+layout: "1.1"
+---
+<figure class="pic"><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/story/v1/{{page.num}}-full.png"><img src="{%include url.html%}/assets/img/story/v1/{{page.num}}-600.png" alt=""/></picture></figure>
+<div id="story" class="wrap">
+	{%if page.quote%}<blockquote>“{{page.quote}}”</blockquote>{%endif%}
+	<p>{{page.summary}}</p>
+	{{page.content}}{%if page.next%}
+	<div id="next">next: <a href="{%include url.html%}/story/v1/{{page.next.num}}"><b>{{page.next.title}}</b> →</a></div>
+{%endif%}</div>
