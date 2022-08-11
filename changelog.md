@@ -36,4 +36,4 @@ Not incluing tiny fixes or one-off art additions.
 	- cast spoiler writeups
 	- reshuffle misc stuff ("beta" site, test pages, notes)
 - 2022/08/06--\[ongoing]: colorscript
-	- 8/11: ep01
+	- 8/11: ep01; new index image
