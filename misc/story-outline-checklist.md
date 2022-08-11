@@ -42,7 +42,7 @@ eps:
   - title: "04: Lie in it"
     scn:
     - prt: "error: game/catchup → victory"
-    - prt: "unsolicited: prizes, J “leaves” → G invitation → J crashes"
+    - prt: "unsolicited: prizes, J “leaves” → G invitation (“You don't know me. You don't know anything about me”) → J crashes"
     - prt: "stutter: wakeup, bottle → failure to interact → G+KL, panic → J warning/admission"
     - prt: "found: J+D map talk, enter G → “Don't hurt her---”"
     - prt: "target: J>KL not-escape → near-fight → G sendoff"

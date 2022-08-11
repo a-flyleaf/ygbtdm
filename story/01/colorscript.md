@@ -188,25 +188,26 @@ scene:
     - id: 10
     - id: 11
     - id: 12
-      desc: It's... melting.
     - id: 13
+      desc: It's... melting.
     - id: 14
-      desc: Kay Lin is mildly surprised to see Joce, who isn't having it. How did Kay Lin--- What did--- How is she even still *alive*?
     - id: 15
-      desc: "But Joce still hasn't told *Kay Lin* anything. Joce relents: she's here because she didn't have anything better to do. End turn."
+      desc: Kay Lin is mildly surprised to see Joce, who isn't having it. How did Kay Lin--- What did--- How is she even still *alive*?
     - id: 16
-      desc: ...Fine. Kay Lin admits she's "familiar" with this place. She's been here... long enough to lose track. And isn't sure why.
+      desc: "But Joce still hasn't told *Kay Lin* anything. Joce relents: she's here because she didn't have anything better to do. End turn."
     - id: 17
+      desc: ...Fine. Kay Lin admits she's "familiar" with this place. She's been here... long enough to lose track. And isn't sure why.
+    - id: 18
       desc: |-
         “. . .
         
         "Like an NPC, then."
-    - id: 18
+    - id: 19
       desc: |-
         Kay Lin sputters for a second.
         
         Joce: "I'm kidding."
-    - id: 19
+    - id: 20
       desc: “<small>M-mostly.</small> Let's go find shelter.”
     nxt: 8a
   - num: 8
@@ -263,5 +264,28 @@ scene:
     nxt: 9
   - num: 9
     title: together
+    img:
+    - id: "01"
+      desc: For lack of decent shelter, Joce and Kay Lin have taken to higher ground.
+    - id: "02"
+    - id: "03"
+      desc: Kay Lin asks why Joce trusts her.
+    - id: "04"
+      desc: After all, Joce doesn't know her. She could backstab Joce overnight. Or disappear.
+    - id: "05"
+      desc: Verbally Joce brushes it off. All the more reason to keep Kay Lin around, then---enemies close.
+    - id: "06"
+      desc: (But... even so.
+    - id: "07"
+      desc: <small>Just look at her.</small>
+    - id: "08"
+      desc: <small>Joce can't.</small>
+    - id: "09"
+    - id: 10
+    - id: 11
+    - id: 12
+      desc: <small>...Even if it kills her.)</small>
+    - id: 13
+    - id: 14
     end: y
 ---
