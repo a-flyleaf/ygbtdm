@@ -2,21 +2,21 @@
 layout: 1.1
 title: about
 ---
-A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl in a thrilling, destructive hellscape.
+A twitchy survivalist-wannabe warily pairs up with a suspiciously-careless girl in a thrilling, destructive hellscape.
 
 {%include figure.html
 	img="about-temp"
 	alt="Comic panel featuring the two main characters. The smaller one, smiling, offers a handshake; the other is surprised."
 %}
 
-Website for a story-project-thing that spawned around early 2021. As of June 2022 a >300-image [colorscript](https://www.slashfilm.com/533711/pixar-color-supercut/) has been completed; these will likely be published all in one go, and then we'll see what else happens with the story from there. (See [this blog post from late 2021](https://a-flyleaf.github.io/blog/project-rambling#now-what) for why it's not being made as a traditional webcomic.)
+Website for a story-project-thing that spawned around early 2021. Rather than being published 100% as a traditional webcomic (see [a blog post from late 2021](https://a-flyleaf.github.io/blog/project-rambling#now-what) for rationale), the story presentation's being winged; between February and June 2022, a >300-image colorscript was completed, and as of August it's being fleshed out for publication proper.
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
-For now, a majority of the site is composed of [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
+For now, a majority of the site consists of [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
 ## on spoilers
-Because there's been little public filtering from the getgo, **spoilers are everywhere**, frequently with little to no indication that they are in fact spoilers. Subsequently I'm not too fussed about withholding things.
+If you want to read "blind," jumping right into the 2022 colorscript is the way to go---except it's not done yet. Until then, assume **spoilers are everywhere**.
 
 That said, if I think something is especially significant, it'll be hidden; text is grayed out <span class="spoiler">like this</span>, and images are obscured like this:
 
@@ -30,11 +30,13 @@ That said, if I think something is especially significant, it'll be hidden; text
 	spoiler=""
 %}
 
-### technical notes
+## technical notes
 The spoiler functionality owes code nerd thanks to the following resources: <a href="https://stackoverflow.com/a/19075983" class="ext">StackOverflow</a>, <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp" class="ext">w3schools</a>, and <a href="https://bobbyhadz.com/blog/javascript-addeventlistener-queryselectorall" class="ext">Borislav Hadzhiev</a>. Some caveats:
 
-- Unfortunately this is **not keyboard-accessible**. I'm not familiar enough with JavaScript to fix it yet; apologies for the inconvenience!
-	- (P.S. You are welcome (and invited!) to lend a hand, if you'd like; <a href="https://github.com/a-flyleaf/ygbtdm" class="ext">the GitHub repository</a> is public, and/or you can <a href="https://a-flyleaf.github.io/about#contact" target="ext">contact me directly</a>. That said, I *should* be able to figure it out on my own eventually.)
+- Unfortunately this is **not keyboard-accessible**. I'm not familiar enough with JavaScript (yet) to change it.
+	- In the mean time, you're welcome (and invited!) to lend a hand, if you'd like; <a href="https://github.com/a-flyleaf/ygbtdm" class="ext">the GitHub repository</a> is public, and/or you can <a href="https://a-flyleaf.github.io/about#contact" target="ext">contact me directly</a>.
 - Toggling won't work at all if you're not using JavaScript. You can still read spoiler text by selecting or copy-pasting it, and images are perfectly viewable in new tabs.
+
+Image captioning is hit or miss, as is character name consistency within. Most egregiously absent are captions on the roundups (lots of images *and* text throughout) and story pages (no clue what those are doing yet), but I'll figure out how to handle those eventually.
 
 <a href="#header" class="skipto x">back to header</a>

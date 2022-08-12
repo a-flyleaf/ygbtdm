@@ -2,6 +2,8 @@
 layout: 1.1
 title: cast
 ---
+Visual descriptions of the main 8. Relatively spoiler-free.
+
 {%include figure.html
 	img="cast-temp"
 	alt="A lineup of the main eight characters. Physical descriptions are on individual pages."
