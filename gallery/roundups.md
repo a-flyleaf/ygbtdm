@@ -4,7 +4,7 @@ title: monthly roundups
 subpage: gallery
 css: main h2{font-size:3em; text-align:center; margin:1em auto .5em;}
 ---
-Starting in 2021, I've been ending each month with a giant wall of art that wouldn't otherwise have been posted. Originals are [on deviantArt](https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff); these versions have non-story-related content cropped and/or faded out.
+In 2021, I started ending every month with a giant wall of art that wouldn't otherwise have been posted. Originals are [on deviantArt](https://www.deviantart.com/a-flyleaf/gallery/81345929/compilation-stuff); these versions have non-story-related content cropped and/or faded out.
 
 None of these are captioned; apologies for the inconvenience.
 
