@@ -37,4 +37,4 @@ Not incluing tiny fixes or one-off art additions.
 	- reshuffle misc stuff ("beta" site, test pages, notes)
 - 2022/08/06--\[ongoing]: colorscript
 	- 8/11: ep01; new index image; backend gallery shuffling (including [page for everything]({%include url.html%}/gallery/all), also not linked anywhere yet)
-- 2022/08/11--12: gallery pages & navigation overhaul
+- 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page

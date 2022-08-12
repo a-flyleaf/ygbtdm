@@ -9,7 +9,7 @@ A twitchy survivalist-wannabe warily pairs up with a suspiciously-careless girl 
 	alt="Comic panel featuring the two main characters. The smaller one, smiling, offers a handshake; the other is surprised."
 %}
 
-Website for a story-project-thing that spawned around early 2021. Rather than being published 100% as a traditional webcomic (see [a blog post from late 2021](https://a-flyleaf.github.io/blog/project-rambling#now-what) for rationale), the story presentation's being winged; between February and June 2022, a >300-image colorscript was completed, and as of August it's being fleshed out for publication proper.
+Website for a story-project-thing that spawned around early 2021. Rather than being published 100% as a traditional webcomic (see [a blog post from late 2021](https://a-flyleaf.github.io/blog/project-rambling#now-what) for rationale), the story presentation's being winged; between February and June 2022, a >300-image [colorscript]({%include url.html%}/story/colorscript) was completed, and as of August it's being fleshed out for publication proper.
 
 > Content note: **Story contains mature themes.** There is no explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
 
