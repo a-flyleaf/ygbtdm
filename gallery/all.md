@@ -2,7 +2,7 @@
 layout: 1.1
 subpage: gallery
 title: "gallery: all"
-css: .rn img{border-radius:15px;}
+css: .rn img{border-radius:15px;} main h2{font-size:3em; text-align:center; margin:1em auto .5em;}
 ---
 Covers just about everything that isn't a separately-posted colorscript. [Monthly roundups]({%include url.html%}/gallery/roundups) are denoted with rounded corners.
 
