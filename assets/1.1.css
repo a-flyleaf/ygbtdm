@@ -50,8 +50,10 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 
 
 /*specific sections*/
-#info,#back{font-size:.85em; color:#adadad;}
-#back{font-style:italic; margin-top:3rem;}
+#info,#back,#gnav{font-size:.85em; color:#adadad;}
+#gnav{margin:5rem 0 1rem; overflow:auto;}
+#gnav a{display:inline-block; border:1px solid #404040; width:100%; margin:.15rem 0; border-radius:3px; text-decoration:none; padding:5px;} #gnav img{max-width:50px; border-radius:3px; margin:0 .5rem;filter:grayscale(75%); opacity:.5;} #gnav img,#gnav span{float:left;} #gnav span{padding:.65rem .5rem 0;} .arw{color:#808080;} .prev{text-align:left;} .next{text-align:right;}
+#back{font-style:italic; margin-top:1rem;} #gnav+#back{text-align:center;}
 
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
 
@@ -68,7 +70,10 @@ footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} foo
 #caption{margin:.25em 0 0 .85em;}
 
 @media only screen and (min-width:600px){
-	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out}
+	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out;}
+	
+	#gnav{margin:5rem auto 1rem; overflow:auto; text-align:center;}
+	#gnav a{width:49%; display:inline-block;} .prev+.next{margin-top:-75px;}
 }
 
 #gallery.roundup{max-width:500px;} @media only screen and (min-width:500px){#gallery.roundup{max-width:700px;}} @media only screen and (min-width:700px){#gallery.roundup{max-width:900px;}} @media only screen and (min-width:1400px){#gallery.roundup{max-width:1400px;}}
