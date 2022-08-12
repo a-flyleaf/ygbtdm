@@ -26,4 +26,4 @@ There's not a single episode without at least one rabbit, lurking in the backgro
 
 <h2>gallery</h2><!--has to be manual; #gallery negates the wrap-->
 
-<section id="gallery" class="artwall">{%for art in site.gallery%}{%if art.tags contains "rabbit"%}<a href="{%include url.html%}{{art.permalink}}"><img src="{%include url.html%}/assets/img/gallery/{{art.img}}-tn.png" alt="{{art.title}}"/></a>{%endif%}{%endfor%}</section>
+<section id="gallery" class="artwall">{%for tn in site.gallery%}{%if tn.tags contains "rabbit"%}<a href="{%include url.html%}{%if tn.url contains 'roundup'%}/gallery/roundups/{{tn.slug}}{%else%}{{tn.permalink}}{%endif%}"{%if tn.url contains 'roundup'%} class="rn"{%endif%}><img src="{%include url.html%}/assets/img/gallery/{%if tn.url contains 'roundup'%}roundups/{{tn.slug}}{%else%}{%if tn.img%}{{tn.img}}{%else%}{{tn.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-tn.png" alt="{{tn.title}}"/></a>{%endif%}{%endfor%}</section>
