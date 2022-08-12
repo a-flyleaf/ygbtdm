@@ -1,0 +1,37 @@
+/*SAME AS ORIGINAL unless otherwise noted*/
+	*{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
+	body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px;} /*removed width*/
+	header,main,footer{display:block;}
+	header,main,section{overflow:auto;}
+	::selection{background:rgba(128,128,128,.5);}
+	.wrap{max-width:400px; margin-left:62.5px;}
+	a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-decoration:none;}
+	h1,b,strong{color:#c0c0c0;}
+
+	header{background:#333; padding-bottom:24px;}
+	header a{text-decoration:none;} header a:hover{color:#fff;}
+	.col{float:left;}
+	h1{font-size:20px; margin-top:24px;}
+	p{margin:8px 0;}
+	small{font-size:14px;}
+
+	main{padding:50px 0;}
+	h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; color:#a0a0a0; margin-top:70px;} h2.wrap{margin-left:125px;}
+	.desc{position:absolute; margin-top:410px;} .desc:first-of-type{margin-left:62.5px;}
+	figure{width:650px; height:500px; float:left; line-height:0; margin-left:-125px;} .full,.full+figure,figure:first-of-type{margin:0;}
+	img{margin:100px 0 0 125px;} .full img{margin:0;}
+	.next{display:inline-block; color:#606060; font-size:80px; padding:50px 40px; border:1px solid #404040; margin-top:172px;} .next a{text-decoration:none;} .next:focus,.next:active,.next:hover{color:#808080; background:#202020;} .full+.arw{margin-left:62.5px;}
+	.scene{padding:50px 0;}
+	.prt{margin-left:128px;}
+
+	figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-height:24px; width:350px;} .full figcaption.wrap{margin-top:-90px;}
+	.cntr .wrap{text-align:center; width:650px;} .full .cntr .wrap{margin-left:0;}
+
+	footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
+	#ep{text-transform:uppercase; font-size:.75em;}
+/*endsame, changes below*/
+
+/*on-page width changed to main{} not body{}, otherwise unchanged from original*/
+#container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:600px;}
+main{padding:0;}
+section{position:relative; /*<- positions captions relative to the parent section, not the entire page*/ overflow:hidden; /*<- gets rid of the vertical scrollbar, but some long captions break*/}

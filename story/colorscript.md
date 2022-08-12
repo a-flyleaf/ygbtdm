@@ -14,6 +14,7 @@ Reads from top left, right, then down a row, like a very long comic strip.
 ## technical notes
 - The page does *not* scale to fit your browser. For best reading, resize your viewing window so **at least one image** can fit horizontally onscreen at a time.
 	- Ideally you can only see **one row at a time**, too. (Theoretically this could be forced via page layout, debating whether or not to actually commit....)
+		- ok note to self: as a reading experience I like the contained look a LOT more, guarantees no early-visibility spoilerage and just feels more like a movie. but for *making* the thing this sucks absolute ass and the full page is highly preferrable :V
 - Coded with pixel measurements, including font size, and subsequently behaves more like a PDF than a responsive webpage.
 
 ## the actual colorscripts
