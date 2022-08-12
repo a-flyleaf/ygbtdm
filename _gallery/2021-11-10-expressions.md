@@ -1,10 +1,9 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: expressions
 img: 2021-11-09
 permalink: /gallery/expressions
 drawnon: November 9–10, 2021
+date: 2021-11-10
 da: three-fourths-view-facing-mostly-leffffffft-897531837
 tags: j kl c g a d sq sl wr
 caption: Three-fourths shots of the cast, each reacting to some ambiguous offscreen thing, based on the prompts linked below.

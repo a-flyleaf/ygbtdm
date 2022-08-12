@@ -1,12 +1,10 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: headshots… 2!!
-img: 2022-02-12
 smolfile: png
 permalink: /gallery/headshots2
 drawnon: February 12, 2022
 da: insert-time-here-since-last-headshots-906838221
+date: 2022-02-12
 tags: j kl a c g d sq wr
 caption: Headshots of the cast, three-fourths-view facing left, in their token colors on simple backgrounds.
 ---

@@ -1,12 +1,11 @@
 ---
-layout: 1.1-gallery
 title: "choose your fighter or w/e"
 img: 2021-02
 smolfile: png
 permalink: /gallery/battlecuts
-subpage: gallery
 drawnon: February 21–2, 2021
 da: choose-your-fighter-or-w-e-871148577
+date: 2021-02-22
 tags: j kl a c g d sq wr
 caption: A 4-across 2-row grid of vertical character portraits, each in different limited palette and art style. The border and background colors are swapped between pairs (first/second, third/fourth, fifth/sixth, seventh/eighth).
 ---

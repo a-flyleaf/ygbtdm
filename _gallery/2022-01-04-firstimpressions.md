@@ -1,12 +1,10 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: first impressions
-img: 2022-01-04
 smolfile: png
 permalink: /gallery/firstimpressions
 drawnon: December 30, 2021–January 4, 2022
 da: first-impressions-902857037
+date: 2022-01-04
 tags: j kl
 caption: "<p>A multi-page comic of an entire scene, with context.</p>
 	<h2>page 1: Previously on [this stil needs a title] (much abridged)</h2>

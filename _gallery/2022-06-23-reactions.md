@@ -1,12 +1,10 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: reactions
-img: 2022-06-23
 smolfile: jpg
 permalink: /gallery/reactions
 drawnon: June 23, 2022
 da: whole-lotta-faces-920295959
+date: 2022-06-23
 tags: j kl a c g ta sq wr sl
 caption: |-
   A colorful grid of expressive (mostly-)three-fourths views, titled "expressions." and captioned "reactions to dialogue with no context". Dialogue prompts go down a column; each person responds in a row.

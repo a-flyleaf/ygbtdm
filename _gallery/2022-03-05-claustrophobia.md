@@ -1,12 +1,10 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: claustrophobia central
-img: 2022-03-05
 smolfile: png
 permalink: /gallery/claustrophobia
 drawnon: March 4–5, 2022
 da: claustrophobia-central-908971544
+date: 2022-03-05
 tags: j kl a c g d sq wr
 caption: The gang stands in a rather claustrophobic frame. Like one big not-really-happy family.
 ---

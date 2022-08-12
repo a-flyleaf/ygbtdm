@@ -1,8 +1,6 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: scrawling
-img: 2021-10-17
+date: 2021-10-17
 permalink: /gallery/scrawling
 drawnon: October 17, 2021
 da: roundup-10-2021-Not-As-Long-As-It-Could-Have-Been-896694290

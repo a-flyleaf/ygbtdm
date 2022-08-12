@@ -1,8 +1,6 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: "#KLstruggleTtweets"
-img: 2021-12-28
+date: 2021-12-28
 permalink: /gallery/klstruggletweets
 drawnon: December 28, 2021
 da: none-of-these-are-canon-902145790

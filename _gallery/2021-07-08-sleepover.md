@@ -1,11 +1,9 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: whatcha waaaatchin
-img: 2021-07-08
 permalink: /gallery/sleepover
 drawnon: July 7–8, 2021
 da: whatcha-waaaatchin-885080555
+date: 2021-07-08
 tags: sq kl j g d c a
 caption: "The gang (minus eighth person) gathers around a laptop, all but the second some degree of unamused to actively disgusted by the content onscreen. First and second have a little talk: “So… you <strong>enjoy</strong> this.” “Oh, come on— Is it really <em>that</em> different from your zombie flicks?” “…Touché.”"
 ---

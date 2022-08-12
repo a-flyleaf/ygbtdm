@@ -1,11 +1,10 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: blackmail material
 img: 2021-10-28
 permalink: /gallery/helloween
 drawnon: October 27–29, 2021
 da: blackmail-material-896339427
+date: 2021-10-29
 tags: j kl a c d sq g wr
 caption: "<p>A picture of the gang, nearly all of whom are dressed in costume, sitting or standing around a table. Little labels and speech bubbles trail around them.</p>
 	<ul><li>The first is just wearing a cardboard box on her head, details scribbled on with marker. Label: “made it herself 6 hours ago”</li>

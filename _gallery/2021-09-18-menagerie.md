@@ -1,8 +1,6 @@
 ---
-layout: 1.1-gallery
-subpage: gallery
 title: menagerie of horrors
-img: 2021-09-18
+date: 2021-09-18
 permalink: /gallery/menagerie
 drawnon: September 18, 2021
 da: roundup-09-2021-critter-season-893437343
