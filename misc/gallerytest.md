@@ -17,3 +17,11 @@ css: img{max-width:100px;}
 {%assign all = rn | concat: gl%}
 {%for tn in all%}<a href="{%include url.html%}{{tn.permalink}}"><img src="{%include url.html%}/assets/img/gallery/{%if tn.url contains 'roundup'%}roundups/{{tn.slug}}{%else%}{{tn.img}}{%endif%}-tn.png" alt="{{tn.title}}"/></a>{%endfor%}
 </section>
+
+## multiple tags
+<ul>{%for tn in site.gallery%}
+{%if tn.tags.size > 1%}
+<li>{{tn.title}} {{tn.tags|size}}</li>
+{%endif%}
+{%endfor%}</ul>
+WELP guess I can get rid of the "multi" thing in toyshelf
