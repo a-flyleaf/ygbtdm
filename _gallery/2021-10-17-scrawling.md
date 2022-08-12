@@ -2,7 +2,6 @@
 title: scrawling
 date: 2021-10-17
 permalink: /gallery/scrawling
-drawnon: October 17, 2021
 da: roundup-10-2021-Not-As-Long-As-It-Could-Have-Been-896694290
 tags: rabbit
 caption: Very scribbly grayscale drawing of the rabbit-person. A peculiar black sphere with toothlike white marks is in the corner, inexplicably.

@@ -1,9 +1,8 @@
 ---
 title: "quote-unquote experiments"
-permalink: /gallery/paneltests
-drawnon: March 7, 2021
-da: quote-unquote-experiments-872518499
 date: 2021-03-07
+permalink: /gallery/paneltests
+da: quote-unquote-experiments-872518499
 tags: j kl a c g d sq wr
 caption: "<p>A series of one-row comics featuring each character, titled “assorted panel experiments (none of which are connected)”</p>
 	<ul><li>“Standard”: First character talks to someone offscreen. “Oh, this?” Glances down at fingerless glove. “I thought it was pretty standard…”</li>

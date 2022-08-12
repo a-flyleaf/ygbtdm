@@ -2,7 +2,6 @@
 title: "#KLstruggleTtweets"
 date: 2021-12-28
 permalink: /gallery/klstruggletweets
-drawnon: December 28, 2021
 da: none-of-these-are-canon-902145790
 tags: kl j a d sq g c
 caption: "<p>A series of loosely-connected two-panel comic strips, altogether titled “some silly stuff from 2AM last night”. All feature Kay Lin (KL) and her yellow eyes.</p>

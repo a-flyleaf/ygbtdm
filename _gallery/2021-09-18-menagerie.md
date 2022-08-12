@@ -2,7 +2,6 @@
 title: menagerie of horrors
 date: 2021-09-18
 permalink: /gallery/menagerie
-drawnon: September 18, 2021
 da: roundup-09-2021-critter-season-893437343
 tags: rabbit
 caption: |-
