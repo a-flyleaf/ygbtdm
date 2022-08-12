@@ -9,6 +9,11 @@ collections:
         output: true
 defaults:
   - scope:
+      path: "_gallery"
+    values:
+      layout: 1.1-gallery
+      subpage: gallery
+  - scope:
       path: "_roundups"
     values:
       layout: 1.1-gallery
