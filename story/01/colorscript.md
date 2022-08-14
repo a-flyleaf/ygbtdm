@@ -286,5 +286,5 @@ scene:
       desc: <small>...Even if it kills her.)</small>
     - id: 13
     - id: 14
-    end: y
+    ep: "02"
 ---
