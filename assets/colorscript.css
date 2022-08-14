@@ -1,5 +1,5 @@
 *{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
-body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px; width:7000px; /*can fit about 12*/}
+body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px;}
 header,main,footer{display:block;}
 header,main,section{overflow:auto;}
 ::selection{background:rgba(128,128,128,.5);}
@@ -28,3 +28,9 @@ figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-heig
 
 footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
 #ep{text-transform:uppercase; font-size:.75em;}
+
+/*side-scrolling*/
+#container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:625px;}
+.scroll main,.scroll .scene{padding:0;}
+.scroll section{position:relative; overflow:hidden;}
+.scroll .scnlink{display:inline-block; padding-top:35px;}

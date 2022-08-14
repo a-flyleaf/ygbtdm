@@ -3,7 +3,8 @@ layout: colorscript
 ep-title: Relapse
 ep-num: "01"
 desc: Old temptations die hard. Upon waking up in an unpredictable haze, would-be survivalist Joce teams up with a small girl, Kay Lin, who seems to know more than she’s letting on.
-css: "body{width:7715px;} header div{display:none;} h2{opacity:0;} .s2 #i7,.s8 #i13,.s8 #i15{margin-left:-125px !important;} .s2 #i9{margin-left:32.5px;} .s4 #ix figcaption.wrap{margin-top:-180px;} .s5 #i07{margin-right:62.5px;} .s5 .kl{background:#1d1818; width:462.5px;} .s5 .kl img{margin-left:62.5px;} .s5 #i09{margin-right:-125px;} .s5 #i11{margin:0 -150px 0 0;} .s6{margin-bottom:100px;} .s7 #i09 a{text-transform:uppercase; font-family:tahoma,calibri,sans-serif; font-weight:bold; display:inline-block; margin:0 10px; text-decoration:none;} .no:hover,.no:active,.no:focus{opacity:0;} .yes:hover,.yes:active,.yes:focus{color:#ffd600;} .s7 #i09+.arw{display:none;} .s8{background:#272121;}"
+ver: scroll
+css: "main{width:7715px;} header div{display:none;} h2{opacity:0;} .s2 #i7,.s8 #i13,.s8 #i15{margin-left:-125px !important;} .s2 #i9{margin-left:32.5px;} .s4 #ix figcaption.wrap{margin-top:-180px;} .s5 #i07{margin-right:62.5px;} .s5 .kl{background:#1d1818; width:462.5px;} .s5 .kl img{margin-left:62.5px;} .s5 #i09{margin-right:-125px;} .s5 #i11{margin:0 -150px 0 0;} .s6{margin-bottom:100px;} .s7 #i09 a{text-transform:uppercase; font-family:tahoma,calibri,sans-serif; font-weight:bold; display:inline-block; margin:0 10px; text-decoration:none;} .no:hover,.no:active,.no:focus{opacity:0;} .yes:hover,.yes:active,.yes:focus{color:#ffd600;} .s7 #i09+.arw{display:none;} .s8{background:#272121;}"
 
 scene:
   - num: 1
