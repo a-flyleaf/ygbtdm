@@ -6,13 +6,18 @@ header,main,section{overflow:auto;}
 .wrap{max-width:400px; margin-left:62.5px;}
 a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-decoration:none;}
 h1,b,strong{color:#c0c0c0;}
-
-header{background:#333; padding-bottom:24px;}
-header a{text-decoration:none;} header a:hover{color:#fff;}
-.col{float:left;}
-h1{font-size:20px; margin-top:24px;}
 p{margin:8px 0;}
 small{font-size:14px;}
+
+header{background:#333; padding-bottom:1em; color:#a0a0a0; white-space:nowrap;}
+header a{text-decoration:none;} header a:hover{color:#fff;}
+.col{float:left;}
+header .wrap{max-width:100%;}
+h1{font-size:20px; margin:24px 0 .5em;}
+h1:after,label:after{content:" ▪"; font-size:16px; color:#808080; padding:0 .5em 0;}
+h1,label,nav,ul,li{display:inline-block;}
+input{margin-right:.25em;}
+li:before{content:"·"; padding:0 .25em;}
 
 main{padding:50px 0;}
 h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; margin-top:70px;} h2.wrap{margin-left:125px;} h2 a{padding-top:70px; margin-left:-.75em; text-decoration:none; opacity:.15;} h2 a:hover,h2 a:active,h2 a:focus{opacity:.5;}
