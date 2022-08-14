@@ -38,10 +38,7 @@ footer{background:#333; color:#808080; text-align:right; padding:24px; letter-sp
 #ep{text-transform:uppercase; font-size:.75em;}
 
 /*side-scrolling; WIP, spacing is wonky. re-add commented lines bit by bit*/
-#container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:625px;}
-.scroll section{position:relative;}
-/*
-.scroll main,.scroll .scene{padding:0;}
-.scroll section{position:relative; overflow:hidden;}
-.scroll .scnlink{display:inline-block; padding-top:35px;}
-*/
+#container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:600px;}
+.scroll section{position:relative; overflow:hidden;} .scroll figure{height:600px; padding-top:15px;}
+.scroll main{padding:0;}
+.scroll h2{opacity:0;}
