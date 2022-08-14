@@ -8,6 +8,7 @@ a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-d
 h1,b,strong{color:#c0c0c0;}
 p{margin:8px 0;}
 small{font-size:14px;}
+.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 
 header{background:#333; padding-bottom:1em; color:#a0a0a0; white-space:nowrap;}
 header a{text-decoration:none;} header a:hover{color:#fff;}
@@ -20,7 +21,7 @@ input{margin-right:.25em;}
 li:before{content:"·"; padding:0 .25em;}
 
 main{padding:50px 0;}
-h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; margin-top:70px;} h2.wrap{margin-left:125px;} h2 a{padding-top:70px; margin-left:-.75em; text-decoration:none; opacity:.15;} h2 a:hover,h2 a:active,h2 a:focus{opacity:.5;}
+h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; margin-top:70px;} h2 a{padding:70px 0 0 2.5em; text-decoration:none; opacity:.15;} h2 a:hover,h2 a:active,h2 a:focus{opacity:.5;}
 .desc{position:absolute; margin-top:410px;} .desc:first-of-type{margin-left:62.5px;}
 figure{width:650px; height:500px; float:left; line-height:0; margin-left:-125px;} .full,.full+figure,figure:first-of-type{margin:0;}
 img{margin:100px 0 0 125px;} .full img{margin:0;}
@@ -34,8 +35,11 @@ figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-heig
 footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
 #ep{text-transform:uppercase; font-size:.75em;}
 
-/*side-scrolling; WIP, long captions get cut off*/
+/*side-scrolling; WIP, spacing is wonky. re-add commented lines bit by bit*/
 #container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:625px;}
+.scroll section{position:relative;}
+/*
 .scroll main,.scroll .scene{padding:0;}
 .scroll section{position:relative; overflow:hidden;}
 .scroll .scnlink{display:inline-block; padding-top:35px;}
+*/

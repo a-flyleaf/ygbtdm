@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colorscript.css"/>{%if page.css%}
 		<style>{{page.css}}</style>{%endif%}
 	</head>
-	<body{%if page.ver == 'scroll'%} class="scroll"{%endif%}>
+	<body class="{%if page.ver == 'scroll'%}scroll{%else%}noscroll{%endif%}">
 		<header><div class="wrap">
 			<h1><a href="{%include url.html%}/story/{{page.ep-num}}">{{page.ep-num}}: {{page.ep-title}}</a></h1>
 			<label><input type="checkbox"> show/hide image descriptions</label>
@@ -16,7 +16,7 @@
 		</div></header>
 		
 		{%if page.ver == 'scroll'%}<div id="container">{%endif%}<main>{%for scn in page.scene%}<section class="scene s{{scn.num}}">
-			{%if scn.prt != 'a'%}<h2 class="wrap"><a id="scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}" href="#scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}" class="scnlink">#{{scn.num}}</a></h2>{%endif%}{%if scn.desc%}
+			<h2 class="wrap{%if scn.prt != 'a'%} x{%endif%}"><a id="scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}" href="#scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}">#{{scn.num}}</a></h2>{%if scn.desc%}
 			<div class="desc"><p class="wrap">{{scn.desc}}</p></div>{%endif%}
 				<section{%if scn.prt%}{%if scn.prt != 'a'%} class="prt"{%endif%}{%endif%}>{%for img in scn.img%}<figure id="i{{img.id}}"{%if img.class%} class="{{img.class}}"{%endif%}><img src="{%include url.html%}/assets/img/colorscript/{%if img.id=='x'%}x{%else%}{{page.ep-num}}/{{scn.num}}-{{img.id}}{%endif%}.png" alt=""/>{%if img.desc%}<figcaption class="wrap">{{img.desc|markdownify}}</figcaption>{%endif%}</figure>{%endfor%}{%if scn.end%}{%else%}<a href="{%if scn.nxt%}#scene{{scn.nxt}}{%endif%}{%if scn.ep%}{%include url.html%}/story/{{scn.ep}}/colorscript{%endif%}" class="arw"><div class="next">{%if scn.nxt%}&#8626;{%endif%}{%if scn.ep%}→{%endif%}</div></a>{%endif%}</section>
 		</section>{%endfor%}</main>{%if page.ver == 'scroll'%}</div>{%endif%}
