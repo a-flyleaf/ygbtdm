@@ -1,0 +1,17 @@
+decided I didn't want thumbnails but went through all the work of coding them So
+
+<h2>HTML</h2>
+<p>(this looks bad for lack of CSS formatting oh well)</p><code>
+<div id="gnav" class="wrap">{%if page.previous%}<div class="navbox prev"><a href="{%include url.html%}{{page.previous.url}}"><span class="arw">◄</span><img src="{%include url.html%}/assets/img/gallery/{%if page.previous.url contains 'roundup'%}roundups/{{page.previous.slug}}{%else%}{%if page.previous.img%}{{page.previous.img}}{%else%}{{page.previous.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-tn.png" alt="{{page.previous.title}}"></a></div>{%endif%}{%if page.next%}<div class="navbox next"><a href="{%include url.html%}{{page.next.url}}"><img src="{%include url.html%}/assets/img/gallery/{%if page.next.url contains 'roundup'%}roundups/{{page.next.slug}}{%else%}{%if page.next.img%}{{page.next.img}}{%else%}{{page.next.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-tn.png" alt="{{page.next.title}}"><span class="arw">►</span></a></div>{%endif%}</div>
+</code>
+
+<h2>CSS</h2><code id="css">
+#info,#back,#gnav{font-size:.85em; color:#adadad;}
+#gnav{margin:5rem auto 0; overflow:auto; text-align:center;}
+.navbox{display:inline; margin:0 .25rem;}
+#gnav a{display:inline-block; border:1px solid #404040; color:#606060; margin:.15rem 0; border-radius:3px; text-decoration:none; padding:10px 5px;} #gnav img{max-width:100px; border-radius:3px; margin:0 .5rem;filter:grayscale(75%); opacity:.5;} #gnav img,#gnav span{float:left;} #gnav span{padding:2.25rem .5rem 0; font-size:1.15em;}
+#gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; color:#808080;} #gnav a:hover img,#gnav a:active img,#gnav a:focus img{opacity:.75; filter:grayscale(25%);}
+#back{font-style:italic; margin-top:1rem;} #gnav+#back{text-align:center; margin-top:0;}
+</code>
+
+<style>img{border:1px solid #808080; width:100px; height:100px;} code{white-space:pre; background:#efefef; display:block; max-width:30em; padding:0 1em 1em;} #css{overflow-x:scroll;}</style>

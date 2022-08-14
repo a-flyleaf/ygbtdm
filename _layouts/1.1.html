@@ -14,7 +14,7 @@
 		<a href="#content" class="skipto x">skip to content</a>
 		<header class="wrap" id="header">
 			<h2><a href="{%include url.html%}">{{site.name}}</a></h2>
-			<nav><ul>
+			<nav><ul class="small caps">
 				<a href="{%include url.html%}/about"><li>about</li></a>
 				<a href="{%include url.html%}/story"><li>story</li></a>
 				<a href="{%include url.html%}/cast"><li>cast</li></a>
@@ -24,8 +24,8 @@
 		
 		<main id="content">
 			<h1>{{page.title}}</h1>
-			{{content}}{%if page.subpage%}
-			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}
+			{{content}}{%if page.subpage%}{%if page.url contains 'gallery'%}{%else%}
+			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}{%endif%}
 		</main>
 		
 		<footer class="wrap">art, writing, and site by <a href="https://a-flyleaf.github.io" class="ext">a-flyleaf</a></footer>
