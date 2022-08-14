@@ -2,7 +2,7 @@
 body{background:#151515; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:16px; line-height:24px;}
 header,main,footer{display:block;}
 header,main,section{overflow:auto;}
-::selection{background:rgba(128,128,128,.5);}
+::selection{background:#606060; background:rgba(128,128,128,.5);}
 .wrap{max-width:400px; margin-left:62.5px;}
 a{color:inherit; text-decoration-color:#a0a0a0;} a:hover,a:active,a:focus{text-decoration:none;}
 h1,b,strong{color:#c0c0c0;}
@@ -25,12 +25,13 @@ h2{position:absolute; font-size:20px; font-weight:normal; letter-spacing:.5px; m
 .desc{position:absolute; margin-top:410px;} .desc:first-of-type{margin-left:62.5px;}
 figure{width:650px; height:500px; float:left; line-height:0; margin-left:-125px;} .full,.full+figure,figure:first-of-type{margin:0;}
 img{margin:100px 0 0 125px;} .full img{margin:0;}
-.next{display:inline-block; color:#606060; font-size:80px; padding:50px 40px; border:1px solid #404040; margin-top:172px;} .next a{text-decoration:none;} .next:focus,.next:active,.next:hover{color:#808080; background:#202020;} .full+.arw{margin-left:62.5px;}
+.next{display:inline-block; color:#606060; color:rgba(255,255,255,.25); font-size:80px; padding:50px 40px; border:1px solid #404040; border:1px solid rgba(255,255,255,.15); margin-top:172px;} .next a{text-decoration:none;} .next:focus,.next:active,.next:hover{color:#808080; color:rgba(255,255,255,.5); background:#202020; background:rgba(255,255,255,.15);} .full+.arw{margin-left:62.5px;}
 .scene{padding:50px 0;}
 .prt{margin-left:128px;}
 
 figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-height:24px; width:350px;} .full figcaption.wrap{margin-top:-90px;}
 .cntr .wrap{text-align:center; width:650px;} .full .cntr .wrap{margin-left:0;}
+.blank{opacity:.15;}
 
 footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
 #ep{text-transform:uppercase; font-size:.75em;}
