@@ -37,8 +37,10 @@ figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-heig
 footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
 #ep{text-transform:uppercase; font-size:.75em;}
 
-/*side-scrolling; WIP, spacing is wonky. re-add commented lines bit by bit*/
+/*side-scrolling*/
 #container{max-width:100%; overflow-x:scroll; overflow-y:hidden; height:600px;}
 .scroll section{position:relative; overflow:hidden;} .scroll figure{height:600px; padding-top:15px;}
-.scroll main{padding:0;}
+.scroll main{padding:0; background:#151515;}
 .scroll h2{opacity:0;}
+/*cosmetic stuff*/
+.scroll{background:#000;} .scroll header,.scroll footer{background:0; color:#c0c0c0; color:#808080;} .scroll h1{color:#a0a0a0;} .scroll footer{padding:12px 24px;}
