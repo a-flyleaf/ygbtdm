@@ -5,7 +5,7 @@ css: "blockquote{font-family:calibri,sans-serif; background:#333; max-width:35re
 ---
 > [The colorscript gives] a sense of not only what the sequences will look like, but what they should feel like too emotionally, just with pure abstract shapes and color. You know, the way you might read sheet music.
 > 
-> When I was working on actual shots, I would refer to these. ... [to] always remind myself of what these scenes had to be <a href="https://www.moma.org/audio/playlist/192/2575" class="ext">at the bare essence, without getting caught up in all of the details</a>.
+> When I was working on actual shots, I would refer to these ... [to] always remind myself of what these scenes had to be <a href="https://www.moma.org/audio/playlist/192/2575" class="ext">at the bare essence, without getting caught up in all of the details</a>.
 
 Reads from top left, right, then down a row, like a very long comic strip.
 

@@ -11,7 +11,7 @@
 	<body class="{%if page.ver == 'scroll'%}scroll{%else%}noscroll{%endif%}">
 		<header><div class="wrap">
 			<h1><a href="{%include url.html%}/story/{{page.ep-num}}">{{page.ep-num}}: {{page.ep-title}}</a></h1>
-			<label><input type="checkbox" id="tog" onclick="togChamp()">image descriptions</label>
+			<label><input type="checkbox" id="tog" onclick="togChamp()">image descriptions [TBA]</label>
 			<nav>skip to scene<ul>{%for scn in page.scene%}{%if scn.prt == none or scn.prt == 'a'%}<li><a href="#scene{{scn.num}}{{scn.prt}}">{{scn.num}}</a></li>{%endif%}{%endfor%}</ul></nav>
 		</div></header>
 		

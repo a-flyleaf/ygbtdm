@@ -38,4 +38,4 @@ Not incluing tiny fixes or one-off art additions.
 - 2022/08/06--11: colorscript ep01
 - 2022/08/11: new index image; backend gallery shuffling (including [page for everything]({%include url.html%}/gallery/all), also not linked anywhere yet)
 - 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page
-- 2022/08/14: simpler gallery navigation; colorscript layout tweaks (incl. captions)
+- 2022/08/14: simpler gallery navigation; colorscript layout tweaks (incl. caption functionality)
