@@ -11,7 +11,7 @@
 	<body class="{%if page.ver == 'scroll'%}scroll{%else%}noscroll{%endif%}">
 		<header><div class="wrap">
 			<h1><a href="{%include url.html%}/story/{{page.ep-num}}">{{page.ep-num}}: {{page.ep-title}}</a></h1>
-			<label><input type="checkbox"> show image descriptions</label>
+			<label><input type="checkbox" id="tog" onclick="togChamp()">image descriptions</label>
 			<nav>skip to scene<ul>{%for scn in page.scene%}{%if scn.prt == none or scn.prt == 'a'%}<li><a href="#scene{{scn.num}}{{scn.prt}}">{{scn.num}}</a></li>{%endif%}{%endfor%}</ul></nav>
 		</div></header>
 		
@@ -22,5 +22,15 @@
 		</section>{%endfor%}</main>{%if page.ver == 'scroll'%}</div>{%endif%}
 		
 		<footer><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a>{%if page.ep-num%} | <a href="{%include url.html%}/story/{{page.ep-num}}"><span id="ep">ep{{page.ep-num}}</span> {{page.ep-title}}</a>{%endif%}</footer>
+		
+		<script>//https://www.tutorialstonight.com/javascript-get-element-by-class + https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_display_checkbox_text
+		function togChamp() {
+			var checkBox = document.getElementById("tog");
+			var desc = document.querySelectorAll(".desc");
+				for (let i = 0; i < desc.length; i++) { //i have no idea what this does but it works
+					desc[i].classList.toggle("show");
+				}
+		}
+		</script>
 	</body>
 </html>

@@ -17,7 +17,7 @@ header .wrap{max-width:100%;}
 h1{font-size:20px; margin:24px 0 .5em;}
 h1:after,label:after{content:" ▪"; font-size:16px; color:#808080; padding:0 .5em 0;}
 h1,label,nav,ul,li{display:inline-block;}
-input{margin-right:.25em;}
+input{margin-right:.5em;}
 li:before{content:"·"; padding:0 .25em;}
 
 main{padding:50px 0;}
@@ -32,7 +32,7 @@ img{margin:100px 0 0 125px;} .full img{margin:0;}
 figcaption.wrap{position:absolute; margin-left:125px; margin-top:10px; line-height:24px; width:350px;} .full figcaption.wrap{margin-top:-90px;}
 .cntr .wrap{text-align:center; width:650px;} .full .cntr .wrap{margin-left:0;}
 .blank{opacity:.15;}
-.desc{position:absolute; margin-top:-400px;}
+.desc{position:absolute; margin-top:-400px; opacity:0; font-family:courier,monospace; font-size:14px;} .show{opacity:1;}
 
 footer{background:#333; color:#808080; text-align:right; padding:24px; letter-spacing:.25px;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#c0c0c0;}
 #ep{text-transform:uppercase; font-size:.75em;}
