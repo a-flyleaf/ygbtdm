@@ -11,6 +11,7 @@ header,nav,main,footer,section,figure,figcaption,article{display:block;}
 p,table{margin:.75em auto;}
 .small{font-size:.85em;}
 .caps{text-transform:uppercase; letter-spacing:.05em;}
+b,strong,main h2,h3{color:#d6d6d6;}
 
 .skipto{padding:.5em .75em;} .skipto:focus,.skipto:active{width:auto; height:auto; overflow:visible; left:auto; background:#404040; border:2px solid #000;} .skipto:hover{background:#000; border-color:#808080;}
 
@@ -33,7 +34,7 @@ blockquote{margin-left:2em;}
 li>ul{margin-top:0;}
 
 td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
-tr:first-child,td:first-child{font-weight:bold;}
+tr:first-child,td:first-child{font-weight:bold; color:#d6d6d6;}
 
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
 .imgdesc p,.imgdesc li{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
