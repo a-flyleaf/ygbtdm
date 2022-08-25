@@ -2,7 +2,7 @@
 layout: 1.1
 subpage: gallery/all
 title: "gallery: by character"
-css: "body{overflow-x:scroll;} table{text-align:center;} table a{opacity:.5; transition:.15s; display:inline-block;} table a:focus,table a:hover,table a:active{opacity:1;} img{max-width:100px;} #hide{opacity:0;} thead{position:sticky; top:0; background:#151515; background:rgba(21,21,21,.5);} th{width:110px; vertical-align:bottom; padding:10px 0 5px;} td{font-weight:normal; vertical-align:middle;} tbody td{padding-left:20px;} td:first-child{text-align:right; position:sticky; left:0;} th:first-child,td:first-child{max-width:110px; padding:0;} /*colors from icons faded 50% on white*/ .j{color:#c3c2a8;} .kl{color:#c5bdc9;} .a{color:#f2c4a0;} .c{color:#f7e1f0;} .g{color:#d4b4b3;} .d{color:#b8ecea;} .sq{color:#c8c3f4} .wr{color:#faf7df;} .sl{color:#dcf0d6;} .rb{color:#e5e2dd;}"
+css: "body{overflow-x:scroll;} table{text-align:center;} table a{opacity:.5; transition:.075s; display:inline-block;} table a:focus,table a:hover,table a:active{opacity:1;} img{max-width:100px;} #hide{opacity:0;} thead{position:sticky; top:0; background:#151515; background:rgba(21,21,21,.5);} th{width:110px; vertical-align:bottom; padding:10px 0 5px;} td{font-weight:normal; vertical-align:middle;} tbody td{padding-left:20px;} td:first-child{text-align:right; position:sticky; left:0;} th:first-child,td:first-child{max-width:110px; padding:0;} /*colors from icons faded 50% on white*/ .j{color:#c3c2a8;} .kl{color:#c5bdc9;} .a{color:#f2c4a0;} .c{color:#f7e1f0;} .g{color:#d4b4b3;} .d{color:#b8ecea;} .sq{color:#c8c3f4} .wr{color:#faf7df;} .sl{color:#dcf0d6;} .rb{color:#e5e2dd;}"
 ---
 [Roundups]({%include url.html%}/gallery/roundups) not included.
 
