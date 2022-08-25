@@ -1,7 +1,7 @@
 ---
 title: annoying bun game
 date: 2022-07-08
-permalink: /gallery/annoyingbungame
+slug: annoyingbungame
 da: annoying-bun-game-921837711
 tags: rabbit j kl a c g ta sq wr
 caption: |-

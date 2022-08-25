@@ -1,6 +1,6 @@
 ---
 title: tracklist
-permalink: /gallery/tracklist
+slug: tracklist
 drawnon: October 3–4, 2021
 da: aw-shit-here-we-go-again-893859218
 date: 2021-10-04

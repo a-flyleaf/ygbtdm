@@ -1,7 +1,7 @@
 ---
 title: blackmail material
 img: 2021-10-28
-permalink: /gallery/helloween
+slug: helloween
 drawnon: October 27–29, 2021
 da: blackmail-material-896339427
 date: 2021-10-29

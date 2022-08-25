@@ -1,7 +1,7 @@
 ---
 title: first impressions
 smolfile: png
-permalink: /gallery/firstimpressions
+slug: firstimpressions
 drawnon: December 30, 2021–January 4, 2022
 da: first-impressions-902857037
 date: 2022-01-04

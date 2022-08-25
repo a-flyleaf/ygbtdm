@@ -2,7 +2,7 @@
 title: you know what you’ve done
 date: 2021-10-19
 smolfile: png
-permalink: /gallery/mistake
+slug: mistake
 da: you-know-exactly-what-you-ve-done-895396345
 tags: j kl
 caption: "<p>Portraits in parallel of a younger first character and a shorter-haired second, both grabbing a hand extending from the viewer’s perspective.</p>

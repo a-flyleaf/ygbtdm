@@ -1,7 +1,7 @@
 ---
 title: reactions
 date: 2022-06-23
-permalink: /gallery/reactions
+slug: reactions
 da: whole-lotta-faces-920295959
 tags: j kl a c g ta sq wr sl
 caption: |-

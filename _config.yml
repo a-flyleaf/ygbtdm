@@ -13,6 +13,7 @@ defaults:
     values:
       layout: 1.1-gallery
       subpage: gallery
+      permalink: /gallery/:slug
   - scope:
       path: "_roundups"
     values:

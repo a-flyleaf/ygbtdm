@@ -1,7 +1,7 @@
 ---
 title: your one and only spoiler warning
 img: 2021-08
-permalink: /gallery/colorscript
+slug: colorscript
 drawnon: August 18–27, 2021
 date: 2021-08-27
 ---

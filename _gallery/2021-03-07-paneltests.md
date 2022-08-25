@@ -1,7 +1,7 @@
 ---
 title: "quote-unquote experiments"
 date: 2021-03-07
-permalink: /gallery/paneltests
+slug: paneltests
 da: quote-unquote-experiments-872518499
 tags: j kl a c g d sq wr
 caption: "<p>A series of one-row comics featuring each character, titled “assorted panel experiments (none of which are connected)”</p>

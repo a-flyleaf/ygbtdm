@@ -2,7 +2,7 @@
 title: "choose your fighter or w/e"
 img: 2021-02
 smolfile: png
-permalink: /gallery/battlecuts
+slug: battlecuts
 drawnon: February 21–2, 2021
 da: choose-your-fighter-or-w-e-871148577
 date: 2021-02-22

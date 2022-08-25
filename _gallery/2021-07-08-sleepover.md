@@ -1,6 +1,6 @@
 ---
 title: whatcha waaaatchin
-permalink: /gallery/sleepover
+slug: sleepover
 drawnon: July 7–8, 2021
 da: whatcha-waaaatchin-885080555
 date: 2021-07-08

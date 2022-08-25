@@ -1,7 +1,7 @@
 ---
 title: claustrophobia central
 smolfile: png
-permalink: /gallery/claustrophobia
+slug: claustrophobia
 drawnon: March 4–5, 2022
 da: claustrophobia-central-908971544
 date: 2022-03-05

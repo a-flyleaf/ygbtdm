@@ -1,7 +1,7 @@
 ---
 title: expressions
 img: 2021-11-09
-permalink: /gallery/expressions
+slug: expressions
 drawnon: November 9–10, 2021
 date: 2021-11-10
 da: three-fourths-view-facing-mostly-leffffffft-897531837

@@ -1,7 +1,7 @@
 ---
 title: feeling of being watched
 date: 2021-03-14
-permalink: /gallery/beingwatched
+slug: beingwatched
 da: feeling-of-being-watched-873253634
 tags: j
 caption: Bust of the first character glancing back over the shoulder, framed in dark, linear static.
