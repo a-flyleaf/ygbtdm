@@ -173,7 +173,7 @@ scene:
       cptn: |-
         Kay Lin asks about finding shelter; Joce argues they don't need it.
         
-        Sudden noise; sounds like crying.
+        Sudden noise. It's... a wail, of some sort. A scream? Someone crying?
     - id: "03"
       cptn: Kay Lin is hesitant. So Joce tells her to stay put. Shouldn't take long.
     - id: "04"
@@ -197,7 +197,7 @@ scene:
     - id: 15
       cptn: Kay Lin is mildly surprised to see Joce, who isn't having it. How did Kay Lin--- What did--- How is she even still *alive*?
     - id: 16
-      cptn: "But Joce still hasn't told *Kay Lin* anything. Joce relents: she's here because she didn't have anything better to do. End turn."
+      cptn: "But, Kay Lin points out, Joce still hasn't told *her* anything. Joce relents: she's here because she didn't have anything better to do. End turn."
     - id: 17
       cptn: ...Fine. Kay Lin admits she's "familiar" with this place. She's been here... long enough to lose track. And isn't sure why.
     - id: 18
@@ -272,7 +272,7 @@ scene:
       cptn: For lack of decent shelter, Joce and Kay Lin have taken to higher ground.
     - id: "02"
     - id: "03"
-      cptn: Kay Lin asks why Joce trusts her.
+      cptn: Kay Lin asks why Joce is still with her.
     - id: "04"
       cptn: After all, Joce doesn't know her. She could backstab Joce overnight. Or disappear.
     - id: "05"

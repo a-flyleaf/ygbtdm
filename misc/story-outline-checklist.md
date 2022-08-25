@@ -19,7 +19,6 @@ eps:
   - title: "02: Follow me"
     scn:
     - prt: "intro/deal2: camp → A>WR proposal"
-      done: y
     - prt: "start-over: J+KR trek, A+alliance? → Beacon meetup → rabbits interrupt → outta there"
     - prt: "listen: J+KL followup → alliance mockery, speech failure → A underground → monologue, “someone worth saving;” C"
     - prt: "left-behind: A+C talk → pendant → cave-in"
