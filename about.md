@@ -16,7 +16,9 @@ Website for a story-project-thing that spawned around early 2021. Rather than be
 For now, a majority of the site consists of [story-related art]({%include url.html%}/gallery). Major updates are noted on the [changelog]({%include url.html%}/changelog).
 
 ## on spoilers
-If you want to read "blind," jumping right into the 2022 colorscript is the way to go---except it's not done yet. Until then, assume **spoilers are everywhere**.
+If you want to read "blind," jumping right into the 2022 colorscript is the way to go---except it's not done yet.
+
+Note that not every character is introduced within the first part, let alone by name; the cast and gallery pages, however, assume everyone is known. Proceed with however much caution seems appropriate.
 
 That said, if I think something is especially significant, it'll be hidden; text is grayed out <span class="spoiler">like this</span>, and images are obscured like this:
 
