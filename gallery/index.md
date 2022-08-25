@@ -1,7 +1,7 @@
 ---
 layout: 1.1
 title: gallery
-css: "strong{color:#d6d6d6;} #gallery{max-width:850px;}"
+css: "#gallery{max-width:850px;}"
 ---
 Standalone art related to the story or characters in some way, however tenuously. Spoiler-free highlights below.
 

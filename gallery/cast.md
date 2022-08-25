@@ -1,0 +1,16 @@
+---
+layout: 1.1
+subpage: gallery/all
+title: "gallery: by character"
+css: "body{overflow-x:scroll;} table{text-align:center;} table a{opacity:.5; transition:.15s;} table a:focus,table a:hover,table a:active{opacity:1;} img{max-width:100px;} #hide{opacity:0;} thead{position:sticky; top:0; background:#151515; background:rgba(21,21,21,.5);} th{width:110px; vertical-align:bottom; padding:10px 0 5px;} td{font-weight:normal; vertical-align:middle;} tbody td{padding-left:20px;} td:first-child{text-align:right; padding-right:0;} /*colors from icons faded 50% on white*/ .j{color:#c3c2a8;} .kl{color:#c5bdc9;} .a{color:#f2c4a0;} .c{color:#f7e1f0;} .g{color:#d4b4b3;} .d{color:#b8ecea;} .sq{color:#c8c3f4} .wr{color:#faf7df;} .sl{color:#dcf0d6;} .rb{color:#e5e2dd;}"
+---
+Art with no checks is something I didn't know how to categorize for whatever reason. [Roundups]({%include url.html%}/gallery/roundups) not included.
+
+<table>
+	<thead><tr>
+		<th id="hide">thumbnail</a></th><th><a href="{%include url.html%}/cast/joce"><img src="{%include url.html%}/assets/img/cast/j-icon.png" alt="Joce"/></a></th><th><a href="{%include url.html%}/cast/kay-lin"><img src="{%include url.html%}/assets/img/cast/kl-icon.png" alt="Kay Lin"/></a></th><th><a href="{%include url.html%}/cast/addison"><img src="{%include url.html%}/assets/img/cast/a-icon.png" alt="Addison"/></a></th><th><a href="{%include url.html%}/cast/caleb"><img src="{%include url.html%}/assets/img/cast/c-icon.png" alt="Caleb"/></a></th><th><a href="{%include url.html%}/cast/gary"><img src="{%include url.html%}/assets/img/cast/g-icon.png" alt="Gary"/></a></th><th><a href="{%include url.html%}/cast/the-accountant"><img src="{%include url.html%}/assets/img/cast/d-icon.png" alt="“The accountant”"/></a></th><th><a href="{%include url.html%}/cast/sequitur"><img src="{%include url.html%}/assets/img/cast/sq-icon.png" alt="Sequitur"/></a></th><th><a href="{%include url.html%}/cast/white-rabbit"><img src="{%include url.html%}/assets/img/cast/wr-icon.png" alt="“White Rabbit”"/></a></th><th><a href="{%include url.html%}/cast/other/s"><img src="{%include url.html%}/assets/img/cast/sl-icon.png" alt="“S.”"/></a></th><th><a href="{%include url.html%}/cast/other/rabbits"><img src="{%include url.html%}/assets/img/cast/rb-icon.png" alt="rabbit"/></a></th>
+	</tr></thead>
+	<tbody>{%for tn in site.gallery%}
+		<tr><td><a href="{%include url.html%}/gallery/{%if tn.url contains 'roundup'%}roundups/{%endif%}{{tn.slug}}"{%if tn.url contains 'roundup'%} class="rn"{%endif%}><img src="{%include url.html%}/assets/img/gallery/{%if tn.url contains 'roundup'%}roundups/{{tn.slug}}{%else%}{%if tn.img%}{{tn.img}}{%else%}{{tn.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-tn.png" alt="{{tn.title}}"/></a></td><td class="j">{%if tn.tags contains 'j'%}✔{%endif%}</td><td class="kl">{%if tn.tags contains 'kl'%}✔{%endif%}</td><td class="a">{%if tn.tags contains 'a'%}✔{%endif%}</td><td class="c">{%if tn.tags contains 'c'%}✔{%endif%}</td><td class="g">{%if tn.tags contains 'g'%}✔{%endif%}</td><td class="d">{%if tn.tags contains 'd'%}✔{%endif%}</td><td class="sq">{%if tn.tags contains 'sq'%}✔{%endif%}</td><td class="wr">{%if tn.tags contains 'wr'%}✔{%endif%}</td><td class="sl">{%if tn.tags contains 'sl'%}✔{%endif%}</td><td class="rb">{%if tn.tags contains 'rabbit'%}✔{%endif%}</td></tr>
+	{%endfor%}</tbody>
+</table>
