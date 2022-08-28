@@ -30,6 +30,7 @@ css: main a{text-decoration-color:#5e5e5e;} li>ul,li>ul>li{display:inline; opaci
 - [Gallery]({%include url.html%}/gallery)
 	- [roundups]({%include url.html%}/gallery/roundups)
 	- [all]({%include url.html%}/gallery/all)
+	- [by character]({%include url.html%}/gallery/cast)
 
 ## misc
 - [changelog]({%include url.html%}/changelog)

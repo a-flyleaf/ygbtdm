@@ -35,8 +35,9 @@ Not incluing tiny fixes or one-off art additions.
 - 2022/07/05: more behind-the-scenes (not linked) stuff
 	- cast spoiler writeups
 	- reshuffle misc stuff ("beta" site, test pages, notes)
-- 2022/08/06--11: colorscript ep01
+- 2022/08/06--11: **colorscript ep01**
 - 2022/08/11: new index image; backend gallery shuffling (including [page for everything]({%include url.html%}/gallery/all), also not linked anywhere yet)
 - 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page
 - 2022/08/14: simpler gallery navigation; colorscript layout tweaks (caption functionality, single-row layout)
+	- [accidentally pushed a bunch of changes from this day, whoops. They were supposed to be on my end only until I'd completely overhauled the site.... >_>\"]
 - 2022/08/25: gallery page tweaks & cast catch-all page
