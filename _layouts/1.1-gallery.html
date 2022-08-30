@@ -3,7 +3,7 @@ layout: "1.1"
 title: gallery
 ---
 <figure>
-	<picture class="pic"><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-full.png"><img src="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-600.{%if page.smolfile%}{{page.smolfile}}{%else%}jpg{%endif%}" alt="{{page.title}}"/></picture>{%if page.caption%}
+	<picture class="pic"><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-full.{%if page.notpng%}{{page.notpng}}{%else%}png{%endif%}"><img src="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-600.{%if page.smolfile%}{{page.smolfile}}{%else%}jpg{%endif%}" alt="{{page.title}}"/></picture>{%if page.caption%}
 	<figcaption><details><summary id="desc">image description</summary><div id="caption">{{page.caption|markdownify}}</div></details></figcaption>
 {%endif%}</figure>
 <div id="info" class="wrap">{%if page.url contains 'roundup'%}{%else%}{%if page.drawnon%}{{page.drawnon}}{%else%}{{page.date|date:"%B %-d, %Y"}}{%endif%}{%endif%}{%if page.da%}{%if page.url contains 'roundup'%}{%else%}{%if page.date%} ▪ {%endif%}{%endif%}<a href="https://www.deviantart.com/a-flyleaf/art/{{page.da}}" class="ext">on dA</a>{%endif%}</div>
