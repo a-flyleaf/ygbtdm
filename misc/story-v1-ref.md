@@ -8,7 +8,7 @@ just rendering all titles, summaries, and teaser info on one page, for my own pr
 
 ----
 
-{%for ep in site.story%}<h2><a href="{%include url.html%}/story/{{ep.num}}">{{ep.title}}</a></h2>{%if ep.quote%}<p><i>“{{ep.quote}}”</i></p>{%endif%}<p>{{ep.summary}}</p><div class="desc wrap">{{ep.content|markdownify}}</div>{%endfor%}
+{%for ep in site.story-v1%}<h2><a href="{%include url.html%}/story/v1/{{ep.num}}">{{ep.title}}</a></h2>{%if ep.quote%}<p><i>“{{ep.quote}}”</i></p>{%endif%}<p>{{ep.summary}}</p><div class="desc wrap">{{ep.content|markdownify}}</div>{%endfor%}
 
 ----
 
