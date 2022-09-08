@@ -5,6 +5,7 @@ ltr: j
 
 h-us: 6'1"
 h-cm: 185.42
+rel: Third-tallest
 
 palette-m: Skin, hair, and eyes are all dark brown. Hair is curly and tied in a bun.
 plt-main:
