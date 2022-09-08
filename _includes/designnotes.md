@@ -8,4 +8,4 @@ Similarly, while some design details are key (for characterization and/or themat
 
 ----
 
-These pages have a rudimentary mobile/single-column layout, but are ideally viewed on a larger, horizontal screen. The full layout scrolls in both directions.
+These pages have a rudimentary mobile/single-column layout, but are ideally viewed on a larger, horizontal screen. The full layout has a fixed size, and may scroll in both directions.

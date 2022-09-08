@@ -15,7 +15,7 @@ header{text-align:center;}
 h1{font-size:2em; line-height:1;}
 h2{font-size:1.5em;}
 h3{font-size:1.25em;}
-details{border:2px solid #b8b8b8; padding:.5em 1em; margin:1rem auto; max-width:50em;} #desc{text-align:left;}
+details{border:2px solid #b8b8b8; padding:.5em 1em; margin:1rem auto; max-width:50em; background:#efefef; background:rgba(239,239,239,.95);} #desc{text-align:left;}
 details h2{display:inline;}
 summary{text-decoration:underline #b8b8b8;} summary:hover,summary:focus,summary:active{cursor:pointer; text-decoration:none;}
 
@@ -24,6 +24,8 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 #main{text-align:center;}
 #main ul{margin:0; list-style-type:none; line-height:1.25;}
 
+#info{margin-top:1rem;}
+#hght li{display:inline;} #hght li:first-child::after{content:" / ";}
 #plt h2{margin-top:.5em;}
 #plt h3:last-of-type{margin-top:1em;}
  #plt li{padding:.5em 0;}
@@ -31,7 +33,27 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 
 footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decoration:none;} footer a:focus,footer a:hover,footer a:active{color:#000;}
 
-/*FULLSCREEN
-text 16px line-height 24px
-details display inline-block
-*/
+@media only screen and (min-width:600px){
+	body{font-size:16px; line-height:24px; width:1650px;}
+	img{margin:0;}
+	header,main,#main{overflow:auto;}
+	h1,details,#main,#content{float:left;}
+	
+	header{text-align:left; padding-bottom:1.5em; border-bottom:1px solid #b8b8b8; margin-bottom:1em;}
+	details{display:inline-block; position:absolute; margin:-.25em 0 0 1em;}
+	
+	main>section{border:0; padding:0; margin:0;}
+	#info h3,.where{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+	
+	#main{width:750px;}
+	#main figure,#info{float:right;} /*puts the palette on the left*/
+	#info{position:absolute; margin-left:100px;}
+	#info ul{margin:.5em 0;} #plt ul{width:100px; margin:.5em auto;}
+	
+	#content{width:850px;}
+	#content img{height:50%;}
+	
+	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; max-width:50rem;}
+	
+	footer{text-align:right;}
+}
