@@ -32,11 +32,11 @@
 						
 						<h3>main</h3>
 						<div class="x">{{page.palette-m|markdownify}} <a href="#outfit">(skip hex codes)</a></div>
-						<ul>{%for clr in page.plt-main%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">({{clr.nm}})</span></li>{%endfor%}</ul>
+						<ul>{%for clr in page.plt-main%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">{{clr.nm}}</span></li>{%endfor%}</ul>
 						
 						<h3 id="outfit">outfit (shown above)</h3>
 						<div class="x">{{page.palette-o|markdownify}} <a href="#notes">(skip hex codes)</a></div>
-						<ul>{%for clr in page.plt-outfit%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">({{clr.nm}})</span></li>{%endfor%}</ul>
+						<ul>{%for clr in page.plt-outfit%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">{{clr.nm}}</span></li>{%endfor%}</ul>
 					</section>
 				</div>
 			</section>

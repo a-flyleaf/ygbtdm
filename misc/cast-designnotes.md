@@ -24,9 +24,15 @@ Paragraph-style (but not necessarily full sentence, fragments are fine) descript
 -->
 
 ## Joce
-- core palette: [skin\*, hair, eyes]
+- core palette: [skin, hair, eyes]
 - height: X\'XX\" (default, not in flashbacks)
-- Stocky and angular (square+triangle); more fat than muscle. Should **not** look thin; sole exception is blue phase [which tbh I should redraw a bit, shouldn't look like the whole *skeletal proportions* change...]
+- Stocky and angular (square + triangle); more fat than muscle. Should **not** look thin; sole exception is blue phase [which tbh I should redraw a bit, shouldn't look like the whole *skeletal proportions* change...], but even then the face & neck aren't (shouldn't be) that thin
+
+- ! Bony face with (during/after puberty) defined cheekbones and nose bridge. In profile (~and, in my style, at most other angles) the jaw is noticeably further out than the forehead.
+	- Eyebrows are rough/uneven, and ~trail off at the end. (I basically just scribble horizontally, erase a bit, then at the end erase & redraw a few stray lines.)
+	- ! Try to keep that little indent between the eyes & noticeable "bump" at the nose tip, although both are less noticeable when young.
+- ~ 
+
 
 ## quicknotes
 - Joce: noticeable nose bridge, underbite, frayed eyebrows, just scrutinize every little detail (on everyone else, too) you know the drill
@@ -36,5 +42,6 @@ Paragraph-style (but not necessarily full sentence, fragments are fine) descript
 - Caleb: leggings can have details I just can't be assed to draw any. mouth is almost never a straight line or even simple curve, gotta have some wobble (or at *least* a ":3" mouth, he's the only one who could actually do it)
 - Gary: mans got lego/layton eyes. would have freckles, ~~shoe whites are~~ palette from the waist down is kind of an oddball but I ain't changing it at this point, ~yeah~
 - Diana: those are contacts, the pointy white pupil is a stylization thing but she *would* have matching irises. for shits.
+	- still don't know what the endgame outfit is doing but it's probably mostly if not entirely black, *maybe* some blue accents (socks + tie?). eyes are still bright tho. and yes the hair is magically not dyed anymore, it's like KL's eyes It Does Not (diegetically) Matter
 - Sequitur: sleeve stripe count doesn't matter, those + logo + hair fade would've been indigo when new. neck is always kinda hunched/long (exaggerated for style but they *do* have an awful slouch). it's a miracle the slippers haven't come off yet.
 - Em: side-eyes disappear in full color big F, but that *is* important (the thing with the "pupils" always touching the eye line UNLESS noticeably shocked). WR eyes usually drawn as an incomplete curve suggesting shadow, but it Does Not Matter where they are in 3d space. it's a void in there. (not literally but it should have zero discernible detail, even in bright light; this is diegetic for handwavey reasons.)

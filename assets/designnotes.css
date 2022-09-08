@@ -53,10 +53,10 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem 0 1rem;}
 	.where{font-size:.85em;}
 	
-	#content{width:850px;}
-	#content img{height:50%;}
-	
+	#content,article{width:850px;}
+	#sum,article{position:absolute;}
 	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; max-width:50rem;}
+	#content figure{display:inline-block;}
 	
 	footer{text-align:right;}
 }
