@@ -15,7 +15,7 @@ header{text-align:center;}
 h1{font-size:2em; line-height:1;}
 h2{font-size:1.5em;}
 h3{font-size:1.25em;}
-details{border:2px solid #b8b8b8; padding:.5em 1em; margin:1rem auto; max-width:50em; background:#efefef; background:rgba(239,239,239,.95);} #desc{text-align:left;}
+details{border:2px solid #b8b8b8; padding:.5em 1em; margin:1rem auto; background:#efefef; background:rgba(239,239,239,.95);} #desc{text-align:left;}
 details h2{display:inline;}
 summary{text-decoration:underline #b8b8b8;} summary:hover,summary:focus,summary:active{cursor:pointer; text-decoration:none;}
 
@@ -29,7 +29,7 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 #hght figcaption{color:#808080; margin-top:.5em;}
 #plt h2{margin-top:.5em;}
 #plt h3:last-of-type{margin-top:1em;}
-#plt li{padding:.5em 0;}
+#plt li{padding:.5em .25em;}
 .hex{font-family:courier,monospace; text-transform:uppercase; font-weight:bold;}
 
 footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decoration:none;} footer a:focus,footer a:hover,footer a:active{color:#000;}
@@ -41,7 +41,7 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	h1,details,#main,#content{float:left;}
 	
 	header{text-align:left; padding-bottom:1.5em; border-bottom:1px solid #b8b8b8; margin-bottom:1em;}
-	details{display:inline-block; position:absolute; margin:-.25em 0 0 1em;}
+	details{display:inline-block; position:absolute; margin:-.25em 0 0 1em; width:50em; z-index:500;}
 	
 	main>section{border:0; padding:0; margin:0;}
 	#info h3{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
@@ -55,7 +55,7 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	
 	#content,article{width:850px;}
 	#sum,article{position:absolute;}
-	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; max-width:50rem;}
+	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; width:50rem;}
 	#content figure{display:inline-block;}
 	
 	footer{text-align:right;}

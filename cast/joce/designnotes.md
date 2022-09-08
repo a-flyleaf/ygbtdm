@@ -7,7 +7,7 @@ h-us: 6'1"
 h-cm: 185.42
 rel: Third-tallest
 
-palette-m: Skin, hair, and eyes are all dark brown. Hair is curly and tied in a bun.
+palette-m: Skin, hair, and eyes are all dark brown, lightest to darkest. Hair is curly and tied in a bun.
 plt-main:
   - nm: skin
     hex: 54372d
@@ -21,7 +21,7 @@ plt-main:
   - nm: eyes
     hex: 291e0f
     w: y
-palette-o: Wears a dull yellow military shirt, brown cargo pants, flat hiking boots, and fingerless gloves.
+palette-o: Wears a dull yellow military shirt, brown cargo pants, flat hiking boots, and dark fingerless gloves.
 plt-outfit:
   - nm: shirt
     hex: 847d60
