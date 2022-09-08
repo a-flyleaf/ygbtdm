@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>{{site.name}} character design notes: {{page.title}}</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/designnotes.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
+	</head>
+	<body>
+		<header>
+			<h1><a href="{%include url.html%}/cast/{{page.title}}">{{page.title}}</a>: character design notes</h1>
+			<details><summary><h2>notes on the design notes</h2></summary>
+			<!--https://github.com/jekyll/jekyll/issues/1303-->{%capture desc%}{%include designnotes.md%}{%endcapture%}<div id="desc">{{desc|markdownify}}</div></details>
+		</header>
+		<main>
+			<section id="main">
+				<figure><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-fullbody-default.png"><img src="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-fullbody-default-crop.png" alt="fullbody of {{page.title}}"/></picture></figure>
+				<section id="hght">
+					<h2>height</h2>
+					<ul><li>{{page.h-us}}</li>
+					<li>{{page.h-cm}}cm</li></ul>
+				</section>
+				<section id="plt">
+					<h2>palette</h2>
+					
+					<h3>main</h3>
+					<div class="x">{{page.palette-m|markdownify}} <a href="#outfit">(skip hex codes)</a></div>
+					<ul>{%for clr in page.plt-main%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">({{clr.nm}})</span></li>{%endfor%}</ul>
+					
+					<h3 id="outfit">outfit (shown above)</h3>
+					<div class="x">{{page.palette-o|markdownify}} <a href="#notes">(skip hex codes)</a></div>
+					<ul>{%for clr in page.plt-outfit%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">({{clr.nm}})</span></li>{%endfor%}</ul>
+				</section>
+			</section>
+			<section id="sum" class="txt">
+				<h2>key traits</h2>
+				{{page.sum|markdownify}}
+			</section>
+			<section id="notes" class="txt">
+				<h2 class="x">actual notes</h2>
+				{%for note in page.notes%}<article id="{{note.id}}">{%if note.img%}<figure><img src="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-{{note.id}}.png" alt="{%if note.alt%}{{note.alt}}{%endif%}"></figure>{%endif%}{%if note.txt%}{{note.txt|markdownify}}{%endif%}</article>{%endfor%}
+			</section>
+		</main>
+		<footer><hr/><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a></footer>
+	</body>
+</html>
