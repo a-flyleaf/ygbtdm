@@ -35,7 +35,7 @@ plt-outfit:
     w: y
 
 sum: |-
-  Tall, wide, angular. Wears a military shirt, fingerless gloves, and stern expression. Often carries a standoffish demeanor, and can appear imposing. Easily rattled, however, and noticeably so; prone to stuttering and bouts of agitated, repetitive motions (which often involve the hands).
+  Tall, wide, angular. Wears a military shirt, fingerless gloves, and stern expression. Often standoffish; can appear imposing. Easily rattled, however, and noticeably so; prone to stuttering and bouts of agitated, repetitive motions (which often involve the hands).
   
   Associated with **dull yellow**. (May appear, but shouldn't *actually* be, green.)
 
@@ -45,7 +45,7 @@ notes:
   - id: face
     img: y
     alt: Front and side views of Joce’s face shape, with a simplified version noted above.
-    txt: "**<span class='x'>Important: </span>Defined face shape**, more squarish than triangular. The nose is just as pronounced, with a noticeable indent at the top and bump at the tip. <span class='ni'><span class='x'>Stylistic decision: </span>At most angles, I push the jaw out to exaggerate the angles.</span>"
+    txt: "**<span class='x'>Important: </span>Defined face shape**, more squarish than triangular. The nose is just as pronounced, with a noticeable indent at the top and bump at the tip. <span class='ni'><span class='x'>Stylistic decision: </span>At most angles, I push the jaw out for extra distinction.</span>"
   - id: eyes
     img: url
     txt: |-
