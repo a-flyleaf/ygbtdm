@@ -5,7 +5,7 @@ header,main,section,article,footer{display:block;}
 img{max-width:100%; height:auto; display:block; margin:0 auto;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 a{color:inherit; text-decoration-color:#b8b8b8;} a:hover,a:focus,a:active{text-decoration:none;} a img:hover,a img:focus,a img:active{background:#d4d4d4;}
-.ni{color:#808080;}
+.ni,details li:nth-child(2){color:#808080;}
 
 hr{border:0; height:1px; background:#b8b8b8; margin:1rem 0;}
 p{margin:.5em 0;}
@@ -50,7 +50,7 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	#main figure,#info{float:right;} /*puts the palette on the left*/
 	#info{position:absolute; width:200px; margin-left:25px;}
 	#info ul{margin:.5em 0;} #plt ul{width:100px; margin:.5em auto;}
-	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem 0 1rem;}
+	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem auto 1rem;}
 	.where{font-size:.85em;}
 	
 	#content{width:850px;}

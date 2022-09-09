@@ -42,7 +42,7 @@ sum: |-
 
 notes:
   - id: hair
-    txt: Hair bun is high by default, but falls over the day.
+    txt: "Hair bun is high by default, but falls over the day. <span class='ni'><span class='x'>Stylistic choice: </span>I try to keep it visible from any angle.</span>"
   - id: face
     img: y
     alt: Front and side views of Joce’s face shape, with a simplified version noted above.
@@ -57,7 +57,6 @@ notes:
     txt: "Skin is covered in scratch marks and acne scars, especially on the arms, hands, and face. **<span class='x'>Important: </span>Hands are *always* a mess**, which the gloves don't fully hide; <span class='ni'>the rest I usually don't draw, for visual clarity.</span> Placement and patterning of all these marks isn't consistent."
   - id: clothes
     img: url
-    alt: optional
     txt: |-
       - Shirt collar and "epaulets" are mildly disheveled.
       - Pant pockets are on the side.
