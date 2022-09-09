@@ -31,6 +31,7 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 #plt h3:last-of-type{margin-top:1em;}
 #plt li{padding:.5em .25em;}
 .hex{font-family:courier,monospace; text-transform:uppercase; font-weight:bold;}
+#notes>ul{list-style-type:none; margin:0;} article ul{list-style-type:square;}
 
 footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decoration:none;} footer a:focus,footer a:hover,footer a:active{color:#000;}
 
@@ -50,7 +51,7 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	#main figure,#info{float:right;} /*puts the palette on the left*/
 	#info{position:absolute; width:200px; margin-left:25px;}
 	#info ul{margin:.5em 0;} #plt ul{width:100px; margin:.5em auto;}
-	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem auto 1rem;}
+	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem auto 1rem;} #hght figcaption a{display:inline-block;}
 	.where{font-size:.85em;}
 	
 	#content{width:850px;}

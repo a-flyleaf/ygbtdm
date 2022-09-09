@@ -29,7 +29,7 @@ plt-outfit:
     hex: a29b99
 
 sum: |-
-  Small, thin, wide-eyed. Clothes are ragged, with a shirt that's a couple sizes too big; neck, hands, and feet are exposed save for uneven bandage-wraps. Irises can appear bright yellow-gold. Demeanor shifts by the scene.
+  Small, thin, young-looking. Clothes are ragged, with a shirt that's a couple sizes too big; neck, hands, and feet are exposed save for uneven bandage-wraps. Irises can appear bright yellow-gold. Demeanor shifts by the scene.
   
   Associated with **purple**, dull by default.
 

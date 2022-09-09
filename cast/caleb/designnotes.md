@@ -42,11 +42,11 @@ notes:
       Mouth is usually quivering or otherwise tense<span class='ni'>; I almost always draw it with shaky lines, even when open.</span>
   - id: clothes
     txt: |-
-      - Sweater is big on purpose; hands are rarely if ever visible.
+      - Sweater is big on purpose; **<span class='x'>(important:) </span>hands are rarely if ever visible**.
       - The leggings *could* have cutout designs<span class='ni'> but I am too lazy to draw them consistently so they don't.</span>
       - Boot fuzz could also be swapped out for loose socks or something. Just put something pink and soft there.
       
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

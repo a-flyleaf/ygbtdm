@@ -51,9 +51,9 @@ notes:
   - id: eyes
     img: url
     txt: |-
-      Eyebrows are rough/uneven, and trail off at the end. <span class='ni'><span class='x'>Personal technique: </span>I basically just scribble horizontally, erase a bit, then vertically erase & redraw a few stray lines at the outer end.</span>
+      Eyebrows are rough/uneven, and trail off at the end. <span class='ni'><span class='x'>Personal technique: </span>I basically just scribble horizontally, erase a bit in the same direction, then vertically erase & redraw a few stray lines at the outer end.</span>
       
-      <span class='ni'><span class='x'>Less important: </span>Eyes are slightly "sunken;" I don't always draw this but think it makes her look more tired.</span>
+      Eyes are deep-set; <span class='ni'>I don't always draw this but think it makes her look more tired.</span>
   - id: skin
     txt: "Skin is covered in scratch marks and acne scars, especially on the arms, hands, and face. **<span class='x'>Important: </span>Hands are *always* a mess**, which the gloves don't fully hide; <span class='ni'>the rest I usually don't draw, for visual clarity.</span> Placement and patterning of all these marks isn't consistent."
   - id: clothes

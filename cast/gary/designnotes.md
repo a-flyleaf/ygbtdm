@@ -32,6 +32,8 @@ plt-outfit:
     hex: 747a80
   - nm: sneaker whites
     hex: c8c4Ba
+  - nm: sweatshirt
+    hex: daddd4
 
 sum: |-
   Big, round, and pretty chill. Besides heterochromia, his palette doesn't stick out; his gregarious attitude is less subtle. Soft varsity jacket is sometimes buttoned up, sometimes open, whatever he feels like.
@@ -39,10 +41,25 @@ sum: |-
   Associated with **reddish-brown**.
 
 notes:
-  - id: 
+  - id: general
+    txt: |-
+      Made of round rectangles and **friendly<span class='x'> (that adjective is key)</span>** circles. **<span class='x'>Important: </span>Not thin; more fat than muscle**, with a wide neck and double chin.
+  - id: face
     img: url
     txt: |-
+      Gary keeps it simple <span class='ni'>and, as a stylistic touch, his eyes are basically just dots from any distance. When he looks around, the whole dots move; eyebrows help a lot to indicate direction.</span>
       
+      He could have freckles. <span class='ni'>He doesn't, when I color him, because it would look weird with the (purely stylistic) lack of sclera.</span>
+  - id: clothes1
+    img: url
+    txt: |-
+      - Jacket shoulders are cut at sharp, wide angles; offset by softer fabric & Gary's body shape.
+      - Open jacket = more comfortable.
+  - id: clothes2
+    txt: |-
+      Jeans are tucked into sneakers, which have velcro straps.
+
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:1500px;} /*+750px*/ body{width:2400px;} #content{width:800px;}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 
