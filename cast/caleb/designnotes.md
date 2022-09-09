@@ -31,10 +31,22 @@ sum: |-
   Associated with **pink**, usually pale.
 
 notes:
-  - id: 
+  - id: hair
     img: url
+    txt: >-
+      I genuinely do not know what his hair is doing. Is it curly? straight? The world may never know. <span class='ni'>The way I draw it, the "bumps" tend to tilt outward from a straighter "nub" at the back of the head.</span>
+  - id: face
     txt: |-
+      **<span class='x'>Important: </span>Eyes are big, wide, and perpetually sad- and/or nervous-looking**; <span class='ni'>I tend to tilt the outer line downwards for a droopy look.</span> Short, round eyebrows.
       
+      Mouth is usually quivering or otherwise tense<span class='ni'>; I almost always draw it with shaky lines, even when open.</span>
+  - id: clothes
+    txt: |-
+      - Sweater is big on purpose; hands are rarely if ever visible.
+      - The leggings *could* have cutout designs<span class='ni'> but I am too lazy to draw them consistently so they don't.</span>
+      - Boot fuzz could also be swapped out for loose socks or something. Just put something pink and soft there.
+      
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

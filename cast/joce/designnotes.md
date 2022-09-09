@@ -43,7 +43,7 @@ sum: |-
 
 notes:
   - id: hair
-    txt: "Hair bun is high by default, but falls over the day. <span class='ni'><span class='x'>Stylistic choice: </span>I try to keep it visible from any angle.</span>"
+    txt: "Hair bun is high by default, but falls over the day. <span class='ni'><span class='x'>Stylistic choice: </span>I try to keep it visible from any angle, even if it realistically wouldn't be, because it's recognizable.</span>"
   - id: face
     img: y
     alt: Front and side views of Joce’s face shape, with a simplified version noted above.
