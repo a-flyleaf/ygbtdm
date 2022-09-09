@@ -37,9 +37,11 @@ notes:
       I genuinely do not know what his hair is doing. Is it curly? straight? The world may never know. <span class='ni'>The way I draw it, the "bumps" tend to tilt outward from a straighter "nub" at the back of the head.</span>
   - id: face
     txt: |-
+      Round face, round nose.
+      
       **<span class='x'>Important: </span>Eyes are big, wide, and perpetually sad- and/or nervous-looking**; <span class='ni'>I tend to tilt the outer line downwards for a droopy look.</span> Short, round eyebrows.
       
-      Mouth is usually quivering or otherwise tense<span class='ni'>; I almost always draw it with shaky lines, even when open.</span>
+      **<span class='x'>Also important: </span>Mouth is usually quivering or otherwise tense**<span class='ni'>; I almost always draw it with shaky lines, even with open-mouthed or smiling expressions.</span>
   - id: clothes
     txt: |-
       - Sweater is big on purpose; **<span class='x'>(important:) </span>hands are rarely if ever visible**.

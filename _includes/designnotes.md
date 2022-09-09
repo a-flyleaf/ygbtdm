@@ -4,7 +4,7 @@ Similarly, while some design details are key (for characterization and/or themat
 
 - **<span class="x">Important: </span>Notes in bold should be maintained for recognizability.**
 - <span class="ni"><span class="x">Less important: </span>Notes in gray are stylistic decisions on my part, and aren't strictly necessary.</span>
-- Notes without either format are neither vital nor trivial, take ’em or leave ’em.
+- Notes without either format aren't *vital* (i.e. if this was a book there'd be no need to describe these), but they're not artistic quirks either. Take ’em or leave ’em.
 
 ----
 

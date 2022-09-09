@@ -29,7 +29,7 @@ plt-outfit:
   - nm: pants
     hex: 7d6d62
     w: y
-  - nm: minor accents
+  - nm: hair clip, belt buckle, boot shoelaces
     hex: c4b384
 
 sum: |-

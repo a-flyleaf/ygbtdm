@@ -43,11 +43,11 @@ sum: |-
 notes:
   - id: general
     txt: |-
-      Made of round rectangles and **friendly<span class='x'> (that adjective is key)</span>** circles. **<span class='x'>Important: </span>Not thin; more fat than muscle**, with a wide neck and double chin.
+      Made of round rectangles and **friendly<span class='x'> (that adjective is key)</span>** circles. **<span class='x'>Important: </span>Not thin**; more fat than muscle, with a wide neck and double chin.
   - id: face
     img: url
     txt: |-
-      Gary keeps it simple <span class='ni'>and, as a stylistic touch, his eyes are basically just dots from any distance. When he looks around, the whole dots move; eyebrows help a lot to indicate direction.</span>
+      **Gary keeps it simple<span class='x'> (which is important)</span>** <span class='ni'>and, as a stylistic touch, his eyes are basically just dots from any distance. When he looks around, the whole dots move; eyebrows help a lot to indicate direction.</span>
       
       He could have freckles. <span class='ni'>He doesn't, when I color him, because it would look weird with the (purely stylistic) lack of sclera.</span>
   - id: clothes1
