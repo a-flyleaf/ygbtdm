@@ -53,7 +53,7 @@ notes:
       
       - Very slight cheekbone definition.
       
-      - Long face, pointed chin.
+      - Long face, pointed jawline.
   - id: clothes
     img: url
     txt: |-

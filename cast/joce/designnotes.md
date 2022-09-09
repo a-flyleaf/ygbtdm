@@ -13,7 +13,7 @@ plt-main:
   - nm: skin
     hex: 54372d
     w: y
-  - nm: skin accent
+  - nm: skin (palms)
     hex: 6f4f41
     w: y
   - nm: hair

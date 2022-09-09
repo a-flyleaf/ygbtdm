@@ -37,7 +37,7 @@ notes:
       I genuinely do not know what his hair is doing. Is it curly? straight? The world may never know. <span class='ni'>The way I draw it, the "bumps" tend to tilt outward from a straighter "nub" at the back of the head.</span>
   - id: face
     txt: |-
-      Round face, round nose.
+      Round, circular face, with a button nose to match.
       
       **<span class='x'>Important: </span>Eyes are big, wide, and perpetually sad- and/or nervous-looking**; <span class='ni'>I tend to tilt the outer line downwards for a droopy look.</span> Short, round eyebrows.
       
