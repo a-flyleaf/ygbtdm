@@ -2,6 +2,7 @@
 layout: designnotes
 title: Kay Lin
 ltr: kl
+full: Fullbody of Kay Lin, blank-faced. [pose miiight change]
 
 h-us: 4'3"
 h-cm: 129.54
@@ -28,7 +29,7 @@ plt-outfit:
     hex: a29b99
 
 sum: |-
-  Small, thin, wide-eyed. Clothes are ragged, with a shirt that's a couple sizes too big; neck, hands, and feet are wrapped in uneven bandages. Irises can appear bright yellow-gold. Demeanor shifts by the scene.
+  Small, thin, wide-eyed. Clothes are ragged, with a shirt that's a couple sizes too big; neck, hands, and feet are exposed save for uneven bandage-wraps. Irises can appear bright yellow-gold. Demeanor shifts by the scene.
   
   Associated with **purple**, dull by default.
 
@@ -54,7 +55,7 @@ notes:
     img: url
     txt: "T-shirt is way too big; most noticeable around the neckline (looser than it should be), sleeves (attached well below the arm & extended a little past the elbow), and bottom (terminates around the upper thigh)."
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px;} body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

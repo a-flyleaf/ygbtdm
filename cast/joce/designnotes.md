@@ -2,6 +2,7 @@
 layout: designnotes
 title: Joce
 ltr: j
+full: Fullbody of Joce, slightly grimacing. She stands stiffly, one hand clenched in a fist and the other rapidly tapping at her side.
 
 h-us: 6'1"
 h-cm: 185.42
@@ -38,7 +39,7 @@ plt-outfit:
 sum: |-
   Tall, wide, angular. Wears a military shirt, fingerless gloves, and stern expression. Often standoffish; can appear imposing. Easily rattled, however, and noticeably so; prone to stuttering and bouts of agitated, repetitive motions (which often involve the hands).
   
-  Associated with **dull yellow**. (May appear, but shouldn't *actually* be, green.)
+  Associated with **dull yellow**. (May appear, but shouldn't *actually* be, green---a rare instance of precise hex codes being important.)
 
 notes:
   - id: hair
@@ -62,6 +63,8 @@ notes:
       - Pant pockets are on the side.
       - <span class='ni'><span class='x'>Style choice: </span>Sharp, straight folds on the fabrics. Gloves are thicker.</span>
       - Shoes are partially covered.
+
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 
