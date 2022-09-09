@@ -3,7 +3,7 @@ layout: designnotes
 title: “White Rabbit”
 ltr: wr
 
-h-us: 5'7.5"
+h-us: 5'11"
 h-cm: 180.34
 rel: Fourth-tallest (at head, not ears)
 

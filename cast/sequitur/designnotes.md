@@ -3,7 +3,7 @@ layout: designnotes
 title: Sequitur
 ltr: sq
 
-h-us: 5'7.5"
+h-us: 6'4"
 h-cm: 193.04
 rel: Second-tallest (when not slouched)
 
