@@ -35,7 +35,7 @@ plt-outfit:
   - nm: shirt logo, pants
     hex: 5b5a61
     w: y
-  - nm: sleeve stripes, pant-ties, slippers
+  - nm: earrings, sleeve stripes, pant-ties, slippers
     hex: 727176
     w: y
 
