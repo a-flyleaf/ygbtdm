@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>{%if page.title%}{%if layout.title%}{{layout.title}}: {%endif%}{{page.title}} ▪ {%endif%}{{site.name}}</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/1.2.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
+	</head>
+	
+	<body>
+		<a href="#content" class="skipto x">skip to content</a>
+		<header class="wrap" id="header">
+			<h2><a href="{%include url.html%}">{{site.name}}</a></h2>
+			<nav><ul class="small caps">
+				<a href="{%include url.html%}/about"><li>about</li></a>
+				<a href="{%include url.html%}/story"><li>story</li></a>
+				<a href="{%include url.html%}/cast"><li>cast</li></a>
+				<a href="{%include url.html%}/gallery"><li>gallery</li></a>
+			</ul></nav>
+		</header>
+		
+		<main id="content">
+			<h1>{{page.title}}</h1>
+			{{content}}{%if page.subpage%}{%if page.slug%}{%else%}
+			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}{%endif%}
+		</main>
+		
+		<footer class="wrap">art, writing, and site by <a href="https://a-flyleaf.github.io" class="ext">a-flyleaf</a></footer>
+		
+		<script>
+			const spoilers = document.querySelectorAll('.spoiler');
+			spoilers.forEach(spoiler => {
+				spoiler.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('showhide');
+				});
+			});
+			
+			const fullpic = document.querySelectorAll('.pic');
+			fullpic.forEach(pic => {
+				pic.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('fullsize');
+				});
+			});
+		</script>
+	</body>
+</html>

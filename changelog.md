@@ -26,7 +26,7 @@ Not incluing tiny fixes or one-off art additions.
 	- revamped & addded story pages
 	- <b>changed the got dang url</b>
 
-## \[idk what to call this section]
+## /ygbtdm
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
 - 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
@@ -36,8 +36,11 @@ Not incluing tiny fixes or one-off art additions.
 	- cast spoiler writeups
 	- reshuffle misc stuff ("beta" site, test pages, notes)
 - 2022/08/06--11: **colorscript ep01**
+
+### site overhaul (ongoing)
 - 2022/08/11: new index image; backend gallery shuffling (including [page for everything]({%include url.html%}/gallery/all), also not linked anywhere yet)
 - 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page
 - 2022/08/14: simpler gallery navigation; colorscript layout tweaks (caption functionality, single-row layout)
 	- [accidentally pushed a bunch of changes from this day, whoops. They were supposed to be on my end only until I'd completely overhauled the site.... >_>\"]
 - 2022/08/25: gallery page tweaks & cast catch-all page
+- 2022/09/07--9: character design note pages (default versions of the main eight)

@@ -1,0 +1,77 @@
+/*general & typography*/
+*{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
+body{overflow-x:hidden; background:#000; background-image:url(img/static.png); color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:1.25em; line-height:145%; padding:1em;}
+a{color:inherit; text-decoration-color:#808080;} a:hover,a:active,a:focus{text-decoration:none;} a.ext{text-decoration-style:dashed;}
+::selection{background:#404040;}
+img{max-width:100%; height:auto;}
+header,nav,main,footer,section,figure,figcaption,article{display:block;}
+.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+
+.wrap,p,h1,h2,h3,figcaption,main ul,main ol{max-width:35rem; margin:0 auto;}
+p,table{margin:.75em auto;}
+.small{font-size:.85em;}
+.caps{text-transform:uppercase; letter-spacing:.05em;}
+b,strong,main h2,h3{color:#d6d6d6;}
+
+.skipto{padding:.5em .75em;} .skipto:focus,.skipto:active{width:auto; height:auto; overflow:visible; left:auto; background:#404040; border:2px solid #000;} .skipto:hover{background:#000; border-color:#808080;}
+
+header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
+header ul{margin-left:-.25rem;} header li{display:inline; margin:0 .25rem;}
+#parts{display:block; font-size:.5em; letter-spacing:.1em;} #parts a{padding:0 .25em;} #parts a:hover,#parts a:active,#parts a:focus{font-weight:bold;} #parts a:first-of-type{padding:0;}
+
+h1{font-size:2em; font-weight:normal; margin-top:1rem; line-height:100%;}
+main h2{font-size:1.15em; margin-top:2rem;} h1+h2{margin-top:1rem;}
+h2+p,h3+p{margin-top:.25em;}
+h3{font-size:.85em; line-height:1.25em; margin-top:1.5rem;}
+
+figure{text-align:center; margin:1.5rem auto;}
+figcaption{text-align:left; font-size:.85em; line-height:150%; color:#adadad; margin:.25rem auto;} .border,details{border-bottom:2px dotted #808080; padding-bottom:.5rem; margin-bottom:2rem;} figcaption p,figcaption ul{margin:.5em auto;} figcaption p:first-of-type{margin-top:0;}
+
+main ul,main ol{padding-left:1em;}
+h2+ul,h3+ul,h2+ol,h3+ol{margin-top:.25em;}
+
+blockquote{margin-left:2em;}
+li>ul{margin-top:0;}
+
+td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
+tr:first-child,td:first-child{font-weight:bold; color:#d6d6d6;}
+
+summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
+.imgdesc p,.imgdesc li{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
+
+iframe{border:0; display:block; margin:1em auto; max-width:100%;}
+
+.spoiler{background:#808080; color:#808080; cursor:pointer;} figure.spoiler{background:0; cursor:initial;}
+.showhide{background:0; color:#adadad;}
+img.spoiler{filter:blur(30px) grayscale(75%);} img.showhide{filter:none !important;}
+/*https://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur*/ .spoilerbox{overflow:hidden; display:inline-block;}
+.spoiler a{pointer-events:none;} .showhide a{pointer-events:auto;}
+
+footer{font-size:.65em; text-align:right; color:#5e5e5e; padding-top:10rem;} footer a{text-decoration-color:inherit;}
+
+
+/*specific sections*/
+#info,#back,#gnav{font-size:.85em; color:#adadad;}
+#back{font-style:italic; margin-top:3rem;}
+#gnav{margin-top:3rem; text-align:center;} #gnav a{text-decoration:0; display:inline-block; padding:.5em; border:1px solid rgba(0,0,0,0);} #gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; border-color:#404040;}
+.arw{font-size:.75em;}
+
+.artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
+
+#covers{max-width:35rem;} #covers a{width:50%; margin:0; transition:.5s;} #covers figure{margin:5px;} #covers .big{width:100%;} #covers a:active,#covers a:focus,#covers a:hover{opacity:.5 !important;}
+
+/*this entire thing needs better styling but this works for now*/
+#story p .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;} #story blockquote em{text-transform:uppercase;}
+#next{text-align:right; margin-top:3rem; font-size:.85em;}
+
+#cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
+@media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
+
+#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
+#caption{margin:.25em 0 0 .85em;}
+
+@media only screen and (min-width:600px){
+	.pic img{max-height:100vh; cursor:zoom-in;} .fullsize img{max-height:100%; cursor:zoom-out;}
+}
+
+#gallery.roundup{max-width:500px;} @media only screen and (min-width:500px){#gallery.roundup{max-width:700px;}} @media only screen and (min-width:700px){#gallery.roundup{max-width:900px;}} @media only screen and (min-width:1400px){#gallery.roundup{max-width:1400px;}}
