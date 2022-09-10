@@ -3,6 +3,7 @@ layout: 1.1
 title: sitemap
 css: main a{text-decoration-color:#5e5e5e;} li>ul,li>ul>li{display:inline; opacity:.85;} li>ul{padding:0; font-size:.85em; text-transform:uppercase; letter-spacing:.05em;} li>ul>li:before{content:"▪"; padding-right:.25em;}
 ---
+<!--needs to be updated for colorscript + design note pages-->
 ## [main]({%include url.html%})
 - [Index]({%include url.html%})
 - [About]({%include url.html%}/about)
