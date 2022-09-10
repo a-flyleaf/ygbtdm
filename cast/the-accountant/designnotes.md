@@ -46,22 +46,18 @@ notes:
     alt: Surprise is rare, but drawn to show what the eyebrows might look like raised.
     txt: |-
       - Eyebrows are the color giveaway. Naturally arched; along with thin eyes, <span class='ni'>default expression<span class='x'>(as I draw it) </span> can appear sardonic and/or faintly amused.</span>
-      
       - Lines around the inner eye are a slight indent/wrinkle, *not* eyebags.
-      
       - Nose tapers to a point and slants downwards; profile is otherwise fairly flat.
-      
       - Very slight cheekbone definition.
-      
       - Long face, pointed jawline.
   - id: clothes
     img: url
     txt: |-
       - Suit lapels are peaked.
-      
       - Not visible in reference, but **<span class='x'>(important:) </span>wears gloves** over bony hands. Prone to **odd hand gestures** when talking; otherwise keeps them **folded behind back** by default.
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px; padding-right:45px;} body{width:1365px;} #sum{width:45.65rem;} details{width:40em;}
+	article{width:360px;}} /*hair face clothes*/ #face{margin-left:370px;} #clothes{margin-top:375px;} #hair img{margin-top:.5em;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

@@ -48,7 +48,8 @@ notes:
       - The leggings *could* have cutout designs<span class='ni'> but I am too lazy to draw them consistently so they don't.</span>
       - Boot fuzz could also be swapped out for loose socks or something. Just put something pink and soft there.
       
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px; padding-right:55px;} body{width:1365px;} #sum{width:45.65rem;}
+	article{width:360px;} /*hair face clothes*/ #face,#clothes{margin-left:370px;} #clothes{margin-top:295px;} article img{margin:.5em 0;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

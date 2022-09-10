@@ -55,7 +55,7 @@ notes:
     img: url
     txt: "**<span class='x'>Important: </span>T-shirt is way too big**; most noticeable around the neckline (looser than it should be), sleeves (attached well below the arm & extended a little past the elbow), and bottom (terminates around the upper thigh)."
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px; padding-right:70px;} /*-150px*/ body{width:1365px;} #sum{width:45.65rem;}
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:600px; padding-right:70px;} body{width:1365px;} #sum{width:45.65rem;}
 	article{width:360px;} /*hair face wraps clothes*/ #face,#clothes{margin-left:370px;} #wraps{margin-top:560px;} #clothes{margin-top:295px;}
 main{height:1170px;}}"
 ---

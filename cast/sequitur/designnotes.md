@@ -54,7 +54,7 @@ notes:
       - Gangly limbs.
       - Somewhat big hands; frequently dangling at sides, held limp around torso, or absently picking teeth.
   - id: hair
-    txt: "<span class='ni'>Hair is stylized with scraggly zigzags.</span> **<span class='x'>Important: </span>Bangs cover their right (viewer's left) eye.**"
+    txt: "<span class='ni'>Hair is stylized with scraggly zigzags.</span> **<span class='x'>Important: </span>Bangs cover their right eye.**"
   - id: face
     img: url
     alt: Ear is the same shape as the head.
@@ -71,11 +71,12 @@ notes:
   - id: logo
     img: url
     txt: |-
-      Shirt logo is based on the "devil horns" or "rock on" hand sign (🤘), a gas mask, and (more loosely, by sheer coincidence*) a rabbit. (Also see [initial brainstorming](../../../gallery/roundups/2021-06) and [solo art](../../../gallery/teef); both designs are outdated but get the idea across.)
+      Shirt logo is based on the "devil horns" or "rock on" hand sign (🤘), a gas mask, and (more loosely, initially by coincidence*) a rabbit. (Also see [concept brainstorming](../../../gallery/roundups/2021-06) and [solo art](../../../gallery/teef); both designs are outdated but get the idea across.)
       
       <span class='ni'>\*(Fun fact: This logo design came before the rabbits! The idea that would *become* the rabbits had been around for much longer, but they didn't take shape for another few months.)</span>
 
-css: "@media only screen and (min-width:600px){#main{width:600px;} /*-150px*/ body{width:1400px;} #content{width:600px;} #sum{width:45.65rem;}"
+css: "@media only screen and (min-width:600px){#main{width:600px;} body{width:1370px;} #sum{width:45.65rem;} details{width:49rem;} main{padding-right:5px;}
+	article{width:360px;} /*general hair face clothes logo*/ #hair,#face,#logo{margin-left:370px;} #clothes{margin-top:505px;} #face{margin-top:85px;} #face img{margin-top:.5em;} #logo img{float:left; width:25%; margin:.5em 1em 0 0; padding-bottom:3em;} #logo{margin-top:595px;} #logo p{margin:.5em 0;} #logo p:last-child{font-size:.85em; line-height:1.5;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

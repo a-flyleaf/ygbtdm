@@ -44,9 +44,10 @@ notes:
   - id: face
     txt: Face has a very slight curve out at the cheeks; chin tapers in a point. Small nose, but not as flat as <a href='../kay-lin/designnotes'>Kay Lin</a>'s.
   - id: clothes
-    txt: "<span class='ni'><span class='x'>Some trivia: </span>Jacket is loosely ripped off from an image search result of Katnis from <i>The Hunger Games</i> film. (Disclaimer: I only know about this series from pop culture osmosis (and people complaining about the movie). Seems like something Addison would be into, though.)</span>"
+    txt: "<span class='ni'><span class='x'>Some trivia: </span>Jacket is loosely ripped off from an image search result of Katnis from <i>The Hunger Games</i> film. (Disclaimer: I only know about this series from pop culture osmosis (and people complaining about the movie). Seems like something Addison would be into, though, flaws and all.)</span>"
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:1185px;} /*+385px*/ body{width:2035px;} #content{width:800px;}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:1185px; padding-right:50px;} body{width:2020px;}
+	/*hair face clothes. bruh that's it,,,*/ #face,#clothes{margin-left:405px;} #clothes{margin-top:110px;} article img{margin-top:.5em;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

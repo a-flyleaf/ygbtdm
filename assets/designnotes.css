@@ -55,8 +55,9 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	.where{font-size:.85em;}
 	
 	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; width:50rem;}
-	article{border:2px solid #b8b8b8; padding:.25em 1em; max-width:425px; width:410px; position:absolute;}
+	article{border:2px solid #b8b8b8; padding:.25em 1em; width:395px; position:absolute;}
 	article figure{text-align:center; line-height:0;} article img{display:inline;} article figure+p{margin-top:0;}
+	article ul{margin:.5em 0 .5em .65em;}
 	
 	footer{text-align:right;}
 }

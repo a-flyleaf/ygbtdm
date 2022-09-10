@@ -65,8 +65,8 @@ notes:
       - Shoes are partially covered.
 
 css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{padding-right:50px;}/*right because the float reverses the order*/
-	/*hair face eyes skin clothes*/ #face,#skin{margin-left:405px;} #eyes{margin-top:135px;} #eyes img{float:left; width:45%; margin:20px 10px 0 0; padding-bottom:40px;} #eyes p{margin:.5em 0;} #skin{margin-top:425px;} #clothes{margin-top:420px;}
-body{width:1590px;} article{width:395px;}}"
+	/*hair face eyes skin clothes*/ #face,#skin{margin-left:405px;} #eyes{margin-top:135px;} #eyes img{float:left; width:45%; margin:.5em .5em 0 0; padding-bottom:40px;} #eyes p{margin:.5em 0;} #skin{margin-top:425px;} #clothes{margin-top:420px;}
+body{width:1590px;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 
