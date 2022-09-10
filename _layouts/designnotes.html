@@ -47,7 +47,7 @@
 				</section>
 				<section id="notes" class="txt">
 					<h2 class="x">actual notes</h2><ul>
-					{%for note in page.notes%}<li><article id="{{note.id}}">{%if note.img%}<figure><img src="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-{{note.id}}.png" alt="{%if note.alt%}{{note.alt}}{%endif%}"></figure>{%endif%}{{note.txt|markdownify}}<div class="ln"></div></article></li>{%endfor%}</ul>
+					{%for note in page.notes%}<li><article id="{{note.id}}">{%if note.img%}<figure><img src="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-{{note.id}}.png" alt="{%if note.alt%}{{note.alt}}{%endif%}"></figure>{%endif%}{{note.txt|markdownify}}</article></li>{%endfor%}</ul>
 				</section>
 			</div>
 		</main>

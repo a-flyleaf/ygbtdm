@@ -51,7 +51,7 @@ notes:
   - id: eyes
     img: url
     txt: |-
-      Eyebrows are rough/uneven, and trail off at the end. <span class='ni'><span class='x'>Personal technique: </span>I basically just scribble horizontally, erase a bit in the same direction, then vertically erase & redraw a few stray lines at the outer end.</span>
+      Eyebrows are rough and trail off at the end. <span class='ni'><span class='x'>Personal technique: </span>I basically just scribble horizontally, erase a bit in the same direction, then vertically erase & redraw a few stray lines at the outer end.</span>
       
       Eyes are deep-set; <span class='ni'>I don't always draw this but think it makes her look more tired.</span>
   - id: skin
@@ -64,7 +64,9 @@ notes:
       - <span class='ni'><span class='x'>Style choice: </span>Sharp, straight folds on the fabrics. Gloves are thicker.</span>
       - Shoes are partially covered.
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;}}"
+css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{padding-right:10px;}/*right because the float reverses the order*/
+	/*hair face eyes skin clothes*/ #face,#skin{margin-left:420px;} #eyes{margin-top:135px;} #eyes img{float:left; width:50%; margin:20px 10px 0 0; padding-bottom:40px;} #skin{margin-top:450px;} #clothes{margin-top:445px;}
+body{width:1620px;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

@@ -54,17 +54,9 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem auto 1rem;} #hght figcaption a{display:inline-block;}
 	.where{font-size:.85em;}
 	
-	#content{width:850px;}
 	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; width:50rem;}
-	#content figure{display:inline-block;}
-	/*ignoring this for now, should be the last thing
-	/*assumes no lines/ article{border:2px solid #b8b8b8; padding:.25em 1em; max-width:425px; width:410px; margin:.5em 5px .5em 0;}
-	
-	@supports (transform: rotate(1deg)) {
-		aarticle{position:absolute;}
-		.ln{position:fixed; height:5px; background:#808080; top:0;}
-	}
-	*/
+	article{border:2px solid #b8b8b8; padding:.25em 1em; max-width:425px; width:410px; position:absolute;}
+	article figure{text-align:center;} article img{display:inline;}
 	
 	footer{text-align:right;}
 }
