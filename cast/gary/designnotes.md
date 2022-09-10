@@ -59,7 +59,7 @@ notes:
     txt: |-
       Jeans are tucked into sneakers, which have velcro straps.
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{width:1500px; padding-right:25px;} body{width:2335px;}
+css: "@media only screen and (min-width:700px){#hght figcaption{max-width:9em;} #main{width:1500px; padding-right:25px;} body{width:2335px;}
 	/*general face clothes1 clothes2*/ #clothes1,#clothes2{margin-left:405px;} #face{margin-top:110px;} #clothes2{margin-top:410px;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped

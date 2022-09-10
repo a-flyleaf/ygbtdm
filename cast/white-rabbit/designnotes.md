@@ -49,7 +49,7 @@ notes:
     txt: |-
       <span class='ni'>Clothes can be a little frayed at the edges. Or not. I don't draw this consistently.</span>
 
-css: "#content{padding-left:20px;} body{width:1605px;} /*general head clothes*/ #general,#clothes{margin-left:405px;} #clothes{margin-top:135px;}"
+css: "@media only screen and (min-width:700px){#content{padding-left:20px;} body{width:1605px;} /*general head clothes*/ #general,#clothes{margin-left:405px;} #clothes{margin-top:135px;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 

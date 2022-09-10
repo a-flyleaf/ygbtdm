@@ -64,7 +64,7 @@ notes:
       - <span class='ni'><span class='x'>Style choice: </span>Sharp, straight folds on the fabrics. Gloves are thicker.</span>
       - Shoes are partially covered.
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:9em;} #main{padding-right:50px;}/*right because the float reverses the order*/
+css: "@media only screen and (min-width:700px){#hght figcaption{max-width:9em;} #main{padding-right:50px;}/*right because the float reverses the order*/
 	/*hair face eyes skin clothes*/ #face,#skin{margin-left:405px;} #eyes{margin-top:135px;} #eyes img{float:left; width:45%; margin:.5em .5em 0 0; padding-bottom:40px;} #eyes p{margin:.5em 0;} #skin{margin-top:425px;} #clothes{margin-top:420px;}
 body{width:1590px;}}"
 ---

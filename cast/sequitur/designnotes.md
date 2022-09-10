@@ -73,7 +73,7 @@ notes:
     txt: |-
       Shirt logo is based on the "devil horns" or "rock on" hand sign (🤘), a gas mask, and (more loosely, initially by coincidence*) a rabbit. (Also see [concept brainstorming](../../../gallery/roundups/2021-06) and [solo art](../../../gallery/teef); both designs are outdated but get the idea across.)
 
-css: "@media only screen and (min-width:600px){#main{width:600px;} body{width:1370px;} #sum{width:45.65rem;} details{width:49rem;} main{padding-right:5px;}
+css: "@media only screen and (min-width:700px){#main{width:600px;} body{width:1370px;} #sum{width:45.65rem;} details{width:49rem;} main{padding-right:5px;}
 	article{width:360px;} /*general hair face clothes logo*/ #hair,#face,#logo{margin-left:370px;} #clothes{margin-top:505px;} #face{margin-top:85px;} #face img{margin-top:.5em;} #logo img{float:left; width:25%; margin:.5em 1em 0 0; padding-bottom:3em;} #logo{margin-top:595px;} #logo p{margin:.5em 0;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped

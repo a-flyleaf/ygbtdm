@@ -33,9 +33,12 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 .hex{font-family:courier,monospace; text-transform:uppercase; font-weight:bold;}
 #notes>ul{list-style-type:none; margin:0;} article ul{list-style-type:square;}
 
+#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0;}
+article{border:2px solid #b8b8b8; padding:.25em 1em; margin:.5rem 0;}
+
 footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decoration:none;} footer a:focus,footer a:hover,footer a:active{color:#000;}
 
-@media only screen and (min-width:600px){
+@media only screen and (min-width:700px){
 	body{font-size:16px; line-height:24px; width:1650px;}
 	img{margin:0;}
 	header,main,#main{overflow:auto;}
@@ -54,8 +57,8 @@ footer{font-size:.85em; color:#808080; text-align:center;} footer a{text-decorat
 	#hght figcaption{font-size:.85em; line-height:1.15; margin:.5rem auto 1rem;} #hght figcaption a{display:inline-block;}
 	.where{font-size:.85em;}
 	
-	#sum{border:2px solid #b8b8b8; padding:1rem 1rem .5rem; margin:1rem 0; width:50rem;}
-	article{border:2px solid #b8b8b8; padding:.25em 1em; width:395px; position:absolute;}
+	#sum{width:50rem;}
+	article{width:395px; position:absolute; margin:0;}
 	article figure{text-align:center; line-height:0;} article img{display:inline;} article figure+p{margin-top:0;}
 	article ul{margin:.5em 0 .5em .65em;}
 	

@@ -56,8 +56,8 @@ notes:
       - Suit lapels are peaked.
       - Not visible in reference, but **<span class='x'>(important:) </span>wears gloves** over bony hands. Prone to **odd hand gestures** when talking; otherwise keeps them **folded behind back** by default.
 
-css: "@media only screen and (min-width:600px){#hght figcaption{max-width:8em;} #main{width:600px; padding-right:45px;} body{width:1365px;} #sum{width:45.65rem;} details{width:40em;}
-	article{width:360px;}} /*hair face clothes*/ #face{margin-left:370px;} #clothes{margin-top:375px;} #hair img{margin-top:.5em;}}"
+css: "@media only screen and (min-width:700px){#hght figcaption{max-width:8em;} #main{width:600px; padding-right:45px;} body{width:1365px;} #sum{width:45.65rem;} details{width:40em;}
+	article{width:360px;} /*hair face clothes*/ #face{margin-left:370px;} #clothes{margin-top:375px;} #hair img{margin-top:.5em;}}"
 ---
 there's no page.content bit in the layout so this can be whatever. note-images drawn at the usual size with the usual brush, then cropped
 
