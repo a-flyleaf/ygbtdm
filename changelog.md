@@ -67,4 +67,5 @@ Back to incremental publication, then...!
 - 2022/09/10: actually made v1.2 layout
 	- brief chnagelog section descriptions
 	- rewrite about
+	- slapdash story index
 </section>

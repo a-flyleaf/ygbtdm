@@ -52,12 +52,6 @@ footer{font-size:.65em; text-align:right; color:#606060; padding-top:10rem;} foo
 
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
 
-#covers{max-width:35rem;} #covers a{width:50%; margin:0; transition:.5s;} #covers figure{margin:5px;} #covers .big{width:100%;} #covers a:active,#covers a:focus,#covers a:hover{opacity:.5 !important;}
-
-/*this entire thing needs better styling but this works for now*/
-#story p .spoiler{background:0; color:inherit; cursor:auto;} #story blockquote{text-align:center; font-style:italic; padding-bottom:.5rem;} #story blockquote em{text-transform:uppercase;}
-#next{text-align:right; margin-top:3rem; font-size:.85em;}
-
 #cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
 @media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
 
