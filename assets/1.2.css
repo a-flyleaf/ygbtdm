@@ -12,12 +12,13 @@ p,table{margin:.75em auto;}
 .small{font-size:.85em;}
 .caps{text-transform:uppercase; letter-spacing:.05em; word-spacing:.05em;}
 b,strong,main h2,h3{color:#d6d6d6;}
+figcaption b,figcaption strong{color:inherit;}
 
 .skipto{padding:.5em .75em;} .skipto:focus,.skipto:active{width:auto; height:auto; overflow:visible; left:auto; background:#404040; border:2px solid #000;} .skipto:hover{background:#000; border-color:#808080;}
 
 header{padding:1em 0;} header a{text-decoration:none;} header a:hover,header a:active,header a:focus{text-decoration:underline;}
-header ul{margin-left:-.25rem;} header li{display:inline; margin:0 .25rem;}
-#parts{display:block; font-size:.5em; letter-spacing:.1em;} #parts a{padding:0 .25em;} #parts a:hover,#parts a:active,#parts a:focus{font-weight:bold;} #parts a:first-of-type{padding:0;}
+header ul{margin-left:-.25rem;} header li{display:inline; margin:0 .25em;}
+header li>ul{color:#a0a0a0; margin-left:15.75em; position:absolute;} header li>ul li{margin:.5em 0;} header li>ul li::before{content:"▪"; padding:0 .25em;}
 
 h1{font-size:2em; font-weight:normal; margin-top:1rem; line-height:100%;}
 main h2{font-size:1.15em; margin-top:2rem;} h1+h2{margin-top:1rem;}
@@ -37,22 +38,22 @@ td{padding:0 1em .25em 0;vertical-align:top;} td:last-child{padding-right:0;}
 tr:first-child,td:first-child{font-weight:bold; color:#d6d6d6;}
 
 summary{cursor:pointer;} summary:hover,summary:active{color:#fff; text-decoration:1px underline #808080;}
-.imgdesc p,.imgdesc li{color:#ebebeb;} .castdesc{color:#adadad; border:0; padding-bottom:0; margin:1em 0 1em 1em;}
+.imgdesc p,.imgdesc li{color:#ebebeb;}
 
 iframe{border:0; display:block; margin:1em auto; max-width:100%;}
 
 footer{font-size:.65em; text-align:right; color:#606060; padding-top:10rem;} footer a{text-decoration:none;} footer a:hover,footer a:focus,footer a:active{color:#a0a0a0;} footer ul{list-style-type:none;} #backto a::before{content:"▲"; font-size:.65em; position:absolute; margin-left:-1.5em; margin-top:.35em;}
 
 
-/*specific sections*/
+/*gallery*/
 #info,#back,#gnav{font-size:.85em; color:#adadad;}
 #back{font-style:italic; margin-top:3rem;}
-#gnav{margin-top:3rem; text-align:center;} #gnav a{text-decoration:0; display:inline-block; padding:.5em; border:1px solid rgba(0,0,0,0);} #gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; border-color:#404040;}
+#gnav{margin-top:3rem; text-align:center;} #gnav a{text-decoration:0; display:inline-block; padding:.5em; border:1px solid rgba(0,0,0,0);} #gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; background:rgba(32,32,32,85%); border-color:#404040;}
 .arw{font-size:.75em;}
 
-.artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none; opacity:1;}
+.artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;}
 
-#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
+#gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}} #gallery a:hover,#gallery a:active,#gallery a:focus{filter:none; opacity:1;} .rn img{border-radius:15px; border:1px solid #808080;}
 #caption{margin:.25em 0 0 .85em;}
 
 @media only screen and (min-width:600px){

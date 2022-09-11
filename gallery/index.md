@@ -1,9 +1,9 @@
 ---
-layout: 1.1
+layout: 1.2
 title: gallery
 css: "#gallery{max-width:850px;}"
 ---
-Standalone art related to the story or characters in some way, however tenuously. Spoiler-free highlights below.
+Standalone art related to the story or characters in some way, however tenuously. Some personal favorites\* below.
 
 {%assign hl1 = site.gallery | where: "slug","clueless"%}
 {%assign hl2 = site.gallery | where:"slug","teef"%}
@@ -17,6 +17,9 @@ Standalone art related to the story or characters in some way, however tenuously
 <!--↑ this is unwieldy (surely this can be done with arrays...?) but idk how to simplify yet. /could/ add a tag to highlights but that sounds like more trouble than it's worth-->
 <section id="gallery" class="artwall">{%for tn in art%}<a href="{%include url.html%}/gallery/{{tn.slug}}"><img src="{%include url.html%}/assets/img/gallery/{%if tn.img%}{{tn.img}}{%else%}{{tn.date|date:'%Y-%m-%d'}}{%endif%}-tn.png" alt="{{tn.title}}"/></a>{%endfor%}</section>
 
-See also [the monthly roundups]({%include url.html%}/gallery/roundups), which contain an assortment of smaller doodles, or [everything in chronological order]({%include url.html%}/gallery/all). **May contain spoilers.**
-
 Images automatically resize to fit onscreen. In wider browser windows (and if the image isn't bigger than your window), click to view larger. Fullsize files may be huge.
+
+[Monthly roundups]({%include url.html%}/gallery/roundups) are denoted with rounded corners and a faint border. If you're looking for art of specific characters, see the [giant character checklist]({%include url.html%}/gallery/cast).
+
+{%assign rn = site.roundups%}{%assign gl = site.gallery%}{%assign all = rn | concat: gl%}
+\*[The complete gallery has been punted to its own page]({%include url.html%}/gallery/all) on account of loading {{all.size}} thumbnails and counting.

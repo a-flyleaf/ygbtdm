@@ -1,0 +1,11 @@
+---
+layout: "1.2"
+title: gallery
+---
+<figure>
+	<picture class="pic"><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-full.{%if page.notpng%}{{page.notpng}}{%else%}png{%endif%}"><img src="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-600.{%if page.smolfile%}{{page.smolfile}}{%else%}jpg{%endif%}" alt="{{page.title}}"/></picture>{%if page.caption%}
+	<figcaption><details><summary id="desc">image description</summary><div id="caption">{{page.caption|markdownify}}</div></details></figcaption>
+{%endif%}</figure>
+<div id="info" class="wrap">{%if page.url contains 'roundup'%}{%else%}{%if page.drawnon%}{{page.drawnon}}{%else%}{{page.date|date:"%B %-d, %Y"}}{%endif%}{%endif%}{%if page.da%}{%if page.url contains 'roundup'%}{%else%}{%if page.date%} ▪ {%endif%}{%endif%}<a href="https://www.deviantart.com/a-flyleaf/art/{{page.da}}" class="ext">on dA</a>{%endif%} ▪ <a href="{%include url.html%}/assets/img/gallery/{%if page.url contains 'roundup'%}roundups/{{page.slug}}{%else%}{%if page.img%}{{page.img}}{%else%}{{page.date|date:'%Y-%m-%d'}}{%endif%}{%endif%}-full.{%if page.notpng%}{{page.notpng}}{%else%}png{%endif%}">highres</a></div>
+{{page.content}}
+<div id="gnav" class="wrap">{%if page.previous%}<a href="{%include url.html%}{{page.previous.url}}" class="arw">◄<span class="x"> previous art</span></span></a>{%endif%}<a href="{%include url.html%}/{{page.subpage}}" class="sp caps">{%if page.url contains "roundup"%}roundups{%else%}gallery{%endif%}</a>{%if page.next%}<a href="{%include url.html%}{{page.next.url}}" class="arw"><span class="x">next art </span>►</a>{%endif%}</div>

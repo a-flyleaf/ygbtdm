@@ -11,13 +11,13 @@ defaults:
   - scope:
       path: "_gallery"
     values:
-      layout: 1.1-gallery
+      layout: 1.2-gallery
       subpage: gallery
       permalink: /gallery/:slug
   - scope:
       path: "_roundups"
     values:
-      layout: 1.1-gallery
+      layout: 1.2-gallery
       permalink: /gallery/roundups/:path
       subpage: gallery/roundups
   - scope:

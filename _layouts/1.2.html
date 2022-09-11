@@ -18,7 +18,10 @@
 				<a href="{%include url.html%}/about"><li>about</li></a>
 				<a href="{%include url.html%}/story"><li>story</li></a>
 				<a href="{%include url.html%}/cast"><li>cast</li></a>
-				<a href="{%include url.html%}/gallery"><li>gallery</li></a>
+				<li><a href="{%include url.html%}/gallery">gallery</a>{%if page.url contains "gallery"%}: <ul class="small caps">
+					<li><a href="{%include url.html%}/gallery/all">all</i>
+					<li><a href="{%include url.html%}/gallery/roundups">roundups</a></li>
+					<li><a href="{%include url.html%}/gallery/cast">by cast</a></li></ul>{%endif%}</li>
 			</ul></nav>
 		</header>
 		

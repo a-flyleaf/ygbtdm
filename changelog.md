@@ -68,5 +68,5 @@ Back to incremental publication, then...!
 	- brief chnagelog section descriptions
 	- rewrite about
 	- slapdash story index
-	- cast page shuffling
+	- cast & gallery page shuffling
 </section>
