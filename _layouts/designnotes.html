@@ -10,7 +10,7 @@
 	</head>
 	<body>
 		<header>
-			<h1><a href=".">{{page.title}}</a>: character design notes</h1>
+			<h1><a href="../{%if page.lnk%}{{page.lnk}}{%else%}{{page.title|downcase}}{%endif%}">{{page.title}}</a>: character design notes</h1>
 			<details><summary><h2>notes on the design notes</h2></summary>
 			<!--https://github.com/jekyll/jekyll/issues/1303-->{%capture desc%}{%include designnotes.md%}{%endcapture%}<div id="desc">{{desc|markdownify}}</div></details>
 		</header>

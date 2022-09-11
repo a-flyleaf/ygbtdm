@@ -2,6 +2,7 @@
 layout: designnotes
 title: Kay Lin
 ltr: kl
+lnk: kay-lin
 full: Fullbody of Kay Lin, blank-faced. [pose miiight change]
 
 h-us: 4'3"

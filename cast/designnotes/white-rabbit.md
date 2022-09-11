@@ -2,6 +2,7 @@
 layout: designnotes
 title: “White Rabbit”
 ltr: wr
+lnk: white-rabbit
 
 h-us: 5'11"
 h-cm: 180.34

@@ -2,6 +2,7 @@
 layout: designnotes
 title: “The accountant”
 ltr: d
+lnk: the-accountant
 
 h-us: ">6'6&quot;"
 h-cm: 198.12
