@@ -2,6 +2,7 @@
 layout: designnotes
 title: Caleb
 ltr: c
+full: Fullbody of Caleb, eyebrows furrowed and mouth line squiggly in worry. He stands knock-kneed, with hands (which are covered by long sleeves) curled by his chest.
 
 h-us: 4'0"
 h-cm: 121.92

@@ -3,6 +3,7 @@ layout: designnotes
 title: “The accountant”
 ltr: d
 lnk: the-accountant
+full: Fullbody of the accountant, standing near-symmetrical from the front, arms crossed behind back. Glancing off to the side, frowning slightly.
 
 h-us: ">6'6&quot;"
 h-cm: 198.12

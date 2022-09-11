@@ -3,6 +3,7 @@ layout: designnotes
 title: “White Rabbit”
 ltr: wr
 lnk: white-rabbit
+full: Fullbody of “White Rabbit”, standing confident with fisted hands resting on the hips. No discernible expression.
 
 h-us: 5'11"
 h-cm: 180.34

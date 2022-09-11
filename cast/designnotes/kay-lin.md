@@ -3,7 +3,7 @@ layout: designnotes
 title: Kay Lin
 ltr: kl
 lnk: kay-lin
-full: Fullbody of Kay Lin, blank-faced. [pose miiight change]
+full: Fullbody of Kay Lin standing, blank-faced. One arm is crossed behind her back.
 
 h-us: 4'3"
 h-cm: 129.54

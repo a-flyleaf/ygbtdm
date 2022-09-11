@@ -2,7 +2,7 @@
 layout: designnotes
 title: Addison
 ltr: a
-full: Two fullbodies of Addison, same upright pose with one hand up in a loose fist and the other resting on her hip. In one version she frowns slightly, at attention; in the other, featuring an outfit upgrade, she's looking a lot more pleased with herself.
+full: Two fullbodies of Addison, same upright stance with one hand up in a loose fist and the other resting on her hip. In one version she frowns slightly, at attention; in the other, featuring an outfit upgrade, she's looking a lot more pleased with herself.
 
 h-us: 5'5"
 h-cm: 165.1

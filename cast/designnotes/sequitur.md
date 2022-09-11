@@ -2,6 +2,7 @@
 layout: designnotes
 title: Sequitur
 ltr: sq
+full: Fullbody of Sequitur, standing uncharacteristically upright with a crooked smile. Their hands are held low but stiff, with a slight bend back at the elbow.
 
 h-us: 6'4"
 h-cm: 193.04
