@@ -1,7 +1,8 @@
 ---
 layout: 1.2
 title: monthly roundups
-css: main h2{font-size:3em; text-align:center; margin:1em auto .5em;}
+subpage: gallery
+css: main h2{font-size:3em; text-align:center; margin-bottom:-.25em;}
 ---
 Since January 2021, I've been ending each month with a wall of art that wouldn't have been posted otherwise; mostly sketches and doodles of varying completion, and some works-in-progress of things that *did* get posted.
 

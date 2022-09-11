@@ -1,12 +1,9 @@
 ---
 layout: 1.2
-title: gallery
+title: full gallery
+subpage: gallery
 ---
-Standalone art related to the story or characters in some way, however tenuously.
-
 [Monthly roundups]({%include url.html%}/gallery/roundups) are denoted with rounded corners and a faint border. If you're looking for art of specific characters, see the [giant character checklist]({%include url.html%}/gallery/cast).
-
-Images automatically resize to fit onscreen. In wider browser windows (and if the image isn't bigger than your window), click to view larger. Fullsize files may be huge.
 
 {%assign rn = site.roundups%}{%assign gl = site.gallery%}{%assign all = rn | concat: gl | sort: "date"%}
 
