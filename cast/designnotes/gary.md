@@ -3,6 +3,7 @@ layout: designnotes
 title: Gary
 ltr: g
 full: Two fullbodies of Gary; same relaxed, smiling pose, with one hand in his pocket and the other giving a thumbs up. The only difference is that his jacket is closed in one version and open in the other.
+multi: jacket
 
 h-us: 5'7.5"
 h-cm: 171.45

@@ -16,7 +16,7 @@
 		</header>
 		<main>
 			<section id="main">
-				<figure><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-fullbody-default.png"><img src="{%include url.html%}/assets/img/cast/designnotes/{{page.ltr}}-fullbody-default-crop.png" alt="{{page.full}}"/></picture></figure>
+				<figure{%if page.multi%} id="multi"{%endif%}><picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/cast/{{page.ltr}}-fullbody-default.png"><img src="{%include url.html%}/assets/img/cast/{{page.ltr}}-fullbody-default-850.png" alt="{{page.full}}"/></picture>{%if page.multi%}<picture><source media="(min-width:600px)" srcset="{%include url.html%}/assets/img/cast/{{page.ltr}}-fullbody-{{page.multi}}.png"><img src="{%include url.html%}/assets/img/cast/{{page.ltr}}-fullbody-{{page.multi}}-850.png" alt=""/></picture>{%endif%}</figure>
 				<div id="info">
 					<section id="hght">
 						<h2>height</h2>

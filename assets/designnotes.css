@@ -1,6 +1,6 @@
 *{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
 body{font-family: 'lucida sans',tahoma,sans-serif; line-height:1.5; padding:1em; background:#efefef;}
-header,main,section,article,footer{display:block;}
+header,main,section,picture,article,footer{display:block;}
 ::selection{background:#b8b8b8;}
 img{max-width:100%; height:auto; display:block; margin:0 auto;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
@@ -23,6 +23,9 @@ main>section{border:2px solid #b8b8b8; padding:1rem; margin:1rem 0;}
 .txt{padding-bottom:.5em;}
 #main{text-align:center;}
 #main ul{margin:0; list-style-type:none; line-height:1.25;}
+
+#multi{overflow:auto;}
+#multi picture{width:50%; float:left;}
 
 #info{margin-top:1rem;}
 #hght li{display:inline;} #hght li:first-child::after{content:" / ";}
