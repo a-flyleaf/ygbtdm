@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/caleb
+subpage: cast/v1/caleb
 title: "Caleb: gallery"
 ---
 Design hasn't changed much since the earliest drawings here. Outfit from the torso down was initially inconsistent, but the simplified version seen in the [design notes]({%include url.html%}/gallery/designnotes) has stuck.

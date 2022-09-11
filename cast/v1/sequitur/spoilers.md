@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/sequitur
+subpage: cast/v1/sequitur
 title: "Sequitur: spoiler notes"
 ---
 {%include figure.html
-	img="cast/sq-spoilers"
+	img="cast/v1/sq-spoilers"
 	alt="Sequitur and Kay Lin chilling, deliriously giddy. Captioned: “We May Be Stupid”"
 	caption="<p>from <a href='/ygbtdm/gallery/roundups/2022-06'>June 2022</a></p>"
 %}

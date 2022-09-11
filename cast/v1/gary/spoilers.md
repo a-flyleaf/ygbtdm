@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/gary
+subpage: cast/v1/gary
 title: "Gary: spoiler notes"
 ---
 {%include figure.html
-	img="cast/g-spoilers"
+	img="cast/v1/g-spoilers"
 	alt="alternate design & zombie scribbles; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a> & <a href='/ygbtdm/gallery/roundups/2021-11'>November 2021</a></p>
 		<details class='imgdesc'><summary>image description</summary>

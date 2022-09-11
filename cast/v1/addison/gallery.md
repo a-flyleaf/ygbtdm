@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/addison
+subpage: cast/v1/addison
 title: "Addison: gallery"
 ---
 Design hasn't changed since the earliest drawings here, except for the first one which is an outlier for most people.

@@ -1,11 +1,11 @@
 ---
 layout: 1.1
-subpage: cast/addison
+subpage: cast/v1/addison
 title: "Addison: spoiler notes"
 ---
 {%include figure.html
 	spoiler="y"
-	img="cast/a-spoilers"
+	img="cast/v1/a-spoilers"
 	alt="alternate design & very spoilery scribbles; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a> & <a href='/ygbtdm/gallery/roundups/2021-11'>November 2021</a></p>
 		<details class='imgdesc'><summary>image description</summary>

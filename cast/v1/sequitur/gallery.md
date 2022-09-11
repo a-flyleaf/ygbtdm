@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/sequitur
+subpage: cast/v1/sequitur
 title: "Sequitur: gallery"
 ---
 Design got a major overhaul in [June 2021]({%include url.html%}/gallery/roundups/2021-06) and hasn't changed much since.

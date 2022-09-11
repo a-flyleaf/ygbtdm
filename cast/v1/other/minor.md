@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/other
+subpage: cast/v1/other
 title: minor characters
 ---
 None of these people have names. Ordered chronologically by first appearance.

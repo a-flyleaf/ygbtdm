@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/white-rabbit
+subpage: cast/v1/white-rabbit
 title: "“White Rabbit”: gallery"
 ---
 Arguably not even the same character as the eighth person in early drawings, but everything's included here anyway. Redesign started around [May 2021]({%include url.html%}/gallery/roundups/2021-05) and slowly took shape over subsequent months; appearance has been more consistent since 2022.

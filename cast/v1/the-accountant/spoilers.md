@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/the-accountant
+subpage: cast/v1/the-accountant
 title: "“The accountant”: spoiler notes"
 ---
 {%include figure.html
-	img="cast/d-spoilers"
+	img="cast/v1/d-spoilers"
 	alt="alternate design, cropped sketches, and a larger scene scrib; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>, <a href='/ygbtdm/gallery/roundups/2021-06'>June</a> & <a href='/ygbtdm/gallery/sketchdump'>July</a> 2021, and <a href='/ygbtdm/gallery/roundups/2022-06'>July 2022</a></p>
 		<details class='imgdesc'><summary>image description</summary>

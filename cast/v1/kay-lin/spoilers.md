@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/kay-lin
+subpage: cast/v1/kay-lin
 title: "Kay Lin: spoiler notes"
 ---
 {%include figure.html
-	img="cast/kl-spoilers"
+	img="cast/v1/kl-spoilers"
 	alt="alternate design notes & doodles; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>, <a href='/ygbtdm/gallery/roundups/2022-01'>January 2022</a>, and <a href='/ygbtdm/gallery/roundups/2021-12'>December 2021</a></p>
 		<details class='imgdesc'><summary>image description</summary>

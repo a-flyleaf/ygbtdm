@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/other
+subpage: cast/v1/other
 title: "“S.”"
 ---
 The writer of a letter Joce receives in ep01. Associated with **white** and **murky greens**.

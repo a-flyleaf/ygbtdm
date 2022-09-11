@@ -5,7 +5,7 @@ css: section a:nth-of-type(6){filter:none !important;}#cast{margin-top:5rem;}
 ---
 AKA "Suits," and various other (sometimes less-flattering) nicknames from various other characters.
 {%include figure.html
-	img="cast/d-designnotes"
+	img="cast/v1/d-designnotes"
 	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>sharp, showy</li><li>stands out in any room</li><li>not actually <em>that</em> stiff (with [bright colors] like that…)</li></ul>
 		<details class='imgdesc wrap castdesc'><summary>written description</summary>Tall, tan-skinned, wavy long hair (naturally black, dyed white), bright blue-green eyes, thin build. By default, wears a peak-lapeled single-button pantsuit in the same aqua-blue-green hue as the eyes (or is it vice versa?) over a black button-down, blue tie, and white gloves.</details>
 		<ul><li>[when facing viewer's left, hair has 3 waves in front and 2 in back;] right-facing hair can be [unintentionally inconsistent…</li><li>natural arch [to eyebrow]</li><li>eye shape is connected</li><li>[nose/profile is] flat-ish</li><li>gloves under dress shirt under suit</li><li>[makes] weird hand gestures</li></ul></details>"

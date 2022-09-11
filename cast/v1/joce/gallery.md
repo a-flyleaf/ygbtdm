@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/joce
+subpage: cast/v1/joce
 title: "Joce: gallery"
 ---
 Design hasn't changed since the earliest drawings in the main gallery.

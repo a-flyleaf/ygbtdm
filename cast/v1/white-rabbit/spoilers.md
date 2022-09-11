@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/white-rabbit
+subpage: cast/v1/white-rabbit
 title: "“White Rabbit”: spoiler notes"
 ---
 {%include figure.html
-	img="cast/wr-spoilers"
+	img="cast/v1/wr-spoilers"
 	alt="alternate design and choice sketches; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>, <a href='/ygbtdm/gallery/roundups/2021-06'>June 2021</a>, <a href='/ygbtdm/gallery/roundups/2022-01'>January ’22</a>, and <a href='/ygbtdm/gallery/roundups/2021-11'>November ’21</a></p>
 		<details class='imgdesc'><summary>image description</summary>

@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/joce
+subpage: cast/v1/joce
 title: "Joce: spoiler notes"
 ---
 {%include figure.html
-	img="cast/j-spoilers"
+	img="cast/v1/j-spoilers"
 	alt="concepts and notes for the fourth design; description below"
 	caption="<p>brainstorming from <a href='/ygbtdm/gallery/roundups/2021-12'>December 2021</a> (photo reference snipped from <a href='https://www.pinterest.com/pin/573646071269350023/' class='ext'>Pinterest</a> via <a href='https://hiconsumption.com/best-vintage-camping-gear/' class='ext'>HiConsumption</a>), fullbody from <a href='/ygbtdm/gallery/designnotes'>the design notes</a></p>
 		<details class='imgdesc'><summary>image description</summary>

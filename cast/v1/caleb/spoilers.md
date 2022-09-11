@@ -1,10 +1,10 @@
 ---
 layout: 1.1
-subpage: cast/caleb
+subpage: cast/v1/caleb
 title: "Caleb: spoiler notes"
 ---
 {%include figure.html
-	img="cast/c-spoilers"
+	img="cast/v1/c-spoilers"
 	alt="proto-colorscript scribbles; description below"
 	caption="<p>from <a href='/ygbtdm/gallery/roundups/2022-02'>February 2022</a></p>
 		<details><summary>image description</summary>

@@ -4,7 +4,7 @@ title: Gary
 css: section a:nth-of-type(5){filter:none !important;}#cast{margin-top:5rem;}
 ---
 {%include figure.html
-	img="cast/g-designnotes"
+	img="cast/v1/g-designnotes"
 	caption="<details><summary>design notes; click to show/hide transcript</summary><ul><li>big, strong, Jock™</li><li>simple</li><li>soft around the edges</li></ul>
 		<details class='imgdesc wrap castdesc'><summary>written description</summary>Tall, olive-skinned, short reddish-brown hair, green+blue eyes (has heterochromia), heavy build. By default, wears a dull tan/mahogany varsity jacket, blue-gray jeans, and mahogany-and-white sneakers.</details>
 		<ul><li>keep [hair curve] round</li><li>[face & eyebrow shape are] rounded rectangles</li><li>eyes are simple but expressive</li><li>varsity jacket; sharp cut, soft fabric<ul><li>stripe[ color]s alternate on collar, sleeves, & pockets—<em>not</em> on trim</li><li>[has] pockets</li></ul></li><li>[jeans are] loosely tucked [into shoes]</li><li>flat, velcro sneakers</li></ul>&nbsp;<ul><li>*would have freckles in a more realistic style</li></ul></details>"

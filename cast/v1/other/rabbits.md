@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/other
+subpage: cast/v1/other
 title: "“hellrabbits”"
 ---
 The horrid humanoid monsters lurking throughout the setting. Like "[White Rabbit]({%include url.html%}/cast/white-rabbit)," characters may refer to them differently; this page title ≠ an official, universally-used moniker.

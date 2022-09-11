@@ -1,6 +1,6 @@
 ---
 layout: 1.1
-subpage: cast/the-accountant
+subpage: cast/v1/the-accountant
 title: "“The accountant”: gallery"
 ---
 Design hasn't changed much since the earliest drawings here; gloves got added somewhere along the line.

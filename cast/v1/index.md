@@ -5,7 +5,7 @@ title: cast
 Visual descriptions of the main 8. Relatively spoiler-free.
 
 {%include figure.html
-	img="cast-temp"
+	img="cast-v1"
 	alt="A lineup of the main eight characters. Physical descriptions are on individual pages."
 	caption="silhouettes from <a href='/ygbtdm/gallery/designnotes'>the design notes</a>"
 %}
