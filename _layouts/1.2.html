@@ -18,10 +18,10 @@
 				<li><a href="{%include url.html%}/about">about</a></li>
 				<li><a href="{%include url.html%}/story">story</a></li>
 				<li><a href="{%include url.html%}/cast">cast</a></li>
-				<li><a href="{%include url.html%}/gallery">gallery</a>{%if page.url contains "gallery"%}{%if page.subpage%}<ul class="small caps" id="g">
+				<li><a href="{%include url.html%}/gallery">gallery</a>{%if page.url contains "gallery"%}<ul class="small caps" id="g">
 					<li><a href="{%include url.html%}/gallery/all">all</i>
 					<li><a href="{%include url.html%}/gallery/roundups">roundups</a></li>
-					<li><a href="{%include url.html%}/gallery/cast">by cast</a></li></ul>{%endif%}{%endif%}</li>
+					<li><a href="{%include url.html%}/gallery/cast">by cast</a></li></ul>{%endif%}</li>
 			</ul></nav>
 		</header>
 		
@@ -38,6 +38,10 @@
 			const fullpic = document.querySelectorAll('.pic');
 			fullpic.forEach(pic => {
 				pic.addEventListener('click', function classToggle(event) {
+					console.log("thing clicked",event);
+					this.classList.toggle('fullsize');
+				});
+				/*this is redundant but idk js syntax well enough to make it Not*/pic.addEventListener('keypress', function classToggle(event) {
 					console.log("thing clicked",event);
 					this.classList.toggle('fullsize');
 				});

@@ -1,7 +1,7 @@
 /*general & typography*/
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
 body{overflow-x:hidden; background:#000; background-image:url(img/static.png); background-attachment:fixed; color:#fff; font-family: 'bookman old style','urw bookman l','itc bookman',georgia,times,serif; font-size:1.25em; line-height:1.5; padding:1em;}
-a{color:inherit; text-decoration-color:#808080; text-decoration-color:rgba(255,255,255,.5);} a:hover,a:active,a:focus{text-decoration:none; border-radius:2px;} a:focus,summary:focus{outline:2px solid #808080;} a.ext{text-decoration-style:dashed;}
+a{color:inherit; text-decoration-color:#808080; text-decoration-color:rgba(255,255,255,.5);} a:hover,a:active,a:focus{text-decoration:none; border-radius:2px;} a:focus,summary:focus,.pic:focus{outline:2px solid #808080;} a.ext{text-decoration-style:dashed;}
 ::selection{background:#404040;}
 img{max-width:100%; height:auto;}
 header,nav,main,footer,section,figure,figcaption,article{display:block;}
@@ -59,7 +59,10 @@ footer{font-size:.65em; text-align:right; color:#606060; padding-top:10rem;} foo
 #back{font-style:italic; margin-top:3rem;}
 #gnav{margin-top:3rem; text-align:center;} #gnav a{text-decoration:0; display:inline-block; padding:.5em; border:1px solid rgba(0,0,0,0);} #gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; background:rgba(32,32,32,85%); border-color:#404040;}
 .arw{font-size:.75em;}
+.pic{display:inline-block; font-size:0;}
 
+
+/*cast & gallery art boxes*/
 .artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;}
 
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}} #gallery a:hover,#gallery a:active,#gallery a:focus{filter:none; opacity:1;} #gallery a:focus{background:#404040; background:rgba(255,255,255,.25);} .rn img{border-radius:15px; border:1px solid #808080;}

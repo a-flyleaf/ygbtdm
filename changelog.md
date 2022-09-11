@@ -70,5 +70,5 @@ Back to incremental publication, then...!
 	- slapdash story index
 	- cast & gallery page shuffling
 	- update 404 & sitemap layouts
-- 2022/09/11: obligate post-update fixes; redo cast pages
+- 2022/09/11: obligate post-update fixes; redo cast pages; keyboard controls on gallery zoom
 </section>
