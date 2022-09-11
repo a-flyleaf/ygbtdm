@@ -50,10 +50,7 @@ footer{font-size:.65em; text-align:right; color:#606060; padding-top:10rem;} foo
 #gnav{margin-top:3rem; text-align:center;} #gnav a{text-decoration:0; display:inline-block; padding:.5em; border:1px solid rgba(0,0,0,0);} #gnav a:hover,#gnav a:active,#gnav a:focus{background:#202020; border-color:#404040;}
 .arw{font-size:.75em;}
 
-.artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none !important; opacity:1 !important;}
-
-#cast{max-width:500px;} #cast a{filter:grayscale(100%); opacity:.85;}
-@media only screen and (min-width:700px){#cast{max-width:700px;}} @media only screen and (max-width:390px){#cast a{width:40%;}}
+.artwall{margin:1rem auto; line-height:0; font-size:0; text-align:center;} .artwall a{display:inline-block; transition:.05s; margin:5px;} .artwall a:hover,.artwall a:active,.artwall a:focus{filter:none; opacity:1;}
 
 #gallery{max-width:1700px;} #gallery a{filter:brightness(75%);} @media only screen and (max-width:500px){#gallery a{width:40%;}}
 #caption{margin:.25em 0 0 .85em;}
