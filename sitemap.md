@@ -1,13 +1,11 @@
 ---
-layout: 1.1
+layout: 1.2
 title: sitemap
-css: main a{text-decoration-color:#5e5e5e;} li>ul,li>ul>li{display:inline; opacity:.85;} li>ul{padding:0; font-size:.85em; text-transform:uppercase; letter-spacing:.05em;} li>ul>li:before{content:"▪"; padding-right:.25em;}
+css: li>ul,li>ul>li{display:inline; opacity:.85;} li>ul{padding:0; font-size:.85em; text-transform:uppercase; letter-spacing:.05em;} li>ul>li:before{content:"▪"; padding-right:.25em;}
 ---
-<!--needs to be updated for colorscript + design note pages-->
-## [main]({%include url.html%})
-- [Index]({%include url.html%})
-- [About]({%include url.html%}/about)
-- [Story]({%include url.html%}/story)
+<!--needs to be updated for colorscript + design note pages
+
+for ease of later re-adding: 
 	- [01]({%include url.html%}/story/01)
 	- [02]({%include url.html%}/story/02)
 	- [03]({%include url.html%}/story/03)
@@ -19,20 +17,26 @@ css: main a{text-decoration-color:#5e5e5e;} li>ul,li>ul>li{display:inline; opaci
 	- [09]({%include url.html%}/story/09)
 	- [10]({%include url.html%}/story/10)
 	- [11]({%include url.html%}/story/11)
+-->
+
+## [main]({%include url.html%})
+- [About]({%include url.html%}/about)
+- [Story]({%include url.html%}/story)
 - [Cast]({%include url.html%}/cast)
-	- [Joce]({%include url.html%}/cast/joce)
-	- [Kay Lin]({%include url.html%}/cast/kay-lin)
-	- [Addison]({%include url.html%}/cast/addison)
-	- [Caleb]({%include url.html%}/cast/caleb)
-	- [Gary]({%include url.html%}/cast/gary)
-	- ["The accountant"]({%include url.html%}/cast/the-accountant)
-	- [Sequitur]({%include url.html%}/cast/sequitur)
-	- ["White Rabbit"]({%include url.html%}/cast/white-rabbit)
+	- [Joce]({%include url.html%}/cast/designnotes/joce)
+	- [Kay Lin]({%include url.html%}/cast/designnotes/kay-lin)
+	- [Addison]({%include url.html%}/cast/designnotes/addison)
+	- [Caleb]({%include url.html%}/cast/designnotes/caleb)
+	- [Gary]({%include url.html%}/cast/designnotes/gary)
+	- ["The&nbsp;accountant"]({%include url.html%}/cast/designnotes/the-accountant)
+	- [Sequitur]({%include url.html%}/cast/designnotes/sequitur)
+	- ["White&nbsp;Rabbit"]({%include url.html%}/cast/designnotes/white-rabbit)
 - [Gallery]({%include url.html%}/gallery)
-	- [roundups]({%include url.html%}/gallery/roundups)
 	- [all]({%include url.html%}/gallery/all)
-	- [by character]({%include url.html%}/gallery/cast)
+	- [roundups]({%include url.html%}/gallery/roundups)
+	- [by&nbsp;cast]({%include url.html%}/gallery/cast)
 
 ## misc
 - [changelog]({%include url.html%}/changelog)
 - sitemap (you are here)
+- a bunch of unlinked/test pages that idk what to do with; might be here someday, might not, but for now they're broken and/or shuffled around too much to bother....

@@ -69,4 +69,5 @@ Back to incremental publication, then...!
 	- rewrite about
 	- slapdash story index
 	- cast & gallery page shuffling
+	- update 404 & sitemap layouts
 </section>
