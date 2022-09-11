@@ -28,17 +28,11 @@
 			<div id="back" class="wrap"><a href="{%include url.html%}/{{page.subpage}}">← back to {{page.subpage}}</a></div>{%endif%}{%endif%}
 		</main>
 		
-		<footer class="wrap">art, writing, and site by <a href="https://a-flyleaf.github.io" class="ext">a-flyleaf</a></footer>
+		<footer class="wrap"><ul>
+			<li id="backto"><a href="#">back to top</a></li><li id="credit">art, writing, and site by <a href="https://a-flyleaf.github.io" class="ext">a-flyleaf</a></li>
+		</ul></footer>
 		
 		<script>
-			const spoilers = document.querySelectorAll('.spoiler');
-			spoilers.forEach(spoiler => {
-				spoiler.addEventListener('click', function classToggle(event) {
-					console.log("thing clicked",event);
-					this.classList.toggle('showhide');
-				});
-			});
-			
 			const fullpic = document.querySelectorAll('.pic');
 			fullpic.forEach(pic => {
 				pic.addEventListener('click', function classToggle(event) {
