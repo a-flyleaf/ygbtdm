@@ -5,7 +5,8 @@ css: section p{font-size:.85em; padding:0 1.15em; line-height:1.65;} section h2+
 ---
 Not incluing tiny fixes or single art additions.
 
-Dates are in year-month-day format; "1/11"&nbsp;= January&nbsp;11, *not* November&nbsp;1.
+- Dates are in year-month-day format; "1/11"&nbsp;= January&nbsp;11, *not* November&nbsp;1.  
+- Note that some pages mentioned here may not be linked anywhere; as the site grows haphazardly (organically?), sometimes there's stuff I want to make but don't quite have a place for yet. It gets made anyway; navigation comes later.<!--consider linking the sitemap here, and/or in the footer... after Actually figuring out the nav-->
 
 <section markdown="1">
 ## "beta" site
@@ -43,21 +44,19 @@ Story didn't have a title at this time, no.
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
 - 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
-- 2022/05/23: main gallery tag functionality & captions; cast-specific galleries\*
-- 2022/07/05: more behind-the-scenes\* stuff
+- 2022/05/23: main gallery tag functionality & captions; cast-specific galleries\
+- 2022/07/05: more behind-the-scenes stuff
 	- cast spoiler writeups
 	- reshuffle misc stuff ("beta" site, test pages, notes)
-- 2022/08/06--11: **colorscript ep01**\*
-
-Stuff marked with an asterisk (\*), both above and below, means the page was created but not, at the time, linked anywhere. As the site grows haphazardly (organically?), sometimes there are pages I want to make but don't quite have a place for yet. They get made anyway.
+- 2022/08/06--11: **colorscript ep01**
 </section>
 
 <section markdown="1">
 ## site overhaul/v1.2 (ongoing)
-- 2022/08/11: new index image; backend gallery shuffling (including catch-all page\*)
+- 2022/08/11: new index image; backend gallery shuffling (including catch-all page)
 - 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page
 - 2022/08/14: simpler gallery navigation; colorscript layout tweaks (caption functionality, single-row layout)
-	- <small>(accidentally pushed a bunch of changes from this day, whoops. They were supposed to be on my end only until I'd completely overhauled the site.... >_>\")</smalL>
+	- <small>(accidentally pushed a bunch of changes from this day, whoops. They were supposed to be on my end only until I'd completely overhauled the site.... >_>\")</small>
 - 2022/08/25: gallery page tweaks & cast catch-all page
 
 The original idea was that I'd finish the entire colorscript, first to last episode, then revamp the site and publish everything in one go. Instead I finished *one* colorscript, forged ahead with site updates anyway, and then the aforementioned accidental publication happened.
