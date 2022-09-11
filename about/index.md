@@ -10,7 +10,7 @@ A twitchy survivalist-wannabe warily teams up with a suspiciously-careless girl 
 	alt="Comic panel featuring the two main characters. The smaller one, smiling, offers a handshake; the other is surprised."
 %}
 
-<i>You're gonna be the death of me</i> is a psychological drama in 10 episodes. Envisioned mainly as a comic, though the art being made for it is far less linear. This website is an attempt to pull it all together.
+<i>You're gonna be the death of me</i> is a psychological drama in 11 episodes. Envisioned mainly as a comic, though the art being made for it is far less linear. This website is an attempt to pull it all together.
 
 <aside markdown="1">
 Content note: **Story contains mature themes.** No explicit gore or nudity. Art may feature body horror. Creator has chosen not to use more specific warnings.
