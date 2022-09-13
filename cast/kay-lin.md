@@ -10,7 +10,7 @@ Two-word first name.
 <section markdown="1" id="desc" class="wrap">
 Joce doesn't quite know what to make of Kay Lin; first she sees a sad little girl, but Kay Lin's a med student and rather friendly. She doesn't get much less confusing from there.
 
-Still, Joce can't shake the image of someone who needs help, and Kay Lin seems content to stick around. Is this a mistake on both behalves? Probably. But what *else* are they supposed to do, pretend they never met? Good luck with that.
+Still, Joce can't shake the image of someone who needs help, and Kay Lin seems content to stick around (albeit with prompting). Is this a mistake on both behalves? Probably. But what *else* are they supposed to do, pretend they never met? Ha, good luck with that.
 </section>
 
 ----

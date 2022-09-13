@@ -24,7 +24,8 @@ chr:
     url: white-rabbit
 
 css: "figure{max-width:35rem;} blockquote{max-width:35rem; margin:0 auto; background:#efefef; color:#000; padding:1px 1em; font-family:'lucida sans',tahoma,sans-serif; font-size:.75em; line-height:1.65;} blockquote h2,blockquote strong{color:inherit;} blockquote h2{display:inline;} details{border:0; margin:0;} summary{padding-top:.5em;} summary:hover,summary:focus,summary:active{color:inherit; text-decoration-color:#b8b8b8;} hr{display:none;} blockquote ::selection{background:#b8b8b8;}
-#cast img{opacity:0;} #cast a:active>img,#cast a:hover>img{opacity:1;}"
+#cast img{opacity:0;} #cast a:active>img,#cast a:hover>img{opacity:1;}
+.ni{color:#808080;}"
 ---
 {%include figure.html img="designnotes" alt="Screenshot of a design note page, scrollbar included. Text has been somewhat obscured."%}
 

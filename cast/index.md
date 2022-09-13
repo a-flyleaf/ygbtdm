@@ -23,6 +23,7 @@ cr:
     nm: “White Rabbit”
     url: white-rabbit
 ---
+Notes on the main eight.
 {%include cast-v1.2.html%}
 <!--
 <section class="artwall" id="cast">{%for chr in page.cr%}<a href="{%include url.html%}/cast/{%if chr.url%}{{chr.url}}{%else%}{{chr.nm|downcase}}{%endif%}" id="{{chr.id}}"><img src="{%include url.html%}/assets/img/cast/{{chr.id}}-cast-slh.png" alt="{{chr.nm}}"/></a>{%endfor%}</section>

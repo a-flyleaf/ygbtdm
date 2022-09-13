@@ -8,7 +8,7 @@ css: "figure{margin-bottom:0;} figcaption{margin-top:0;} .imgdesc p,.imgdesc li{
 <section markdown="1" id="desc" class="wrap">
 - Name: Gary!
 - Favorite color: Red!
-- Likes: Hockey, chilling with his bros, making friends and having a good time. (Suits is pretty cool, too.)
+- Likes: Hockey, chilling with his bros, making friends and having a good time. (That suit lady is pretty cool, too; dunno what everyone else is on about.)
 - Dislikes: "Drama," buzzkills, being rude for no reason. (Who *does* that?)
 - Fun fact: Good with kids! Even big kids. Why grow up, anyway? That's too much, dude.
 </section>
