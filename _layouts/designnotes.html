@@ -34,7 +34,7 @@
 						<div class="x">{{page.palette-m|markdownify}} <a href="#outfit">(skip hex codes)</a></div>
 						<ul>{%for clr in page.plt-main%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">{{clr.nm}}</span></li>{%endfor%}</ul>
 						
-						<h3 id="outfit">outfit (shown above)</h3>
+						<h3 id="outfit">outfit</h3>
 						<div class="x">{{page.palette-o|markdownify}} <a href="#content">(skip hex codes)</a></div>
 						<ul>{%for clr in page.plt-outfit%}<li style="background:#{{clr.hex}};{%if clr.w%} color:#fff;{%endif%}"><span class="hex">#{{clr.hex}}</span><br/><span class="where">{{clr.nm}}</span></li>{%endfor%}</ul>
 					</section>
@@ -51,6 +51,6 @@
 				</section>
 			</div>
 		</main>
-		<footer><hr/><a href="#">back to top</a> ▪ <a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a></footer>
+		<footer><hr/><span><a href="#">back to top</a></span> ▪ <span><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a></span></footer>
 	</body>
 </html>

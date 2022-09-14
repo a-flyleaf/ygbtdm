@@ -37,7 +37,7 @@ plt-outfit:
 sum: |-
   Very tall, very particular, and typically unimpressed---but rather enthused when fixated. Bright-suited with irises to match; white hair is dyed that way. Prone to odd hand movements.
   
-  Associated with **aqua**, blue-green, green-blue, whatever you call it; always saturated, but can stand out less in certain lighting.
+  Associated with **aqua**, blue-green, turquoise, green-blue, whatever you call it; always saturated, but can stand out less in certain lighting.
 
 notes:
   - id: hair
@@ -47,7 +47,7 @@ notes:
     img: url
     alt: Surprise is rare, but drawn to show what the eyebrows might look like raised.
     txt: |-
-      - Eyebrows are the color giveaway. Naturally arched; along with thin eyes, <span class='ni'>default expression<span class='x'>(as I draw it) </span> can appear sardonic and/or faintly amused.</span>
+      - Eyebrows are the color giveaway. Naturally arched; along with thin eyes, default expression can appear sardonic and/or faintly amused.
       - Lines around the inner eye are a slight indent/wrinkle, *not* eyebags.
       - Nose tapers to a point and slants downwards; profile is otherwise fairly flat.
       - Very slight cheekbone definition.

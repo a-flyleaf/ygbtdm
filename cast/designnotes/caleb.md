@@ -46,8 +46,8 @@ notes:
   - id: clothes
     txt: |-
       - Sweater is big on purpose; **<span class='x'>(important:) </span>hands are rarely if ever visible**.
-      - The leggings *could* have cutout designs<span class='ni'> but I am too lazy to draw them consistently so they don't.</span>
-      - Boot fuzz could also be swapped out for loose socks or something. Just put something pink and soft there.
+      - The leggings *could* have cutout designs<span class='ni'> but I am too lazy to draw them consistently so they don't.</span> Think stars or something else soft and/or cutesy.
+      - Boot fuzz could also be swapped out for loose socks or something. <span class="ni">Honestly the design from the waist down can vary, I just think it's more balanced with some pink around the feet.</span>
       
 css: "@media only screen and (min-width:700px){#hght figcaption{max-width:8em;} #main{width:600px; padding-right:55px;} body{width:1365px;} #sum{width:45.65rem;}
 	article{width:360px;} /*hair face clothes*/ #face,#clothes{margin-left:370px;} #clothes{margin-top:295px;} article img{margin:.5em 0;}}"

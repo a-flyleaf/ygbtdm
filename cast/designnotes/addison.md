@@ -7,7 +7,7 @@ multi: jacket
 
 h-us: 5'5"
 h-cm: 165.1
-rel: Third-shortest (by a fair margin)
+rel: Third-shortest
 
 palette-m: Light skin, red hair, and eyes typically colored gold-yellow, hair, and eyes are all dark brown. Hair is straight and chin-length, clipped partially back with some volume on the sides.
 plt-main:
@@ -45,7 +45,7 @@ notes:
   - id: face
     txt: Face has a very slight curve out at the cheeks; chin tapers in a point. Small nose, but not as flat as <a href='../kay-lin/designnotes'>Kay Lin</a>'s.
   - id: clothes
-    txt: "<span class='ni'><span class='x'>Some trivia: </span>Jacket is loosely ripped off from an image search result of Katnis from <i>The Hunger Games</i> film. (Disclaimer: I only know about this series from pop culture osmosis (and people complaining about the movie). Seems like something Addison would be into, though, flaws and all.)</span>"
+    txt: "<span class='ni'><span class='x'>Some trivia: </span>Jacket is loosely ripped off from an image search result of Katnis from <i>The Hunger Games</i> film. (Disclaimer: I only know about this series from pop culture osmosis (and people complaining about the movie). Seems like something Addison would be into, though, flawed film and all.)</span>"
 
 css: "@media only screen and (min-width:700px){#hght figcaption{max-width:9em;} #main{width:1185px; padding-right:35px;} body{width:2020px;}
 	/*hair face clothes. bruh that's it,,,*/ #face,#clothes{margin-left:405px;} #clothes{margin-top:110px;} article img{margin-top:.5em;}}"

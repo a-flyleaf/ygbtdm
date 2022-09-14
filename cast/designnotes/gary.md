@@ -34,7 +34,7 @@ plt-outfit:
     hex: 747a80
   - nm: sneaker whites
     hex: c8c4Ba
-  - nm: sweatshirt
+  - nm: sweater
     hex: daddd4
 
 sum: |-

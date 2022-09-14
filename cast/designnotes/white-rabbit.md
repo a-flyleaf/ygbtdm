@@ -30,7 +30,7 @@ plt-outfit:
     hex: 8e7a60
 
 sum: |-
-  Probably a human being---ignoring the rabbitesque skull-head and white-rot gnawing at the limbs. Muscular, and capable of typical human movement (facial expressions notwithstanding). Outfit might've been some kind of outdoorsy getup, but it's missing something; a black bandana obscures the lower head. Seems self-assured, but doesn't talk.
+  Probably a human being---ignoring the rabbitesque skull-head and white-rot gnawing at the limbs. Nonetheless capable of typical human movement (facial expressions notwithstanding). Muscular; outfit might've been some kind of outdoorsy getup, but it's missing something. A black bandana obscures the lower head. Seems self-assured, but doesn't talk.
   
   Associated with **pale yellow**.
 
@@ -44,8 +44,9 @@ notes:
       - Upper curve of the head is convex from the side, but may appear concave from other angles due to snout protrusion. <span class='ni'><s>(also, I am not as consistent with it as with other characters' features yet.)</s></span> See [3d turnaround](../../../gallery/spin) for a low-poly reference.
       - "Ears" are capable of moving for expressiveness, but rarely do.
       - **<span class='x'>Important: </span>Area inside "skull" is void, with no discernible form.** <span class='ni'>Eyes are usually stylized to suggest shadow.</span>
-      - The rest of the head **<span class='x'>(important:) </span>does not deform**; no furrowed brows or mouth movements.
-      - Front teeth are thin, long, and relatively flat along the muzzle curve; "back" teeth are blunter like human molars. **The two at the very front are longest.**
+      - The rest of the head **<span class='x'>(important:) </span>does not emote**; no furrowed brows or mouth movements.
+      - <span class="ni">Ear length isn't consistent. Not too long, not too short;</span> as long as the silhouette resembles a rabbit, it works.
+      - Front six teeth are thin, long, and relatively flat along the muzzle curve; "back" teeth are blunter like human molars. **The two frontmost teeth are longest.**
       - Bandana suggests a jawline but **<span class='x'>(important:) </span>never comes off**. Back of the head is rarely if ever shown.
   - id: clothes
     txt: |-
