@@ -8,6 +8,42 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: part not-5
+    sum: starts with J/KL argument, ends with Gary's downfall and hand hold. might be shorter since it's getting late whoops
+    scn:
+      - nm: you did What
+        desc: |-
+          Kay Lin has *questions*---and vice versa. Joce admits she accidentally indicated to the accountant that Kay Lin had killed Caleb, but also, *what the fuck even was any of that.* Kay Lin just doubles down on Joce being condescending, and not too open herself.
+      - nm: rabbit time
+        desc: |-
+          The argument attracts a rabbit, forcing Joce and Kay Lin to work together despite their disagreements. They're still talking as they go, and realize they have the unfortunate common ground of "why are you still with me, I can't believe anyone would want to stay."
+      - nm: aftermath
+        desc: |-
+          Once things settle, Kay Lin offers a handshake; "Here's to being fucked up." Joce hesitates; she'd... really prefer not to be. But they don't split.
+          
+          They decide to take refuge in the rabbit's crevice. Passing its melted body, Joce muses aloud she feels bad for the things. She might not say it aloud, but she remembers the necklace on the fallen, and what she saw of the first rabbit.
+      - nm: too good to be true
+        desc: |-
+          It's quiet as they settle in. But they haven't lost the bottle because of course not, and overnight, Joce gets up to get rid of it. ---Except she can't make herself do it.
+          
+          Enter Gary, who just wanted to check in. He mentions what's been happening at the house since, says he feels bad for how it turned out.
+      - nm: that damned letter
+        desc: |-
+          When Gary notices the bottle, Joce hesitantly mentions it's from someone she used to know, but not in a good way. Gary suggests she just read it, get it over with. If she already knows what it's gonna say, what's the harm?
+          
+          It's not the "bb take me back" Joce expected---it's a scathing indictment of her every character flaw, essentially deeming her a dysfunctional waste of time. (There should be truth to it, mind, not *all* dramatic put-downs.) Joce ~literally sees red, even as she feels backed against a wall.
+      - nm: rabbit attack
+        desc: |-
+          Gary snaps her out of it; rabbits are closing in. They try to fight back but don't get far; only Gary is armed.
+          
+          But they could always trap the damn things. Gary offers a diversion while Joce gets in position; she hesitates, but he offers an assurring thumbs-up and a wink, and he's framed all heroic with the bat raised.
+          
+          Pull trigger; cut scene.
+      - nm: hand hold
+        desc: |-
+          The cavern has indeed collapsed upon itself. Kay Lin is woken by the rumble and finds Joce standing in the center, blank.
+          
+          Kay Lin holds her hand; Joce barely noticed her wading in. All is silent. End episode.
   - title: So it goes
     sum: looootsa flashbacks in this one. like I think this is 90% flashback, with a little KL/Seq between and then Gary at the end. RIP Gary.
     scn:
