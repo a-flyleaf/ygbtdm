@@ -8,11 +8,64 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: [idr yayyy]
+    sum: |-
+      <em style="text-transform:uppercase;font-style:normal;">kidnapping arc woohoo</em>  
+      cold open with KL waking up in silence, then J+Seq; ends with Joce's vulnerable moment
+    scn:
+      - nm: cold open
+        desc: |-
+          Kay Lin comes to and she's tied up, bound to a pole in a dark room (implicitly basement). Utterly alone.
+      - nm: J+Seq
+        desc: |-
+          &Possible continued flashback? Need to build up to the "hero" moment....
+          
+          Joce meets Seqiutur at the now-collapsed entry. They talk around in circles for a while before finally mentioning the accountant (called "that suit woman" or similar) was asking about Kay Lin.
+          
+          Before Joce leaves, she pauses and apologizes. Seq's like "for what"; it's for threatening them at the beginning, for the $food. Sequitur doesn't remember, and doesn't think it's a big deal anyway, which Gets To her a bit. Joce walks off hastily.
+      - nm: flashback???
+        desc: |-
+          [yeah idk here seems like a decent place]
+      - nm: KL+D banter time
+        desc: |-
+          Joce reaches the house. Seems empty.
+          
+          Meanwhile, the accountant steps out and starts interrogating Kay Lin. Kay Lin's not too worried, maybe crack some jokes ("Gee, you could've asked me to dinner first"). As Joce gets closer to the muffled voices, cue "I know you've won" talk.
+          
+          Kay Lin still refuses to answer for real, and then Joce drops in. The accountant traps her instantly and Kay Lin *flips*.
+      - nm: revelation time
+        desc: |-
+          The accountant reveals she doesn't *want* to hurt either of them (terribly inconvenient) but figured this might be the only way to make Kay Lin talk. Possible reiteration of *how* she knows Kay Lin's a former victor, which Kay Lin reluctantly confirms. Also drop the pendant if it hasn't been already. Joce starts out defiant but can't deny that she wants to know what's going on, too.
+          
+          Thus the accountant, still very much teasing Kay Lin (and a frustrated Kay Lin very much *not* reciprocating), pushes for more, and when Joce is threatened (hurt?) she caves: Yes, she's won this game beore. She first played with a friend---that pendant was hers.
+      - nm: revelations cont'd.
+        desc: |-
+          No more from Kay Lin. The accountant *jumps* on this; Kay Lin, increasingly distraught, insists she did *not* kill her friend, but refuses to say how she (the friend) died.
+          
+          The accountant nudges Joce along to a conclusion, with or without stating it outright. (Think less manipulation more "can you believe this shit, she's *clearly* using you"; blatant or not, Kay Lin's out of denials.) Asks Joce: "Do I... remind you of her?" Kay Lin can only say, feebly, "Yeah. You do." and then drops her head.
+      - nm: aftermath
+        desc: |-
+          Possible resumed flashback? Back-and-forths; makes Joce sound like a real hardass (do whatever it takes to survive), but culminates in what she *really* wants (to protect the weak, because no one was there for her).
+          
+          The accountant's like "alright, we're done here" and offers to let Joce go, or maybe straight-up *does* with no warning. She quickly proves her reflexes beat Joce's, but otherwise she's willing to let Joce go free, provided she leaves alone.
+          
+          At first Joce actually seems to go for it. The accountant kneels down by Kay Lin, disappointed in the sentimental anticlimax, requesting last words and such. Silence from Kay Lin. Joce breaks in and raises a lamp over the accountant's head--- ! (possible challenge summons at the end?)
+      - nm: quote-unquote “heroism”, Vulnerable Moment
+        desc: |-
+          Conclude flashback/motive sequence.
+          
+          Joce runs out as the house collapses. She's carrying Kay Lin, who's unconscious and bleeding profusely from a torso wound. In sharp contrast to the quiet, noble hero image, Joce is thoroughly panicked.
+          
+          She catches sight of an alliance group; unsure if she caves to calling for help or if they notice, but White Rabbit steps forward and Joce is still reluctant to let Kay Lin go.
+          
+          When she does, the adrenaline crashes as people (including a medic) surround Kay Lin, blocking her from sight. Sequitur approaches Joce and offers a comforting back/shoulder pat; Joce kneels, quietly falling apart.
   - title: No one else
     sum: |-
       KL wakes up sad and ends with KL still being sad but for very different reasons. meanwhile Joce does a friendship!
       
       split up the second scene because "keep it short" is not working out lmao, although the last part's choppy anyway...
+      
+      +later note: wondering if there could also be a bit more with Joce and the medic? Joce hit her own little nadir last ep, but I don't want to spend too much time on a minor relationship.... working it into the group session could be fine ig, hm.
     scn:
       - nm: world's worst wake-up call
         desc: |-
