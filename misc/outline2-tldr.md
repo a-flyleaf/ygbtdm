@@ -8,7 +8,7 @@ ep:
       - nm: cold open/intro
         scn:
           - desc: Joce wakes up in the underground.
-          - desc: Not 100% sold on there being an intro segment but I think it would be fun, both to establish/foreshadow character dynamics and because it changes as things happen.
+          - desc: Not 100% sold on there being a title sequence but I think it would be fun, both to establish/foreshadow character dynamics and because it changes as things happen.
       - nm: flashback sequence
         desc: Quick, vague, abstract. Fairytale-esque or wordless?
         scn:
@@ -57,13 +57,36 @@ ep:
         scn:
           - desc: Addison is alliance leader now and Caleb is clingy. Someone asks Addison about plans; cue scream from the crowd.
           - desc: “White Rabbit” steps forward. And doesn't talk, so Addison plays charades; WR wants to join. Addison is hesitant.
-          - desc: "WR grabs Addison's bat, swings it, and nukes a rabbit lurking behind the crowd (that no one noticed). Left near-speechless, Addison approves: “Sold. Welcome aboard.”"
+          - desc: "WR grabs Addison's bat, swings it, and nukes a rabbit lurking behind the crowd (that no one noticed). Stunned and impressed, Addison approves: “Sold. Welcome aboard.”"
       - nm: outro
         scn:
           - desc: For lack of shelter, Joce and Kay Lin have taken to higher ground. They sit quietly, Joce on "lookout" as she silently questions her choices.
           - desc: "Kay Lin gives her doubts a voice: why is Joce stil with her? They barely know each other. Joce dismisses it; if Kay Lin's untrustworthy, it's good to keep her close."
           - desc: But privately, Joce still wants to protect Kay Lin. (Possible intrusive thoughts of hurting her?) And even if she *did* get backstabbed, Joce tells herself it'd be a worthy way to go.
           - desc: Kay Lin leans back against her during the thought train. There's white-rot on Joce's ring finger now. She resigns herself to this; fade out, end episode.
+  - title: Follow me
+    sum: addison-my-city-now.jpg
+    parts:
+      - nm: pre-intro
+        scn:
+          - desc: The alliance sets up camp. Addison's not having much luck, and waves off the person from earlier ("wolf-skull") asking about plans. WR, meanwhile, is winning adoration by helping others.
+          - desc: Cuts to WR being tapped on the shoulder. Addison gestures; <i>you, follow.</i>
+          - desc: Out of the campground's earshot, Addison admits she has no clue what she's doing, but doesn't think the alliance will last long anyway. However, she wants WR as a *genuine* ally. She argues that WR would've been chased off if not for her; "The people still listen to me. And you... *you* know how to pitch a tent."
+          - desc: Addison offers a handshake to seal the deal. Cut scene, cue OP.
+      - nm: good morning
+        desc: pacing seems kinda wonky but *eh* I ain't adding filler, it definitely feels like the whole Beacon encounter should be its own chapter
+        scn:
+          - desc: Ugh, what a nightmare. Almost fun, glad that's over--- Joce wakes up and she's still here. *"Son of a---"* "Good morning to you, too, sunshine."
+          - desc: "Hunger is not a thing here, turns out. Joce has a mission, still: *leave*. She asks (commands) Kay Lin tell her more as they go, backs to the Beacon."
+          - desc: |-
+              Possible scene with Addison and alliance, establishing why they're out? Or just convey it through subtext, maybe Joce asks outright if they're stalking her or something. Anyway:
+              
+              Still lacking a solid plan, Addison takes a small group (including WR, wolf-skulll, a third tough guy, and Caleb insists on tagging along) out to, uh, check the land, pick up any stragglers.
+          - desc: Joce and Kay Lin end up back at the Beacon; Joce stares at the map, dumbfounded. Enter Addison and crew.
+      - nm: Beacon encounter
+        scn:
+          - desc:
+    current: y
 ---
 <!--<!doctype html> <-the markdown page is weird and does not like this-->
 <html lang="en">
@@ -72,6 +95,7 @@ ep:
 		<style>
 			*{box-sizing:border-box; background:#efefef;}
 			section{border:1px solid #808080; max-width:85.25em; margin:1em 0;}
+			summary{cursor:pointer;} .sum{display:inline-block;}
 			.synopsis{color:#808080;}
 			.part{margin-left:1em;}
 			.scenes{display:flex; flex-wrap:wrap; margin:-.75em 0 .5em -.5em;}
@@ -81,14 +105,17 @@ ep:
 	<body>
 		<header>
 			<h1>story outline 2, the faux-diagrammening: tl;dr edition</h1>
-			<p>ok got the giant rambledump out of my system mostly probably maybe, <em>this</em> time gonna try more scene-by-scene with minimal detail. jesus</p>
-			<p>start to finish this time</p>
+			<p>ok got the giant rambledump out of my system mostly probably maybe, <em>this</em> time gonna try more scene-by-scene with minimal detail. jesus<br/>
+			update: can’t have long text walls if you make a new box where each paragraph would have been! (this <em>should</em> make it easier to reshuffle flashbacks around ep6… here’s hoping….)</p>
+			<p>start to finish this time; referring to the long version</p>
 		</header>
 		
 		<main>
-			{%for ep in page.ep%}<section>
-				<h2>{{ep.title}}</h2>
-				<div class="synopsis">{{ep.sum|markdownify}}</div>
+			{%for ep in page.ep%}<section><details{%if ep.current%} open{%endif%}>
+				<summary><div class="sum">
+					<h2>{{ep.title}}</h2>
+					<div class="synopsis">{{ep.sum|markdownify}}</div>
+				</div></summary>
 				<div class="parts">
 					{%for prt in ep.parts%}<div class="part">
 						{%if prt.nm%}<hr><h3>{{prt.nm}}</h3>{%endif%}
@@ -100,7 +127,7 @@ ep:
 					</div>{%endfor%}<!--/prt-->
 					{%if ep.note%}<small>{{ep.note|markdownify}}</small>{%endif%}
 				</div>
-			</section>{%endfor%}
+			</details></section>{%endfor%}
 		</main>
 	</body>
 </html>
