@@ -8,6 +8,66 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: Follow me
+    sum:  |-
+       The Addison Chapter™  
+       this is such a weird little outlier of an episode but I still like it lots, think it ~foreshadows~ stuff and such, <em style="text-transform:uppercase;font-style:normal;">so</em>.
+       
+       gonna try to *really* tl;dr this because 1) time, and 2) as one of the early parts I have gone over it A Lot
+    scn:
+      - nm: (non-)alliance
+        desc: |-
+          WR sets up camp; Addison doesn't. Addison pulls WR aside like "imma be real with you chief all these people are fake. not us tho we're the real ones. team up y/y" and WR is silent because of course. Addison offers a handshake, end scene.
+      - nm: meanwhile, the actual main characters
+        desc: |-
+          What a nightmare. Then Joce wakes up and she's still here. "Son of a---" "Good morning to you, too, sunshine."
+          
+          Hunger is not a thing here, turns out. Joce has a mission, still: *get out*. She asks (commands) Kay Lin tell her more as they go, backs to the Beacon.
+      - nm: this ain’t workin
+        desc: |-
+          Joce ends up all the way back at the Beacon and stares at the map like "wtf even." Enter Addison and crew (WR, wolf-skull, another tough guy, and Caleb), who don't exactly *corner* Joce but don't *not* surround her, as Addison insists on reintroductions.
+          
+          Joce still has 0% interest in interacting with her; Caleb snaps, Addison's like "why don't we talk elsewhere" and Joce is just Extremely not interested, but then there are rabbits. Joce moves to higher ground for a better view and Addison, of course, follows, hellbent on being acknowledged. (Also maybe makes some comment like "Your little *friend*" "She's not---" "kept *staring* at me, did you notice that? She creeps me out." Addison's not lying, but Joce barely noticed so it wasn't in focus.)
+      - nm: rabbit tiiime
+        desc: |-
+          Caleb's freaking out and that just attracts the rabbits More. WR stuffs him in a crevice (where KL was already hiding) as rabbits close in; at first Addison's bodyguard trio tries to fight together, but they are not *remotely* coordinatd. Meanwhile Joce is trying both to get down (unaware of where the hell KL went) *and* get away from Addison, without anyone getting chomped. Much chaos such action.
+          
+          Then the third guy actually does get chomped, which puts a dramatic pause on everything for a bit. When Joce looks over to Addison there's another rabbit right behind her; Joce grabs her and drags her right out of dodge just in time, leaving her bewildered (with WR?? *probably* not alone) as Joce runs off to get Kay Lin. (She offers to pick up Caleb too but he refuses, and Joce isn't gonna wait.)
+      - nm: you are mean to me you insult me you don’t appreciate anything that i*
+        desc: |-
+          Safely away from the Beacon, Joce asks why the hell Kay Lin didn't tell her about the world looping (you know, like vibeo gaem; may not be explained in full here since it gets touched on later), or the rabbits being attracted to noise, or hell probably *so much else* that they just haven't been unlucky enough to encounter yet.
+          
+          But Kay Lin's just like ":/ you never asked," and she points out that when she *did* have pointers for Joce earlier, Joce was like "eh nah we do it my way." So again, Joce is forced to cede ground---yes, she could stand to listen more. Okay. *Now* will you explain the thing.
+          
+          Sure: Kay Lin's never actually tried going from one end to the other, so she didn't know. (Unsure about the rabbit-noise thing or if Joce actually brings up future hypotheticals.) Anticlimactic, yes. But she *does* offer a bit more, maybe suggest a rabbit-dodging technique, and we will not see it for like three more episodes but there Is something.
+      - nm: no one likes politics
+        desc: |-
+          Party returns to alliance, *immediately* the rumor mill is churning, wolf-skull's got the stick and Caleb is making the world's most pathetic attempt at holding it back. Only WR isn't fanning the flames---well, duh, but it still makes Addison feel marginally better.
+          
+          In an attempt to save her crumbling reputation, she calls the group together for a speech about the events, and makes a genuine attempt to apologize. Unfortunately it's a handwavey "I'm sorry you're upset" type of apology; genuine regret, less selfless motives, and a whole lotta non-answers. It backfires---maybe not even spectacularly, which would be *more* insulting. It just confirms she's ineffective.
+      - nm: “someone worth saving”
+        desc: |-
+          Remembering that Caleb got shoved underground a bit (indicating it's not completely flooded anymore), Addison returns to the Beacon that night, solo, and ventures down. When she thinks she hears someone following, she starts talking to them (thin veneer for a monologue): on the surface, she hopes she'll find some way to harness that... weird water-stuff that the rabbits hate, and that'll win everyone's favor back and they'll all love her again.
+          
+          She knows that's bullshit as she says it. Quite honestly Addison feels downright *lost*, not just because of this (but today didn't help), and even if everyone hates her forever she just wants to be "someone worth saving."
+          
+          Surprise: Caleb answers. "I think you already are," or similar.
+      - nm: Descent.
+        desc: |-
+          After a bout of very flustered "<em style="text-transform:uppercase;">Hello</em> what the f--- what the *hell* are you doing here?!?? stop it, go away, go back right now immediately *jesus christ how much did you hear*," Caleb says simply that he noticed Addison was gone and was worried. Still on edge but weirdly touched, Addison insists she's not going back until she accomplishes *something* down here. So naturally, Caleb follows, and reluctantly she allows it.
+          
+          They talk on the way down and it's surprisingly calm. Caleb says he's here because he's used to getting pushed around a lot, doesn't have many friends (who stay long, anyway), and he wants to prove himself too, kinda. Wants to get stronger, even though his first instinct is to be a wimp. Addison? Not half as noble; she thought it'd be a good networking opportunity, might look good on her resumé. (It's not 100% serious but not wholly sarcastic either. More that she's not taking *herself* too seriously here, in a mildly disparaging way.)
+      - nm: oop. bye
+        desc: |-
+          At the very bottom they find ~suspicious thing (same area Diana and Joce are way later) and Addison's like "well okay I've had my catharsis. I'm ready to go back now, actually :) (← this is genuine)" and Caleb's like "after all that???" and he wins. There's a ??lock of some sort, which the pendant *un*locks (Addison turns it at Caleb's prompting), and *bam* now it's caving in gg.
+          
+          On the way out they reach a fork in the path; Addison's certain they came up one way, Caleb the other. Caleb *seems* to cede but at the last second goes the other way; Addison is stopped just long enough for the section to collapse.
+      - nm: weh.
+        desc: |-
+          Cuts immediately to the Beacon, challenge summons. As people file in Joce notices Caleb alone, looking especially distraught. Kay Lin's just like 'eugh, vulnerability' although Joce pities him somewhat.
+          
+          When the challenge starts, Caleb has an announcement: Addison is dead. He's crying so loud it's hard to focus on the instructions. And with that, let the game begin!
+    note: \*i am a serious writer who continues to take the content and titling of my stories very seriously. also it is midnight
   - title: part ??3
     sum: up to The Moment, starts with amogus challenge. huh guess we're still doing 11 parts after all, possible scene shuffling or part-splitting notwithstanding; proooobably no merging. unless I go insane and make a tl;dr of this haha *unless---*
     scn:
@@ -180,7 +240,7 @@ ep:
       - nm: childhood flashback, expanded edition
         desc: |-
           As a kid/young teen, Joce had finally made a "friend" (or at least gotten someone to listen) and was telling them about the impending end of the world. Playing catch or tetherball as this happens; ends with the other one not buying it (maybe the whole thing being a setup to embarrass Joce?), and Joce hits the ball so hard it flies over the fence and smashes some not-too-distant glass. Other kids scramble as the car alarm blares. (Resembles the Beacon sound.)
-      - nm: childhood flashback, cont'd.
+      - nm: childhood flashback, cont’d.
         desc: |-
           [thinking of interspersing things here but for plotting clarity I just keep going in order with no interruptions]
           
@@ -217,12 +277,12 @@ ep:
           Joce can't move.
           
           Montage of Sal apologizing, holding her, giving her the cold shoulder, with another lover, staying close, teasing, mocking, and she's still not moving.
-      - nm: meanwhile...
+      - nm: meanwhile…
         desc: |-
           Unsure if KL's outing with Sequitur should be shown, but she comes back very, *very* giddy. Definitely *talks* about having met them and thinking they were weird but in kind of a fun way, and Joce kinda just tunes it out. *Maybe* makes some kind of cold jab?
           
           In either case, Kay Lin just quietly lies down against her, defeated and suddenly very quiet. Maybe says something like "I just want to help. You're making it so difficult." It's more sad than anything.
-      - nm: last but not least...
+      - nm: last but not least…
         desc: |-
           [It's dawning on me this part is *really fucking long* and might warrant splitting... but then Where.... Maybe it just seems longer since I'm being more generous with the descriptions? For now I digress.]
           
@@ -276,7 +336,7 @@ ep:
           The accountant reveals she doesn't *want* to hurt either of them (terribly inconvenient) but figured this might be the only way to make Kay Lin talk. Possible reiteration of *how* she knows Kay Lin's a former victor, which Kay Lin reluctantly confirms. Also drop the pendant if it hasn't been already. Joce starts out defiant but can't deny that she wants to know what's going on, too.
           
           Thus the accountant, still very much teasing Kay Lin (and a frustrated Kay Lin very much *not* reciprocating), pushes for more, and when Joce is threatened (hurt?) she caves: Yes, she's won this game beore. She first played with a friend---that pendant was hers.
-      - nm: revelations cont'd.
+      - nm: revelations cont’d.
         desc: |-
           No more from Kay Lin. The accountant *jumps* on this; Kay Lin, increasingly distraught, insists she did *not* kill her friend, but refuses to say how she (the friend) died.
           
@@ -305,7 +365,7 @@ ep:
       
       +later note: wondering if there could also be a bit more with Joce and the medic? Joce hit her own little nadir last ep, but I don't want to spend too much time on a minor relationship.... working it into the group session could be fine ig, hm.
     scn:
-      - nm: world's worst wake-up call
+      - nm: world’s worst wake-up call
         desc: |-
           Flashback. Two people ascending the Beacon. Smaller one is crying profusely; larger one, in the lead, says things like "you're not making it any easier" and "you *wanted* this, remember?".
           
@@ -317,7 +377,7 @@ ep:
           Joce reveals (also shown in montage) that she and Kay Lin have been taken in by the alliance from day 1, now led by White Rabbit. KL is torn up about having been rescued, especially since Joce is hurt, but can brush it off when Joce asks for the rest of her story.
           
           Kay Lin reiterates that she did *not* kill her friend, Emery: They made it to the end, and since neither wanted to kill the other, they agreed to just wait it out and see what happened. But Em got infected by the white-rot and one morning KL woke up to--- (She doesn't finish, visuals might do it; implicitly, Em tried to kill herself.) So they agreed to a double death instead, at the top of the Beacon---but when KL closed her eyes, Em jumped.
-      - nm: KL check-in [cont'd.]
+      - nm: KL check-in [cont’d.]
         desc: |-
           End flashback visuals; Kay Lin says she just keeps waking up here, and she's tried warning people and playing along but nothing works. But she thinks something might be different this round (and doesn't seem to strictly like it), because no one's reached out to her first before.
           
@@ -438,7 +498,7 @@ ep:
       - nm: Joce leaves Kay Lin
         desc: |-
           Kay Lin wakes up, stumbles out, sees something/someone. "Thank you! And... good bye." May or may not show Joce but the scene ends with the exit door closing.
-      - nm: "Don't go"
+      - nm: “Don’t go”
         desc: |-
           Sequitur visits Em, asks if any of this was "worth it." Em insists there was no other choice, she would've never made it (couldn't be trusted?) on her own. Sequitur asks, "You think *I'll* make it?", and starts to walk out. Suddenly a rabbit looms; its teeth read "<em style="text-transform:uppercase;">Don't go</em>."
       - nm: Neighbor + letter
