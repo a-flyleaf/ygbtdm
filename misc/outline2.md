@@ -8,6 +8,53 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: No one else
+    sum: |-
+      KL wakes up sad and ends with KL still being sad but for very different reasons. meanwhile Joce does a friendship!
+      
+      split up the second scene because "keep it short" is not working out lmao, although the last part's choppy anyway...
+    scn:
+      - nm: world's worst wake-up call
+        desc: |-
+          Flashback. Two people ascending the Beacon. Smaller one is crying profusely; larger one, in the lead, says things like "you're not making it any easier" and "you *wanted* this, remember?".
+          
+           Kay Lin is the smaller one, and *really* doesn't want to do this. But with a gentler tone, her friend promises her it'll be okay, and they shut their eyes and count down.
+          
+          <i>Splash.</i> Kay Lin opens her eyes; cut to the present. When she sees Joce sleeping nearby she starts losing it, which wakes Joce up.
+      - nm: KL check-in
+        desc: |-
+          Joce reveals (also shown in montage) that she and Kay Lin have been taken in by the alliance from day 1, now led by White Rabbit. KL is torn up about having been rescued, especially since Joce is hurt, but can brush it off when Joce asks for the rest of her story.
+          
+          Kay Lin reiterates that she did *not* kill her friend, Emery: They made it to the end, and since neither wanted to kill the other, they agreed to just wait it out and see what happened. But Em got infected by the white-rot and one morning KL woke up to--- (She doesn't finish, visuals might do it; implicitly, Em tried to kill herself.) So they agreed to a double death instead, at the top of the Beacon---but when KL closed her eyes, Em jumped.
+      - nm: KL check-in [cont'd.]
+        desc: |-
+          End flashback visuals; Kay Lin says she just keeps waking up here, and she's tried warning people and playing along but nothing works. But she thinks something might be different this round (and doesn't seem to strictly like it), because no one's reached out to her first before.
+          
+          After a weighty silence, Joce gives her something: the pednant. Joce promises to--- KL interrupts, trying to stop her, but Joce insists: she *will* find a way out of here. Kay Lin isn't hopeful, and tells Joce to leave before she loses her composure again.
+      - nm: WR check-in
+        desc: |-
+          Leaving Kay Lin (and Sequitur entering on Joce's heel), Joce reports back to White Rabbit. WR speaks for the first time onscreen (which Joce does not remark on), inviting Joce out to a group activity.
+      - nm: teamwork session
+        desc: |-
+          WR's group (incl. Joce and medic) goes rabbit-hunting. WR shows Joce a technique akin to bullfighting, which WR uses too: as one of the sturdier people here, stand your ground, then let the group close in when the rabbit gets close. It's a hell of a thrill and it *works*.
+      - nm: tug-o-war
+        desc: |-
+          The challenge splits everyone in a tug-o-war to the death. Joce stands opposite WR and KL, and is like "hold on this is stupid why are we doing this, what if we just... *didn't*." At first it doesn't seem like WR will agree (meaning Joce's side loses instantly) but ultimately WR *does* relent.
+          
+          The setting throws a temper tantrum as "penalty" but everyone makes it out alive anyway. Power of friendship, babey.
+      - nm: campfire stories
+        desc: |-
+          The alliance throws a celebratory "no one died" campfire, and Joce is invited to sit with WR---and Sequitur, who's apparently a childhood friend.
+          
+          As they banter, Joce invites Kay Lin to join them. (WR leaves shortly after.) Talking about past stuff, Kay Lin mentions having felt aimless before meeting Em. She gets up not long after. [I forgot if something Prompted that, whoops]
+      - nm: tfw no KL
+        desc: |-
+          Joce follows Kay Lin a short ways off. Kay Lin, more quietly confused than anything, recalls a walk she had with Em shortly before they ended up here. Joce is sympathetic but Kay Lin pushes her away.
+          
+          When Joce returns to their room that night, Kay Lin isn't there.
+      - nm: balcony cliffhanger
+        desc: |-
+          Joce is on the rooftop when she overhears: WR is on the balcony, and enter KL. "Em?"
   - title: But you
     sum: |-
       Kay Lin goes off the shits // starts with balcony scene, ends with the Em-sponsored cave-in
@@ -35,6 +82,8 @@ ep:
     note: |-
       \*Hmm, not actually 100% sold on the pacing here... a full-out Em!POV flashback seems to kill the pace, but I don't want to pad out the interim. That said this episode goes by wicked fast, and there's a *lot* in the next one, so might shuffle some stuff :Vc  
       +<em style="text-transform:uppercase;font-style:normal;">also</em> maybe the way Em talks about KL echoes Joce on S, Just A Thought... could even straight-up ask like "you ever have a clingy fuck who just wouldn't let go" and Joce is like "8\\". ("Joce on S" as in "how Joce feels about S" but y'know what? hearing the *same* thing S accused *her* of but @KL would 👌 work like a charm too)
+      
+      later addition: *oh yeah* the walk, Em's POV of that is sorrrt of lacking? maybe?? definitely don't need to *show* it all again, just add some context---that Em *used* to be more patient with her, that she really wanted Em to meet her family. there was More to that, a lot more.
   - title: near-end-of-thing
     sum: I am going backwards the episode count might change. anyway this is uhhh, p much the entire climax? Joce wakes up underground and it's the whole Beacon ascent
     scn:
