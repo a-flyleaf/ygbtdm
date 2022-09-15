@@ -3,11 +3,20 @@ layout: none
 
 ep:
   - title: Relapse
-    sum: start of story
+    sum: |-
+      start of story  
+      much, much later addition: lmao the original thing in the placeholder desc box was this: "Lorem ipsum **dolor sit** amet. For god's sake *keep it short*." worked like a charm :ok_hand: (It Did Not)
+      
+      ...actually quite frankly I did the whole-ass colorscript here, I think the only real changes since are... the intro, I think? yeah the real-world segments I've been rethinking that. I'm just gonna skip straight to that:
     scn:
-      - nm: the first
+      - nm: [the first]
         desc: |-
-          Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+          [Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.]
+      - nm: irl shit
+        desc: |-
+          - it's raining now mood weather woo. for the symbolisms
+          - which also means Joce can't take her *usual* route, or at least it's more difficult than usual? either way, obligate establishment of her being a total outcast by choice
+          - *this* time when she gets home she sees a bag of trash out and her poster's sticking out; maybe sprains her ankle doubling back? similar scene once in, just adds a lot more ">:C !!!!!!" urgency to *her* part. (her attachment to the poster is evident either way I think? but this puts *all* the emphasis on it, it's a catalyst now. also draws more attention to They Are Trashing Her Shit, much as they mean well)
   - title: Follow me
     sum:  |-
        The Addison Chapter™  
