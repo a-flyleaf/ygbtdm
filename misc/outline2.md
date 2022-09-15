@@ -8,6 +8,81 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: So it goes
+    sum: looootsa flashbacks in this one. like I think this is 90% flashback, with a little KL/Seq between and then Gary at the end. RIP Gary.
+    scn:
+      - nm: pre-intro, KL+J?
+        desc: |-
+          Joce has sprained her ankle again. Kay Lin urges her to exercise it. Joce obeys, but is otherwise despondent, which worries Kay Lin thoroughly.
+      - nm: childhood flashback, expanded edition
+        desc: |-
+          As a kid/young teen, Joce had finally made a "friend" (or at least gotten someone to listen) and was telling them about the impending end of the world. Playing catch or tetherball as this happens; ends with the other one not buying it (maybe the whole thing being a setup to embarrass Joce?), and Joce hits the ball so hard it flies over the fence and smashes some not-too-distant glass. Other kids scramble as the car alarm blares. (Resembles the Beacon sound.)
+      - nm: childhood flashback, cont'd.
+        desc: |-
+          [thinking of interspersing things here but for plotting clarity I just keep going in order with no interruptions]
+          
+          The car owner has shoved "S" against an alley wall, pissed. Joce, wielding a baseball bat, interrupts, voice shaking but trying to stand strong. Although the adult is intimidating, the arrival of another adult (teacher?) dissipates the tension.
+          
+          Unsure if Joce and "S" talk here or later, but Joce is like "stop standing around the schoolgrounds you fucking creep" and S is all amused by that, which Joce isn't sure what to make of. They call her a "little hero" and gift her a dog tag chain necklace as thanks.
+      - nm: teen flashback
+        desc: |-
+          [definitely needs some kind of Thing between last part and this. oh yeah, and order may not be chronological]
+          
+          Joce has continued to meet with S. into her mid-teens. They meet secretly on a rooftop for a smoke (S. offers, Joce lights up; still not 100% used to it, but not *un*willing), where Joce bemoans the usual bullshit. Shifting the topic, she teases S over the latest "boytoy," but it turns out that guy dumped S too; Joce awkwardly apologizes, S is like "eh, they all do."
+          
+          S. proposes Joce come live with. Do well in school, keep the record clean---then move out soon as she's legally able, when they can't raise a stink. Joce can't believe it. She's not saying *no.*
+      - nm: "flashback: proposal"
+        desc: |-
+          Dingy (though not claustrophobic) living space, trash and clothes strewn about, yellowing walls. TV's on. Dramatic scene of the hero (same guy as Joce's childhood franchise) being all "my love, I can't" but the woman insists, and for bullshit plot reasons he impales her through the gut and shoves her off a cliff.
+          
+          Joce, now a young adult, is jeering; very drunk, leaning on S. Mockery like this is a pastime, though S. isn't enthusiastic about it as they usually are. This is stupid, isn't it? No, like---*very* stupid. As in, not worth their time anymore. Joce falls silent.\* S doesn't apologize, kinda just handwaves it; she shouldn't be so attached anyway.
+          
+          Actually, Joce feels kinda sick. Hangover kicking in, maybe. Then, out of nowhere: "Let's get married." Beat. Joce promptly throws up. (S: "You could have used words...")
+      - nm: beginning of the end
+        desc: |-
+          Abrupt interruption from Kay Lin. (Was faintly visible in the background smog previously, but only barely. She's been *trying* to get through to Joce without much luck; this might seem abrupt, even disproportionate, which is intentional.) Kay Lin is fed up with Joce, rants about feeling like she's talking to a brick wall; it doesn't persuade Joce much.
+          
+          Kay Lin "threatens" to walk out; no response from Joce. It's dangerous out there. She might not come back. Joce kinda just eyes her dryly. Deflating, Kay Lin pauses at the exit, but ultimately walks.
+          
+          Parallel-cuts to Joce in the next flashback:
+      - nm: beginning of the end pt. 2
+        desc: |-
+          ~Younger Joce sits on a couch, just as blank. A "game over" screen flashes at her. (Setting is vaguely similar to the story environment.) She hears the door open and immediately perks up, is like "Hey, I heard there was gonna be a concert at---" People are talking.
+          
+          She stops dead in the doorway. Someone's come in with Sal and they're making out *right there,* barely acknowledging her. When they *do* it's a "oh, never mind her, she just lives here" handwave, a giggle, and they're back to flirting and they're going up to bed.
+          
+          Joce can't move.
+          
+          Montage of Sal apologizing, holding her, giving her the cold shoulder, with another lover, staying close, teasing, mocking, and she's still not moving.
+      - nm: meanwhile...
+        desc: |-
+          Unsure if KL's outing with Sequitur should be shown, but she comes back very, *very* giddy. Definitely *talks* about having met them and thinking they were weird but in kind of a fun way, and Joce kinda just tunes it out. *Maybe* makes some kind of cold jab?
+          
+          In either case, Kay Lin just quietly lies down against her, defeated and suddenly very quiet. Maybe says something like "I just want to help. You're making it so difficult." It's more sad than anything.
+      - nm: last but not least...
+        desc: |-
+          [It's dawning on me this part is *really fucking long* and might warrant splitting... but then Where.... Maybe it just seems longer since I'm being more generous with the descriptions? For now I digress.]
+          
+          [also unsure how these parts are paced but EH here goes:]
+          
+          Kay Lin: Out again. But instead of Sequitur, she finds a dead end. / Joce: Kay Lin's been out too long. Finally she gets up to find her.
+          
+          Also meanwhile the flashback is of Joce finally walking out; unsure where it cuts off, but it'll continue into the next episode.
+      - nm: parallel disaster
+        desc: |-
+          The accountant, wielding the pendant, corners Kay Lin and convinces her to follow quietly. When Kay Lin walks out the accountant takes her hand in a vicegrip.
+          
+          Joce ventures back underground and hears something---Gary. But he's *different* now, bloated, groaning, *wrong.* If he recognizes Joce it's hard to tell.
+          
+          Kay Lin is led to a back entry and nudged in. She tries to make a run for it, but the accountant is faster. Joce is cornered by Gary and, desperate, triggers a cave-in. The scenes go black in parallel.
+      - nm: goodbye
+        desc: |-
+          ok maybe flashback!Joce walks out here??
+          
+          Rubble. It's dark. Joce leaves, visibly and deeply shaken; Gary's been let behind. Did he recognize her, in the end? Unsure how sapient I want him to be, but Joce feels fucking awful (worse, even) either way.
+          
+          But Kay Lin's still gone. She steels her resolve. End episode.
+    note: \*ngl I actually forgot how this scene goes, just that it involved TV and ended with the proposal. this works though I think
   - title: [idr yayyy]
     sum: |-
       <em style="text-transform:uppercase;font-style:normal;">kidnapping arc woohoo</em>  
@@ -137,6 +212,8 @@ ep:
       +<em style="text-transform:uppercase;font-style:normal;">also</em> maybe the way Em talks about KL echoes Joce on S, Just A Thought... could even straight-up ask like "you ever have a clingy fuck who just wouldn't let go" and Joce is like "8\\". ("Joce on S" as in "how Joce feels about S" but y'know what? hearing the *same* thing S accused *her* of but @KL would 👌 work like a charm too)
       
       later addition: *oh yeah* the walk, Em's POV of that is sorrrt of lacking? maybe?? definitely don't need to *show* it all again, just add some context---that Em *used* to be more patient with her, that she really wanted Em to meet her family. there was More to that, a lot more.
+      
+      later *later* addition: maybe Joce waking up can get moved to the end here? we *know* she's not getting killed off here, it's not really a cliffhanger. also seems like more time passes between that and the alliance encounter, with WR's declaration sandwiched between.
   - title: near-end-of-thing
     sum: I am going backwards the episode count might change. anyway this is uhhh, p much the entire climax? Joce wakes up underground and it's the whole Beacon ascent
     scn:
