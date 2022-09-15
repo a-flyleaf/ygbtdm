@@ -8,6 +8,74 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: part ??3
+    sum: up to The Moment, starts with amogus challenge. huh guess we're still doing 11 parts after all, possible scene shuffling or part-splitting notwithstanding; proooobably no merging. unless I go insane and make a tl;dr of this haha *unless---*
+    scn:
+      - nm: amogus round 1*
+        desc: |-
+          The challenge splits players into small groups with one odd one out. Guess the outlier given one (1) clue, if even that, with limited time to talk between anonymous vote elimination rounds. Grand prize: supplies, and lots.
+          
+          Joce and Kay Lin are first grouped with w-s, Caleb, and a fifth. Caleb immediately accuses Joce of killing Addison; w-s pounces, Kay Lin retorts, Joce is already *way* out of her league. Still, Caleb's out first, and he's innocent so the game continues.
+          
+          Second round, Joce is targeted for keeping quiet; she awkwardly tries to shift it to the fifth, which *nearly* doesn't work but they blow their cover and it's game.
+      - nm: interim
+        desc: |-
+          Between games, wolf-skull says it's all in good fun, no hard feelings. It's said with a smirk; Joce doesn't trust it one bit. Caleb, meanwhile, is just continuing to talk shit to whoever's closest; Joce pointedly avoids him.
+          
+          Kay Lin casually asks why Joce didn't scapegoat her. It would've been easy. Joce, startled, doesn't have an answer for this, and the next round begins.
+      - nm: round 2
+        desc: |-
+          The accountant introduces herself prominently. (The rest are randos.) Curiously, the accountant defends Joce (though not as aggressively as Kay Lin); when Joce hesitantly returns the favor, it inadvertently turns into teamwork. Together they turn the other players against each other---but when it's just them standing, the accountant offers a handshake. *Good game.* She was the outlier, and now she's won.
+          
+          Joce isn't sure what to make of it all. Obviously, she's been played. But it was a damn *good* play.
+      - nm: to the casa
+        desc: |-
+          Kay Lin's out that round too, and they find that Caleb still hasn't shut up. A big guy, Gary, intervenes before it gets too heated, and invites everyone to his place after the challenge. No alliance, just don't hurt anyone and you're good.
+          
+          Joce doesn't want anything to do with another chaotic group, but people *are* looking at her. She's certainly made no friend of the alliance. Reluctantly Joce decides to keep her head down and follow the crowd, just for now.
+      - nm: in ze casa
+        desc: |-
+          Kay Lin follows Joce quietly the whole time. Still mildly unsettled by the "scapegoat" talk, once they reach the house, Joce tells her to go off and talk to people, figure out if anyone's plotting anything. Joce is going to "investigate" the place, video game-style.
+          
+          She finds a locked basement door, but the floor's creaky and Joce trips on a board, aggravating the sprain. Before long Kay Lin's at her side, offering to look at it; Joce, mildly embarrassed, brushes her off.
+          
+          The accountant overhears, too, and announces it's dinnertime. (It is, implicitly, an order.)
+      - nm: disaster dinner
+        desc: |-
+          Caleb's waiting. (Joce may have seen him come in earlier?) He immediately launches into a verbose non-apology to Joce, which quickly veers off into self-pity; she interrupts and says it's fine, which irritates Kay Lin but *does* get Caleb to shut up.
+          
+          ...Temporarily, anyway. He's happy to drink; Joce doesn't want to touch the stuff, mutters that Kay Lin shouldn't either. Caleb tries to make small talk, which Joce doesn't try at as a rule, and Kay Lin seems miffed by his mere existence. He shifts his full attention to her before long, eventually provoking a snarky response; Joce is kinda just *"Kay Lin."* (admonishing her) and Caleb *jumps* on it--- "Yeah, *Kayla*, why are you so mean to me? :((( You should listen to your girlfriend...."
+          
+          Kay Lin gets up and *slams* the table; "She is <em style="text-transform:uppercase;font-style:normal;">not</em> my---!"; it's partially a cilché gag but she is also genuinely *extremely* pissed about it, as if Caleb had just mocked a dead pet.
+          
+          In any case it attracts attention; knocked over her drink, too. Silent, awkward beat. Joce gets up and leaves the table.
+      - nm: even worse
+        desc: |-
+          Joce just wants some fresh fucking air. Instead she gets a slurred crowd of partygoers, which soon melts into something not-quite-present. It's a slurry of unwanted closeness and *far* too many drinks, of Joce *specifically* being pushed into it---
+          
+          Kay Lin finds her pacing out the back, more agitated than usual. Joce almost doesn't register her presence, just wanting to be left alone to calm down; possible exchange where Joce snaps at her verbally? Regardless Kay Lin reaches out without warning and Joce jabs back on instinct. It's more than enough to knock Kay Lin over, finally snapping Joce out of it---and Caleb's in the window, watching.
+          
+          Snap decision: Joce backs up and leaves.
+      - nm: no u-turn allowed
+        desc: |-
+          The haze is *bad*. Joce tries to convince herself what she's doing is good and necessary, she was getting too attached anyway--- no, Kay Lin was---? It's a futile effort. That looked bad, it *was* bad.
+          
+          It's also hard to get too far with the sprain acting up. Then some blasts go off nearby, and Joce is being pursued---by Caleb, of all people. Still not sure of the details but he *does* manage to corner her, with non-small help from rocky ground and maybe some lurking rabbits.
+      - nm: Caleb threatens Joce
+        desc: |-
+          Caleb demands an apology---for Addison, duh. But he's also projecting basically all his trauma onto her, going on about how he's here to get stronger so he can stop hiding from people like her, it's a big righteous spiel casting Joce as an irredeemable enemy. Joce is very *capable* of striking back, at this point, but the "that makes you exactly what I think you are" talk is getting to her.
+          
+          Catching her guard down, Caleb goes for a killing blow---
+      - nm: Kay Lin kills Caleb/The Moment™
+        desc: |-
+          ---and gets his throat slit instead.
+          
+          Apparently Kay Lin followed, broken glass in tow. After Caleb collapses, barely gargling long before going silent, Kay Lin steps over him and gets *way* too close for comfort. She gestures to her own neck; carotid, takes seconds to bleed out.
+          
+          Joce can't move.
+          
+          ~~World's most uncomfortable staring contest ever.~~ (It's not just Joce; Kay Lin doesn't move, either.)
+    note: \*god I really did keep the titles short and serious at first and now they are Just. this is what my notes look like these days btw all y'all, it's a trainwreck out here
   - title: part not-4
     sum: after The Moment, Gary's house "arc," and ends with their escort out
     scn:
@@ -329,7 +397,7 @@ ep:
         desc: |-
           The accountant has been traversing the underground since waking up herself, and requests a catch-up talk in exchange for her guidance. Reluctantly Joce complies.
           
-          "[Saving her?] From who---herself?" Joce can't answer that. Before parting, the accountant reveals her name (Diana), and Joce asks her who "Terry" was. Diana is *delighted* she remembers: "Terrance is my deadbeat brother." He was handed the world on a silver platter and squandered it all. (Show Joce moving in; Diana's voiceover continues.) Diana never did understand what kept him going---down, that is.
+          "[Saving her?] From who---herself?" Joce can't answer that. (Also something something Joce is drawn to people who are bad for her, maybe too obvious but if anyone's gonna say it it's the accountant here.) Before parting, the accountant reveals her name (Diana), and Joce asks her who "Terry" was. Diana is *delighted* she remembers: "Terrance is my deadbeat brother." He was handed the world on a silver platter and squandered it all. (Show Joce moving in; Diana's voiceover continues.) Diana never did understand what kept him going---down, that is.
       - nm: Addison goes full rabbit
         desc: |-
           Joce crosses paths with Addison, who's a demented shell of her former self. She's indecisive. Disgusted and saddened, Joce urges her to move on, never give up. Addison seems to comply---and proceeds to dry-drown, transorming into a rabbit. Joce is helpless.
