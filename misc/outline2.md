@@ -8,8 +8,67 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: part not-4
+    sum: after The Moment, Gary's house "arc," and ends with their escort out
+    scn:
+      - nm: intro speedrun
+        desc: |-
+          The episode starts with the challenge already underway, with sporadic "flashbacks"/mini-scenes interrupting until up to speed. Joce is trying to focus on the game but having a hell of a time.
+      - nm: that just happened
+        desc: |-
+          The challenge summons seems to "reset" the scene; Kay Lin's suddenly acting fine, and there's no sign of Caleb's body. (Maybe little bits of pendant, though, albeit sunken.) When Kay Lin backs up she's looking down, but Joce barely notices because *what the fuck was that.*
+      - nm: actual challenge
+        desc: |-
+          Joce avoids Kay Lin like the plague. Lots of people are missing from Gary's place, and (in the background? idk if Joce notices) Gary seems surprised to see the accountant, who shows up separately.
+          
+          The challenge is capture-the-flag meets laser tag except the "lasers" are (nonlethal) jabs to the neck. Joce is on a team with Gary opposite Kay Lin; the accountant's out early. Joce treats it like a first-person shooter and quickly gets into it, but is haunted by Kay Lin. (May or may not be hallucinating via sleep deprivation.)
+      - nm: victory(?)
+        desc: |-
+          The actual Kay Lin is helping Joce from the sidelines the whole time, which does *not* help Joce's paranoia. Near the end, Joce has the chance to claim victory, but it means letting Kay Lin get struck down; Joce goes for the goal anyway, and smashes it as Kay Lin gets hit (by Gary, turns out).
+      - nm: Gary's invitation
+        desc: |-
+          The prize is messages in bottles and Joce starts to walk without taking hers. Gary catches up, congratulating her on the challenge performance and inviting her back to the house. Joce, paranoid and overtired, argues; "You don't know me. You don't know anything about me." But there are rabbits lurking, and she *really* needs sleep, so in the end she relents.
+          
+          Her head's in a fuzz on the trek back (of which Kay Lin is also a part, barely noticeable), and as soon as she finds a room Joce falls immediately and deeply asleep.
+      - nm: good morning
+        desc: |-
+          Joce wakes up to the bottle on the bedstand; "Someone's looking out for you ;)", plus a note to meet the accountant in her office.
+          
+          Outside, Joce passes Kay Lin, who's got a noticeable black eye. They make very brief eye contact and then mutually try to ignore it.
+      - nm: failed the charisma check
+        desc: |-
+          Still wary, Joce actually tries to talk to people. Running off would look bad, especially with Kay Lin around, and she wants to figure out what people know about last night, about the accountant.
+          
+          Unfortunately she is quickly reminded why she doesn't do this: her approach is jarringly direct, which unnerves people, and she stutters and they notice and that makes it worse. It's a very awkward experience on both ends and, after a few revolving rounds of nonsense, Joce is frazzled. (More of a montage than anything detailed.)
+      - nm: Joce warns Gary, or at least tries
+        desc: |-
+          When Joce rounds back by the living room (maybe prompted by the last one she ~talks to?), Gary's talking with Kay Lin, which immediately makes Joce panic. She not-at-all-inconspicuously pulls him aside, trying to warn him that Kay Lin might not be trustworthy, but unable to get out the details. Then she sees Kay Lin's watching and just walks off on the spot.
+      - nm: Mistake™
+        desc: |-
+          By now Joce could use a smoke. Or drink. Or hell, the next best thing: she finds the accountant's office.
+          
+          The accountant is examining a wall map, and without greeting Joce talks about how baffling it is. Joce hesitantly joins the investigation (the site of last night's events is marked somehow), and (at the accountant's prompting? probably not thinking about it too much, just socially drained) mentions the map seems to "loop" from one end to the other.
+          
+          The accountant is impressed. Joce is weirdly flattered. Then enter Gary.
+      - nm: <em>Big</em> Mistake
+        desc: |-
+          He trails off when he notices Joce, not even finishing the sentence. He doesn't have to; the accountant instantly deducts they've talked, and further guess-asks if it's about *that girl.* The lack of response is immediately damning.
+          
+          Joce blurts "Don't hurt her---!" but the accountant is *delighted.* She's noticed Caleb went missing, of course, as did these two, and frankly she doesn't think Joce could hurt a fly. What's the agreement on people who break rule #1 (play nice), eh, Gary? Is it lethal?
+          
+          Garys is apologetically pushing back; Joce takes the first excuse to bolt.
+      - nm: oh <em>now</em> you don’t want to—
+        desc: |-
+          Joce tells Kay Lin they gotta go, *now*, and tries to drag her out; she resists, and people notice. Increasingly panicked, Joce tries to argue, which makes her look worse. Gary steps in to break up the brewing fight, and pulls both Joce *and* Kay Lin aside.
+      - nm: T.T.F.N.
+        desc: |-
+          Gary's actually willing to let them go, because he thinks Joce is good people and Kay Lin... well, she's probably fine. Kay Lin asks about Joce's bottle (confirming she brought it along in the first place); the accountant hands it over, having watched from close behind; it all happens quickly.
+          
+          Surprisingly, the accountant agrees to let them go, though she's still treating the whole thing like a very funny show. And just like that, Joce and Kay Lin are out free---back into the wild world of broken ground and rabbit monsters.
   - title: part not-5
-    sum: starts with J/KL argument, ends with Gary's downfall and hand hold. might be shorter since it's getting late whoops
+    sum: |-
+      starts with J/KL argument, ends with Gary's downfall and hand hold. might be shorter since it's getting late whoops  
+      +for whatever it's worth, inadvertently started writing start to finish here
     scn:
       - nm: you did What
         desc: |-
@@ -106,7 +165,7 @@ ep:
           Also meanwhile the flashback is of Joce finally walking out; unsure where it cuts off, but it'll continue into the next episode.
       - nm: parallel disaster
         desc: |-
-          The accountant, wielding the pendant, corners Kay Lin and convinces her to follow quietly. When Kay Lin walks out the accountant takes her hand in a vicegrip.
+          The accountant, wielding the pendant, corners Kay Lin and convinces her to follow quietly. (She threatens to sic people on Joce; they left the house on such a godawful note, it would not be hard.) When Kay Lin walks out the accountant takes her hand in a vicegrip.
           
           Joce ventures back underground and hears something---Gary. But he's *different* now, bloated, groaning, *wrong.* If he recognizes Joce it's hard to tell.
           
