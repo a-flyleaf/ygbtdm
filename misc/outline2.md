@@ -8,9 +8,41 @@ ep:
       - nm: the first
         desc: |-
           Lorem ipsum **dolor sit** amet. For god's sake *keep it short*.
+  - title: But you
+    sum: |-
+      Kay Lin goes off the shits // starts with balcony scene, ends with the Em-sponsored cave-in
+    scn:
+      - nm: balcony/KL big F moments
+        desc: |-
+          Kay Lin is *certain* that WR is Em. At first she thought Em just lost her memory, but remembering Sequitur disproves it. KL tries to return the pendant as a "remember me?" gesture. Dead silence. KL's like "at least say *something* :,(" and Em just fuckign,, walks out.
+      - nm: aftermath bits
+        desc: |-
+          Joce overheard the whole thing and immediately goes to confront WR/Em; Em confirms but is like "it's *complicated* I'll tell you more later, don't get involved. You'll make it worse" and the latter convinces Joce.
+          
+          Meanwhile/later, Sequitur finds KL having a bad time. She's reclusive at first, but gets an Idea, and holds their face close as she says there's a way they can help her feel better.
+      - nm: KL hunt
+        desc: |-
+          Back and forth:
+          - "They're gone." Joce wasn't sleeping anyway.
+          - Seq's having a cooldown; Kay Lin makes her move. Yes, it's suggestive. She traps them, and outright asks them to kill her. And of course they're like "what the *fuck* no", but she traps them there anyway.
+          - Em and Joce fight off rabbits on their pursuit, back-to-back. Em's like "she's fucking crazy" and Joce is like "I *know*," possible backstory snippets with Em's narration? Em has nothing nice to say about KL, Joce is kinda uneasy with that.\*
+          - But yeah Seq is bait and KL's getting impatient.
+      - nm: collapse
+        desc: |-
+          Em goes straight to Sequitur; Kay Lin yells at her to zero response. Joce tries to calm her down; "How *nice* of you to stop by" or similar, KL's distressedly mocking her, but isn't Peak Energy the whole time.
+          
+          Rabbits start closing in; when Joce flees, Kay Lin doesn't follow. Em's silently like "yo don't do it" and Joce tries to rush for her anyway and Em's just ":^/ *oh my god*," then forces a cave-in. Fleeting eye contact, fall to black.
+    note: |-
+      \*Hmm, not actually 100% sold on the pacing here... a full-out Em!POV flashback seems to kill the pace, but I don't want to pad out the interim. That said this episode goes by wicked fast, and there's a *lot* in the next one, so might shuffle some stuff :Vc  
+      +<em style="text-transform:uppercase;font-style:normal;">also</em> maybe the way Em talks about KL echoes Joce on S, Just A Thought... could even straight-up ask like "you ever have a clingy fuck who just wouldn't let go" and Joce is like "8\\". ("Joce on S" as in "how Joce feels about S" but y'know what? hearing the *same* thing S accused *her* of but @KL would 👌 work like a charm too)
   - title: near-end-of-thing
     sum: I am going backwards the episode count might change. anyway this is uhhh, p much the entire climax? Joce wakes up underground and it's the whole Beacon ascent
     scn:
+      - nm: alliance search/cold open
+        desc: |-
+          Em tells the people that KL's gone insane and to go find her. Seq's like "uhhhh idk man." [Initially forgot about this scene tbh, and it *does* seem redundant... need Something for Seq's uneasiness with Em tho, idk.] Short sequence.
+          
+          This is the last time the intro will be played; final ep just goes straight into it.
       - nm: underground, alone
         desc: |-
           Joce chugs the ~ichor and wakes up to find Kay Lin already gone, but there's a trail. She calls out as she follows, promising no harm. Possible bait-message?
@@ -82,7 +114,7 @@ ep:
 	<head>
 		<title>aaaaaaaa</title>
 		<style>
-			*{box-sizing:border-box;}
+			*{box-sizing:border-box; background:#efefef;}
 			section{border:1px solid #808080;}
 			.synopsis{color:#808080;}
 			.scenes{overflow:auto; display:flex; flex-wrap:wrap;}
@@ -105,6 +137,7 @@ ep:
 						<h3>{{scn.nm}}</h3>
 						{{scn.desc|markdownify}}
 					</div>{%endfor%}
+					{%if ep.note%}<small>{{ep.note|markdownify}}</small>{%endif%}
 				</div>
 			</section>{%endfor%}
 		</main>
