@@ -58,6 +58,12 @@ ep:
           - desc: Addison is alliance leader now and Caleb is clingy. Someone asks Addison about plans; cue scream from the crowd.
           - desc: “White Rabbit” steps forward. And doesn't talk, so Addison plays charades; WR wants to join. Addison is hesitant.
           - desc: "WR grabs Addison's bat, swings it, and nukes a rabbit lurking behind the crowd (that no one noticed). Left near-speechless, Addison approves: “Sold. Welcome aboard.”"
+      - nm: outro
+        scn:
+          - desc: For lack of shelter, Joce and Kay Lin have taken to higher ground. They sit quietly, Joce on "lookout" as she silently questions her choices.
+          - desc: "Kay Lin gives her doubts a voice: why is Joce stil with her? They barely know each other. Joce dismisses it; if Kay Lin's untrustworthy, it's good to keep her close."
+          - desc: But privately, Joce still wants to protect Kay Lin. (Possible intrusive thoughts of hurting her?) And even if she *did* get backstabbed, Joce tells herself it'd be a worthy way to go.
+          - desc: Kay Lin leans back against her during the thought train. There's white-rot on Joce's ring finger now. She resigns herself to this; fade out, end episode.
 ---
 <!--<!doctype html> <-the markdown page is weird and does not like this-->
 <html lang="en">
