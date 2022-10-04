@@ -40,7 +40,7 @@ Story didn't have a title at this time, no.
 </section>
 
 <section markdown="1">
-## /ygbtdm v1(.1)
+## /ygbtdm v1
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
 - 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
@@ -52,7 +52,7 @@ Story didn't have a title at this time, no.
 </section>
 
 <section markdown="1">
-## site overhaul/v1.2 (ongoing)
+## site overhaul/v1.2
 - 2022/08/11: new index image; backend gallery shuffling (including catch-all page)
 - 2022/08/11--12: gallery pages & navigation overhaul; colorscript info page
 - 2022/08/14: simpler gallery navigation; colorscript layout tweaks (caption functionality, single-row layout)
