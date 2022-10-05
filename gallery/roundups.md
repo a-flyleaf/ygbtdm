@@ -33,8 +33,8 @@ Originals are [on deviantArt](https://www.deviantart.com/a-flyleaf/gallery/81345
 	{%include roundup.html year="2022" mo="05" month="May"%}
 	{%include roundup.html year="2022" mo="06" month="June"%}
 	{%include roundup.html year="2022" mo="07" month="July"%}
-	{%include roundup.html year="2022" mo="08" month="August"%}<!--
-	{%include roundup.html year="2022" mo="09" month="September"%}
+	{%include roundup.html year="2022" mo="08" month="August"%}
+	{%include roundup.html year="2022" mo="09" month="September"%}<!--
 	{%include roundup.html year="2022" mo="10" month="October"%}
 	{%include roundup.html year="2022" mo="11" month="November"%}
 	{%include roundup.html year="2022" mo="12" month="December"%}-->
