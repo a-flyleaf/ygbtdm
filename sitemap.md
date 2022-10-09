@@ -3,7 +3,8 @@ layout: 1.2
 title: sitemap
 css: li>ul,li>ul>li{display:inline; opacity:.85;} li>ul{padding:0; font-size:.85em; text-transform:uppercase; letter-spacing:.05em;} li>ul>li:before{content:"▪"; padding-right:.25em;}
 ---
-<!--needs to be updated for colorscript + design note pages
+<!--needs to be updated for colorscript + design note pages. also just In General
++consolidate holiday stuffs and misc to a "bonus" folder?
 
 for ease of later re-adding: 
 	- [01]({%include url.html%}/story/01)
