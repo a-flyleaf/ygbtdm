@@ -1,75 +1,136 @@
 ---
-layout: noneForNow
-css: h1{text-transform:uppercase;} body{background:#000;color:#fff;}
+layout: 1.2-nosferatu
+title: vii.
+next:
+  url: vi
+  sym: 🌗︎
+css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+3){display:none;} header h2{color:#404040;} nav li:nth-child(2){color:#808080;} main h2{text-transform:uppercase; font-weight:bold; font-size:2em; text-align:center;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} i em{font-style:normal;}
 ---
-<!--temp--><style>{{page.css}}</style>
-
-# Sequitur
-
 "We shouldn't even *be* out here."
 
-{Image: A cloudy night; a distant castle overlooks a gnarled forest. Of five frazzled people, two argue.}
+<figure><img src="https://via.placeholder.com/1600x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>A cloudy night; a distant castle overlooks a gnarled forest. Of five frazzled people, two argue.</figcaption></figure>
 
-"And? We are now." That's Gary, and he replies all nonchalant but even he's shook up by the crash. "Might as well keep going."
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>One of the arguers, Gary, tries to be nonchalant. The castle, though still far, is in sight.</figcaption></figure>
 
-We've been out here, what, few minutes, barely caught our breath, and he and Addison are already feudin' again. Joce all agitated, her friend whatshername watchin' everyone.... An' me, well. I just wanna zone out.
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>The other, Addison, isn't having it.</figcaption></figure>
 
-"We are *not,*" Addison again, "going *towards* the looming castle of doom."
+It only makes sense, argues Gary, to proceed; they've come so far.
 
-"So? It's not like we can see anywhere *else* from here," says Gary. "Unless you *want* to get lost---?"
+But, Addison insists, they're already further out than they should be. They should turn around and try to find their way home.
 
-"We already are!"
+Counters Gary: they're lost either way, aren't they? At least his way means they're getting something out of it.
 
-Yeah, a'ight. I ain't listenin' to this.
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>As the argument continues, the other three are on uneasy standby. Two, Joce and Kay&nbsp;Lin, mumble amongst themselves.</figcaption></figure>
 
-{Image: The speaker, Sequitur, wanders off alone.}
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption>Which leaves Sequitur.</figcaption></figure>
 
-Man, who would'a thought a fuckin' Halloween party would'a went this way. First the invite then the rab... *whatever* those were, were-things, guess the rumors weren't kiddin'. So much for stickin' together as a team; pretty sure we're all only here cuz'a one person, and guess who got dragged straight out the driver's seat?
+Splitting, of course, would be suicide.
 
-Sucks.
+Thus concludes Sequitur: <i>Welp.</i>
 
-{Image: Sequitur's being watched.}
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>And with that, they walk away.</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/800x400.png" alt=""/>
+<figcaption><span class="x">Image: </span>[top part of image is dark/fades in, or add margin] The woods engulf them.</figcaption></figure>
+
+<i>Man, who would'a thought a fuckin' Halloween party would'a went this way.</i>
+
+<i>First the invite, then the rab... *whatever* those were.</i>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Monsters attacked the truck.</p><p>The driver got dragged out the window.</p></figcaption></figure>
+
+<i>...</i>
+
+<i>Sucks.</i>
+
+<figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>They’re being watched.</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span><i>Kay Lin.</i></figcaption></figure>
 
 "You good?"
 
-*Shit* who th--- Oh, that one. Joce's lil' friend, whatshername. Never seen her before tonight. Uh. Hi.
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur jumps. But, recognizing her, calms down. [two panels, copypaste?]</figcaption></figure>
 
-"We're dead," I say. "But eh." Shrug. "I'm good."
+"We're dead. But, ehh." Shrug. "<span class="x">I</span>’m good."
 
-Seems to amuse ’er, I'll take it. Only a matter of time til some new abomination pops up outta nowhere; might as well shoot the shit these last few minutes, yeah?
+Seems to amuse her.
 
-{Image: Sequitur slumps down on a log, staring out into the abyss.}
+<i>Might as well shoot the shit.</i>
 
-Guess she's not here to drag me back, cuz she sits down next to me. Curious. "You're pretty chill for someone who thinks we're gonna die."
+<figure><img src="https://via.placeholder.com/600x300.png" alt=""/><br/>
+<img src="https://via.placeholder.com/600x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur slumps down on a log, staring out into the abyss. As prompted, Kay&nbsp;Lin joins them, and talks:</figcaption></figure>
 
-*Thinks?* Tryin'a make me feel better, maybe. "Eh," I say, "worryin's pointless." Plus, "You don't seem too fussed, either," and I ain't kiddin', because even when I jab a finger in her direction she doesn't quit starin' at me.
+"You're pretty chill for someone who thinks we're gonna die."
+
+"Eh, worryin's pointless."
+
+Not like Kay Lin seems fussed, either.
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span><span class="block">Sequitur, questioning, points at her.</span> <span class="block">It’s too dark to read her expression.</span> <br/>[silhouette, side view?]</figcaption></figure>
 
 "It's been... fun."
 
-Pfft. "That a joke?"
+"That a joke?"
 
 "Never been in a car crash before."
 
-Heh, alright, I'll give ’er that one. "First time for everythin', right?" I throw in a friendly elbow jab, for good measure. "Let's see, first rabid bunnies, what's next... maybe if we're lucky the vamps'll get us instead."
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur’s amused.</figcaption></figure>
 
-"'Vampsill'?"
+Yeah, night's just full of surprises, ain't it? Could'a been vampires.
 
-"Y'know. Vampires," I say, figure she ain't from around here, "they could get us, s'posedly. Buncha local stories ’bout that, say they used to live in the castle over thataways." Can't miss it, even out here; I point it out behind us no problem. (Oh yeah, north-ish, where the others are. Anyone notice we're missing...?) "Thought it was all rumors, but then, rabbits."
+Kay Lin doesn't respond. Sequitur is reminded that they haven't seen her around much before tonight.
 
-"Oh. Haha, yeah, maybe." She looks away, finally, maybe nervous or sum'n. "You'd rather die by vampire than were-rabbit?"
+Must be new here!
 
-"Shoot, I dunno. Least vamps are human-ish, accordin' to 'hunters.' Vampire hunters, I mean," I add, and I'm gonna let her decide whether I believe in 'em. Crazy-ass nomads givin' up their whole lives chasin' bloodsuckers. Guess they're not too different than us, though, drivin' out to no-man's-land after a letter, and who'm I to judge a weirdo....
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Cue Sequitur infodump. They gesture around Kay&nbsp;Lin without really paying attention to her.</figcaption></figure>
 
-Girl seems distant, lost in some kinda thought. Oh yeah, I should explain the 'hunter' commen---"Better human than monster," she mumbles, "right."
+Vampires, supposedly, live in the castle the group was (is?) headed towards; that was the goal, to see if it's really abandoned. Kinda a big deal, these rumors; there's "vamp-hunters" around and everything.
 
-...Yeah, I'unno what that's about. Eh, I been there in zoneout land, I get it.
+Far as Sequitur's concerned, it's all rumors. But, then again, they would've said the same about the rabbits.
 
-Unless it's nerves? Shit, yeah, maybe she's afraid of vampires, did not think of that. (Goddamn, where *is* everyone? Me, I get, but no one's lookin' for her? Not even Joce?)
+At least the vampires are human. Kind of.
 
-"Hey," I say, "if they're human then you could reason with ’em, maybe. Tell ’em to go suck on someone their own size." Heh. "Say your blood's poisoned. Oh, or maybe---"
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin is quiet.</figcaption></figure>
 
-"Say, Sequitur," she says, like she didn't hear a word (eh, fair ’nuff, been blocked out beore). And now she's lookin' at me again, and ohh, *that's* why it was kinda wiggin' me out---I feel like prey. Dumb, dumb instinct, probably just that we were talkin' about monsters ’n' shit--- "Could you... do me a favor?"
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur is mildly concerned. [small "?"]</figcaption></figure>
 
-{Image: Kay Lin grabs Sequitur's arm, staring at them intently. Her grip is cold.}
+Kay Lin seems distant.
 
-Where the sweet unliving *hell* are the others.
+"Better human than monster... right."
+
+Mhm.
+
+Idly Sequitur wonders if anyone's noticed either of them gone.
+
+<figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
+<figcaption><span class="x">Image: </span>They start to get up. [speech bubble?]</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/400x250.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin grabs their arm.</figcaption></figure>
+
+<i>Skin's cold.</i>
+
+"Say, Sequitur..."
+
+<figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares right at them.</figcaption></figure>
+
+Dead. They're all dead meat out here. <i>Prey.</i>
+
+"Could you... do me a favor?"
