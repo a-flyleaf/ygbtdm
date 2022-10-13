@@ -29,7 +29,7 @@ Counters Gary: they're lost either way, aren't they? At least his way means they
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption>Which leaves Sequitur.</figcaption></figure>
 
-Splitting, of course, would be suicide.
+The disagreement shows no sign of stopping. And it's too risky to split up.
 
 Thus concludes Sequitur: <i>Welp.</i>
 
