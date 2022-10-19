@@ -4,12 +4,13 @@ title: Table of Contents
 sym: 🌙
 css: main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:none; padding-left:0; line-height:2;} section{text-align:left; font-size:.85em; max-width:20em; margin:1rem auto 0; opacity:.85;} section small{font-size:.85em;} ol a{text-decoration:none;} ol a:hover,ol a:focus,ol a:active{color:#606060;} ol li:last-child{margin:.75em 0 2em;} ol li a{display:inline-block; padding:0 .35em;}
 ---
+<!--put the "ad"/cover image above the h1? with title. use "if url contains index" or whatever in the layout-->
 🌙︎&#xFE0E;
 
 1. prelude (fake Ao3)
 1. [viii.](viii)
-1. [vii.](vii)
-1. vi. ("hunter", txt)
+1. [vii.](vii) <!--"interlude": KL "hello sir can i please have your credit card number". idk i think it would be funny-->
+1. [vi.](vi) <!--interlude: crude mspaint rendering of kl on seq, hunter watches with binoculars. "hm. gross" (hell maybe just put the text post in). and/or: "i confessed to my error" "you didn't confess shit" "i. Confessed it"-->
 1. v. (gary, img)
 1. iv. (caleb, txt)
 1. iii. (addison, img)

@@ -1,6 +1,7 @@
 ---
 layout: 1.2-nosferatu
 title: viii.
+sym: 🌑︎
 next:
   url: vii
   sym: 🌘︎
@@ -12,7 +13,7 @@ css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+2){display:n
 
 ## Roadtrip Gone Wrong?
 
-A truck swerved offroad last night past the north border. Its remains were found crashed in a ditch, along with a note authorities have dismissed as "patent nonsense, an abject prank." No bodies were discovered at the scene.
+A truck swerved offroad last night past the north border. Its remains were found crashed in a ditch, along with a note authorities have dismissed as "patent nonsense, clearly a prank." No bodies were discovered at the scene; scrambled footprints indicate the passengers fled.
 
 Locals and tourists alike are reminded to stay indoors after dark. The northwoods are restricted territory at any hour; violators may be fined upwards of [...]
 

@@ -1,6 +1,7 @@
 ---
 layout: 1.2-nosferatu
 title: vii.
+sym: 🌘︎
 next:
   url: vi
   sym: 🌗︎
@@ -17,7 +18,7 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+3){display:no
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>The other, Addison, isn't having it.</figcaption></figure>
 
-It only makes sense, argues Gary, to proceed; they've come so far.
+It only makes sense, argues Gary, to keep going; they've come so far---
 
 But, Addison insists, they're already further out than they should be. They should turn around and try to find their way home.
 
@@ -59,7 +60,7 @@ Thus concludes Sequitur: <i>Welp.</i>
 "You good?"
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Sequitur jumps. But, recognizing her, calms down. [two panels, copypaste?]</figcaption></figure>
+<figcaption><span class="block"><span class="x">Image: </span>Sequitur jumps.</span> <span class="block">But, recognizing the speaker, they calm down.</span>[two panels, copypaste?]</figcaption></figure>
 
 "We're dead. But, ehh." Shrug. "<span class="x">I</span>’m good."
 
@@ -98,9 +99,9 @@ Must be new here!
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Cue Sequitur infodump. They gesture around Kay&nbsp;Lin without really paying attention to her.</figcaption></figure>
 
-Vampires, supposedly, live in the castle the group was (is?) headed towards; that was the goal, to see if it's really abandoned. Kinda a big deal, these rumors; there's "vamp-hunters" around and everything.
+Vampires, supposedly, live in the castle the group was (is?) headed towards; that was the goal, to see if it's really abandoned. Not everyone believes the stories, but they're a hell of a deal; there's "vamp-hunters" around and everything.
 
-Far as Sequitur's concerned, it's all rumors. But, then again, they would've said the same about the rabbits.
+Far as Sequitur's concerned, mind, it's all rumors. Then again, they would've said the same about the rabbits.
 
 At least the vampires are human. Kind of.
 
@@ -116,7 +117,7 @@ Kay Lin seems distant.
 
 Mhm.
 
-Idly Sequitur wonders if anyone's noticed either of them gone.
+Idly Sequitur wonders if anyone's noticed either of them are gone. How long *has* it been, anyway...?
 
 <figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
 <figcaption><span class="x">Image: </span>They start to get up. [speech bubble?]</figcaption></figure>
@@ -131,6 +132,6 @@ Idly Sequitur wonders if anyone's noticed either of them gone.
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares right at them.</figcaption></figure>
 
-Dead. They're all dead meat out here. <i>Prey.</i>
+Aw, who're they kidding. They're dead meat out here.
 
 "Could you... do me a favor?"
