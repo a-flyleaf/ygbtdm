@@ -13,16 +13,18 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+3){display:no
 <figcaption><span class="x">Image: </span>A cloudy night; a distant castle overlooks a gnarled forest. Of five frazzled people, two argue.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>One of the arguers, Gary, tries to be nonchalant. The castle, though still far, is in sight.</figcaption></figure>
+<figcaption><span class="x">Image: </span>One of the arguers, Gary, tries to be nonchalant. From eye level, all they can see is trees.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>The other, Addison, isn't having it.</figcaption></figure>
+<figcaption><span class="x">Image: </span>The other, Addison, isn’t having it.</figcaption></figure>
 
 It only makes sense, argues Gary, to keep going; they've come so far---
 
-But, Addison insists, they're already further out than they should be. They should turn around and try to find their way home.
+But, Addison insists, they're already further out than they should be. They should turn around and---
 
-Counters Gary: they're lost either way, aren't they? At least his way means they're getting something out of it.
+*Towards* the things that tried to kill them? Gary counters: they're lost either way, but at least if they try for the castle this'll be *worth* something.
+
+Argues Addison: Not worth their lives!
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>As the argument continues, the other three are on uneasy standby. Two, Joce and Kay&nbsp;Lin, mumble amongst themselves.</figcaption></figure>
@@ -130,7 +132,7 @@ Idly Sequitur wonders if anyone's noticed either of them are gone. How long *has
 "Say, Sequitur..."
 
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares right at them.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares at them closely.</figcaption></figure>
 
 Aw, who're they kidding. They're dead meat out here.
 

@@ -9,9 +9,9 @@ css: main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:n
 
 1. prelude (fake Ao3)
 1. [viii.](viii)
-1. [vii.](vii) <!--"interlude": KL "hello sir can i please have your credit card number". idk i think it would be funny-->
-1. [vi.](vi) <!--interlude: crude mspaint rendering of kl on seq, hunter watches with binoculars. "hm. gross" (hell maybe just put the text post in). and/or: "i confessed to my error" "you didn't confess shit" "i. Confessed it"-->
-1. v. (gary, img)
+1. [vii.](vii) <!--"interlude": KL "hello seq can i please have your credit card number". (seq: "sure lol".) idk i think it would be funny-->
+1. [vi.](vi) <!--interlude: crude mspaint rendering of kl on seq, hunter watches with binoculars. "hm. gross" (hell maybe just put the text post in). and/or: "i confessed to my error" "you didn't confess shit" "i. Confessed it". ALSO: exit, pursued by a were-->
+1. [v.](v) <!--interlude: And Then They Worried-->
 1. iv. (caleb, txt)
 1. iii. (addison, img)
 1. ii. (kay lin, txt)

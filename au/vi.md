@@ -35,7 +35,7 @@ The remainder of the group, caught up in pointless arguing, failed to notice eit
 Vampires disguising themselves among the populace, come feeding season, are nothing new; should the hunt go awry they can disappear into the crowd. What struck me was this one's decision to stick with a smaller group, numbering five total. Furthermore, rather than strike unseen, or corner the victim proper before coming forward, this one had a proposition.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Kay Lin asks Sequitur a favor, shown from the hunter's perspective.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Kay Lin asks Sequitur a favor, shown from the hunter’s perspective.</figcaption></figure>
 
 Despite all efforts, claimed the vampire, she was losing the ability to resist that inevitable hunger---but if the human lie still, she could feed without fatality. News to me if true! A vampire's bite paralyzes its prey from the neck outwards (and they *always* aim for the neck); rigor mortis sets in within minutes. Even removed fangs maintain odd properties, albeit in trace amounts; only the most stubborn humans can hope to survive their influence. (This, by the by, is why I was not convinced vampires are former humans; the mechanism by which a human is "turned" remains evasive.)
 
