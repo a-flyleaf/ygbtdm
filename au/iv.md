@@ -87,7 +87,7 @@ I don't remember exactly what I said, but it wasn't much. I couldn't deny your d
 
 And at that slight nudge your frustrations just spilled out. It was as though I wasn't there at all; you needed someone to hear, and I happened to be there, and no one else. I'm happy to have been that person. Maybe you would like me more for it.
 
-You told me how you'd barely wanted to go to "that stupid party" in the first place, but anyone who meant anything was going to be there, so you had to. You told me how you fell in with a smaller group, with one person you kinda-knew and a few others, and that when they found the note they held a vote, and you were the only one who said no, even the hesitant recipient wanted this, and you felt so very stupid. So you had to join, you *had* to, just to be there.
+You told me how you'd barely wanted to go to "that stupid party" in the first place, but anyone who meant anything was going to be there, so you had to. You told me how you fell in with a smaller group, with one person you kinda-knew and a few others, and that when they found the letter they held a vote, and you were the only one who said no, even the hesitant recipient wanted this, and you felt so very stupid. So you had to join, you *had* to, just to be there.
 
 It seemed trivial back then. You had no idea what was at stake.
 
@@ -96,13 +96,13 @@ You had no idea you were going to watch not one but *two* companions get torn li
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[similar to the last two? back views, all of them; Caleb has moved slightly closer.]</figcaption></figure>
 
-You mumbled something about yet another, gone missing, that "your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...." What a night, huh?
+You mumbled something about yet another, this one missing, that "your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...." You told yourself you were going to keep them in line. What a night, huh?
 
 In short: you were vulnerable. And I had to take the chance.
 
 I took your hand. (You were unsettled and pulled away. It made me sad. You looked sorry.) I told you the truth: Yes, we really are vampires, and tonight we hunger more than ever. That you, or anyone else besides the invited, are here, was never meant to be.
 
-This place will kill you. Even if you bound us in the walls and staked through our hearts, you will die here, because no mortal can withstand...
+This place will kill you. Even if you buried us in the walls and staked through our hearts, you will die here, because no mortal can withstand...
 
 Well. I'm not sure myself. It's a latent energy, a terrible energy, and it will drain you to the core. If I could stop it, I would.
 

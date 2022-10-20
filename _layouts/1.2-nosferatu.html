@@ -51,7 +51,7 @@
 		<main id="content">
 			<h1>{{page.title}}</h1>
 			{{content}}{%if page.next%}
-			<div class="wrap" id="nxt"><a href="{{page.next.url}}"><span>next</span> {{page.next.sym}}</a></div>{%endif%}
+			<div class="{%unless page.next.clr%}wrap{%endunless%}" id="nxt">{%if page.next.clr%}<div class="wrap">{%endif%}<a href="{{page.next.url}}"><span>next</span> {{page.next.sym}}</a>{%if page.next.clr%}</div>{%endif%}</div>{%endif%}
 		</main>{%unless page.next%}
 		
 		<footer class="wrap"><ul>
