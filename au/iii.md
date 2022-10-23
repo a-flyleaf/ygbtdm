@@ -6,9 +6,8 @@ next:
   url: ii
   sym: 🌓︎
   clr: wht
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} body{padding:0;} #padding{padding:1em;} #end{padding:100px 1em 1em; background:linear-gradient(#101010,#f7f7f7 25em); color:#101010;} #end figcaption{color:#606060;} #end ::selection,#nxt ::selection{background:#fff; background:rgba(0,0,0,.15);} #end .wrap figure{display:inline-block; text-align:inherit;} .left{text-align:left;} .right{text-align:right;} #nxt{background:#f7f7f7;} #nxt a{color:#bfbfbf;} #nxt a:hover,#nxt a:active,#nxt a:focus{color:#000;} #nxt .wrap{max-width:37rem; padding:0 1rem;}"
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
-<div id="padding" markdown="1">
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>Picking up immediately where the last part left off, “the narrator” has been reduced to a pile of ash; only his fangs remain.</p><p>In the background, Addison has joined Joce in the doorway; both face Kay&nbsp;Lin, defensive.</p></figcaption></figure>
 
@@ -98,7 +97,6 @@ Mm. Hard to say. But she definitely, did, want to do *something,* because she di
 <figure><img src="https://via.placeholder.com/400x200.png" alt=""/><br/><img src="https://via.placeholder.com/400x200.png" alt=""/>
 <figcaption><span class="x">Image: </span>Joce smiles faintly, strained. Then throws her coat over Addison—scarf and all.</figcaption></figure>
 
-</div><!--/padding--><div id="end" markdown="1">
 <figure><img src="https://via.placeholder.com/200x200.png" alt=""/>
 <figcaption><span class="x">Image: </span>Fading to white, a figure appears in the distance.</figcaption></figure>
 
@@ -114,4 +112,3 @@ She calls out.
 <figcaption><span class="x">Image: </span>The figure turns around, face obscured.</figcaption></figure></div>
 
 <i>"Take me home."</i>
-</div><!--/end-->
