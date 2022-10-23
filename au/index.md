@@ -16,7 +16,7 @@ also maybe use images for this? especially if parts get split into separate page
 1. [iv.](iv) <!--interlude: KL+Caleb "emotional vampire club!!!!" ...or just do that as a separate shitdoodle maybe // caleb: "i can fix her" / kay lin: "i can make her WORSE" or better yet handshake meme, "i can fix one" "i can make one worse! :D" and all was good and well in the land of shitposts-->
 1. [iii.](iii) <!--interlude: do we finally share the "but... you're a rabbit" y/n. it's not Quite a Dramatic Death Scene but it kinda fades like one anyway so-->
 1. ii. (kay lin, txt)
-1. i. (joce, img)
+1. [i.](i)
 1. 🌙︎&#xFE0E;
 
 <!--1. epilogue-bonus-thing?? idk could just be a group drawing, have Some kind of "thanks for reading". maybe an additional author's note about this being a "test run" for the potential Actual Story? maybe you could get the colorscript up by this point and have a link to it here :V

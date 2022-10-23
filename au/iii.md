@@ -5,7 +5,6 @@ sym: 🌔︎
 next:
   url: ii
   sym: 🌓︎
-  clr: wht
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
