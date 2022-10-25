@@ -124,7 +124,7 @@ Hey, they're all sick of walking around in the downpour, right? He'll take care 
 
 He's got a point. She *really* doesn't want to bring them into the main castle, but the more they stomp around out here the more likely they'll be seen. Unless they want to be wet and miserable for a few hours, this is their best bet.
 
-Gary takes that as a go-ahead.
+Gary takes that as a go-ahead. ’Sides, he's already seen what he came here for.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Gary shoots back a thumbs-up and a wink.</figcaption></figure>
