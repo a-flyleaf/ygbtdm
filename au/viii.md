@@ -3,8 +3,8 @@ layout: 1.2-nosferatu
 title: viii.
 sym: 🌑︎
 next:
-  url: vii
-  sym: 🌘︎
+  url: interlude1
+  sym: †
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+2){display:none;} header h2{color:#404040;} nav li{color:#808080;} main h2{text-transform:uppercase; font-weight:bold; font-size:2em; text-align:center;} #gradient{position:relative; height:5em; background:linear-gradient(rgba(16,16,16,0),rgba(16,16,16,1)); margin-top:-5em;} figcaption{max-width:400px;}"
 ---
 <div class="book" markdown="1">
