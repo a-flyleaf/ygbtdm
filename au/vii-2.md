@@ -25,12 +25,10 @@ css: "nav li:nth-child(n+3){display:none;} header h2{color:#404040;} h1{display:
 
 "You're pretty chill for someone who thinks we're gonna die."
 
-"Eh, worryin's pointless."
-
-Not like Kay Lin seems fussed, either.
+"Eh, worryin's pointless." Plus, Sequitur points out, not like Kay Lin seems fussed, either.
 
 <figure><img src="{%include url.html%}/assets/img/au/7-16.png" alt=""/>
-<figcaption><span class="x">Image: </span><span class="block">Sequitur, questioning, points at her.</span> <span class="block">Not like they can read her expression.</span> <br/></figcaption></figure>
+<figcaption><span class="x">Image: </span><span class="block">Sequitur, questioning, points at her.</span> <span class="block">Can't read her face.</span> <br/></figcaption></figure>
 
 "It's been... fun."
 
@@ -62,26 +60,24 @@ At least the vampires are human. Kind of.
 <figure><img src="{%include url.html%}/assets/img/au/7-20.png" alt=""/>
 <figcaption><span class="x">Image: </span>Sequitur is mildly concerned.</figcaption></figure>
 
-Kay Lin seems distant.
-
-"Better human than monster... right."
+Kay Lin seems distant.<br/>"Better human than monster... right."
 
 Mhm.
 
 Idly Sequitur wonders if anyone's noticed either of them are gone. How long *has* it been, anyway...?
 
-<figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
-<figcaption><span class="x">Image: </span>They start to get up. [speech bubble?]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/7-21.png" alt=""/>
+<figcaption><span class="x">Image: </span>They start to get up.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x250.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/7-22.png" alt=""/>
 <figcaption><span class="x">Image: </span>Kay Lin grabs their arm.</figcaption></figure>
 
 <i>Skin's cold.</i>
 
 "Say, Sequitur..."
 
-<figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares at them closely.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/7-23.png" alt=""/>
+<figcaption><span class="x">Image: </span>Sequitur is sweating. Kay Lin stares at them closely. Since when did she have a fang...?</figcaption></figure>
 
 Aw, who're they kidding. They're dead meat out here.
 
