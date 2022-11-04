@@ -49,7 +49,7 @@ Thus concludes Sequitur: <i>Welp.</i>
 
 <i>Man, who would'a thought a fuckin' Halloween party would'a went this way.</i>
 
-<i>First that weird-ass S.O.S., then the were... *whatever* those were.</i>
+<i>First that weird-ass letter, then the were... *whatever* those were.</i>
 
 <figure><img src="{%include url.html%}/assets/img/au/7-09.png" alt=""/><br/><img src="{%include url.html%}/assets/img/au/7-10.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>The truck came across something odd.</p><p>The driver got dragged out the window.</p></figcaption></figure>

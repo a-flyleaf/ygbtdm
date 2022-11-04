@@ -5,7 +5,7 @@ sym: 🌘︎
 next:
   url: vi
   sym: 🌗︎
-css: "nav li:nth-child(n+3){display:none;} h1{font-family:inherit;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} i em{font-style:normal;} #an{text-align:left; color:#bfbfbf; max-width:400px; margin:0 auto 3em; background:#202020; padding:.5em} #an h2{border-bottom:1px solid; color:#808080; font-weight:normal; margin:0;} #an p{margin:.75em 1em .5em; font-size:.85em;} #an a{font-weight:normal; transition:none;} figcaption{font-size:.65em;}"
+css: "nav li:nth-child(n+3){display:none;} h1{font-family:inherit; margin:2.5em auto 3em;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} i em{font-style:normal;} #an{text-align:left; color:#bfbfbf; max-width:400px; margin:0 auto 3em; background:#202020; padding:.5em} #an h2{border-bottom:1px solid; color:#808080; font-weight:normal; margin:0;} #an p{margin:.75em 1em .5em; font-size:.85em;} #an a{font-weight:normal; transition:none;} figcaption{font-size:.65em;}"
 ---
 <figure><img src="{%include url.html%}/assets/img/au/credit.jpg"/><br/><br/><img src="{%include url.html%}/assets/img/au/bye.jpg"/>
 <figcaption>[Image description: Low-quality JPEG memes. Popup in which Kay&nbsp;Lin asks Sequitur for their credit card information; Sequitur agrees, types shit in a computer, and then fucking dies.]</figcaption></figure>
