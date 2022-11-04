@@ -5,31 +5,35 @@ sym: 🌖︎
 next:
   url: iv
   sym: 🌕︎
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+5){display:none;} header h2{color:#404040;} nav li:nth-child(4){color:#808080;} main,figcaption{text-align:center;} p{max-width:400px;} #stfu figure{margin-bottom:0;}"
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+5){display:none;} header h2{color:#404040;} nav li:nth-child(4){color:#808080;} main,figcaption{text-align:center;} p{max-width:400px;} #stfu figure{margin-bottom:0;} #three img{display:block; margin:.25em auto;} @media only screen and (min-width:675px){#three img{display:inline; margin:0;}"
 ---
-<figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Gary, Joce, and (to a lesser extent) Addison are searching.</figcaption></figure>
+"Where *are* those two...."
+
+<figure><img src="{%include url.html%}/assets/img/au/5-01.png" alt=""/>
+<figcaption><span class="x">Image: </span>Gary, Joce, and Addison venture through the woods. All wield branches as weaponry, with varying degrees of confidence.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>In the middle of calling out, they hear something.</figcaption></figure>
+<figcaption><span class="x">Image: </span>As they call out, they hear a scream.</figcaption></figure>
+
+<i>Those things.</i>
 
 <figure><img src="https://via.placeholder.com/600x150.png" alt=""/><br/><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Gary and Joce run forward—and stop dead in their tracks.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Gary runs forward, Joce pursues.<br/>They stop dead in their tracks.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/800x600.png" alt=""/>
-<figcaption><span class="x">Image: </span>Bloody scene. Kay Lin looks very, very hurt.</figcaption></figure>
+<figure><img src="https://via.placeholder.com/800x150.png" alt=""/><br/><img src="https://via.placeholder.com/800x600.png" alt=""/>
+<figcaption><span class="x">Image: </span>Something flees.<br/>Bloody scene. Kay Lin looks very, very hurt.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>She staggers; Joce catches her.</p><p>Gary tries to ask something; Joce glares.</p></figcaption></figure>
 
-Kay Lin tries to talk. "I...it's not" (her voice is strained) "s-safe here."
+Kay Lin tries to talk. "I-it's..." (her voice is strained) "it's not... s-safe here."
 
 <figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
-<figcaption><span class="x">Image: </span>She points shakily towards the castle. It’s closer now.</figcaption></figure>
+<figcaption><span class="x">Image: </span>They’re so exposed out here.</figcaption></figure>
 
-That's all Joce needs to know.
+That's all Joce needs to know. "Castle. N-*now.*"
 
-Despite Addison's protests, on they go, towards guaranteed shelter.
+Addison protests, but she's outnumbered. Shelter it is.
 
 <figure><img src="https://via.placeholder.com/1600x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>It’s still quite a walk. (Joce carries Kay&nbsp;Lin.)</figcaption></figure>
@@ -93,13 +97,13 @@ But Kay Lin, stumbling to her feet, doesn't mind. (It's becoming apparent the bl
 Yeah, she's got some explaining to do.
 
 <figure><img src="https://via.placeholder.com/800x200.png" alt=""/><br/><img src="https://via.placeholder.com/800x400.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Mud squelches beneath the group’s feet. Rain’s not letting up any time soon.</p><p>Addison stays behind Kay Lin, pointing a stick at her back. Gary has also grabbed a plank of wood, and wields it horizontally in front of him like a baseball bat; Joce, staying at the back, holds the flashlights.</p></figcaption></figure>
+<figcaption><p><span class="x">Image: </span>Mud squelches beneath the group’s feet. Rain’s not letting up any time soon.</p><p>Addison stays behind Kay Lin, pointing a stick at her back. Gary has also grabbed a plank of wood, and wields it horizontally in front of him like a baseball bat; Joce stays at the back.</p></figcaption></figure>
 
 Kay Lin says that she was trying to bring Sequitur back when they were attacked. Yes, she is a vampire, but she's not *rabid,* and was just out socializing when they got the letter (which she didn't know existed until they did). She tagged along because she thought she might help.
 
 Addison has doubts. "Why didn't you tell us sooner?"
 
-<figure><img src="https://via.placeholder.com/250x300.png" alt=""/> <img src="https://via.placeholder.com/250x300.png" alt=""/> <img src="https://via.placeholder.com/250x300.png" alt=""/>
+<figure id="three"><img src="https://via.placeholder.com/200x300.png" alt=""/> <img src="https://via.placeholder.com/200x300.png" alt=""/> <img src="https://via.placeholder.com/200x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>Kay Lin, who’s been holding her hands up innocently, pauses to look at Addison.</p><p>Glances down at the sharp end of the stick.</p><p>Back up. <i>Y’know.</i></p></figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
@@ -124,7 +128,7 @@ Hey, they're all sick of walking around in the downpour, right? He'll take care 
 
 He's got a point. She *really* doesn't want to bring them into the main castle, but the more they stomp around out here the more likely they'll be seen. Unless they want to be wet and miserable for a few hours, this is their best bet.
 
-Gary takes that as a go-ahead. ’Sides, he's already seen what he came here for.
+Gary takes that as a go-ahead.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Gary shoots back a thumbs-up and a wink.</figcaption></figure>

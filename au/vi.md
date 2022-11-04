@@ -3,8 +3,8 @@ layout: 1.2-nosferatu
 title: vi.
 sym: 🌗︎
 next:
-  url: v
-  sym: 🌖︎
+  url: interlude2
+  sym: ▶
 css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+4){display:none;} header h2{color:#404040;} nav li:nth-child(3){color:#808080;} main h2{font-style:italic; font-weight:normal; font-size:1.5em; text-transform:lowercase; text-align:right;} main ol{margin-bottom:1.5em;} @media only screen and (min-width:425px){h2 span{display:inline-block;}} figure:first-of-type figcaption{max-width:400px;} figcaption{text-align:center;} .block{max-width:400px;}
 ---
 <div class="book" markdown="1">
@@ -54,7 +54,7 @@ I've lost my stopwatch, so I'm afraid I have no objective measurement of how lon
 
 As the death throes receded the vampire stepped away at last. She sounded perturbed, even upset; the struggle must have been more than she bargained for. "Why," she muttered, "did you let me *do* that?"
 
-<figure><img src="https://via.placeholder.com/600x150.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/6-6.png" alt=""/>
 <figcaption><span class="x">Image: </span>The night goes on, indifferent.</figcaption></figure>
 
 Here I confess to an error. What I *should* have done (take note, future hunters) was wait for her to move and strategize accordingly. If she rejoined the remaining three I could document them all; if she returned, satiated, to the castle from which vampires in this area derive, I might find new issues (mortals who near the home of a vampire will not return), but the challenge would be novel nonetheless.
@@ -63,8 +63,11 @@ But no.
 
 Throughout the human's writhing I caught glimpses of the bite wound, and thought (but could not confirm) it evidenced only one tooth. And alas, intrigue's call has not neglected me. It's what drives this profession; the only real difference between myself and those stranded in the woods is preparation. We venture far past any reasonable limit, all of us, hoping for the unthinkable; but if and once we find it, it refuses to satiate.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/6-7.png" alt=""/>
 <figcaption><span class="x">Image: </span>Behind Kay Lin, the hunter looms.</figcaption></figure>
 
 We crave more, and it wil be our undoing.
+
+<figure><img src="{%include url.html%}/assets/img/au/6-8.png" alt=""/>
+<figcaption><span class="x">Image: </span>Something’s behind the hunter, too.</figcaption></figure>
 </div>
