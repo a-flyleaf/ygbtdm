@@ -12,21 +12,21 @@ css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+5){display:n
 <figure><img src="{%include url.html%}/assets/img/au/5-01.png" alt=""/>
 <figcaption><span class="x">Image: </span>Gary, Joce, and Addison venture through the woods. All wield branches as weaponry, with varying degrees of confidence.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>As they call out, they hear a scream.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/5-02.png" alt=""/> <img src="{%include url.html%}/assets/img/au/5-03.png" alt=""/>
+<figcaption><span class="x">Image: </span>Joce and Gary call out, voices fading in the fog.<br/>Then they hear a scream.</figcaption></figure>
 
 <i>Those things.</i>
 
-<figure><img src="https://via.placeholder.com/600x150.png" alt=""/><br/><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Gary runs forward, Joce pursues.<br/>They stop dead in their tracks.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/5-04.png" alt=""/><br/><img src="{%include url.html%}/assets/img/au/5-05.png" alt=""/>
+<figcaption><span class="x">Image: </span>Gary rushes forward, Joce pursues.<br/>They stop dead in their tracks.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/800x150.png" alt=""/><br/><img src="https://via.placeholder.com/800x600.png" alt=""/>
-<figcaption><span class="x">Image: </span>Something flees.<br/>Bloody scene. Kay Lin looks very, very hurt.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/5-06.png" alt=""/><br/><img src="https://via.placeholder.com/800x600.png" alt=""/>
+<figcaption><span class="x">Image: </span>Something disappears into the trees.<br/>Bloody scene. Kay Lin looks very, very hurt.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>She staggers; Joce catches her.</p><p>Gary tries to ask something; Joce glares.</p></figcaption></figure>
 
-Kay Lin tries to talk. "I-it's..." (her voice is strained) "it's not... s-safe here."
+Kay Lin tries to talk. "I-it's..." (her voice is strained) "it's not... s-safe here...."
 
 <figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
 <figcaption><span class="x">Image: </span>They’re so exposed out here.</figcaption></figure>

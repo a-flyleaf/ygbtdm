@@ -11,10 +11,10 @@ also maybe use images for this? especially if parts get split into separate page
 1. [prelude](splash)
 1. [viii.](viii)
 1. [vii.](vii)
-1. [vi.](vi) <!--interlude: crude mspaint rendering of kl on seq, hunter watches with binoculars. "hm. gross" (hell maybe just put the text post in). and/or: "i confessed to my error" "you didn't confess shit" "i. Confessed it". ALSO: exit, pursued by a were-->
+1. [vi.](vi)
 1. [v.](v) <!--interlude: And Then They Worried // Who Would Win: "ELDRITCH WEREBUNNY BEHEMOTH" vs "one guy with a plank lol"-->
-1. [iv.](iv) <!--interlude: KL+Caleb "emotional vampire club!!!!" ...or just do that as a separate shitdoodle maybe // caleb: "i can fix her" / kay lin: "i can make her WORSE" or better yet handshake meme, "i can fix one" "i can make one worse! :D" and all was good and well in the land of shitposts-->
-1. [iii.](iii) <!--interlude: do we finally share the "but... you're a rabbit" y/n. it's not Quite a Dramatic Death Scene but it kinda fades like one anyway so // OH BUT CALEB AS "SICKOS." meanwhile addison and joce having the worst day of their lives-->
+1. [iv.](iv) <!--interlude: OH BUT CALEB AS "SICKOS." meanwhile addison and joce having the worst day of their lives-->
+1. [iii.](iii) <!--interlude: do we finally share the "but... you're a rabbit" y/n. it's not Quite a Dramatic Death Scene but it kinda fades like one anyway so-->
 1. ii. (kay lin, txt)
 1. [i.](i)
 1. 🌙︎&#xFE0E;
