@@ -14,6 +14,6 @@ css: "nav li:nth-child(n+4){display:none;} h1{font-family:inherit; margin:2.5em 
 <figcaption>[Image description: hunter: “i’ve confessed to my error”<br/>some rando: “you didn’t confess shit”<br/>hunter: “i’ve <a href="https://knowyourmeme.com/memes/ive-connected-the-two-dots">confessed to it</a>”]</figcaption></figure>
 
 <div id="an"><h2 class="book">Author’s note:</h2>
-<p>Hunter’s “design” loosely drawn from <a href="https://bloodborne.fandom.com/wiki/The_Hunter">the <i>Bloodborne</i> player character</a>. I haven’t actually played that game.</p></div>
+<p>Hunter’s outfit is loosely drawn from <a href="https://bloodborne.fandom.com/wiki/The_Hunter">the <i>Bloodborne</i> player character</a>. I haven’t actually played that game.</p></div>
 
 <div class="book" id="bear"><i>[Exit, <a href="https://www.shakespearesglobe.com/discover/blogs-and-features/2016/01/29/exit-pursued-by-a-bear/">pursued by a were</a>.]</i></div>
