@@ -43,7 +43,7 @@ Story didn't have a title at this time, no.
 ## /ygbtdm v1
 - 2022/02/15: backend improvements; redid story page (covers only)
 - 2022/03/22: started adding image captions (about & cast)
-- 2022/04/01: [carless saga](https://a-flyleaf.github.io/ygbtdm/carless/)
+- 2022/04/01: [carless saga](carless)
 - 2022/05/23: main gallery tag functionality & captions; cast-specific galleries\
 - 2022/07/05: more behind-the-scenes stuff
 	- cast spoiler writeups
@@ -65,10 +65,12 @@ Back to incremental publication, then...!
 
 - 2022/09/07--9: character design note pages (default versions of the main eight)
 - 2022/09/10: actually made v1.2 layout
-	- brief chnagelog section descriptions
+	- brief changelog section descriptions
 	- rewrite about
 	- slapdash story index
 	- cast & gallery page shuffling
 	- update 404 & sitemap layouts
 - 2022/09/11: obligate post-update fixes; redo cast pages; keyboard controls on gallery zoom
+- 2022/11/??: started publishing ["untitled Halloween AU-thing"](au)
+	- [if I don't mess anything up in GitHub I *should* be able to link the branch for a more comprehensive update history]
 </section>

@@ -18,7 +18,7 @@ css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+5){display:n
 <i>Those things.</i>
 
 <figure><img src="{%include url.html%}/assets/img/au/5-04.png" alt=""/>
-<figcaption><span class="x">Image: </span>Gary rushes forward, Joce pursues.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Gary charges forward, Joce pursues.</figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/5-05.png" alt=""/>
 <figcaption><span class="x">Image: </span>They stop dead in their tracks.</figcaption></figure>
@@ -42,7 +42,7 @@ Kay Lin tries to talk. "I-it's..." (her voice is strained) "it's not... s-safe h
 Joce mutters something resembling <i>"to hell with this."</i>
 
 <figure><img src="{%include url.html%}/assets/img/au/5-10.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Joce, having scopped Kay Lin up, walks past Gary and Addison.</p></figcaption></figure>
+<figcaption><p><span class="x">Image: </span>Joce, having scopped up an unconscious Kay&nbsp;Lin, walks past Gary and Addison.</p></figcaption></figure>
 
 So, Gary figures, this means shelter?
 
