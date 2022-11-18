@@ -12,7 +12,7 @@ also maybe use images for this? especially if parts get split into separate page
 1. [viii.](viii)
 1. [vii.](vii)
 1. [vi.](vi)
-1. [v.](v) <!--interlude: Who Would Win: "ELDRITCH WEREBUNNY BEHEMOTH" vs "one guy with a stick lol"-->
+1. [v.](v) <!--interlude: Who Would Win: "ELDRITCH WEREBUNNY BEHEMOTH" vs "one guy with a stick lol" // author's note: if you saw any stick inconsistencies no you didn't </3-->
 1. [iv.](iv) <!--interlude: OH BUT CALEB AS "SICKOS." meanwhile addison and joce having the worst day of their lives-->
 1. [iii.](iii) <!--interlude: do we finally share the "but... you're a rabbit" y/n. it's not Quite a Dramatic Death Scene but it kinda fades like one anyway so-->
 1. [ii.](ii)
