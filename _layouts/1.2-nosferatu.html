@@ -26,6 +26,7 @@
 		
 		#nxt{text-align:right; padding:3rem 0 1rem;} #nxt span{opacity:0; transition:.75s;}
 		#nxt a{text-decoration:none; color:#808080; transition:1s;} #nxt a:hover,#nxt a:focus,#nxt a:active{color:#fff;} #nxt a:hover span,#nxt a:focus span,#nxt a:active span{opacity:1;}
+		#nxt b{color:inherit;}
 		
 		@media only screen and (min-width:425px){.block{display:inline-block;}}
 		{%if page.css%}{{page.css}}{%endif%}
@@ -48,10 +49,11 @@
 			</ul></nav>
 		</header>
 		
-		<main id="content">
+		<main id="content">{%if page.poster%}
+			<figure><img src="{%include url.html%}/assets/img/au/posterthing.png" alt="untitled halloween au-thing"></figure>{%endif%}
 			<h1>{{page.title}}</h1>
 			{{content}}{%if page.next%}
-			<div class="wrap" id="nxt"><a href="{{page.next.url}}"><span>next</span> {{page.next.sym}}</a></div>{%endif%}
+			<div class="wrap" id="nxt"><a href="{{page.next.url}}"><span>next</span> {%if page.next.sym=="†"%}<b>{%endif%}{{page.next.sym}}{%if page.next.sym=="†"%}</b>{%endif%}</a></div>{%endif%}
 		</main>{%unless page.next%}
 		
 		<footer class="wrap"><ul>

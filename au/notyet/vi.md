@@ -3,8 +3,8 @@ layout: 1.2-nosferatu
 title: vi.
 sym: 🌗︎
 next:
-  url: interlude2
-  sym: ▶
+  url: interlude3
+  sym: †
 css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+4){display:none;} header h2{color:#404040;} nav li:nth-child(3){color:#808080;} main h2{font-style:italic; font-weight:normal; font-size:1.5em; text-transform:lowercase; text-align:right;} main ol{margin-bottom:1.5em;} @media only screen and (min-width:425px){h2 span{display:inline-block;}} figure:first-of-type figcaption{max-width:400px;} figcaption{text-align:center;} .block{max-width:400px;}
 ---
 <div class="book" markdown="1">

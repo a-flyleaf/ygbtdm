@@ -3,8 +3,8 @@ layout: 1.2-nosferatu
 title: vii.
 sym: 🌘︎
 next:
-  url: interlude1
-  sym: ▶
+  url: interlude2
+  sym: †
 css: "nav li:nth-child(n+3){display:none;} header h2{color:#404040;} h1{display:none;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} i em{font-style:normal;} #an{text-align:left; color:#bfbfbf; max-width:400px; margin:0 auto 3em; background:#202020; padding:.5em} #an h2{border-bottom:1px solid; color:#808080; font-weight:normal; margin:0;} #an p{margin:.75em 1em .5em; font-size:.85em;}"
 ---
 <div id="an"><h2 class="book">Author’s note:</h2>
