@@ -3,7 +3,7 @@ layout: 1.2-nosferatu
 title: Table of Contents
 sym: 🌙
 poster: y
-css: main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:none; padding-left:0; line-height:2;} section{text-align:left; font-size:.85em; max-width:20em; margin:1rem auto 0; opacity:.85;} section small{font-size:.85em; display:block; margin:-.75em 0 1.5em;} ol li{margin:1em 0;} ol a{text-decoration:none; margin:0 .25em; line-height:0;} ol a:hover,ol a:focus,ol a:active{opacity:.5;} .book{margin-top:5em;} a{text-underline-offset:.25em; display:inline-block;}
+css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:none; padding-left:0; line-height:2;} section{text-align:left; font-size:.85em; max-width:20em; margin:1rem auto 0; opacity:.85;} ol li{margin:1em 0;} ol a{text-decoration:none; margin:0 .25em; line-height:0;} ol a:hover,ol a:focus,ol a:active{opacity:.5;} .book{margin-top:5em;} a{text-underline-offset:.25em; display:inline-block;}
 ---
 🌙︎&#xFE0E;
 
@@ -29,9 +29,7 @@ css: main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:n
 	1. ^ link it to the end dagger. NOT the beginning though, that part can stay visible-->
 
 <section markdown="1" class="book">
-Visual & <a href="https://en.wikipedia.org/wiki/Century_Gothic" class="ext">intended\* font</a> design inspired by <a href="https://en.wikipedia.org/wiki/Nosferatu" class="ext">the 1922 <i>Nosferatu</i> film</a>. Story is unrelated.
+Visuals inspired by <a href="https://en.wikipedia.org/wiki/Nosferatu" class="ext">the 1922 <i>Nosferatu</i> film</a>. Story is unrelated.
 
-<small>\*may appear differently depending on your device</small>
-
-Smaller gray text below pictures are image captions and should be optional reading; image-heavy parts were conceived like silent films, with text between to clarify dialogue and certain sequences.
+Image captions are intended to be optional reading but may clarify some things.
 </section>

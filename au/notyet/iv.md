@@ -7,6 +7,10 @@ next:
   sym: 🌔︎
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:3em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg{text-transform:none;} #short{margin:2em auto;}"
 ---
+<!--additions/thoughts from last night:
+- gary got dragged through the gate and it also broke open and no one is surprised. i think. i don't want to draw a bunch of new things showing this but It Did Happen, allude to it maybe, or have caleb watching /that/ instead (but hmm then why her...)
+- joce doesn't just ditch addison, she's looking for a key! and addison is Tired:tm:. joce was basically like "look i get it i am also exhausted but like, i'm gonna go search, and whether you stay close or not is up to you." (far as addison's concerned she got ditched anyway, though.)
+-->
 <div class="book" markdown="1">
 <i><span>From the moment I saw you</span> <span>I knew you were mine.</span></i>
 
