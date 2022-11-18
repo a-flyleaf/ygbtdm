@@ -9,3 +9,5 @@ css: header h2{margin-right:.5em;} nav{display:none;} h1{opacity:0; height:0;} m
 Have the most recent (not-too-spoilery) panel, as of November 17.
 
 <img src="{%include url.html%}/assets/img/au/5-41.png" alt=""/>
+
+<!--note to self, don't forget to edit this too :V-->

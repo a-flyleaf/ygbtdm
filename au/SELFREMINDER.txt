@@ -1,0 +1,6 @@
+- general pages to update: index (ToC thumbnails), notyet (date, preview), splash chapter count
+- relink next part on latest update
+- move new parts out of notyet folder
+- last part links to notyet, "?" sym
+
+basically just speedrun-click through everything and make sure there's no broken links; saving all those commits for later so it doesn't accidentally get pushed with a wip update
