@@ -5,33 +5,48 @@ sym: 🌕︎
 next:
   url: iii
   sym: 🌔︎
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:3em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg{text-transform:none;} #short{margin:2em auto;}"
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:5em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg,figcaption p{text-transform:none;} #short{margin:2em auto;} #early{display:block; text-align:center; text-transform:none; margin:5em auto; padding-left:1em;}"
 ---
 <!--additions/thoughts from last night:
-- gary got dragged through the gate and it also broke open and no one is surprised. i think. i don't want to draw a bunch of new things showing this but It Did Happen, allude to it maybe, or have caleb watching /that/ instead (but hmm then why her...)
 - joce doesn't just ditch addison, she's looking for a key! and addison is Tired:tm:. joce was basically like "look i get it i am also exhausted but like, i'm gonna go search, and whether you stay close or not is up to you." (far as addison's concerned she got ditched anyway, though.)
+	- update nvm, had there be a bit of a Physical Altercation outside :^) they didn't beat each other up or anything but like, gestures vaguely at the silhouettes, they're just. straight-up avoiding each other on entry now lmao
 - at the end: KL throws something at Caleb? then goes in for the kill. I nuked their powers so this has just gotta be straight-up physical assault lmao, bonus points if she stabs him with something (that she later uses on herself)
 - either here or next part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
 -->
+
+<i id="early">Earlier...</i>
+
+<figure><img src="{%include url.html%}/assets/img/au/4-01.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison held the stick to Kay Lin’s back as the group trudged through the castle grounds.</figcaption></figure>
+
+<figure><img src="{%include url.html%}/assets/img/au/4-02.png" alt=""/>
+<figcaption><span class="x">Image: </span>Someone was watching.</figcaption></figure>
+
+<figure><img src="{%include url.html%}/assets/img/au/4-03.png" alt=""/>
+<figcaption><span class="x">Image: </span>The face: gaunt, and keenly interested.</figcaption></figure>
+
 <div class="book" markdown="1">
 <i><span>From the moment I saw you</span> <span>I knew you were mine.</span></i>
+</div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/> <img src="https://via.placeholder.com/250x300.png" alt=""/> <img src="https://via.placeholder.com/150x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Earlier, Addison held the stick to Kay Lin’s back as the group trudged through the castle grounds. Someone was watching. <i>How interesting.</i> [all one img?]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-04.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Beady eyes reflected a scene of chaos. Seems the rabbit broke the fence.</p><p>Joce wrangled back Addison who pulled at Gary who, on the ground, was dragged into a hungry maw.</p></figcaption></figure>
+
+<div class="book" markdown="1">
 
 ----
 
 You looked terrible. I didn't care.
 
-<figure><img src="https://via.placeholder.com/600x400.png" alt=""/>
-<figcaption><span class="x">Image: </span>The castle door opens; enter Kay Lin, followed closely by a very disheveled Joce and Addison. The narrator watches from above.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-05.png" alt=""/>
+<figcaption><span class="block"><span class="x">Image: </span>Kay Lin, Joce, and Addison enter the castle, all standing apart.</span> <span class="block">The narrator watches from above.</span></figcaption></figure>
 
-I suppose that would've been off-putting to some. Your attitude was no charmer either, from a relentless nag <i>(from start to bitter end, you'd tell me)</i> to cowardice <i>(trying to stop him---and for what?)</i> to sheer terror <i>(of course it surprised you all, you don't mess with weres)</i>, and all for what? So you could enter, shivering, the place you least wanted to be, just as reluctantly as you'd been since the beginning? Not an admirable picture. Barely even respectable. <!--WHAT is he talking about. rewrite this-->
+I suppose that would've been off-putting to some. But I understood, you'd been through hell. How could anyone expect you to look presentable, to *not* be shivering and cold and miserable? You didn't want to be there; as you'd later tell me, you never had. All you'd done was get in the way.
 
-But to me, it made you human.
+But it only made you human.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>People are talking. Only Addison is in focus.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-06.png" alt=""/>
+<figcaption><span class="x">Image: </span>Faint talking. As the doors close into darkness, only Addison is in focus.</figcaption></figure>
 
 It made you perfect.
 
@@ -39,14 +54,14 @@ It made you perfect.
 
 <span class="dlg">"Don't."</span>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Kay Lin talks to the narrator, away from the others.<!--don't forget the gash on her shirt--></figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-07.png" alt=""/>
+<figcaption><span class="x">Image: </span> Upstairs, Kay Lin talks to the narrator, pointing angrily.</figcaption></figure>
 
 It's funny, that she tried to "warn" me. What did she think I was going to do to you? I meant no harm, I could have ended both of you the moment you stepped in, you knew that. *She* knew that.
 
 But she didn't care. She thought she was better than me---always did, always will. It's my favorite delusion.
 
-<span class="dlg">"I brought them here for shelter,"</span> she said. <span class="dlg">"That is *it*. Don't be weird about it."</span>
+<span class="dlg">"I brought them in for shelter,"</span> she claimed. <span class="dlg">"That is *it*. Don't be weird about it."</span>
 
 For how long, I asked; overnight, she said.
 
@@ -60,12 +75,12 @@ She couldn't reply to that. Of course she couldn't. We both knew.
 
 "Don't tell me what to do, Kay Lin." I flashed her a smile. "I'll take care of her."
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/4-08.png" alt=""/>
 <figcaption><span class="x">Image: </span>Exit narrator. He has the high ground.</figcaption></figure>
 
 ----
 
-You must forgive me for being smug. I&nbsp;haven't had the opportunity for so long.... She thinks she's better because she goes outside, likes to tell herself she can resist our nature. But I know what I am, and I don't *impose* it on people.
+You must forgive me for being smug. I&nbsp;haven't had the opportunity for so long.... She thinks she's better because she goes outside, can still look normal, likes to tell herself she can resist our nature. But I know what I am, and I don't *impose* it on people.
 
 If someone comes by, fine. But I won't seek them out. I won't. I can't.
 
@@ -73,10 +88,10 @@ I know how it ends.
 
 ----
 
-It didn't take long for the other visitor to abandon you, did it? Kay Lin played favorites too, of course she did, and I might have laughed at the blatant hypocrisy (it wouldn't have surprised me if she'd buckled already), but they left *you* and that was so very sad. <!--edit as noted? /Caleb/ suggests abandonment, Addison's like "well. to be fair,,"-->
+It didn't take long for the other visitor to abandon you, did it? You were barely together when you stepped in, and it didn't take long for Kay Lin to pursue the other. I might have laughed at her hypocrisy, but that left *you*, which was so very sad.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison sits alone by a dim fireplace. The narrator approaches.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Addison sits alone by a dim fireplace. The narrator approaches.</figcaption></figure><!--pooooossible tweak here, too: Addison looking for info? like yeah she's tired and she's probably not gonna find anything, but it makes her less passive. (or she could like, /look/ like she's searching, albeit barely able to focus. doesn't matter. Caleb doesn't know shit)-->
 
 Were you crying? I couldn't tell. And when I asked if you were okay, you greeted me as follows, so elegantly:
 

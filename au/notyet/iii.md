@@ -7,6 +7,8 @@ next:
   sym: 🌓︎
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
+<!--- if it didn't make it to lats part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
++there has been Net Zero foreshadowing because i legit just thought of it but like: Addison discovers some kinda evidence that people who die here turn into rabbits? may or may not be onscreen (leaning towards no), more implication. naturally she collapses before getting to tell Joce :^)-->
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>Picking up immediately where the last part left off, “the narrator” has been reduced to a pile of ash; only his fangs remain.</p><p>In the background, Addison has joined Joce in the doorway; both face Kay&nbsp;Lin, defensive.</p></figcaption></figure>
 
