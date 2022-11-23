@@ -5,11 +5,9 @@ sym: 🌕︎
 next:
   url: iii
   sym: 🌔︎
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:5em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg,figcaption p{text-transform:none;} #short{margin:2em auto;} #early{display:block; text-align:center; text-transform:none; margin:5em auto; padding-left:1em;}"
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:5em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg,figcaption p{text-transform:none;} #short{margin:2em auto;} #early{display:block; text-align:center; text-transform:none; margin:5em auto; padding-left:1em;} .smol{max-width:400px;}"
 ---
-<!--additions/thoughts from last night:
-- joce doesn't just ditch addison, she's looking for a key! and addison is Tired:tm:. joce was basically like "look i get it i am also exhausted but like, i'm gonna go search, and whether you stay close or not is up to you." (far as addison's concerned she got ditched anyway, though.)
-	- update nvm, had there be a bit of a Physical Altercation outside :^) they didn't beat each other up or anything but like, gestures vaguely at the silhouettes, they're just. straight-up avoiding each other on entry now lmao
+<!--
 - at the end: KL throws something at Caleb? then goes in for the kill. I nuked their powers so this has just gotta be straight-up physical assault lmao, bonus points if she stabs him with something (that she later uses on herself)
 - either here or next part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
 -->
@@ -88,27 +86,30 @@ I know how it ends.
 
 ----
 
-It didn't take long for the other visitor to abandon you, did it? You were barely together when you stepped in, and it didn't take long for Kay Lin to pursue the other. I might have laughed at her hypocrisy, but that left *you*, which was so very sad.
+It didn't take long for the other visitor to abandon you, did it? You were barely together when you stepped in, and within moments Kay Lin was gone, too. I might have laughed at her hypocrisy, but that left *you*, which was so very sad.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison sits alone by a dim fireplace. The narrator approaches.</figcaption></figure><!--pooooossible tweak here, too: Addison looking for info? like yeah she's tired and she's probably not gonna find anything, but it makes her less passive. (or she could like, /look/ like she's searching, albeit barely able to focus. doesn't matter. Caleb doesn't know shit)-->
+<figure><img src="{%include url.html%}/assets/img/au/4-09.png" alt=""/>
+<figcaption><span class="block"><span class="x">Image: </span>Addison stands alone by a shelf, head bowed over a book.</span> <span class="block">The narrator watches through the entryway.</span></figcaption></figure>
 
-Were you crying? I couldn't tell. And when I asked if you were okay, you greeted me as follows, so elegantly:
+You were already so bleary. I called out twice before you answered, without so much as looking back, and with so elegant a greeting:
 
-<span class="dlg">"Oh, great. There are two of them."</span>
+<span class="dlg">"Great. Here for my blood?"</span>
 
-I couldn't imagine being so openly flawed!<!--is this caleb?? is this caleb????? being openly flawed is kind of his whole schtick. just tweak the wording, this is supposed to be in a similar vein as the opening bit: "your personality actively repulses me but like, as soon as i saw you bossing kl around i wsa sold lmao. you are pitiful, let me outdo that"-->
+*Ah.* Of course you'd been "warned" about me, too. Yet what struck me was your lack of protest, even as I drew closer... you must have been exhausted.
 
-But... you paid attention to me. I'm weak.
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>The narrator sits at her side.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-10.png" alt=""/>
+<figcaption class="smol"><span class="x">Image: </span>Addison is despondent. The narrator stands close, head tilted slightly as he looks up at her.</figcaption></figure>
 
 I don't remember exactly what I said, but it wasn't much. I couldn't blame you for your distaste---how could I, knowing who you'd met first? No, I must have been validating, saying your fears made sense.
 
-And at that slight nudge your frustrations just spilled out. It was as though I wasn't there at all; you needed someone to hear, and I happened to be there, and no one else. I'm happy to have been that person. Maybe you would like me more for it.<!--...?? it's. it's Fine ig but could be rephrased-->
+That was all it took. Your frustrations spilled out. You needed someone to hear, and no one else was listening.
 
-You told me how you'd barely wanted to go to "that stupid party" in the first place, but anyone who meant anything was going to be there, so you had to. You told me how you fell in with a smaller group, with one person you kinda-knew and a few others, and that when they found the letter they held a vote, and you were the only one who said no, even the hesitant recipient wanted this, and you felt so very stupid. So you had to join, you *had* to, just to be there.
+This made me very happy. I hoped you might like me more, for being there.
+
+<figure><img src="{%include url.html%}/assets/img/au/4-11.png" alt=""/>
+<figcaption class="smol"><span class="x">Image: </span>The narrator watches closely. Addison, upset, is a faint reflection in his eyes.</figcaption></figure>
+
+You told me how you'd barely wanted to go to "that stupid party" in the first place, but anyone who meant anything was going to be there, so you had to. You told me how you fell in with a smaller group, with one person you kinda-knew and a few others, and that when they found the letter they held a vote, and you were the only one who said no, even the hesitant recipient wanted to follow it, and you felt so very stupid. So you had to join, you *had* to, just to be there.
 
 It seemed trivial back then. You had no idea what was at stake.
 
@@ -117,7 +118,7 @@ You had no idea you were going to watch not one but *two* companions get torn li
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[similar to the last one? Caleb has moved slightly closer.]</figcaption></figure>
 
-You mumbled something about yet another, this one missing, that <span class="dlg">"Your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...."</span> You told yourself you were going to keep them in line. What a night, huh?
+You mumbled something about yet another, this one missing, that <span class="dlg">"Your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...."</span> You wanted to think you could keep them in line. What a night, huh?
 
 In short: you were vulnerable. And I had to take the chance.
 
