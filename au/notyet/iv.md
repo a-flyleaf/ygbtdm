@@ -3,15 +3,10 @@ layout: 1.2-nosferatu
 title: iv.
 sym: 🌕︎
 next:
-  url: iii
-  sym: 🌔︎
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:5em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg,figcaption p{text-transform:none;} #short{margin:2em auto;} #early{display:block; text-align:center; text-transform:none; margin:5em auto; padding-left:1em;} .smol{max-width:400px;}"
+  url: interlude5
+  sym: †
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+6){display:none;} header h2{color:#404040;} nav li:nth-child(5){color:#808080;} figcaption{text-align:center; color:#9f9f9f;} i span{display:block; text-align:center;} hr{margin:5em auto;} hr:first-child+p{text-align:center;} p{text-transform:lowercase; max-width:20em; color:#bfbfbf; font-size:.95em;} .dlg,figcaption p{text-transform:none;} #short{margin:2em auto;} #early{display:block; text-align:center; text-transform:none; margin:5em auto; padding-left:1em;} .smol{max-width:400px;} figcaption p{color:inherit; font-size:1em;}"
 ---
-<!--
-- at the end: KL throws something at Caleb? then goes in for the kill. I nuked their powers so this has just gotta be straight-up physical assault lmao, bonus points if she stabs him with something (that she later uses on herself)
-- either here or next part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
--->
-
 <i id="early">Earlier...</i>
 
 <figure><img src="{%include url.html%}/assets/img/au/4-01.png" alt=""/>
@@ -107,18 +102,20 @@ That was all it took. Your frustrations spilled out. You needed someone to hear,
 This made me very happy. I hoped you might like me more, for being there.
 
 <figure><img src="{%include url.html%}/assets/img/au/4-11.png" alt=""/>
-<figcaption class="smol"><span class="x">Image: </span>The narrator watches closely. Addison, upset, is a faint reflection in his eyes.</figcaption></figure>
+<figcaption class="smol"><span class="x">Image: </span>The narrator watches closely. Addison, having dropped the book, is a faint reflection in his eyes.</figcaption></figure>
 
 You told me how you'd barely wanted to go to "that stupid party" in the first place, but anyone who meant anything was going to be there, so you had to. You told me how you fell in with a smaller group, with one person you kinda-knew and a few others, and that when they found the letter they held a vote, and you were the only one who said no, even the hesitant recipient wanted to follow it, and you felt so very stupid. So you had to join, you *had* to, just to be there.
 
 It seemed trivial back then. You had no idea what was at stake.
 
-You had no idea you were going to watch not one but *two* companions get torn limb from limb.
+You thought you could keep them in line.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[similar to the last one? Caleb has moved slightly closer.]</figcaption></figure>
+You had no idea you were going to watch not one but two companions get torn limb from limb.
 
-You mumbled something about yet another, this one missing, that <span class="dlg">"Your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...."</span> You wanted to think you could keep them in line. What a night, huh?
+<figure><img src="{%include url.html%}/assets/img/au/4-12.png" alt=""/>
+<figcaption class="smol"><span class="block"><span class="x">Image: </span>Silhouettes through the window.</span> <span class="block">As Addison speaks, Caleb reaches out.</span></figcaption></figure>
+
+Only towards the end did you acknowledge me; you mumbled something about one gone missing, that <span class="dlg">"Your *friend* there probably has something to do with it, and now I'm blabbing everything to you like an idiot...."</span>
 
 In short: you were vulnerable. And I had to take the chance.
 
@@ -136,38 +133,39 @@ But there's a catch to everything, isn't there. Here, I told you, is ours: this 
 
 "Let me," I said, "turn you."
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>The narrator looks closely at Addison as he says this.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-13.png" alt=""/>
+<figcaption><span class="x">Image: </span>The narrator pulls Addison’s hand close as he speaks, to her surprise.</figcaption></figure>
 
-And you were tired. You were drained. A long night of nonsense you never thought possible, only to find out an even *more* inexplicable circumstance would mean you'd never live to see the other end.... It was too much to process.
+It was too much to process, wasn't it? But I only wanted what was best for you. You'd come too far to never see the other end.
+
+I didn't *want* to put you on the spot. But we didn't have much time to waste....
+
+Even then, you didn't run away. I thought you might see reason.
+
+<figure><img src="{%include url.html%}/assets/img/au/4-14.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Addison, back to the wall by the entryway, raises a globe in warning. The narrator faces her, a bony hand still open.</p><p>Subtly, in the darkness past, are two eyes.</p></figcaption></figure>
+
+I was honest. I was good to you. I barely got to tell you everything I'd already come to admire about you, what I imagined for us in our future eternity. We'd be friends. You'd never have to worry about being out of step again, or losing a single soul, because it'd just be us, and *<span style="text-transform:uppercase;">I'd</span>* be yours, and I'm not going anywhere. Not for long. I promise.
+
+You considered this, for a moment.
+
+<figure><img src="{%include url.html%}/assets/img/au/4-15.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Addison speaks, uncertain; from the narrator’s perspective, only a thin sliver of her exposed neck is in focus.</p><p>She’s looking away. Reflected in the globe, framed off to the side, is a familiar figure, one finger raised. <i>Shh.</i></p></figcaption></figure>
 
 I almost had you.
 
-<span class="dlg">I. *almost.* had. you.</span>
+<figure><img src="{%include url.html%}/assets/img/au/4-16.png" alt=""/>
+<figcaption><span class="x">Image: </span>The narrator grins, crooked. Behind him, the figure looms.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="block"><span class="x">Image: </span>In a foreground silhouette, Addison backs away.<!--caleb's an unreliable narrator; he makes it seem like he wsa This close, maybe addison was (byh her own admission?) too tired to protest, but she /did/ back off. kl was like "owo i hear protest?"--></span> <span class="block">Beyond them both, Kay Lin appears in the doorway.</span></figcaption></figure>
+And then *she* interrupted.
 
-I was honest. I was good to you. I barely got to tell you everything I'd already come to admire about you, what I imagined for us in our future eternity. We'd be friends. You'd never have to worry about being out of step again, or losing your friends, because it'd just be us, and *<span style="text-transform:uppercase;">I'd</span>* be yours, and I'm not going anywhere. Not for long. I promise.
-
-We
-
-were
-
-so
-
-close.
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Kay Lin [attacks] the narrator. [looming, not unlike the hunter with her? but then againn KL wins this one so idk]</figcaption></figure>
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[it might be a small sequence]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-17.png" alt=""/>
+<figcaption><span class="x">Image: </span><i>Thwack.</i></figcaption></figure>
 
 The last thing I tried to see was you.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[???]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/4-18.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Stark silhouettes—<br>Addison backs away; Joce in the doorway;</p> <p>Kay Lin has taken a lamp, and kneels over the fallen narrator, who lies flat on the ground. The lamp’s base snapped and she points one jagged end down at his neck.</p></figcaption></figure>
 
 I hope you'll come back for me.
 </div>
