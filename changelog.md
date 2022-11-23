@@ -72,5 +72,5 @@ Back to incremental publication, then...!
 	- update 404 & sitemap layouts
 - 2022/09/11: obligate post-update fixes; redo cast pages; keyboard controls on gallery zoom
 - 2022/11/17: started publishing ["untitled Halloween AU-thing"](au)
-	- [if I don't mess anything up in GitHub I *should* be able to link the branch for a more comprehensive update history---but hang tight, that branch is staying private for now]
+	- [if I don't mess anything up in GitHub I *should* be able to link the branch for a more comprehensive update history]
 </section>

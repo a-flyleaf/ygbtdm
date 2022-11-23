@@ -7,6 +7,20 @@ next:
   sym: 🌓︎
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
+<!--in light of yet another spontaneous change:
+KL "Hey, I saved you from him, didn't I?" A: "No?!?? If you hadn't standing around like another goddamn creep" "I heard you yelling" "I would've gotten out!! Instead you smashed his skull in and ate his brains like a" "Didn't you see him turn to ash?" "I'm not listening to a VAMPIRE!" and then Joce is like "ffs. both of you. Chill" but Addison's like "I am /not/, let's get out of here--and if the little psychopath is at ALL trustworthy, she'll leave us alone."
+
++also maybe allude to the thing where Addison didn't want to split up, Joce wanted to go search and A was like "no???" so they ended up splitting up anyway. idk
+
+1: immediate aftermath, possible argument, J+A out
+2: J+A searching, A tells J about Caleb's "you Will die here sorry" thing and unfortunately the book confirmed it (implicitly the hunter's? but fuck if I know how it ended up here), they try breaking out but no use. this is mostly talk so it can maaaybe stay shortish, skim over stuff?
+3: A tries to ask J about what even brought her here--oh wait wrong order, A asks gets no answer, but does at least warn J about the Caleb thing because she doesn't want to split up again? yeah ok that tracks. THEN the last part is dedicated solely to The Demise, however the fuck that works out
+SCOPE BLOAT YAYYY-->
+<!--+starting this whole thing: "Kay Lin 1, Caleb 0" or "now we're even" or something else that implies they, uh, make some kind of game of killing each other. idk there's gotta be a more interesting way to say They Don't Stay Dead. maybe she takes his fangs as a prize
+	--OH WAIT OK BUT if she does THAT then it draws attention to The Fangs, and if Joce has been searching for a key (and also maybe tried to pick it) then she'd Know they need to get those teeth. the question is How tho... maybe A's off trying to set a trap when she collapses? idek but we're getting there-->
+
+<!--- if it didn't make it to lats part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
++there has been Net Zero foreshadowing because i legit just thought of it but like: Addison discovers some kinda evidence that people who die here turn into rabbits? may or may not be onscreen (leaning towards no), more implication. naturally she collapses before getting to tell Joce :^)-->
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
 <figcaption><p><span class="x">Image: </span>Picking up immediately where the last part left off, “the narrator” has been reduced to a pile of ash; only his fangs remain.</p><p>In the background, Addison has joined Joce in the doorway; both face Kay&nbsp;Lin, defensive.</p></figcaption></figure>
 

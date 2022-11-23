@@ -2,10 +2,12 @@
 layout: 1.2-nosferatu
 title: TBA
 sym: 🌙
-css: header h2{margin-right:.5em;} nav{display:none;} h1{opacity:0; height:0;} main{text-align:center;} p{max-width:20em;}
+css: header h2{margin-right:.5em;} nav{display:none;} h1{opacity:0; height:0;} main{text-align:center;} p{max-width:20em;} s{opacity:.5;}
 ---
-<span class="block">Aiming to update twice weekly.</span> <span class="block">Whole thing will be done by December or so help me god---</span>
+Updating whenever I finish a page, which is ideally twice weekly (albeit on no particular schedule). Whole thing will be done by December or so help me---
 
-Have the most recent (not-too-spoilery) panel, as of November 17.
+Have <s>the most recent (not-too-spoilery) panel</s> the next panel, because the rest are fairly spoilery.
 
-<img src="{%include url.html%}/assets/img/au/5-41.png" alt=""/>
+<img src="{%include url.html%}/assets/img/au/4-01.png" alt=""/>
+
+(last updated November 23)
