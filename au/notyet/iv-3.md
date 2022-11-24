@@ -82,7 +82,7 @@ You considered this, for a moment.
 I almost had you.
 
 <figure><img src="{%include url.html%}/assets/img/au/4-16.png" alt=""/>
-<figcaption><span class="x">Image: </span>The narrator grins, crooked. Behind him, the figure looms.</figcaption></figure>
+<figcaption><span class="x">Image: </span>The narrator grins, crooked. Behind him, the figure looms. [make the eyebrows less.. eager? furrowed but in the usual sad way]</figcaption></figure>
 
 And then *she* interrupted.
 
