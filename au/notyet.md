@@ -4,10 +4,10 @@ title: TBA
 sym: 🌙
 css: header h2{margin-right:.5em;} nav{display:none;} h1{opacity:0; height:0;} main{text-align:center;} p{max-width:20em;} s{opacity:.5;}
 ---
-Updating whenever I finish a page, which is ideally twice weekly (albeit on no particular schedule). Whole thing will be done by December or so help me---
+Updating whenever I finish a section. Dates be damned at this point, but it *will* be finished; the rest is written, and needs only revisions & art.
 
-Have <s>the most recent (not-too-spoilery) panel</s> the next panel, because the rest are fairly spoilery.
+Have a panel teaser.
 
 <img src="{%include url.html%}/assets/img/au/4-01.png" alt=""/>
 
-(last updated November 23)
+(last updated November 28)

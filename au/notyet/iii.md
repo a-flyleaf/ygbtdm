@@ -7,6 +7,17 @@ next:
   sym: 🌓︎
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
+<!--hi it's been 5 days, hope any future commit-stalkers are having fun with the note-to-self snooping
+3 parts here and subsequently or so HELP me god. and also, fuck it, why NOT have the Joce backstory drop here; keeps the very end short (just KL doing the stab and Joce walking out).
+
+1: immediate aftermath. KL like "hey, I saved you from him", Addison just trying to get the fuck away, see dialogue below (but can condense/summarize as done with vii). ends on "If you're at ALL trustworthy, you'll leave us alone."
+2: Joce hasn't made much leeway wrt key-finding; KL was with her at first but strayed to make sure "the other one" wasn't causing trouble or something. (unlcear whether she's referring to Caleb or Addison; after this Joce followed /her/.) meanwhlie Addison confirmed via book that humans who stay here are indeed basically fucked. use that as the end??
+3: so it's either withering away in here or getting mauled by a rabbit. neither of them want to believe that; Joce /refuses/, much as they're both exhausted (Addison moreso). timeskip a bit? Joce demands an audience with the letter-writer, could be banging at the door or storming over; we don't need the immediate reactions, basically.
+	OH, just summarize: Addison, after the pt2 reveal, asked Joce how she even knows this... letter-writer castle-head person-vampire anyway; instead of answering, Joce stormed off.
+	but she gets no answer. and so finally she relents. the implication has (supposed to have) been that she knew the letter-writer but is no longer in contact/thought they were gone, and Gary and Em kinda jumped on that and then the whole group outing became a thing. a fuller truth is that Joce thought the writer was /dead/. like Em is now... Addison kinda drifts off at this point, and you know how it goes from there.
+-->
+
+
 <!--in light of yet another spontaneous change:
 KL "Hey, I saved you from him, didn't I?" A: "No?!?? If you hadn't standing around like another goddamn creep" "I heard you yelling" "I would've gotten out!! Instead you smashed his skull in and ate his brains like a" "Didn't you see him turn to ash?" "I'm not listening to a VAMPIRE!" and then Joce is like "ffs. both of you. Chill" but Addison's like "I am /not/, let's get out of here--and if the little psychopath is at ALL trustworthy, she'll leave us alone."
 
