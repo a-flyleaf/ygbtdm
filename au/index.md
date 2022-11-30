@@ -12,9 +12,9 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 1. [<img src="{%include url.html%}/assets/img/au/vii1.png" alt="vii, part 1">](vii)[<img src="{%include url.html%}/assets/img/au/vii2.png" alt="vii, part 2">](vii-2)
 1. [<img src="{%include url.html%}/assets/img/au/vi.png" alt="vi">](vi)
 1. [<img src="{%include url.html%}/assets/img/au/v1.png" alt="v, part 1">](v)[<img src="{%include url.html%}/assets/img/au/v2.png" alt="v, part 2">](v-2)[<img src="{%include url.html%}/assets/img/au/v3.png" alt="v, part 3">](v-3)
+1. [<img src="{%include url.html%}/assets/img/au/iv1.png" alt="iv, part 1">](iv)[<img src="{%include url.html%}/assets/img/au/iv2.png" alt="iv, part 2">](iv-2)[<img src="{%include url.html%}/assets/img/au/iv3.png" alt="iv, part 3">](iv-3)
 
-<!--1. [<img src="{%include url.html%}/assets/img/au/iv1.png" alt="iv, part 1">](iv)[<img src="{%include url.html%}/assets/img/au/iv2.png" alt="iv, part 2">](iv-2)[<img src="{%include url.html%}/assets/img/au/iv3.png" alt="iv, part 3">](iv-3)
-
+<!--
 1. [<img src="{%include url.html%}/assets/img/au/iv.png" alt="iv">](iv)
 1. [<img src="{%include url.html%}/assets/img/au/iii.png" alt="iii">](iii)
 

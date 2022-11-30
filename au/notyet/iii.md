@@ -7,132 +7,141 @@ next:
   sym: 🌓︎
 css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;}"
 ---
-<!--hi it's been 5 days, hope any future commit-stalkers are having fun with the note-to-self snooping
-3 parts here and subsequently or so HELP me god. and also, fuck it, why NOT have the Joce backstory drop here; keeps the very end short (just KL doing the stab and Joce walking out).
-
-1: immediate aftermath. KL like "hey, I saved you from him", Addison just trying to get the fuck away, see dialogue below (but can condense/summarize as done with vii). ends on "If you're at ALL trustworthy, you'll leave us alone."
-2: Joce hasn't made much leeway wrt key-finding; KL was with her at first but strayed to make sure "the other one" wasn't causing trouble or something. (unlcear whether she's referring to Caleb or Addison; after this Joce followed /her/.) meanwhlie Addison confirmed via book that humans who stay here are indeed basically fucked. use that as the end??
-3: so it's either withering away in here or getting mauled by a rabbit. neither of them want to believe that; Joce /refuses/, much as they're both exhausted (Addison moreso). timeskip a bit? Joce demands an audience with the letter-writer, could be banging at the door or storming over; we don't need the immediate reactions, basically.
-	OH, just summarize: Addison, after the pt2 reveal, asked Joce how she even knows this... letter-writer castle-head person-vampire anyway; instead of answering, Joce stormed off.
-	but she gets no answer. and so finally she relents. the implication has (supposed to have) been that she knew the letter-writer but is no longer in contact/thought they were gone, and Gary and Em kinda jumped on that and then the whole group outing became a thing. a fuller truth is that Joce thought the writer was /dead/. like Em is now... Addison kinda drifts off at this point, and you know how it goes from there.
--->
-
-
-<!--in light of yet another spontaneous change:
-KL "Hey, I saved you from him, didn't I?" A: "No?!?? If you hadn't standing around like another goddamn creep" "I heard you yelling" "I would've gotten out!! Instead you smashed his skull in and ate his brains like a" "Didn't you see him turn to ash?" "I'm not listening to a VAMPIRE!" and then Joce is like "ffs. both of you. Chill" but Addison's like "I am /not/, let's get out of here--and if the little psychopath is at ALL trustworthy, she'll leave us alone."
-
-+also maybe allude to the thing where Addison didn't want to split up, Joce wanted to go search and A was like "no???" so they ended up splitting up anyway. idk
-
-1: immediate aftermath, possible argument, J+A out
-2: J+A searching, A tells J about Caleb's "you Will die here sorry" thing and unfortunately the book confirmed it (implicitly the hunter's? but fuck if I know how it ended up here), they try breaking out but no use. this is mostly talk so it can maaaybe stay shortish, skim over stuff?
-3: A tries to ask J about what even brought her here--oh wait wrong order, A asks gets no answer, but does at least warn J about the Caleb thing because she doesn't want to split up again? yeah ok that tracks. THEN the last part is dedicated solely to The Demise, however the fuck that works out
-SCOPE BLOAT YAYYY-->
-<!--+starting this whole thing: "Kay Lin 1, Caleb 0" or "now we're even" or something else that implies they, uh, make some kind of game of killing each other. idk there's gotta be a more interesting way to say They Don't Stay Dead. maybe she takes his fangs as a prize
-	--OH WAIT OK BUT if she does THAT then it draws attention to The Fangs, and if Joce has been searching for a key (and also maybe tried to pick it) then she'd Know they need to get those teeth. the question is How tho... maybe A's off trying to set a trap when she collapses? idek but we're getting there-->
-
-<!--- if it didn't make it to lats part: "I just want to go home, fall asleep, and when I wake up this will all have been some nightmare."
-+there has been Net Zero foreshadowing because i legit just thought of it but like: Addison discovers some kinda evidence that people who die here turn into rabbits? may or may not be onscreen (leaning towards no), more implication. naturally she collapses before getting to tell Joce :^)-->
 <figure><img src="https://via.placeholder.com/800x300.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Picking up immediately where the last part left off, “the narrator” has been reduced to a pile of ash; only his fangs remain.</p><p>In the background, Addison has joined Joce in the doorway; both face Kay&nbsp;Lin, defensive.</p></figcaption></figure>
+<figcaption><span class="x">Image: </span>Where the previous narrator was, a pile of ash; two white specks remain.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison has an arm out in front of Joce (who’s a bit baffled by the gesture but not protesting), and points at Kay Lin, disturbed.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Kay Lin scoops up his fangs as Addison and Joce back away, horrified.</figcaption></figure>
 
-"Listen, I don't know who the *hell* you are or what you want, but s-*stay away from us*. Got it?"
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Kay Lin stares. She and Addison glance at Joce. Dead silence.</p><p>Then:</p></figcaption></figure>
-
-"You don't know what he was about to do to you."
+"What? Wasn't he bothering you?"
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>But Kay Lin steps back, raising her palms slightly. Addison grabs Joce and high-tails it.</figcaption></figure>
+<figcaption><span class="block"><span class="x">Image: </span>Even Joce is on edge, if a little baffled by Addison standing in front of her.</span> <span class="block">Addison points directly at Kay Lin.</span></figcaption></figure>
 
-"---H-hey, are y- are you--?"  
-"I'm *fine.* I am *fine,* don't ask, let's *go*."
+"What is *wrong* with you?!"
 
-<figure><img src="https://via.placeholder.com/800x600.png" alt=""/>
-<figcaption><span class="x">Image: </span>The castle interior looms; tangled staircases and rotting rooms abound. Navigating it is like an impossible puzzle.</figcaption></figure>
-
-It's hard to be sure if or when they're out of Kay&nbsp;Lin's earshot. Eventually, Joce asks if they're looking for something.
+Kay Lin doesn't get it. Addison went with the little plan just now, didn't she? (*What* plan?) She kept Caleb's attention (he was *already* fixated!), then Kay Lin snuck in (yeah, and Addison would've gotten away *sooner* if she hadn't been standing around like a goddamn---), he didn't see it coming, bam. Done. ("*Done?!*")
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison is exasperated.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Addision still sputtering. Kay Lin’s hands are up again halfheartedly; she rolls her eyes.</figcaption></figure>
 
-"Aren't *you?* What are you even trying to accomplish here?"
+"He's not even gonna *stay* gone---"
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Now Joce is on defense.</figcaption></figure>
-
-Joce tries to reiterate the plan: stay the night, leave. But Addison's frazzled; she hates this place, hates the people here, she was gonna ask how Joce even knows anyone but at this point she just doesn't care. Why <em style="text-transform:uppercase; font-style:normal;">not</em> just go out and get eaten by a... were-rabbit or whatever the hell.
+Oh, *that's* reassuring!
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>As Addison rants, Joce is miffed. Mildly concerned, but mostly miffed.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Addision grabs Joce and starts pulling away.</figcaption></figure>
 
-"O-okay, then. Why not-- why n-not just, go, then. Leave. Walk out."
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison stops ranting to just <em>look</em> at Joce, almost dumbfounded.</figcaption></figure>
-
-"I d-- I don't *want* you to, but---"  
-"We. *Can't.*"
+"If you're at *all* trustworthy, stay the hell away from us."
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>They’ve reached an impasse.</figcaption></figure>
-
-Addison, at wit's end, reiterates what the vampire boy told her: that only a vampire can leave, or open doors, or, whatever. And maybe she's the night's #1 idiot for believing him (although *someone* sure didn't want him to stick around)--- But sure enough, when they try:
+<figcaption><span class="x">Image: </span>Joce hesitates.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce kneels at a door, squinting at the keyhole. She can’t get it. Addison stands back, defeated.</figcaption></figure>
+<figcaption><span class="x">Image: </span>But away and up the stairs they go.</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Banging or kicking it down (which they both try) doesn’t work either.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Kay Lin is left behind.</figcaption></figure>
+
+----
+<!--just using this while writing, will split pages when doing art-->
+
+"What is *with* you and that girl, anyway."
+
+<figure><img src="https://via.placeholder.com/600x200.png" alt=""/>
+<figcaption><span class="x">Image: </span>Joce forges ahead, Addison close behind. [silhouettes? get some of those escher vibes in the scenery]</figcaption></figure>
+
+Joce only met Kay Lin tonight, same as anyone. But no one had seen her *do* anything until just now---and even if this *is* a trap, she hasn't hurt them. She didn't interfere while Joce was searching the place, and only strayed to see if "the other one" was causing trouble. And okay, no, she didn't specify *which* "other one," but that's why Joce followed her.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Throwing or ramming things at it is also futile, but at least it’s stress relief.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Addison has a headache. [just her, maybe a dialogue bubble overhead, out of focus. she looks tired.]</figcaption></figure>
+
+Through what's felt like hours of searching, all Joce has turned up are dusty rooms, stairs weaving through halls tucked under arches. There was one conspicuous door further down, immovable. She's looking for a key, now. The locks here are strange....
+
+<figure><img src="https://via.placeholder.com/600x400.png" alt=""/>
+<figcaption><span class="x">Image: </span>The castle is labyrinthian. Onward drags the night.</figcaption></figure>
+
+"...S-so." For once it falls on Joce to speak. "F-find any---anything, yourself." It's probably supposed to be a question.
+
+Well. Funny she should ask.
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison says something to Joce. [off-center, small.]</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Joce steps back. Addison can’t offer much. [silhouettes?]</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="block"><span class="x">Image: </span>Joce takes off down the stairs.</span> <span class="block">Addison watches for a moment.</span></figcaption></figure>
+
+The vampire said it. The book said it before him. And Addison didn't want to believe it, but Joce sure as hell seems to. They're really not gonna last the night, are they?
+
+She feels drained. All this, and for what? Wither away in this cursed castle or get mauled by a rabbit outside. She couldn't bring herself to say what happens, if the sources are true, to the bodies.
+
+Gary had a bit of a point, at least. Might as well get some answers.
 
 <figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>At the end of it all, they’re wiped as ever. [just headshots/torso-ups, focus on expressions]</figcaption></figure>
+<figcaption><span class="x">Image: </span>In no rush, Addison descends to follow.</figcaption></figure>
 
-Rendered nearly breathless, Addison asks Joce what Kay Lin was even doing earlier. Learn anything useful...?
-
-Joce replies, nothing shocking, idle chatter; it doesn't register. Addison is drained.
+----
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison sways, suddenly dizzy; Joce notices just in time to support her.[zoom out side views, 2 panels?]</figcaption></figure>
+<figcaption><span class="x">Image: </span>Joce is banging at the door, yelling.</figcaption></figure>
 
-Again, Addison insists she's fine. But when Joce asks if she wants to lie down, there's no protest.
+Some sick death trap this is, huh? Somehow Joce doesn't seem tired in the slightest. Would their friend, the only one they all knew, have been this defiant?
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/> <img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison approaches, weary. She puts a hand on Joce’s shoulder. <i>Enough.</i></figcaption></figure>
+
+Maybe they should just save their energy. Wait until day breaks, the sky clears. Ha, maybe when they wake up it'll all have been some nightmare, wouldn't that be---
+
+"Stop, y-- You s---You sound like---"
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>When she does, Joce stays standing.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Joce, frustrated, gives the door a final slam.</figcaption></figure>
 
-Addison, bleary, says Joce can have her turn in a bit. And uh, by the way, if she *does* find this letter-writer person... then what?
+<figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
+<figcaption><span class="x">Image: </span>It echoes, hollow.</figcaption></figure>
+
+How does Joce even *know* this... letter-writer castle-head person-vampire, anyway? It's a glimmer of old snark, and Addison wants to think that's what gets Joce to listen, and not some kind of pity.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce is uncertain. Not looking back all the way.</figcaption></figure>
+<figcaption><span class="x">Image: </span>[???idk they step back or smthn, maybe Addison stumbles a bit. or maybe focus on one of them, or neither, downshot, idek]</figcaption></figure>
 
-Mm. Hard to say. But she definitely, did, want to do *something,* because she didn't think... that person was...
+It's... someone she knew. *(Well, yeah.)* They're not in touch, anymore. *(Right, that was implied...)* But it's not *just* that, they were more than just estranged, it's...
 
-<figure><img src="https://via.placeholder.com/400x200.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison is sleeping.</figcaption></figure>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and their first-gone friend looking over her shoulders.</figcaption></figure>
 
-...still alive.
+"S-supposed to be. To be dead."
 
-<figure><img src="https://via.placeholder.com/400x200.png" alt=""/><br/><img src="https://via.placeholder.com/400x200.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce smiles faintly, strained. Then throws her coat over Addison—scarf and all.</figcaption></figure>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>This gets Addison’s attention. [small still, maybe? off-center. woozy.]</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/200x200.png" alt=""/>
-<figcaption><span class="x">Image: </span>Fading to white, a figure appears in the distance.</figcaption></figure>
+*Dead.* Dead, but back. Like a vampire, maybe, sure. But there's a certainty in Joce's voice, like she *knows* that person didn't come back, not before. And it makes Addison wonder---<!--i love watching the "prose" part get picture-y and the "picture" part get prose-y--> Is there a chance...?
 
-<figure><img src="https://via.placeholder.com/200x200.png" alt=""/>
-<figcaption><span class="x">Image: </span>Humanoid…? But, rabbit ears, and—</figcaption></figure>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Hazy. There’s a rabbit in the distance.</figcaption></figure>
 
-<div class="wrap left"><figure><img src="https://via.placeholder.com/250x400.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison, foolishly hopeful, does not care.</figcaption></figure></div>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>But the figure steps forward, biped, almost human.</figcaption></figure>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison’s face lights up.</figcaption></figure>
 
 She calls out.
 
-<div class="wrap right"><figure><img src="https://via.placeholder.com/250x400.png" alt=""/>
-<figcaption><span class="x">Image: </span>The figure turns around, face obscured.</figcaption></figure></div>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>And suddenly she’s caught, falling into strong arms.</figcaption></figure>
 
-<i>"Take me home."</i>
+It's been a long night, hasn't it?
+
+"Let's go home."
+
+----
+<!--[long margin?]-->
+
+<figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Back in reality, Joce kneels by Addison’s side.</figcaption></figure>
+
+[that's it, JUST that image. end part.]
