@@ -82,7 +82,7 @@ You considered this, for a moment.
 I almost had you.
 
 <figure><img src="{%include url.html%}/assets/img/au/4-16.png" alt=""/>
-<figcaption><span class="x">Image: </span>The narrator grins, crooked. Behind him, the figure looms. [make the eyebrows less.. eager? furrowed but in the usual sad way]</figcaption></figure>
+<figcaption><span class="x">Image: </span>The narrator grins, crooked. Behind him, the figure looms.</figcaption></figure>
 
 And then *she* interrupted.
 
@@ -92,7 +92,7 @@ And then *she* interrupted.
 The last thing I tried to see was you.
 
 <figure><img src="{%include url.html%}/assets/img/au/4-18.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Stark silhouettes—<br>Addison backs away; Joce in the doorway;</p> <p>Kay Lin has taken a lamp, and kneels over the fallen narrator, who lies flat on the ground. The lamp’s base snapped and she points one jagged end down at his neck.</p></figcaption></figure>
+<figcaption><p><span class="x">Image: </span>Stark silhouettes—<br>Addison backs away; Joce in the doorway;</p> <p>Kay Lin has taken a lamp, and kneels over the fallen narrator, keeping him flat on the ground. The lamp’s base is snapped in two; Kay Lin raises one jagged piece down at the narrator’s neck.</p></figcaption></figure>
 
 I hope you'll come back for me.
 </div>

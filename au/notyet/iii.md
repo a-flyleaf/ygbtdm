@@ -20,7 +20,7 @@ css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:n
 
 "What is *wrong* with you?!"
 
-Kay Lin doesn't get it. Addison went with the little plan just now, didn't she? (*What* plan?) She kept Caleb's attention (he was *already* fixated!), then Kay Lin snuck in (yeah, and Addison would've gotten away *sooner* if she hadn't been standing around like a goddamn---), he didn't see it coming, bam. Done. ("*Done?!*")
+Kay Lin doesn't get it. Addison went with the little plan just now, didn't she? (*What* plan?) She kept Caleb's attention (he was *already* fixated!), then Kay Lin snuck in (yeah, and Addison would've gotten away *sooner* if *a certain someone* hadn't been standing around like a goddamn---), and look, he didn't see it coming, bam. Done. ("*Done?!*")
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Addision still sputtering. Kay Lin’s hands are up again halfheartedly; she rolls her eyes.</figcaption></figure>
@@ -51,7 +51,7 @@ Oh, *that's* reassuring!
 <figure><img src="https://via.placeholder.com/600x200.png" alt=""/>
 <figcaption><span class="x">Image: </span>Joce forges ahead, Addison close behind. [silhouettes? get some of those escher vibes in the scenery]</figcaption></figure>
 
-Joce only met Kay Lin tonight, same as anyone. But no one had seen her *do* anything until just now---and even if this *is* a trap, she hasn't hurt them. She didn't interfere while Joce was searching the place, and only strayed to see if "the other one" was causing trouble. And okay, no, she didn't specify *which* "other one," but that's why Joce followed her.
+Joce only met Kay Lin tonight, same as anyone. But no one had seen Kay Lin *do* anything until just now---and even if this *is* a trap, she hasn't hurt them. She didn't interfere while Joce was searching the place, and only strayed to see if "the other one" was causing trouble. And okay, no, she didn't specify *which* "other one," but that's why Joce followed her.
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Addison has a headache. [just her, maybe a dialogue bubble overhead, out of focus. she looks tired.]</figcaption></figure>
@@ -74,9 +74,9 @@ Well. Funny she should ask.
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="block"><span class="x">Image: </span>Joce takes off down the stairs.</span> <span class="block">Addison watches for a moment.</span></figcaption></figure>
 
-The vampire said it. The book said it before him. And Addison didn't want to believe it, but Joce sure as hell seems to. They're really not gonna last the night, are they?
+The vampire said it. The book said it before him. And Addison didn't want to believe it, but Joce sure as hell seems to. They're really not gonna last the night, are they? <!--on a fresh-eyes reread this does not have the impact I was hoping, needs revision. we've already said they're gonna die here but it needs Oomph at this particular junction. like... How. what happens, exactly. do we just explicitly drop that they turn, or Strongly Hint At It??-->
 
-She feels drained. All this, and for what? Wither away in this cursed castle or get mauled by a rabbit outside. She couldn't bring herself to say what happens, if the sources are true, to the bodies.
+She feels drained. All this, and for what? Wither away in this cursed castle or get mauled by a monster outside. She couldn't bring herself to say what happens, if the sources are true, to the bodies. <!--I like this bit tho, specifically the "wither or maul" bit and the hint at something Bad happening to the bodies. hm, maybe something like "to their minds, never mind the bodies...."-->
 
 Gary had a bit of a point, at least. Might as well get some answers.
 
@@ -95,7 +95,7 @@ Some sick death trap this is, huh? Somehow Joce doesn't seem tired in the slight
 
 Maybe they should just save their energy. Wait until day breaks, the sky clears. Ha, maybe when they wake up it'll all have been some nightmare, wouldn't that be---
 
-"Stop, y-- You s---You sound like---"
+"Stop. You s---You sound like---"
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Joce, frustrated, gives the door a final slam.</figcaption></figure>
@@ -111,14 +111,14 @@ How does Joce even *know* this... letter-writer castle-head person-vampire, anyw
 It's... someone she knew. *(Well, yeah.)* They're not in touch, anymore. *(Right, that was implied...)* But it's not *just* that, they were more than just estranged, it's...
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and their first-gone friend looking over her shoulders.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and the <span style="display:inline-block;">first-gone</span> friend looking over her shoulders.</figcaption></figure>
 
 "S-supposed to be. To be dead."
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>This gets Addison’s attention. [small still, maybe? off-center. woozy.]</figcaption></figure>
 
-*Dead.* Dead, but back. Like a vampire, maybe, sure. But there's a certainty in Joce's voice, like she *knows* that person didn't come back, not before. And it makes Addison wonder---<!--i love watching the "prose" part get picture-y and the "picture" part get prose-y--> Is there a chance...?
+*Dead.* Dead, but back. Like a vampire, maybe, sure. But there's a certainty in Joce's voice, like she *knows* that person didn't come back, not before. And it makes Addison wonder--- Is there a chance...?<!--not sold on the transition but EGHH-->
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Hazy. There’s a rabbit in the distance.</figcaption></figure>
@@ -145,3 +145,5 @@ It's been a long night, hasn't it?
 <figcaption><span class="x">Image: </span>Back in reality, Joce kneels by Addison’s side.</figcaption></figure>
 
 [that's it, JUST that image. end part.]
+
+<!--also if we're hinting at the dead turning then KL can just like. jump in here and stab her, or something. make sure she Stays Dead. usually vampires don't let it get this far. bonus points if the pose, rather than A just Lying There, suggests Something Awful Was Happening.-->
