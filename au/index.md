@@ -13,10 +13,9 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 1. [<img src="{%include url.html%}/assets/img/au/vi.png" alt="vi">](vi)
 1. [<img src="{%include url.html%}/assets/img/au/v1.png" alt="v, part 1">](v)[<img src="{%include url.html%}/assets/img/au/v2.png" alt="v, part 2">](v-2)[<img src="{%include url.html%}/assets/img/au/v3.png" alt="v, part 3">](v-3)
 1. [<img src="{%include url.html%}/assets/img/au/iv1.png" alt="iv, part 1">](iv)[<img src="{%include url.html%}/assets/img/au/iv2.png" alt="iv, part 2">](iv-2)[<img src="{%include url.html%}/assets/img/au/iv3.png" alt="iv, part 3">](iv-3)
+1. [<img src="{%include url.html%}/assets/img/au/iii1.png" alt="iii, part 1">](iii)[<img src="{%include url.html%}/assets/img/au/iii2.png" alt="iii, part 2">](iii-2)[<img src="{%include url.html%}/assets/img/au/iii3.png" alt="iii, part 3">](iii-3)
 
 <!--
-1. [<img src="{%include url.html%}/assets/img/au/iv.png" alt="iv">](iv)
-1. [<img src="{%include url.html%}/assets/img/au/iii.png" alt="iii">](iii)
 
 <b>†</b>-->…?
 
@@ -29,6 +28,7 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 <!--
 au update shitpost-art
 - c+a: the guy looking back meme but flipped. “an average, normal human being” (addison), “the only person left who could crush these weirdos like bugs, and yet” (joce; that, or alluding to it being her “fault” any of this even happened), “sickos” (kay lin in foreground, caleb in bg)
+	also: woman yelling at cat meme. idk that's practically already "canon" the way I drew it, why redo it
 - kl+j: dating sim but joce is banging at the edge trying to get out. kl, dialogue going off page: “it’s not like i want to suck your blood and watch the light drain from your eyes only to be brought crawling back just like me so we can” etc, this speech bubble in the middle, actual prompt box just reads “AU update (fin.)”
 -->
 

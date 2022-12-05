@@ -3,56 +3,12 @@ layout: 1.2-nosferatu
 title: iii.
 sym: 🌔︎
 next:
-  url: iii-2
-  sym: ▶
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} nav li:nth-child(6){color:#808080;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;}"
+  url: ii
+  sym: 🌓︎
+css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;}"
 ---
-<figure><img src="{%include url.html%}/assets/img/au/3-01.png" alt=""/>
-<figcaption><span class="x">Image: </span>Where the previous narrator was, an empty cloak atop scattered ash. Two white teeth remain.</figcaption></figure>
 
-<figure><img src="{%include url.html%}/assets/img/au/3-02.png" alt=""/>
-<figcaption><span class="x">Image: </span>Kay Lin takes his fangs as she asks a question; Addison backs away, Joce close behind.</figcaption></figure>
-
-"What? Wasn't he bothering you?"
-
-<figure><img src="{%include url.html%}/assets/img/au/3-03.png" alt=""/>
-<figcaption><span class="block"><span class="x">Image: </span>Even Joce is wary, if a little baffled by Addison’s arm in front of her.</span> <span class="block">Addison, deeply perturbed, points directly at Kay&nbsp;Lin, yelling:</span></figcaption></figure>
-
-"What is *wrong* with you?!"
-
-Kay Lin doesn't get it. Addison went with the little plan just now, didn't she? (*What* plan?) She kept Caleb's attention (he was *already* fixated!), then Kay Lin snuck in (yeah, and Addison would've gotten away *sooner* if she hadn't been standing around like a goddamn weirdo---), and, look, he didn't see it coming, bam, done. ("*Done?!*")
-
-<figure><img src="{%include url.html%}/assets/img/au/3-04.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addision still sputtering. Kay Lin’s hands are up again halfheartedly; she rolls her eyes, irritated.</figcaption></figure>
-
-"He's not even gonna *stay* gone---"
-
-Oh, *that's* reassuring!
-
-<figure><img src="{%include url.html%}/assets/img/au/3-05.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addision grabs Joce and starts pulling away.</figcaption></figure>
-
-"If you're at *all* trustworthy, stay the hell away from us."
-
-<div id="away">
-<figure><img src="{%include url.html%}/assets/img/au/3-06.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce hesitates.</figcaption></figure>
-
-<figure><img src="{%include url.html%}/assets/img/au/3-07.png" alt=""/>
-<figcaption><span class="x">Image: </span>But away she turns.</figcaption></figure>
-
-<figure><img src="{%include url.html%}/assets/img/au/3-08.png" alt=""/>
-<figcaption><span class="x">Image: </span>Up the stairs they go.</figcaption></figure>
-
-<figure><img src="{%include url.html%}/assets/img/au/3-09.png" alt=""/>
-<figcaption><p><span class="x">Image: </span>Kay Lin stays behind.</p><p>The two humans vanish into warped darkness.</p></figcaption></figure>
-</div>
-
-
-<!--end page-->
-
-
-
+<!--ok ONE other thought: something else bugging me is that there's like zero transition between pages; first part Addison's like "get the fuck away from her let's GO", then suddenly... not? idk, see how it works laid out with pictures again-->
 
 <!--and then, like two seconds after turning off the computer last night, the universe said, "rewrite it all from scratch." and the universe said, "this fixes no structural problems but does sound much cooler." and so it was done.
 
