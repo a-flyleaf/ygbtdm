@@ -7,6 +7,19 @@ next:
   sym: 🌓︎
 css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;}"
 ---
+<!--12/7
+okay. Ok. ok: rapid-onset dementia. can’t discern Joce from Em or even remember Em’s name, or Joce’s, and the art gets fuzzier to match until suddenly being very clear at the end. send tweet
+
+for the love of god please help m-->
+<!--12/4
+(spongebob singing voice) I have another ideaaaaaaa~
+so Addison essentially got a terminal diagnosis here, right? fuck it, what if she wants to make herself useful (lol) to Joce somehow. same ending, but like, being a Willing sacrifice of sorts?? idek man—
+OH THE TRAP IDEA like, she offers to use herself as vampire bait?? idk but there was that fleeting idea about setting a trap for KL, that’s an option. not partiiicularly in-character for addison granted but idek i could Make it work maybe
+
+12/5: HAVING SAID THAT we're nearly a week into December and I really don't want to spend the entire rest of the month working on this >>" so uh. might just say fuck it and go with the rewrite below, structural passiveness be damned /but ugh that irks me too/ storytelling is a struggle etc.
+-->
+
+
 
 <!--ok ONE other thought: something else bugging me is that there's like zero transition between pages; first part Addison's like "get the fuck away from her let's GO", then suddenly... not? idk, see how it works laid out with pictures again-->
 
