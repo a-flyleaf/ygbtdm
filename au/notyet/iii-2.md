@@ -5,142 +5,108 @@ sym: 🌔︎
 next:
   url: ii
   sym: 🌓︎
-css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;}"
+css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-style:normal;}"
 ---
-<!--12/7
-okay. Ok. ok: rapid-onset dementia. can’t discern Joce from Em or even remember Em’s name, or Joce’s, and the art gets fuzzier to match until suddenly being very clear at the end. send tweet
-
-for the love of god please help m-->
-<!--12/4
-(spongebob singing voice) I have another ideaaaaaaa~
-so Addison essentially got a terminal diagnosis here, right? fuck it, what if she wants to make herself useful (lol) to Joce somehow. same ending, but like, being a Willing sacrifice of sorts?? idek man—
-OH THE TRAP IDEA like, she offers to use herself as vampire bait?? idk but there was that fleeting idea about setting a trap for KL, that’s an option. not partiiicularly in-character for addison granted but idek i could Make it work maybe
-
-12/5: HAVING SAID THAT we're nearly a week into December and I really don't want to spend the entire rest of the month working on this >>" so uh. might just say fuck it and go with the rewrite below, structural passiveness be damned /but ugh that irks me too/ storytelling is a struggle etc.
--->
-
-
-
-<!--ok ONE other thought: something else bugging me is that there's like zero transition between pages; first part Addison's like "get the fuck away from her let's GO", then suddenly... not? idk, see how it works laid out with pictures again-->
-
-<!--and then, like two seconds after turning off the computer last night, the universe said, "rewrite it all from scratch." and the universe said, "this fixes no structural problems but does sound much cooler." and so it was done.
-
--goes to bed- **I HAVE SOLVED THE AU**
-*Make the whole thing from 2 onwards a hallucination, just straight-up.* Sort of! Like, a blend of truth and fiction. It *seems* like a sudden timeskip: Addison is narrating, telling someone (implicitly 8, who’s not onscreen until the end) about All The Shit.
-Whole thing is italicized, too, for extra Something Is Off points? (not doing that here tho)
-> “‘How do you even *know* her, anyway?’
-> “So Joce gives me this spiel about how she only just met the girl, she hasn’t—the girl hasn’t, the vampire, Ka… Katelyn, whatever she’s called [asjdhdkfhskfjdksfjdkd *Katelyn…* well, didn’t want to use ‘Kayla’, So.], if that’s even her real name— Anyway, vampire girl hasn’t hurt us, she didn’t ambush Joce or anything, she was just talking like a normal person and only left because she wanted to ‘make sure the other one wasn’t causing trouble.’ And I’m like, ‘*Which* other one,’ and Joce has no clue. That’s why she followed.
-> img: Addison has a headache.
-^so that.
-
-ALSO fun bonus points, memory loss!! it seems like a joke at first (because it is, it was Just That because I remembered Addison doesn’t know names for shit lol; she probably shouldn’t even know Joce’s tbh, but I’ll leave that for now for clarity), but as the story goes on she’s losing details.
-
-“So after that we keep searching for a while, since I am *not* gonna stay back again. I guess Joce might’ve stopped if I did, this time, but *whatever*, I wasn’t gonna test it. And anyway she made a *little* progress; found a chamber door deeper in. Locked, though, just like the front was, and the locks here are apparently abnormal somehow. As if I would know, right? I do not have a *single* useful skill here, ha.
-“Anyway, after a while she turns to me, asks if *I* found anything, and I really *really* don’t want to break it to her but at this point I’ve been pretty quiet and it’s only fair.
-(img sequence as planned)
-“It’s around here I caught my first glimpses of you, I think? But it could’ve been the shadows, some weird mind tricks. Which, hey, I wanted to think of literally anything else. It was nice to think there might be some third option, instead of withering away in this cursed castle or getting mauled by a monster outside. Obviously I didn’t believe that last part, about what happens to the bodes.
-(img: Joce runs off, Addison watches)
-“But I guess Joce did. So I figured I’d just… go keep her company, or something, while she calmed down.”
-(side note: Addison’s sounding indistinguishable from KL here, far as the casual tone is concerned :Tc which kiiind of applies in general, tbh? idk. they are Different People but hmm)
-
-> (img: Joce banging on the door, don’t show Addison’s face)
-> (same two of Joce from the front, then Addison’s hand on her shoulder)
-> “It’s funny, I must’ve surprised her, because she looked startled for a second. But I asked, hey, how does she even *know* this… letter-writer castle-head person anyway? And I guess my usual *attitude* must’ve snapped her out of it—or, well, I’d *like* to think that. Honestly, I think she just took pity on me at that point.
-> “But whatever. She answered. And at this point I didn’t catch the whole thing, because at first she just repeated the stuff from earlier about knowing the sender, not being in contact, all that. I’ll admit I zoned out a little, because I was remembering how enthusiastic *you’d* been about the whole thing— Like, you and Gary, all you had to hear was ‘mystery letter’ and you were *sold.* Or at least he was, and you just wanted an excuse to ditch the party, and it went downhill from there.
-> (img: Joce with note, Em and Gary over shoulder—but maybe from Addison’s pov, with her from the back in the foreground?)
-> “Look. This sounds stupid, but you know you’re half the reason I agreed to this, right? I mean, I wanted to get out too, but I didn’t want to go *trespass*—and that was *before* we found out why the woods are off-limits.
-> “That… really upset me, you know? Maybe I’m just being overly sentimental because, oh, I don’t know, we saw you *get dragged out of the fucking truck and eaten alive.*
-> “…Sorry.
-> (img: J+A? distant.)
-> “I guess, on the bright side, this is when I start seeing you again. Joce was saying something about the writer being dead, or supposed to be, which I guess confirms another goddamn vampire, but at the time I was just thinking of you, and if that meant *you* had a chance at still being alive, you and everyone else.
-
-> (img: hazy bunny)
-> “And it doesn’t really matter how many vampires there are or were now anyway, right? Because, listen, the second I recognized you I was so happy I could almost cry.
-> (img: Addison calls out, figure approaches… maybe like, intersperse that sequence with the sentences?)
-> “I don’t care if that’s cheesy anymore. I really thought you were dead.
-> (img: Addison falling into 8’s arms)
-> “And I started telling you about everything you’d missed and the rest is, well…
-> (img: Addison looking up at 8, maybe holding? don’t show 8’s face. (they don’t have a *big* height difference, but…)
-> “Anyway. Enough of that, now.
-> “Let’s go home.”
-
-this answered None of the fuckign “what does she want tho” questions but IDGAF IT’S DONE (AGAIN) AND I LIKE THIS BETTER. FOR NOW ANYWAY. and idk, something something she just wants to go home, *well guess what She Fuckin ‘Goes Home’ All Right*?? mean. but whatever
-that said, last image has *definitely* gotta show/confirm that Something Went Wrong. it might have to be a mini-sequence but the more left to the imagination the better methinks?-->
-
-<!--
-"What is *with* you and that girl, anyway."
+"What is *with* you and that girl, anyway?"
 
 <figure><img src="https://via.placeholder.com/600x200.png" alt=""/>
 <figcaption><span class="x">Image: </span>Joce forges ahead, Addison close behind. [silhouettes? get some of those escher vibes in the scenery]</figcaption></figure>
 
-Joce only met Kay Lin tonight, same as anyone. But no one had seen Kay Lin *do* anything until just now---and even if this *is* a trap, she hasn't hurt them. She didn't interfere while Joce was searching the place, and only strayed to see if "the other one" was causing trouble. And okay, no, she didn't specify *which* "other one," but that's why Joce followed her.
+<div class="i" markdown="1">
+"And, yeah, maybe my tone was a little harsh. It took a while. But she *did* answer, eventually:
+
+"They'd only just met, her and the girl, Ka... Katelyn, whatever she's called, if that's even her real name. The *vampire* hadn't hurt us, didn't even ambush Joce or anything. (Which, true, but, low bar?) While Joce was searching the vamp-girl followed and just... made small talk, apparently, told her about the place, but nothing useful.
+
+"Then they heard something, and whatshername left to make sure 'the other one wasn't causing trouble.' And I'm like, '*Which* other one,' and Joce has no clue. That's why she followed, Joce did, and they both barged in.
+
+"Does that make sense? I feel like I'm not making sense.
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison has a headache. [just her, maybe a dialogue bubble overhead, out of focus. she looks tired.]</figcaption></figure>
+<figcaption><span class="x">Image: </span>Joce talks. Addison has a headache. [just her, maybe a dialogue bubble overhead, out of focus. she looks tired.]</figcaption></figure>
 
-Through what's felt like hours of searching, all Joce has turned up are dusty rooms, stairs weaving through halls tucked under arches. There was one conspicuous door further down, immovable. She's looking for a key, now. The locks here are strange....
+<div class="i" markdown="1">
+"Not like anything has, since we got there. Joce was---I guess she'd been looking for a key? I thought she'd ditched me, that's what the other guy said, the one who got stabbed to ash. I told Joce she better not leave me behind again. She gave me a funny look, stammered something like 'I didn't--- You'd said---'. That's all.
+
+And I'm thinking, am I going crazy? Am I being double-gaslit? Does it even matter anymore?
+</div>
 
 <figure><img src="https://via.placeholder.com/600x400.png" alt=""/>
-<figcaption><span class="x">Image: </span>The castle is labyrinthian. Onward drags the night.</figcaption></figure>
+<figcaption><span class="x">Image: </span>The castle is labyrinthian. Dusty rooms, stairs weaving through halls tucked under arches. Onward drags the night.</figcaption></figure>
 
-"...S-so." For once it falls on Joce to speak. "F-find any---anything, yourself." It's probably supposed to be a question.
-
-Well. Funny she should ask.
-
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison says something to Joce. [off-center, small.]</figcaption></figure>
+<div class="i" markdown="1">
+"Where the hell even *were* we? Joce asked if I'd found anything, and I don't even know where she's talking about, and I'm not gonna lie, I started getting upset. Why am *I* getting interrogated, y'know? How did we get here? All I know is that I read some stupid book and it said mortals couldn't live here, and the fang boy said the same thing, and maybe they're both lying but I didn't even want to tell her what happens to the bodies, that was too much.
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce steps back. Addison can’t offer much. [silhouettes?]</figcaption></figure>
+<figcaption><p><span class="x">Image: </span>Addison, upset, says something to Joce.</p><p>Joce frowns, startled.</p></figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="block"><span class="x">Image: </span>Joce takes off down the stairs.</span> <span class="block">Addison watches for a moment.</span></figcaption></figure>
+<figcaption><span class="x">Image: </span>She steps back. [silhouettes?]</figcaption></figure>
 
-The vampire said it. The book said it before him. And Addison didn't want to believe it, but Joce sure as hell seems to. They're really not gonna last the night, are they? <!--on a fresh-eyes reread this does not have the impact I was hoping, needs revision. we've already said they're gonna die here but it needs Oomph at this particular junction. like... How. what happens, exactly. do we just explicitly drop that they turn, or Strongly Hint At It??--.>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="block"><span class="x">Image: </span>Joce takes off down the stairs.</span> <span class="block">Addison watches.</span></figcaption></figure>
 
-She feels drained. All this, and for what? Wither away in this cursed castle or get mauled by a monster outside. She couldn't bring herself to say what happens, if the sources are true, to the bodies. <!--I like this bit tho, specifically the "wither or maul" bit and the hint at something Bad happening to the bodies. hm, maybe something like "to their minds, never mind the bodies...."--/>
+<div class="i" markdown="1">
+"That's around when you showed up. I think. But it might've been a trick of the shadows, because you didn't reply when I said anything. (And if it *was* you, that was pretty rude.)
 
-Gary had a bit of a point, at least. Might as well get some answers.
+"At least I forgot what I was upset about. But the other one hadn't; I could still hear yelling from downstairs, someone banging on a door. I thought maybe I should check that out, maybe try to calm them down.
 
-<figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>In no rush, Addison descends to follow.</figcaption></figure>
+"That's coherent, isn't it?"
+</div>
 
 ----
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce is banging at the door, yelling.</figcaption></figure>
+<div class="i" markdown="1">
+"I don't think I've been *all there* since we stepped in here, is the thing.
 
-Some sick death trap this is, huh? Somehow Joce doesn't seem tired in the slightest. Would their friend, the only one they all knew, have been this defiant?
+"I'll have these brief moments where I can get the story straight, like when the long-toothed vampire was talking to me, but then I feel like some kind of caged animal.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/> <img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison approaches, weary. She puts a hand on Joce’s shoulder. <i>Enough.</i></figcaption></figure>
-
-Maybe they should just save their energy. Wait until day breaks, the sky clears. Ha, maybe when they wake up it'll all have been some nightmare, wouldn't that be---
-
-"Stop. You s---You sound like---"
+"It's really exhausting."
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce, frustrated, gives the door a final slam.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Joce is banging at the door, yelling. A statue perched above shakes with each impact.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
-<figcaption><span class="x">Image: </span>It echoes, hollow.</figcaption></figure>
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br>
+<figcaption><span class="x">Image: </span>Joce freezes, Addison’s hand on her shoulder. [front pov, copypaste]</figcaption></figure>
 
-How does Joce even *know* this... letter-writer castle-head person-vampire, anyway? It's a glimmer of old snark, and Addison wants to think that's what gets Joce to listen, and not some kind of pity.
+<div class="i" markdown="1">
+"Anyway. You didn't have to be so startled to see me. I just thought maybe you should quiet down, maybe take a nap. I asked, who even *was* this letter-writer castle-head person-vampire, which must've been one of the crazy moments because you obviously have no relation.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[???idk they step back or smthn, maybe Addison stumbles a bit. or maybe focus on one of them, or neither, downshot, idek]</figcaption></figure>
-
-It's... someone she knew. *(Well, yeah.)* They're not in touch, anymore. *(Right, that was implied...)* But it's not *just* that, they were more than just estranged, it's...
+"Joce got that note, not you. Right?
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and the <span style="display:inline-block;">first-gone</span> friend looking over her shoulders.</figcaption></figure>
 
-"S-supposed to be. To be dead."
+<div class="i" markdown="1">
+"No, wait---*you* found it, but it was *for* Joce, and--- Well, I guess it doesn't matter, since everyone jumped on the bandwagon to follow it back to the mystery sender. Joce said *she* knew who it was, and they hadn't spoken in years, but not much else. That's what happened. I'm *certain* that's what happened. I *saw* it, and I didn't *want* to go, but---
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>This gets Addison’s attention. [small still, maybe? off-center. woozy.]</figcaption></figure>
+<figcaption><span class="x">Image: </span>Continuing the flashback: As the group (Joce, <span style="display:inline-block;">first-gone</span>, Gary, Sequitur, and <span style="display:inline-block;">Kay Lin</span>) huddled around the letter, <span style="display:inline-block;">first-gone</span> waved Addison over.</figcaption></figure>
 
-*Dead.* Dead, but back. Like a vampire, maybe, sure. But there's a certainty in Joce's voice, like she *knows* that person didn't come back, not before. And it makes Addison wonder--- Is there a chance...?<!--not sold on the transition but EGHH--/>
+<div class="i" markdown="1">
+"Look. This sounds stupid, but... you're half the reason I agreed to this. I mean, I wanted to get out, too, but I didn't want to *trespass*---and that was *before* we found out why the woods are off-limits.
+
+"That... really upset me, you know? Maybe I'm just being overly sentimental because, oh, I don't know, we saw you *get dragged out of the fucking truck and eaten alive.*
+
+"...Sorry."
+</div>
+
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>From a distance, Joce is holding Addison by the arms, stiff. The whole picture is blurred.</figcaption></figure>
+
+<div class="i" markdown="1">
+"Anyway. I... appreciate the concern, but I'm fine, now, really. J... Ka---no, that's not it, what did it start with...
+
+...
+
+"The person I was with, at one point, said the letter-writer is dead, or supposed to be, which I guess confirms yet another goddamn vampire, but when I heard that, I thought it meant *you* had a chance, you and everyone else.
+
+"And, well. Look where we are now!
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>Hazy. There’s a rabbit in the distance.</figcaption></figure>
@@ -148,33 +114,36 @@ It's... someone she knew. *(Well, yeah.)* They're not in touch, anymore. *(Right
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>But the figure steps forward, biped, almost human.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison’s face lights up.</figcaption></figure>
+<div class="i" markdown="1">
+"It doesn't matter how many vampires there are or were now anyway, right? Because, listen, the second I recognized you, I was so damn happy I could cry.
+</div>
 
-She calls out.
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison’s face lights up. She calls out.</figcaption></figure>
+
+<div class="i" markdown="1">
+"I don't care if that's cheesy anymore. You didn't lose your mind or turn into anything. I really thought you were dead.
+</div>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>And suddenly she’s caught, falling into strong arms.</figcaption></figure>
 
-It's been a long night, hasn't it?
+<div class="i" markdown="1">
+"And... look, I wanted to tell you about everything that you missed (did you know there are *two* vampires?!), but... I'm really tired. It's been a long night.
+</div>
 
+<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison looks up at the one holding her, exhaustedly hopeful. (The other’s face isn’t shown.)</figcaption></figure>
+
+<div class="i" markdown="1">
 "Let's go home."
+</div>
 
 ----
-<!--[long margin?]--/>
+<!--[long margin?]-->
 
-<figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Back in reality, Joce kneels by Addison’s side.</figcaption></figure>
+<figure><img src="https://via.placeholder.com/300x800.png" alt=""/>
+<figcaption><p><span class="x">Image: </span><em style="text-transform:uppercase;">Wham.</em></p><p><span class="block">Something falls from above, crushing.</span><span class="block">Joce was already backing away.</span></p></figcaption></figure>
 
-[that's it, JUST that image. end part.]
-
-<!--also if we're hinting at the dead turning then KL can just like. jump in here and stab her, or something. make sure she Stays Dead. usually vampires don't let it get this far. bonus points if the pose, rather than A just Lying There, suggests Something Awful Was Happening.
-
-lsakgdhasdglkahgsldjkfs one reverted edit later OK:
-- ends with the reveal Addison fucking died, one way or another
-- just before that, Addison hallucinates WR. if the uniting Thing here is "they want what they shouldn't" (Seq wants to give up, hunter wants to get a closer look, Gary wants to beat up some bunnies, Caleb wants to feed; Addison ???, Kay Lin also wants to feed but also doesn't, and Joce wants answers but also to get the hell out of here)--IF that is a thing we are going to keep running with and pushing harder, then Addison's line is important again: "I just want to go home and fall asleep and when I wake up this wil have all been some nightmare." She wants an escape. Not NECESSARILY death, but An Out. she's been wanting to go home from the getgo.
-	but *hmmm* maybe what's irking me is that this isn't, like, a Bad Thing to want, it's kinda just obvious :Uc
-- uhh before /that/ hallucination, Addison reveals to Joce that they're doomed, and Joce tries to go give the letter-writer hell about it. dead silence answers.
-- before /that/, Addison drags Joce off and they swap info
-- and so basically we're following the same surface sequence but I'm not feelin the Character Development part. this is overthinking the shit out of an au yes but AUGH THIS PARRRRT-->
-<!--addison in this au is just wearing a "i really don't want to be here right now" pin tbh. But Like, she's not just gonna walk out. (physically can't probably, locked in and all.) hm, I guess she /could/ be starting to hallucinate from the second they get away from KL, but that's still not answering The Question of what she's even indulging in here. it's kinda just Some Shit That Happens >8U-->
+<figure><img src="https://via.placeholder.com/300x200.png" alt=""/><br><img src="https://via.placeholder.com/300x200.png" alt=""/>
+<figcaption><span class="x">Image: </span>Pale, emaciated, hands, elongated and warped, clung to Joce’s scarf. Then they go limp.</figcaption></figure>
