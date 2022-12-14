@@ -66,7 +66,5 @@ And I'm thinking, am I going crazy? Am I being double-gaslit? Does it even matte
 <figcaption><span class="x">Image: </span>Faint yelling downstairs. The world warps again, odd silhouettes popping out from the darkness.</figcaption></figure>
 
 <div class="i" markdown="1">
-"Someone below was pretty mad. Figured I should check that out, maybe try to calm them down. Make it... worthwhile...? I could've sworn someone said that first.
-
-"I'm not very coherent, am I?"
+"Someone below was pretty mad. Figured I should check that out, maybe try to calm them down. Make it... worthwhile...? I could've sworn someone else said that...."
 </div>

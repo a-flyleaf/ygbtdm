@@ -5,7 +5,7 @@ sym: 🌔︎
 next:
   url: ii
   sym: 🌓︎
-css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-style:normal;} hr{border:0; height:10em;}"
+css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-weight:normal; text-decoration:underline .12em #808080; text-underline-offset:.15em;} hr{border:0; height:10em;}"
 ---
 <div class="i" markdown="1">
 "I don't think I've been *all there* since we stepped in here, is the thing.
@@ -15,11 +15,11 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 "It's really exhausting."
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce is banging at the door, yelling. A statue perched above shakes with each impact.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-18.png" alt=""/>
+<figcaption><span class="x">Image: </span>Joce bangs at a looming door, yelling. Far above, a pointed chandelier sways.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br>
-<figcaption><span class="x">Image: </span>Joce freezes, Addison’s hand on her shoulder. [front pov, copypaste]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-19.png" alt=""/><br><img src="{%include url.html%}/assets/img/au/3-20.png" alt=""/>
+<figcaption><span class="x">Image: </span>Then Joce freezes. Pale hand on her shoulder. [front pov, copypaste]</figcaption></figure>
 
 <div class="i" markdown="1">
 "Anyway. You didn't have to be so startled to see me. I just thought maybe you should quiet down, maybe take a nap. I asked, who even *was* this letter-writer castle-head person-vampire, which must've been one of the crazy moments because you obviously have no relation.
@@ -27,20 +27,20 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 "Joce got that note, not you. Right?
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and the <span style="display:inline-block;">first-gone</span> friend looking over her shoulders.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-21.png" alt=""/>
+<figcaption><span class="x">Image: </span>Flashback: Joce held the letter, Gary and the <span style="display:inline-block;">first-gone</span> friend looking over her shoulders. (Sequitur and Kay Lin also standing close.)</figcaption></figure>
 
 <div class="i" markdown="1">
 "No, wait---*you* found it, but it was *for* Joce, and--- Well, I guess it doesn't matter, since everyone jumped on the bandwagon to follow it back to the mystery sender. Joce said *she* knew who it was, and they hadn't spoken in years, but not much else. That's what happened. I'm *certain* that's what happened. I *saw* it, and I didn't *want* to go, but---
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Continuing the flashback: As the group (Joce, <span style="display:inline-block;">first-gone</span>, Gary, Sequitur, and <span style="display:inline-block;">Kay Lin</span>) huddled around the letter, <span style="display:inline-block;">first-gone</span> waved Addison over.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-22.png" alt=""/>
+<figcaption><span class="x">Image: </span>Continuing the flashback: As the group talked, <span style="display:inline-block;">the first-gone</span> waved Addison over.</figcaption></figure>
 
 <div class="i" markdown="1">
 "Look. This sounds stupid, but... you're half the reason I agreed to this. I mean, I wanted to get out, too, but I didn't want to *trespass*---and that was *before* we found out why the woods are off-limits.
 
-"That... really upset me, you know? Maybe I'm just being overly sentimental because, oh, I don't know, we saw you *get dragged out of the fucking truck and eaten alive.*
+"That... really upset me, you know? Maybe I'm just being overly sentimental because, oh, I don't know, we saw you *get dragged out of the freaking truck and eaten alive.*
 
 "...Sorry."
 </div>
