@@ -5,7 +5,7 @@ sym: 🌔︎
 next:
   url: ii
   sym: 🌓︎
-css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-weight:normal; text-decoration:underline .12em #808080; text-underline-offset:.15em;} hr{border:0; height:10em;}"
+css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-weight:bold; color:#bfbfbf;} hr{border:0; height:10em;} #thin{max-width:315px;}"
 ---
 <div class="i" markdown="1">
 "I don't think I've been *all there* since we stepped in here, is the thing.
@@ -16,7 +16,7 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 </div>
 
 <figure><img src="{%include url.html%}/assets/img/au/3-18.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce bangs at a looming door, yelling. Far above, a pointed chandelier sways.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Joce bangs at a looming door, yelling. Candles flicker on either side; far above, a pointed chandelier sways.</figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/3-19.png" alt=""/><br><img src="{%include url.html%}/assets/img/au/3-20.png" alt=""/>
 <figcaption><span class="x">Image: </span>Then Joce freezes. Pale hand on her shoulder. [front pov, copypaste]</figcaption></figure>
@@ -45,8 +45,8 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 "...Sorry."
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>From a distance, Joce is holding Addison by the arms, stiff. The whole picture is blurred.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-23.png" alt=""/>
+<figcaption><span class="x">Image: </span>Image out of focus. Joce, leaning in, is saying something illegible to Addison, less stable.</figcaption></figure>
 
 <div class="i" markdown="1">
 "Anyway. I... appreciate the concern, but I'm fine, now, really. J... Ka---no, that's not it, what did it start with...
@@ -58,42 +58,44 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 "And, well. Look where we are now!
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Empty haze. There’s a rabbit in the distance.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-24.png" alt=""/>
+<figcaption><span class="x">Image: </span>Empty haze. Faintly, a rabbit in the distance.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/3-25.png" alt=""/>
 <figcaption><span class="x">Image: </span>But the figure steps forward, biped, almost human.</figcaption></figure>
 
 <div class="i" markdown="1">
 "It doesn't matter how many vampires there are or were now anyway, right? Because, listen, the second I recognized you, I was so damn happy I could cry.
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/3-26.png" alt=""/>
 <figcaption><span class="x">Image: </span>Addison’s face lights up. She calls out.</figcaption></figure>
 
 <div class="i" markdown="1">
 "I don't care if that's cheesy anymore. You didn't lose your mind or turn into anything. I really thought you were dead.
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>And suddenly she’s caught, falling into strong arms.</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-27.png" alt=""/>
+<figcaption><span class="x">Image: </span>She stumbles forward, into the figure’s arms.</figcaption></figure>
 
 <div class="i" markdown="1">
 "And... look, I wanted to tell you about everything that you missed (did you know there are *two* vampires?!), but... I'm really tired. It's been a long night.
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Addison looks up at the one holding her, exhaustedly hopeful. (The other’s face isn’t shown.)</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-28.png" alt=""/>
+<figcaption><span class="x">Image: </span>Addison, exhausted, smiles as she slumps onto the figure (whose face isn’t shown). Fading out.</figcaption></figure>
 
 <div class="i" markdown="1">
 "Let's go home."
 </div>
 
 ----
-<!--[long margin?]-->
 
-<figure><img src="https://via.placeholder.com/300x800.png" alt=""/>
-<figcaption><p><span class="x">Image: </span><em style="text-transform:uppercase;">Wham.</em></p><p><span class="block">Something falls from above, crushing.</span><span class="block">Joce was already backing away.</span></p></figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/3-29.png" alt=""/>
+<figcaption id="thin"><p><span class="x">Image: </span><em style="text-transform:uppercase;">Wham.</em></p><p>Joce backed up, knocking a candle off its stand; the chandelier’s chain snapped; and down it falls, crushing.</p></figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/300x200.png" alt=""/><br><img src="https://via.placeholder.com/300x200.png" alt=""/>
-<figcaption><span class="x">Image: </span>Pale, emaciated, hands, elongated and warped, clung to Joce’s scarf. Then they go limp.</figcaption></figure><!--not. 100% sure on this bit hdgjsdghsgjksdghsdkfj /aaaaaa/, I mostly just threw it in to remind people Joce is wearing a thing on the neck. idk this keeps changing as I draw it (so much for the wack shit being subtle at first) so Who Fuckin Knows-->
+<figure><img src="{%include url.html%}/assets/img/au/3-30.png" alt=""/><br><img src="{%include url.html%}/assets/img/au/3-31.png" alt=""/>
+<figcaption><span class="x">Image: </span>The fallen candle rolls.</figcaption></figure>
+
+<figure><img src="{%include url.html%}/assets/img/au/3-32.png" alt=""/>
+<figcaption><span class="x">Image: </span>Then goes out.</figcaption></figure>
