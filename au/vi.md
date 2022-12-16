@@ -47,7 +47,7 @@ I am not convinced the vampire's intention was commensal. Trepidation shadowed b
 
 The human was not paralyzed. Past 60 seconds they began to cough; the vampire met this with admonishments to "stay still" and "just cooperate." By 90 seconds the coughing escalated to gagging; the vampire, irked, held tight, and the human started clawing feebly at the throat.
 
-<figure><img src="{%include url.html%}/assets/img/au/6-5.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/6-5v2.png" alt=""/>
 <figcaption><span class="x">Image: </span>The free arm flailed, grasping at nothing, ghastly.</figcaption></figure>
 
 At one point the vampire lifted her head entirely, to say (and I quote) "You're not making this easy." But if her victim registered a word, the ability to respond had long passed. Their motions were not that of a functioning body.

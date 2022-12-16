@@ -18,13 +18,13 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:no
 
 <span class="procon">Con</span>: She doesn’t even want to hear you speak.
 
-[img: Kay Lin stands by as Joce kneels alongside the couch. The body has been covered.]
+[img: Kay Lin stands by as Joce kneels alongside the couch. The body has been covered <!--by what? although I'll probably need to rewrite this anyway-->.]
 
 <span class="procon">Pro</span>: I’ve been so good, though. I deserve it.
 
 <span class="procon">Con</span>: You haven’t *earned* it.
 
-<span class="procon">Pro</span>: It doesn’t have to be much. Little nip, world’s smallest bite. If I can hold out ’til morning maybe I won’t want to destroy her anymore.
+<span class="procon">Pro</span>: It doesn’t have to be much. Little nip, world’s smallest bite. If I can hold out ’til morning maybe I won’t want to devour her anymore.
 
 <span class="procon">Con</span>: You’ll have to watch her wither away.
 
@@ -56,17 +56,17 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:no
 
 <i>What are you, some kind of psychopath? Leave her alone.</i>
 
-I’m hungry. I’m so, *so* hungry. Even if I stop I’m going to hear her running around in here, like she has any chance of escaping like this, and then what? At least this way, everything we’ve been through will actually amount to something.
+I’m hungry. I’m so, *so* hungry. Even if I walk away I’m going to hear her running around in here, like she has any chance of escaping like this, and then what? At least this way, everything we’ve been through will actually amount to something.
 
 <i>You’re going to get staked.</i>
 
-Ha, I can imagine… she finally turns around and stabs me to shut me up. Or I get her to “submit,” and the moment I let my guard down—! Heh, god, I hope she does.
+Ha, I can imagine… she finally turns around and stabs me to shut me up. Or I get her to “submit,” and the moment I let my guard down—! Heh, god, I hope she does.<!--see I know exactly what I was going for but idk about the progrsesion; "submit"? add a /little/ more to the sentence where she cuts herself off? and like, in general, maybe tone down the "lmao hope I die," keep it. ~~subtler-->
 
 <i>You’re depraved.</i>
 
 And wicked, too.
 
-But… mm, I can’t just give myself to her. I’d come back, and she’d be gone, and it’d all be sad and futile. I still have self-control, here.
+But… mm, I can’t just give myself to her.<!--yeah see this part. that's a Bit,--> I’d come back, and she’d be gone, and it’d all be sad and futile. I still have self-control, here.
 
 [img: KL continues stalking, ig; closer]
 
@@ -76,7 +76,7 @@ I’m so close. *She’s right there.* I can’t take it—
 
 [img: Joce turns around. (Joce has had Enough.)]
 
-Please. *Please.* Let me turn you.
+Please. *Please.* Let me turn you. <!--hmm different phrasing? still parallels Caleb but not so explicitly-->
 
 [img: Joce rips off her scarf. / Kay Lin is speechless.]
 
