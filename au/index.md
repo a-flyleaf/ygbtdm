@@ -20,7 +20,6 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 <b>†</b>-->…?
 
 <!--
-1. [iii.](iii) // interlude: do we finally share the "but... you're a rabbit" y/n. it's not Quite a Dramatic Death Scene but it kinda fades like one anyway so
 1. [ii.](ii)
 1. [i.](i)
 1. <b>†</b>

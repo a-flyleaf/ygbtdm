@@ -3,8 +3,8 @@ layout: 1.2-nosferatu
 title: iii.
 sym: 🌔︎
 next:
-  url: ii
-  sym: 🌓︎
+  url: interlude6
+  sym: †
 css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{color:#404040;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} #away figure{margin:3em auto;} .i{font-style:italic;} .i em{font-weight:bold; color:#bfbfbf;} hr{border:0; height:10em;} #thin{max-width:315px;}"
 ---
 <div class="i" markdown="1">
@@ -19,7 +19,7 @@ css: "main>h1{display:none;} nav li:nth-child(n+7){display:none;} header h2{colo
 <figcaption><span class="x">Image: </span>Joce bangs at a looming door, yelling. Candles flicker on either side; far above, a pointed chandelier sways.</figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/3-19.png" alt=""/><br><img src="{%include url.html%}/assets/img/au/3-20.png" alt=""/>
-<figcaption><span class="x">Image: </span>Then Joce freezes. Pale hand on her shoulder. [front pov, copypaste]</figcaption></figure>
+<figcaption><span class="x">Image: </span>Then Joce freezes. Pale hand on her shoulder.</figcaption></figure>
 
 <div class="i" markdown="1">
 "Anyway. You didn't have to be so startled to see me. I just thought maybe you should quiet down, maybe take a nap. I asked, who even *was* this letter-writer castle-head person-vampire, which must've been one of the crazy moments because you obviously have no relation.
