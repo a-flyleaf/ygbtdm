@@ -26,9 +26,8 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 
 <!--
 au update shitpost-art
-- c+a: the guy looking back meme but flipped. “an average, normal human being” (addison), “the only person left who could crush these weirdos like bugs, and yet” (joce; that, or alluding to it being her “fault” any of this even happened), “sickos” (kay lin in foreground, caleb in bg)
-	in desc: "or: that one time it took me like two weeks to get SOMEONE to *** in a narratively-satisfying manner. IDK if I succeeded but at some point you just have to say fuck it, churn it out, and <em>go</em> >:V"
 - kl+j: dating sim but joce is banging at the edge trying to get out. kl, dialogue going off page: “it’s not like i want to suck your blood and watch the light drain from your eyes only to be brought crawling back just like me so we can” etc, this speech bubble in the middle, actual prompt box just reads “AU update (fin.)”
+	or since this is the last one it can be like. Actual Art. idek at this point
 -->
 
 <!--1. epilogue-bonus-thing?? idk could just be a group drawing, have Some kind of "thanks for reading". maybe an additional author's note about this being a "test run" for the potential Actual Story? maybe you could get the colorscript up by this point and have a link to it here :V
