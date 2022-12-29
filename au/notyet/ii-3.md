@@ -5,19 +5,30 @@ sym: 🌓︎
 next:
   url: i
   sym: 🌒︎
-css: header{opacity:0;} h1{display:none;} main{margin-top:5em;} figcaption{max-width:400px;} .cent{text-align:center; margin:-.5em 0 0 1em;}
+css: "header{opacity:0;pointer-events:none;} h1{display:none;} main{margin-top:5em;} figcaption{max-width:400px;}  .cent{text-align:center;} #s figcaption{text-align:center; font-style:italic;}"
 ---
 <div class="book" markdown="1">
-<figure><img src="{%include url.html%}/assets/img/au/2-18.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[flashback?: Joce nearly let "S" turn her, but changed her mind and fought back, reducing them to ash. Parallels KL attacking Sequitur but this time the victim "wins." Shadows on the wall? don't want to be explicit.]</figcaption></figure>
+<div id="s" class="cent" markdown="1">
+"I almost fell for it."
+<figure><img src="{%include url.html%}/assets/img/au/2-18.png" alt=""/>
+<figcaption><span class="x">Image: </span>Flashback: A white figure at Joce’s neck, a hand on her throat.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[Joce glaring at KL; front view/KL pov?]</figcaption></figure>
+"I changed my mind."
+
+<figure><img src="{%include url.html%}/assets/img/au/2-19.png" alt=""/>
+<figcaption><span class="x">Image: </span>A defiant tug at the hair; white hand flies back.</figcaption></figure>
+
+<figure><img src="{%include url.html%}/assets/img/au/2-20.png" alt=""/>
+<figcaption><span class="x">Image: </span>Stark silhouette—hunched figure, white and thin, impaled through the chest.</figcaption></figure>
+</div><!--/#s-->
+
+<figure><img src="{%include url.html%}/assets/img/au/2-21.png" alt=""/>
+<figcaption class="cent"><span class="x">Image: </span>Back to the present. Joce glares down, resolved.</figcaption></figure>
 
 <div class="cent">“N-<i>Never. again.</i>”</div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[back to KL? just, blankly stunned.]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-22.png" alt=""/>
+<figcaption class="cent"><span class="x">Image: </span>Kay Lin doesn’t know what to say.</figcaption></figure>
 
 <div class="cent" markdown="1">
 I...
@@ -27,15 +38,15 @@ I understand, now.
 
 She's already been exposed. It must be a sort of... if not immunity, a defense, which is why she hasn't succumbed yet.
 
-She's going to lose her mind in here. She'd... *rather* lose her mind in here, than let me lay a finger on her. Even if that's her only hope of getting out of here, unless....
+She's... she's going to lose her mind in here; she'd *rather* lose her mind in here, than let me lay a finger on her. Even if that's her only hope of getting out of here, unless---
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[KL frowns, conflicted]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-23.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin raises a hand to her mouth. She really only has one fang; there’s a gap where the other canine would be.</figcaption></figure>
 
-But she has no reason to believe me, even if I <i>you have to act you have to strike now</i> no no no <i>she's off guard this is your one shot</i> I *will not* let myself I can't I---
+But she has no reason to believe me, even if I <i>you have to act you have to strike now</i> no no no <i>she's walking away again her back is turned this is your one shot</i> I *will not* let myself I can't I---
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[KL reaches out, grabs the metal rod thing---]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-24.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin grabs the shrapnel—</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[---and stabs herself with it :^D (side view silhouette? maybe zoom out? but it should be very, VERY clear what she's doing here.)]</figcaption></figure>

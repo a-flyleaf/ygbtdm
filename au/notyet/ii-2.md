@@ -92,7 +92,7 @@ Listen I've tried to be good if I'd spent one more second locked in here tonight
 <figcaption><span class="block"><span class="x">Image: </span>Joce turns, infuriated, interrupting: “<strong style="text-transform:uppercase;font-style:italic;">Shut. Up.</strong>”</span> <span class="block">Grabs at her scarf—</span></figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/2-16.png" alt=""/>
-<figcaption><span class="x">Image: </span>—yanks it off, Kay Lin stays back—</figcaption></figure>
+<figcaption><span class="x">Image: </span>—yanks it off (Kay Lin stays back)—</figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/2-17.png" alt=""/>
 <figcaption><span class="x">Image: </span>—and reveals a scar, two dark dots, on her neck.</figcaption></figure>
