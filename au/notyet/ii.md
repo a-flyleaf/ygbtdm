@@ -31,10 +31,10 @@ I should... at *least* take a look....
 ----
 
 <figure><img src="{%include url.html%}/assets/img/au/2-05.png" alt=""/>
-<figcaption><span class="x">Image: </span>Hands on the ground—one pale and bony, bloody beneath rubble; and the other, Joce, as if kneeling.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Hands on the ground—one pale and bony, oddly long and bloody beneath rubble; and the other belongs to Joce, kneeling.</figcaption></figure>
 
 <figure><img src="{%include url.html%}/assets/img/au/2-06.png" alt=""/>
-<figcaption><span class="x">Image: </span>Kay Lin looks perturbed.</figcaption></figure>
+<figcaption><span class="x">Image: </span>Kay Lin is perturbed.</figcaption></figure>
 
 So <em>that's</em> what happens.
 

@@ -5,15 +5,10 @@ sym: 🌓︎
 next:
   url: i
   sym: 🌒︎
-css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:none;} header h2{color:#404040;} nav li:nth-child(7){color:#808080;} h1{display:none;} figcaption{max-width:400px;} .cent{text-align:center; margin:-.5em 0 0 1em;}
+css: header{opacity:0;} h1{display:none;} main{margin-top:5em;} figcaption{max-width:400px;} .cent{text-align:center; margin:-.5em 0 0 1em;}
 ---
-<!--
-- At the end, actually show KL stabbing herself (with *what* idk; maybe Joce grabs herself a “stake” from a rotting plank, and somehow KL grabs it?). Points to her fang, “Your key,” and collapses, dead.
-- No interlude? Next part opens with a parallel flashback to Joce standing over Sal’s body; sparse narration, something like *I shouldn’t have let myself go that far*? IDK but it’s a swift and quiet end from there.
--->
-
 <div class="book" markdown="1">
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figure><img src="{%include url.html%}/assets/img/au/2-18.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/><br/><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[flashback?: Joce nearly let "S" turn her, but changed her mind and fought back, reducing them to ash. Parallels KL attacking Sequitur but this time the victim "wins." Shadows on the wall? don't want to be explicit.]</figcaption></figure>
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
@@ -37,7 +32,7 @@ She's going to lose her mind in here. She'd... *rather* lose her mind in here, t
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[KL frowns, conflicted]</figcaption></figure>
 
-But she has no reason to believe me, even if I <i>you have to do it you have to strike now</i> no no no <i>she's off guard this is your one shot</i> I *will not* let myself I can't I---
+But she has no reason to believe me, even if I <i>you have to act you have to strike now</i> no no no <i>she's off guard this is your one shot</i> I *will not* let myself I can't I---
 
 <figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
 <figcaption><span class="x">Image: </span>[KL reaches out, grabs the metal rod thing---]</figcaption></figure>

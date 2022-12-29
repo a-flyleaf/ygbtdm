@@ -7,14 +7,9 @@ next:
   sym: ▶
 css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:none;} header h2{color:#404040;} nav li:nth-child(7){color:#808080;} h1{display:none;} nav{margin-bottom:5em;} main h2{font-size:1.5em; text-align:center; margin-bottom:.5em;} h2 span{display:inline-block;} .procon{text-transform:uppercase; font-size:.75em; letter-spacing:.05em;} figcaption{max-width:400px;}
 ---
-<!--
-- At the end, actually show KL stabbing herself (with *what* idk; maybe Joce grabs herself a “stake” from a rotting plank, and somehow KL grabs it?). Points to her fang, “Your key,” and collapses, dead.
-- No interlude? Next part opens with a parallel flashback to Joce standing over Sal’s body; sparse narration, something like *I shouldn’t have let myself go that far*? IDK but it’s a swift and quiet end from there.
--->
-
 <div class="book" markdown="1">
-<figure><img src="https://via.placeholder.com/600x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[KL talking to/following Joce?? idk I gotta work out the visuals better]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-09.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin steps forward. Joce backs away, grabbing a piece of shrapnel, but it’s chained tight to the chandelier’s remains.</figcaption></figure>
 
 ## <span>Pros and Cons</span> <span>of Biting Joce</span>
 
@@ -26,8 +21,8 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:no
 
 <span class="procon">Con</span>: She doesn’t even want to hear you speak.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[KL talking to/following Joce?? idk I gotta work out the visuals better]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-10.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin reaches out, speaking (perhaps asking a favor); Joce isn’t listening, pointing the shrapnel her way in aggravted defense.</figcaption></figure>
 
 <span class="procon">Pro</span>: But I've been holding back so long. I deserve it.
 
@@ -47,8 +42,8 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:no
 
 <span class="procon">Pro</span>: Then it’s too late for me anyway.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[KL meeting Joce??]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-11.png" alt=""/>
+<figcaption><span class="x">Image: </span>Flashback: Kay Lin meets Joce on a balcony. Shown in silhouette; she offers a handshake.</figcaption></figure>
 
 -: You like her.
 
@@ -56,14 +51,14 @@ css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:no
 
 -: You just met and you’re attached enough to be having this conflict at all.
 
-+: Okay, so, it’s a *me problem*. I’m sorry I’m miserable and lonely and wanted *one* night out? How was *I* supposed to know, when I panicked and *deliberately removed myself* from the party before I lost it, that she’d *also* be out there like a fucking loser? Hell, the fact we hit it up so well is a point *towards* turning her, because then we’d get to keep, y’know, *getting along* together, and not being stuck on the sidelines, like we apparently always are—
++: Okay, so, it’s a *me problem*. I’m sorry I’m miserable and lonely and wanted *one* night out? How was *I* supposed to know, when I panicked and *deliberately removed myself* from the party before I lost it, that she’d *also* be out there like a fucking loser? Hell, the fact we hit it up so well is a point *towards* turning her, because then we could keep, y’know, *getting along* together, and not being stuck on the sidelines, like we apparently always are—
 
 -: She wouldn’t want that.
 
 +: I almost don’t care.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[moar stalking... idk what visuals here, maybe like, Uncomfortable Detail Closeup somewhere? don't show either of their faces; either KL POV or make it somehow otherwise clear (shadows? reflections??) that she's following]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-12.png" alt=""/>
+<figcaption><span class="x">Image: </span>Where Joce goes, Kay Lin isn’t far behind, and she’s still talking. Speech bubbles becoming more shaky. (No acknowledgment from Joce.)</figcaption></figure>
 
 <i>What are you, some kind of psychopath? Leave her alone.</i>
 
@@ -81,21 +76,23 @@ And wicked, too.
 
 But… ahh, see, that's just selfish. I’d come back, and she’d be gone, and it’d all be sad and futile.
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[aaaaa]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-13.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin holds out her hands, shaky; speech faltering.</figcaption></figure>
 
 I wish she would just listen to me. I don’t *want* to hurt her. I don’t *want* to watch her slowly die. I don’t know how she’s lasted as long as she has, and I don’t know how much longer I can keep this up.
 
 I’m so close. *She’s right there.* I---
 
-Listen I've tried to be good if I'd spent one more second locked in here tonight I would've gone insane I've been trying so hard it's not my fault the others died do you hear me it's not if I hadn't been out you'd all have been rabbit bait I did you a *favor* I don't want to take advantage of you I didn't want it to come to this I'm offering help while I still can I can only control myself so much please just take it please just do this for me what do you *mean* you've heard it all before---
+<figure><img src="{%include url.html%}/assets/img/au/2-14.png" alt=""/>
+<figcaption><span class="x">Image: </span>Kay Lin grins; crooked, engulfed and swarming in her own frenetic words.</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[Joce is fucking pissed, or something. her interrupting KL here is probably the first time she's acknowledged KL this whole scene?]</figcaption></figure>
+Listen I've tried to be good if I'd spent one more second locked in here tonight I would've gone insane I've been trying so hard it's not my fault the others died it's not if I hadn't been out you'd all have been rabbit bait I did you a *favor* I don't want to take advantage of you I didn't want it to come to this I'm offering help while I still can but I can only control myself so much please just take it please just do this for me what do you *mean* you've heard it all before---
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[but anyway yeah Bam. bite marks]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-15.png" alt=""/>
+<figcaption><span class="block"><span class="x">Image: </span>Joce turns, infuriated, interrupting: “<strong style="text-transform:uppercase;font-style:italic;">Shut. Up.</strong>”</span> <span class="block">Grabs at her scarf—</span></figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[Kay Lin doesn't know what to say. (bonus points if she actually Looks like she's starving but idk how far to push that... depends on detail etc. but should definitely look A Bit Frazzled, endgame-ish]</figcaption></figure>
-</div>
+<figure><img src="{%include url.html%}/assets/img/au/2-16.png" alt=""/>
+<figcaption><span class="x">Image: </span>—yanks it off, Kay Lin stays back—</figcaption></figure>
+
+<figure><img src="{%include url.html%}/assets/img/au/2-17.png" alt=""/>
+<figcaption><span class="x">Image: </span>—and reveals a scar, two dark dots, on her neck.</figcaption></figure>
