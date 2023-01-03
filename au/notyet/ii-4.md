@@ -40,22 +40,20 @@ she's actually--- you can't just---
 <figure><img src="{%include url.html%}/assets/img/au/2-25.png" alt=""/>
 <figcaption><span class="x">Image: </span>Kay Lin grabs the shrapnel—</figcaption></figure>
 
-<figure><img src="https://via.placeholder.com/400x150.png" alt=""/>
-<figcaption><span class="x">Image: </span>[holds it up, idk, needs another beat for pacing; crop face off, around hand/chest level? smiling faintly, maybe a more obvious Caleb parallel? or is that repetitive with 2-14 idk aaaaa]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-26.png" alt=""/>
+<figcaption><span class="x">Image: </span>—spins it in one hand, holds out the other in a silent ‘stop,’ smiling—</figcaption></figure>
 
-<p class="cent"><i>this is all I have</i></p><!--??? added on a whim, see how it flows with art... "I've never wanted anything more [in my whole life]"?? similar but more concise maybe-->
+<p class="cent"><i>I’ve gone too far as-is</i></p><!--??? added on a whim, see how it flows with art... "I've never wanted anything more [in my whole life]"?? similar but more concise maybe-->
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[---anyway yeah she stabs herself. (side view silhouette? maybe zoom out? but it should be very, VERY clear what she's doing here.)]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-27.png" alt=""/>
+<figcaption><span class="x">Image: </span>—and stabs hereslf through the torso.</figcaption></figure>
 
 <div class="cent" markdown="1">
-I've gone... too far as-is.
-
-Ahaha... *ow.*
+ow.
 </div>
 
-<figure><img src="https://via.placeholder.com/400x300.png" alt=""/><br><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>[tooth delivery idk, one or two panels. Joce is freaking out a little but definitely not in focus, KL's barely aware]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-28.png" alt=""/><br><img src="https://via.placeholder.com/400x300.png" alt=""/>
+<figcaption><span class="x">Image: </span>Joce makes a quick u-turn, immediately reaching out; Kay Lin, ignoring her, [uhh tries to pull her tooth out]</figcaption></figure>
 
 <i>Stupid fucking... garbage pain tolerance.... Spit it out....</i>
 
