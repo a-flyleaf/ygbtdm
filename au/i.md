@@ -4,8 +4,8 @@ title: i.
 sym: 🌒︎
 next:
   url: n
-  sym: ☾
-css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+9),#nxt span{display:none;} header h2{color:#404040;} nav li:nth-child(8){color:#808080;} h1{margin-bottom:5em;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} figure{margin:5em auto;} p+p{margin-top:1.5em;}"
+  sym: "?"
+css: "main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+9),#nxt span{display:none;} header h2{color:#404040;} nav li:nth-child(8){color:#808080;} h1{margin-bottom:5em;} main,figcaption{text-align:center;} p,figcaption{max-width:425px;} figure{margin:5em auto;} p+p{margin-top:1.5em;} #nxt{font-weight:bold;}"
 ---
 <i>One use.</i>
 
