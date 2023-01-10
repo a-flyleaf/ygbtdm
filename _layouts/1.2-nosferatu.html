@@ -50,8 +50,8 @@
 		</header>
 		
 		<main id="content">{%if page.poster%}
-			<figure><img src="{%include url.html%}/assets/img/au/posterthing.png" alt="untitled halloween au-thing"></figure>{%endif%}
-			<h1>{{page.title}}</h1>
+			<figure><img src="{%include url.html%}/assets/img/au/posterthing.png" alt="untitled halloween au-thing"></figure>{%endif%}{%if page.title%}
+			<h1>{{page.title}}</h1>{%endif%}
 			{{content}}{%if page.next%}
 			<div class="wrap" id="nxt"><a href="{{page.next.url}}"><span>next</span> {%if page.next.sym=="†"%}<b>{%endif%}{{page.next.sym}}{%if page.next.sym=="†"%}</b>{%endif%}</a></div>{%endif%}
 		</main>{%unless page.next%}

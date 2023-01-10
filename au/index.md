@@ -3,7 +3,7 @@ layout: 1.2-nosferatu
 title: Table of Contents
 sym: 🌙
 poster: y
-css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:none; padding-left:0; line-height:2;} section{text-align:left; font-size:.85em; max-width:20em; margin:1rem auto 0; opacity:.85;} ol li{margin:1em 0;} ol a{text-decoration:none; margin:0 .25em; line-height:0;} ol a:hover,ol a:focus,ol a:active{opacity:.5;} .book{margin-top:5em;} a{text-underline-offset:.25em; display:inline-block;}
+css: "header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} main ol{list-style-type:none; padding-left:0; line-height:2;} section{text-align:left; font-size:.85em; max-width:20em; margin:1rem auto 0; opacity:.85;} ol li{margin:1em 0;} ol a{text-decoration:none; margin:0 .25em; line-height:0;} ol a:hover,ol a:focus,ol a:active{opacity:.5;} .book{margin-top:5em;} a{text-underline-offset:.25em; display:inline-block;} #end{text-decoration:none;} #end:focus,#end:hover,#end:active{opacity:.5;}"
 ---
 🌙︎&#xFE0E;
 
@@ -15,10 +15,9 @@ css: header{display:none;} main{text-align:center;} h1{margin-bottom:.65em;} mai
 1. [<img src="{%include url.html%}/assets/img/au/iv1.png" alt="iv, part 1">](iv)[<img src="{%include url.html%}/assets/img/au/iv2.png" alt="iv, part 2">](iv-2)[<img src="{%include url.html%}/assets/img/au/iv3.png" alt="iv, part 3">](iv-3)
 1. [<img src="{%include url.html%}/assets/img/au/iii1.png" alt="iii, part 1">](iii)[<img src="{%include url.html%}/assets/img/au/iii2.png" alt="iii, part 2">](iii-2)[<img src="{%include url.html%}/assets/img/au/iii3.png" alt="iii, part 3">](iii-3)
 1. [<img src="{%include url.html%}/assets/img/au/ii1.png" alt="ii, part 1">](ii)[<img src="{%include url.html%}/assets/img/au/ii2.png" alt="ii, part 2">](ii-2)<br>[<img src="{%include url.html%}/assets/img/au/ii3.png" alt="ii, part 3">](ii-3)[<img src="{%include url.html%}/assets/img/au/ii4.png" alt="ii, part 4">](ii-4)
+1. [<img src="{%include url.html%}/assets/img/au/i.png" alt="i">](i)
 
-<!--
-
-<b>†</b>-->…?
+<a href="n" id="end"><b>†</b></a>
 
 <!--
 1. [i.](i)
