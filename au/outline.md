@@ -1,6 +1,8 @@
 ---
 layout: none
 ---
+written 2022-10-09 to kick off the whole thing onsite
+
 # several days of brainstorming later...
 Beginning. Middle. End.
 
