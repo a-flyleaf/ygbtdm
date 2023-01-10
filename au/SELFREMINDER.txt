@@ -1,6 +1,0 @@
-- merge notyet folder with main (maybe keep index/notyet.md just for shits, but it doesn't need a folder)
-- update index ToC thumbnails
-- splash chapter count
-- check all navigation links
-
-final stretch lesgooo
