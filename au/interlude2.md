@@ -16,4 +16,4 @@ next:
 <figcaption>[Image description: Low-quality JPEG memes. Popup in which Kay&nbsp;Lin asks Sequitur for their credit card information; Sequitur agrees, types shit in a computer, and then fucking dies.]</figcaption></figure>
 
 <div id="an"><h2 class="book">Author’s note:</h2>
-<p>I have no idea what the <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dopl3r.com%2Fmemes_files%2Fotaly-not-maare-h-hi-there-do-you-th-think-i-could-have-your-credit-card-information-p-please-card-number-expiry-date-security-code-th-thanks-oP8EG.jpg&f=1&nofb=1&ipt=2fbad6065be528de0eee2a88027a6ff268cc625400bbc0fb8cc4d700b922619a&ipo=images">original meme</a> is.</p></div>
+<p>I have no idea what the <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dopl3r.com%2Fmemes_files%2Fotaly-not-maare-h-hi-there-do-you-th-think-i-could-have-your-credit-card-information-p-please-card-number-expiry-date-security-code-th-thanks-oP8EG.jpg&f=1&nofb=1&ipt=2fbad6065be528de0eee2a88027a6ff268cc625400bbc0fb8cc4d700b922619a&ipo=images" class="ext">original meme</a> is.</p></div>
