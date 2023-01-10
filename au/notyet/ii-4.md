@@ -5,7 +5,7 @@ sym: 🌓︎
 next:
   url: i
   sym: 🌒︎
-css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:none;} header h2{color:#404040;} nav li:nth-child(7){color:#808080;} h1{display:none;} main h2{font-size:1.5em; text-align:center; margin-bottom:.5em;} h2 span{display:inline-block;} figcaption{max-width:400px;} .cent{text-align:center;}
+css: main>h1{font-size:1em; text-align:center;} nav li:nth-child(n+8){display:none;} header h2{color:#404040;} nav li:nth-child(7){color:#808080;} h1{display:none;} main h2{font-size:1.5em; text-align:center; margin-bottom:.5em;} h2 span{display:inline-block;} figcaption{max-width:400px;} .cent{text-align:center; max-width:400px; margin:0 auto;} .fd{opacity:.75;}
 ---
 <div class="book" markdown="1">
 <figure><img src="{%include url.html%}/assets/img/au/2-22.png" alt=""/>
@@ -52,12 +52,21 @@ she's actually--- you can't just---
 ow.
 </div>
 
-<figure><img src="{%include url.html%}/assets/img/au/2-28.png" alt=""/><br><img src="https://via.placeholder.com/400x300.png" alt=""/>
-<figcaption><span class="x">Image: </span>Joce makes a quick u-turn, immediately reaching out; Kay Lin, ignoring her, [uhh tries to pull her tooth out]</figcaption></figure>
+<figure><img src="{%include url.html%}/assets/img/au/2-28.png" alt=""/><br><img src="{%include url.html%}/assets/img/au/2-29.png" alt=""/>
+<figcaption><p><span class="x">Image: </span>Joce turns around, reaching out in a panic.</p><p>With a shaky hand, surroundings fading into a blur, Kay&nbsp;Lin holds out a very sharp tooth.</p></figcaption></figure>
 
-<i>Stupid fucking... garbage pain tolerance.... Spit it out....</i>
+<div class="cent" markdown="1">
+"Key. One use."
 
-"Y-your key... one use..." <!--don't like this but W/E IT WORKS she's actively dying (~"dying") and can't say much anyway--><!--do the speech bubble thing without making her actual dialogue obvious? "she's got... one shot...."?-->
+There's so much more I want to say, but...
 
-<!--this is gonna be flat but I'm gonna churn it out anyway AUGH--> And whether you <!---->go to the one who tricked you or get out of here<!--phrasing flat as hell but get the Idea across--vengeance or leave?-->, when I come back, I don't want to see you again. <!--also one more image?--> It'd hurt too much.
+<i class="fd">No matter which way you go...  
+<span class="fd">I hope I never see you again.</span></i>
+</div>
+
+<figure><img src="{%include url.html%}/assets/img/au/2-30.png" alt=""/>
+<figcaption class="cent"><span class="x">Image: </span>Fading fast; rendered ash.</figcaption></figure>
+
+<div class="cent fd" markdown="1">
+<i class="fd"><s class="fd">It'd hurt too much.</s></i>
 </div>
