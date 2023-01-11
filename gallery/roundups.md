@@ -34,10 +34,27 @@ Originals are [on deviantArt](https://www.deviantart.com/a-flyleaf/gallery/81345
 	{%include roundup.html year="2022" mo="06" month="June"%}
 	{%include roundup.html year="2022" mo="07" month="July"%}
 	{%include roundup.html year="2022" mo="08" month="August"%}
-	{%include roundup.html year="2022" mo="09" month="September"%}<!--
+	{%include roundup.html year="2022" mo="09" month="September"%}
 	{%include roundup.html year="2022" mo="10" month="October"%}
 	{%include roundup.html year="2022" mo="11" month="November"%}
-	{%include roundup.html year="2022" mo="12" month="December"%}-->
-</section>
+	{%include roundup.html year="2022" mo="12" month="December"%}
+</section><!--
 
-<!--note to self: anything with J+KL takes thumbnail priority, but something finished/in full color would be nice. barring that, a somehow-representative sketch that DOESN'T include J/KL. no text ideal-->
+## 2023
+<section id="gallery" class="artwall roundup">
+	{%include roundup.html year="2023" mo="01" month="January"%}
+	{%include roundup.html year="2023" mo="02" month="February"%}
+	{%include roundup.html year="2023" mo="03" month="March"%}
+	{%include roundup.html year="2023" mo="04" month="April"%}
+	{%include roundup.html year="2023" mo="05" month="May"%}
+	{%include roundup.html year="2023" mo="06" month="June"%}
+	{%include roundup.html year="2023" mo="07" month="July"%}
+	{%include roundup.html year="2023" mo="08" month="August"%}
+	{%include roundup.html year="2023" mo="09" month="September"%}
+	{%include roundup.html year="2023" mo="10" month="October"%}
+	{%include roundup.html year="2023" mo="11" month="November"%}
+	{%include roundup.html year="2023" mo="12" month="December"%}
+</section>-->
+
+<!--note to self: anything with J+KL takes thumbnail priority, but something finished/in full color would be nice. barring that, a somehow-representative sketch that DOESN'T include J/KL. no text ideal
+JPG 200x200 quality95; -600 is about half the full (doesn't have to be 600px exactly)-->
