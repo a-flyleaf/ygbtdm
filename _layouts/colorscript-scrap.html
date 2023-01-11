@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>{{site.name}}{%if page.ep-title%}: “{{page.ep-title}}” colorscript{%endif%}</title>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colorscript.css"/>{%if page.css%}
+		<style>{{page.css}}</style>{%endif%}
+	</head>
+	<body class="{%if page.ver == 'scroll'%}scroll{%else%}noscroll{%endif%}" id="toggle">
+		<header><div class="wrap">
+			<h1><a href="{%include url.html%}/story/colorscript">{{page.ep-num}}: {{page.ep-title}}</a></h1><!--
+			<label><input type="checkbox" id="tog" onclick="togChamp()">image descriptions [TBA]</label>--><label><input type="checkbox" id="check">fullpage layout</label>
+			<nav>skip to scene<ul>{%for scn in page.scene%}{%if scn.prt == none or scn.prt == 'a'%}<li><a href="#scene{{scn.num}}{{scn.prt}}">{{scn.num}}</a></li>{%endif%}{%endfor%}</ul></nav>
+		</div></header>
+		
+		{%if page.ver == 'scroll'%}<div id="container">{%endif%}<main>{%for scn in page.scene%}<section class="scene s{{scn.num}}">
+			<h2 class="wrap{%if scn.prt == none or scn.prt == 'a'%}{%else%} x{%endif%}"><a id="scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}" href="#scene{{scn.num}}{%if scn.prt%}{{scn.prt}}{%endif%}">#{{scn.num}}</a></h2>{%if scn.cptn%}
+			<div class="scn-cptn"><p class="wrap">{{scn.cptn}}</p></div>{%endif%}
+				<section{%if scn.prt%}{%if scn.prt != 'a'%} class="prt"{%endif%}{%endif%}>{%for img in scn.img%}<figure id="i{{img.id}}"{%if img.class%} class="{{img.class}}"{%endif%}><img src="{%include url.html%}/assets/img/colorscript/{%if img.id=='x'%}x{%else%}{{page.ep-num}}/{{scn.num}}-{{img.id}}{%endif%}.png" alt=""{%if img.id=='x'%} class="blank"{%endif%}/><figcaption class="wrap"><div class="desc"><span class="x">image: </span>{{img.desc|markdownify}}</div>{%if img.cptn%}<div class="cptn">{{img.cptn|markdownify}}</div>{%endif%}</figcaption></figure>{%endfor%}{%if scn.end%}{%else%}<a href="{%if scn.nxt%}#scene{{scn.nxt}}{%endif%}{%if scn.ep%}{%include url.html%}/story/colorscript/{{scn.ep}}{%endif%}" class="arw"><div class="next">{%if scn.nxt%}&#8626;{%endif%}{%if scn.ep%}→{%endif%}</div></a>{%endif%}</section>
+		</section>{%endfor%}</main>{%if page.ver == 'scroll'%}</div>{%endif%}
+		
+		<footer><a href="{%include url.html%}"><i>You’re gonna be the death of me</i></a>{%if page.ep-num%} | <a href="{%include url.html%}/story/colorscript"><span id="ep">ep{{page.ep-num}}</span> {{page.ep-title}} (2022 colorscript)</a>{%endif%}</footer>
+		
+		<script>//https://www.tutorialstonight.com/javascript-get-element-by-class + https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_display_checkbox_text
+		/*
+		function togChamp() {
+			var checkBox = document.getElementById("toggle");
+			var desc = document.querySelectorAll(".desc");
+				for (let i = 0; i < desc.length; i++) { //i have no idea what this does but it works
+					desc[i].classList.toggle("show");
+				}
+		}
+		*/
+		
+		//https://www.w3schools.com/howto/howto_js_toggle_class.asp + https://stackoverflow.com/questions/42685179/how-to-check-if-checkbox-is-checked-in-javascript#42685286
+				var layout = document.getElementById("toggle");
+		checkbox = document.getElementById("check");
+		check.addEventListener('change', function(e) {
+			if (check.checked) {
+				layout.classList.add("noscroll");
+				document.getElementById("container").style.height="auto";
+				document.getElementById("container").style.overflowX="auto";
+			} else {
+				layout.classList.remove("noscroll"); //https://www.w3schools.com/howto/howto_js_remove_class.asp
+				document.getElementById("container").style.height="600px";
+				document.getElementById("container").style.overflowX="scroll";
+			}
+		});
+		</script>
+	</body>
+</html>

@@ -74,3 +74,8 @@ Back to incremental publication, then...!
 - 2022 October--2023 January: made & published ["untitled Halloween AU-thing"](au)
 	- see [offshoot branch](https://github.com/a-flyleaf/ygbtdm/commits/aeiou?since=2022-10-09&until=2023-01-11) for specific history
 </section>
+
+<section markdown="1">
+## 2023<!--aka Actually Tell The Damn Story but don't wanna jump the gun here-->
+- 2023/01/10: colorscript 01 publication
+</section>
