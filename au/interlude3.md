@@ -1,6 +1,6 @@
 ---
 layout: 1.2-nosferatu
-title: interlude 2
+title: interlude 3
 sym: 🌗︎
 next:
   url: v

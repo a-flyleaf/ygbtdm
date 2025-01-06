@@ -15,7 +15,7 @@ Reads from top left, right, then down a row, like a very long comic strip.
 
 ## quicknotes
 - The layout is coded using pixel measurements, including font size; think of it more like a giant image than a responsive webpage, as it **will not** resize to fit your browser.
-- Best read by viewing one row at a time, but you can toggle a fullsize layout with the checkbox. (Requires light JavaScript.) \[TBA]
+- Best read by viewing one row at a time, but you can toggle a fullsize layout with the checkbox. (Requires light JavaScript.)
 
 Initially drawn between February and June 2022. The first episode was expanded in August 2022, with more scene detail & occasional text; the rest will probably be published as-is, without further editing or expansion. The story's changed since, and as of writing (January 2023) I've [toyed with]({%include url.html%}/au) a similar but disparate way of laying it all out....
 

@@ -1,0 +1,6 @@
+-there's a typo on the au end somewhere iirc
+-2021 designnotes says the transcriptions are on the cast pages, which isn't true anymore; either link v1 or copypaste transcriptions here
+-newer designnotes: notes in bold **ARE** key traits
+	-sequitur+wr gallery links broke
+	^maybe put something about this on my main site's 404 page; "if you're here from a link somewhere on my site, I probably formatted it wrong; add the subsite directory to the url (word this more clearly) and it should work. otherwise something broke, (insert contact thing here)"
+- gallery/cast: seq's icon broke??
