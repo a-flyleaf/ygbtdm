@@ -3,7 +3,7 @@ layout: 1.2
 title: Gary
 css: "figure{margin-bottom:0;} figcaption{margin-top:0;} .imgdesc p,.imgdesc li{color:inherit; margin-left:1rem;}"
 ---
-{%include figure.html subcat="cast" img="g-cast-pg" caption="<p>Panels from <a href='../../gallery/bruh'>a test-scene comic</a>.</p><details class='imgdesc'><summary>image description</summary><p>Gary gives Joce a fistbump. Then swings back, with an enthusiastic <em>“Eyyyyyy”</em></p></details>"%}
+{%include figure.html subcat="cast" img="g-cast-pg" caption="<p>Panels from <a href='../gallery/bruh'>a test-scene comic</a>.</p><details class='imgdesc'><summary>image description</summary><p>Gary gives Joce a fistbump. Then swings back, with an enthusiastic <em>“Eyyyyyy”</em></p></details>"%}
 
 <section markdown="1" id="desc" class="wrap">
 - Name: Gary!

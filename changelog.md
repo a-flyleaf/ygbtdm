@@ -76,6 +76,7 @@ Back to incremental publication, then...!
 </section>
 
 <section markdown="1">
-## 2023<!--aka Actually Tell The Damn Story but don't wanna jump the gun here-->
+## 2023+
 - 2023/01/10: colorscript 01 publication
+- 2025/01/06: fixed assorted minor errors
 </section>
