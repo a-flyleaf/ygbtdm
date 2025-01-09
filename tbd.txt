@@ -1,8 +1,0 @@
-[2023-04-24]
--there's a typo on the au end somewhere iirc
-	[2025/01: ran the final author notes through libreoffice and found nothing; cba with the rest of the text rn so it's either fixed or hiding elsewhere]
-
-[2025-01-06]
-- cast page caption links are broken
-	- should be fixed, leaving this here for me to check post-commit
-- carless saga has some link fuckery going on
