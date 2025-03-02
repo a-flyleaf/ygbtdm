@@ -23,7 +23,7 @@ It all started when Joce took a wrong turn.
 
 AKA
 
-<img src="https://cdn.discordapp.com/attachments/483318565022203904/953723710441943080/unknown.png" alt="A crude, terrible edit of the story logo, now reading “Cars 4 Fanfic”" style="margin-bottom:2em;"/>
+<img src="{%include url.html%}/assets/img/carless/cars4fanfic.png" alt="A crude, terrible edit of the story logo, now reading “Cars 4 Fanfic”" style="margin-bottom:2em;"/>
 
 Featuring <b>heart-stopping drama!</b>
 
